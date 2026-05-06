@@ -1,0 +1,51 @@
+{
+  "section_id": 8,
+  "section_name": "Tactical Outreach Playbook",
+  "person_id": "vamsi-krishna01",
+  "data": {
+    "outreach_scripts": {
+      "email_draft": {
+        "subject": "System architecture: Convoxa feed performance and scalability",
+        "body": "Hi Vamsi, I read your breakdown on the hybrid data model and parallel feed architecture for Convoxa. Your approach to optimizing read-heavy community platforms via Materialized Path vs. Adjacency List is excellent. I am currently scouting for an engineer to join our team to lead performance-critical backend initiatives. Given your recent load testing with k6 and the 75ms median latency achievement, I'd like to discuss the scalability challenges we are solving in our production environment. Are you open to a technical deep-dive on our current Node.js/PostgreSQL stack?"
+      },
+      "linkedin_inmail": {
+        "body": "Vamsi, your Convoxa case study\u2014specifically the hybrid data model for nested comments\u2014is impressive. Rare to see that level of performance benchmarking (1.9M requests @ 75ms) at this stage. I'm building a team that values empirical system design. Open to a chat?"
+      }
+    },
+    "high_resonance_topics": [
+      "Latency benchmarking and k6 load testing outcomes",
+      "Hybrid data modeling for high-concurrency read operations",
+      "Parallel feed architecture optimization",
+      "Scalability trade-offs in Node.js/PostgreSQL stacks"
+    ],
+    "topics_to_avoid": [
+      "Vague high-level product visioning",
+      "Subjective UX discussions without performance metrics",
+      "Abstract management concepts without technical depth",
+      "Non-measurable feature requests"
+    ],
+    "conversation_starters": [
+      {
+        "opener": "That k6 load test you ran on Convoxa\u2014did you encounter any bottlenecks with connection pooling in PostgreSQL once you hit that 500 VU threshold?",
+        "context": "Directly references their technical case study to establish peer-level competence."
+      },
+      {
+        "opener": "I noticed you solved the N+1 query issue for comment threads using a Materialized Path. How are you handling updates to the tree structure when a node is moved?",
+        "context": "Pokes at a specific technical implementation detail to trigger a data-driven response."
+      },
+      {
+        "opener": "Your approach to parallel feed queries reminded me of some architecture challenges we're facing. Have you tested the cold-start performance differential when adding new feed sources?",
+        "context": "Connects their specific work to a common high-performance engineering problem."
+      }
+    ],
+    "optimization": {
+      "best_channel": "LinkedIn",
+      "best_days": [
+        "Tuesday",
+        "Wednesday"
+      ],
+      "suggested_time_of_day": "07:30 AM"
+    },
+    "data_confidence": "high"
+  }
+}

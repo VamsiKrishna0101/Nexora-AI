@@ -1,0 +1,63 @@
+{
+  "section_id": 6,
+  "section_name": "Content & Thought Leadership",
+  "person_id": "sundar_pichai",
+  "generated_at": "2025-05-14T12:00:00Z",
+  "data": {
+    "articles_and_blogs": [],
+    "podcast_appearances": [
+      {
+        "show_name": "Release Notes",
+        "episode_title": "Logan Kilpatrick Interview",
+        "url": "https://www.youtube.com/@GoogleDevelopers",
+        "date": "2025-11-26"
+      },
+      {
+        "show_name": "Cheeky Pint",
+        "episode_title": "AI Latency and Future Tech",
+        "url": null,
+        "date": "2026-04-07"
+      }
+    ],
+    "conference_talks": [
+      {
+        "event": "Stanford University Commencement",
+        "talk_title": "135th Commencement Address",
+        "date": "2026-06-14",
+        "url": null
+      },
+      {
+        "event": "NRF 2026",
+        "talk_title": "AI in Retail Transformation",
+        "date": "2026-01-11",
+        "url": null
+      },
+      {
+        "event": "India AI Impact Summit 2026",
+        "talk_title": "India AI Impact Summit Keynote",
+        "date": "2026-02-16",
+        "url": null
+      }
+    ],
+    "interviews": [
+      {
+        "outlet": "Fast Company",
+        "title": "Most Innovative Companies Interview",
+        "url": "https://lnkd.in/gSisNM2g",
+        "date": "2026-03-24"
+      }
+    ],
+    "key_topics_covered": [
+      "Generative AI and Large Language Models",
+      "Cloud Computing and Infrastructure Investment",
+      "Product Innovation and Design",
+      "Global AI Accessibility",
+      "Economic Development through Technology"
+    ],
+    "content_volume": "High",
+    "thought_leadership_tier": "Industry Authority",
+    "thought_leadership_assessment": "Pichai serves as a global industry authority, evidenced by his high-profile commencement addresses, executive-level interviews, and consistent thought leadership on major AI advancements. He is best known for his strategic focus on integrating AI across Google's entire product suite, sustainable infrastructure investment, and the societal impact of global technology adoption.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "Data is corroborated by direct links to LinkedIn posts, X updates, and documented public speaking engagements."
+  }
+}

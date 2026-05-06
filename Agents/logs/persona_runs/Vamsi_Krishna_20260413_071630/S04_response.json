@@ -1,0 +1,92 @@
+{
+  "section_id": 4,
+  "section_name": "Behavioral Intelligence Suite",
+  "person_id": "vamsi-krishna-2026-04-07",
+  "data": {
+    "behavioral_profile": {
+      "archetype": "The Builder",
+      "one_line_description": "Data-driven engineer focused on optimizing system architecture and maximizing user interaction through iterative testing.",
+      "trait_tags": [
+        "System-oriented",
+        "Empirical",
+        "Product-focused"
+      ]
+    },
+    "trait_scores": {
+      "dominance": 65,
+      "expressiveness": 55,
+      "pace": 75,
+      "pragmatism": 85,
+      "risk_appetite": 40,
+      "social_energy": 45
+    },
+    "working_style": {
+      "decision_making": "Prioritizes empirical evidence and stress-test results over theoretical assumptions.",
+      "collaboration": "Direct and transparent, sharing technical wins and architectural trade-offs.",
+      "conflict_style": "Addresses bottlenecks through methodical problem solving rather than interpersonal friction.",
+      "pace": "Rapid execution cycles, evidenced by monthly launch cadence and k6 testing."
+    },
+    "what_drives_them": {
+      "energizers": [
+        "Infrastructure optimization",
+        "High-concurrency stress testing",
+        "Direct user behavioral feedback",
+        "Quantifiable performance improvements"
+      ],
+      "drainers": [
+        "Assumption-based development",
+        "Inefficient architectural designs",
+        "Development friction",
+        "Lack of measurable user participation"
+      ]
+    },
+    "engagement_guide": {
+      "how_to_open": [
+        "Lead with technical architectural challenges.",
+        "Reference specific performance metrics like latency or throughput.",
+        "Acknowledge the effort invested in personal side projects."
+      ],
+      "how_to_run_meeting": [
+        "Keep discussions focused on system scalability and design.",
+        "Use data visualization or stress test results as primary evidence.",
+        "Define clear, measurable goals for technical projects."
+      ],
+      "how_to_email": [
+        "Keep correspondence concise and technical.",
+        "Highlight specific opportunities for backend or AI growth.",
+        "Use bullet points for clear data presentation."
+      ],
+      "how_to_follow_up": [
+        "Focus on the status of technical implementation milestones.",
+        "Ask for specific evidence of system stability or progress.",
+        "Reference previous technical discussions."
+      ],
+      "how_to_build_trust": [
+        "Provide clear evidence of technical expertise.",
+        "Show consistency in deliverable performance metrics.",
+        "Demonstrate high competence in Node.js and RAG pipelines."
+      ]
+    },
+    "blind_spots": [
+      "Over-reliance on quantitative data at the potential expense of qualitative user sentiment.",
+      "Tendency to prioritize engineering polish over community growth strategies.",
+      "Focus on technical metrics like '1.9M requests' may overshadow wider product-market fit."
+    ],
+    "dos_and_donts": {
+      "dos": [
+        "Present concrete technical challenges and trade-offs.",
+        "Discuss scalability, latency, and load-testing methodologies.",
+        "Provide clear paths for technical growth in Germany or Netherlands.",
+        "Value evidence-based design choices."
+      ],
+      "donts": [
+        "Avoid making assumptions without supporting test data.",
+        "Do not ignore the technical complexity of backend architecture.",
+        "Avoid vague or high-level strategic concepts without implementation plans.",
+        "Do not discount the importance of infrastructure efficiency."
+      ]
+    },
+    "data_confidence": "high",
+    "data_confidence_rationale": "High volume of self-reported architectural data and specific project performance metrics provides a clear window into professional priorities and decision-making frameworks."
+  }
+}

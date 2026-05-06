@@ -1,0 +1,28 @@
+{
+  "section_id": 1,
+  "section_name": "Identity Overview",
+  "person_id": "ACoAADk3xRAB69zRTh7jdt5UdA6JfWRk9a4nQGs",
+  "data": {
+    "full_name": "Lia Hofmann",
+    "current_role": "GTM",
+    "company": "Lio (formerly askLio)",
+    "location": "Germany",
+    "profile_photo_url": "https://media.licdn.com/dms/image/v2/C4E03AQF0vYKD21xZ9w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1667950709574/e=1778112000&v=beta&t=cFNdYLEUoKRcJvpq-L_ZO3PB1wJN_r-1v8DeWKMU1YQ",
+    "linkedin_url": "https://www.linkedin.com/in/lia-hofmann-2945a2229",
+    "twitter_handle": null,
+    "linkedin_followers": 1440,
+    "twitter_followers": 0,
+    "connections_count": 1427,
+    "influence_score": 12,
+    "influence_score_breakdown": {
+      "linkedin_followers_points": 5,
+      "twitter_followers_points": 0,
+      "posting_activity_points": 5,
+      "career_seniority_points": 2,
+      "web_presence_points": 0
+    },
+    "influence_score_rationale": "Score calculated based on 1,440 LinkedIn followers (5 pts), presence on one platform (5 pts), and current non-senior IC role (2 pts).",
+    "data_confidence": "medium",
+    "data_confidence_rationale": "High-quality profile data available from LinkedIn; no external social media (Twitter) data provided."
+  }
+}

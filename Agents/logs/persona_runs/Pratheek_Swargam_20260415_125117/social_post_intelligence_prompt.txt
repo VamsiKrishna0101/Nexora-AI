@@ -1,0 +1,65 @@
+SYSTEM: None
+
+USER: 
+You are a content intelligence and engagement analyst at a Palantir-grade firm.
+Analyze the raw social media feed of the target executive to extract strict, verifiable insights regarding their specific post behaviors, topics, and styles.
+
+INPUT DATA:
+LinkedIn Posts: [
+  {
+    "type": "post",
+    "is_activity": null,
+    "url": null,
+    "text": "",
+    "num_shares": 0,
+    "num_likes": 0,
+    "num_comments": 0,
+    "comments_count": 0,
+    "reactions_count": 0,
+    "posted_at": null,
+    "actor_name": null,
+    "actor_profile_url": null,
+    "post_type": null
+  }
+]
+Twitter Posts: []
+
+Output ONLY this JSON:
+{
+  "section_id": "social_post_intelligence",
+  "section_name": "Social Media Post Intelligence",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "content_analysis": {
+      "top_topics": [],
+      "posting_pattern": "",
+      "content_style": "",
+      "engagement_insight": ""
+    },
+    "post_breakdown": [
+      {
+        "platform": "LinkedIn|X",
+        "type": "Post|Repost",
+        "brief_description": "",
+        "theme": "",
+        "engagement_style": ""
+      }
+    ],
+    "summaries": {
+      "posts": [],
+      "reposts": []
+    }
+  }
+}
+
+RULES:
+- content_analysis.top_topics: 3-5 high-level tags summarizing their content subject matter.
+- content_analysis.posting_pattern: Exactly 1 concise sentence about frequency or timing (e.g., "Active primarily on weekdays sharing industry news.")
+- content_analysis.content_style: Exactly 1 concise sentence about the tone (e.g., "Professional, analytical, uses data points.")
+- content_analysis.engagement_insight: Exactly 1 concise sentence about what drives the most likes/comments (e.g., "Highest engagement on personal stories or milestone announcements.")
+- post_breakdown: Include up to 10 of the most significant posts/reposts.
+- post_breakdown.brief_description: MUST BE EXTREMELY BRIEF (Max 10-15 words). Summarize the post's core message.
+- post_breakdown.type: Classify strictly as "Post" (original authored content) or "Repost" (reshared/retweeted content).
+- summaries.posts: 3-5 bullet points strings summarizing original posts (e.g., "Project Launch: Unveiled new cloud stack.").
+- summaries.reposts: 3-5 bullet points strings summarizing exactly what they reshare (e.g., "Customer Stories: Repeatedly reposts enterprise deployment successes.").
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

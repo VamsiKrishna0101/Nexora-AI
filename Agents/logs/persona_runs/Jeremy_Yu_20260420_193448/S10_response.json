@@ -1,0 +1,33 @@
+{
+  "section_id": 10,
+  "section_name": "Risk & Red Flags",
+  "person_id": "ACoAAAEbx0kBgENz4hlQjci6ovrhVuK8LMtPRIY",
+  "data": {
+    "job_hopping_signal": {
+      "detected": false,
+      "roles_analyzed": 13,
+      "average_tenure_months": 18.3,
+      "shortest_tenure_months": 6,
+      "assessment": "Average tenure of 18.3 months marginally exceeds the 18-month threshold for a job-hopping flag."
+    },
+    "controversial_statements": [],
+    "failed_ventures": [],
+    "reputation_signals": [
+      {
+        "signal": "Highly regarded for technical speed, reliability, and partnership-focused collaboration in cloud and AI ecosystems.",
+        "source": "LinkedIn Recommendations",
+        "sentiment": "Positive"
+      }
+    ],
+    "legal_or_regulatory_issues": [],
+    "data_gaps": [
+      "No Twitter data provided",
+      "Educational history limited to degree names",
+      "No public records of legal or regulatory proceedings available"
+    ],
+    "overall_risk_rating": "Low",
+    "risk_summary": "The subject presents a low-risk profile with a consistent track record in technical leadership roles and positive professional feedback. No evidence of controversial, legal, or reputational red flags was identified in the analyzed data.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "The profile is substantiated by detailed professional experience, public code contributions on GitHub, and verified LinkedIn endorsement data."
+  }
+}

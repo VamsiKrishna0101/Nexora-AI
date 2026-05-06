@@ -1,0 +1,35 @@
+{
+  "section_id": "social_post_intelligence",
+  "section_name": "Social Media Post Intelligence",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "content_analysis": {
+      "top_topics": [
+        "Agricultural Technology",
+        "Artificial Intelligence",
+        "Climate Resilient Agriculture",
+        "Institutional Collaboration"
+      ],
+      "posting_pattern": "Shares substantive, project-based updates documenting organizational milestones and multi-stakeholder initiatives.",
+      "content_style": "Formal, institutional, and technical, focusing on project outcomes and cross-agency collaborative efforts.",
+      "engagement_insight": "High engagement driven by technical milestone announcements and multi-partner project reporting."
+    },
+    "post_breakdown": [
+      {
+        "platform": "LinkedIn",
+        "type": "Post",
+        "brief_description": "Reviewing 3-day program on AI-powered agro-met advisories at scale under Mission Mausam.",
+        "theme": "Agri-Tech",
+        "engagement_style": "Informational reporting"
+      }
+    ],
+    "summaries": {
+      "posts": [
+        "Collaborative AI Implementation: Hosted multi-agency review for AI-powered agro-met advisories.",
+        "Program Scaling: Facilitated standardization and planning for AI-enabled decision structures in agriculture.",
+        "Strategic Partnerships: Coordinated across multiple research and meteorological institutes for Mission Mausam."
+      ],
+      "reposts": []
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "section_id": 10,
+  "section_name": "Risk & Red Flags",
+  "person_id": "ACoAAD8unisBsIgHnZVFhsrjL-DTdoCwCeesXko",
+  "data": {
+    "job_hopping_signal": {
+      "detected": false,
+      "roles_analyzed": 1,
+      "average_tenure_months": 3.0,
+      "shortest_tenure_months": 3,
+      "assessment": "Subject has limited professional history, consisting of only one completed internship role, which does not meet the criteria for a job-hopping pattern."
+    },
+    "controversial_statements": [],
+    "failed_ventures": [],
+    "reputation_signals": [
+      {
+        "signal": "Active contributor to open-source software and recognized LeetCode Knight rank.",
+        "source": "LinkedIn/GitHub",
+        "sentiment": "Positive"
+      }
+    ],
+    "legal_or_regulatory_issues": [],
+    "data_gaps": [
+      "No Twitter activity history provided.",
+      "Limited longitudinal career data due to early-career status."
+    ],
+    "overall_risk_rating": "Low",
+    "risk_summary": "The subject presents a low-risk profile with a consistent trajectory in software engineering and technical contribution. There are no identified red flags, controversial statements, or negative reputational markers in the provided data.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "The profile data is internally consistent across LinkedIn and corroborated by external web search results regarding his current employment and technical skills."
+  }
+}

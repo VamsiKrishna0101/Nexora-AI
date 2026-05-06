@@ -1,0 +1,170 @@
+SYSTEM: None
+
+USER: 
+You are a Career Intelligence Analyst at a Palantir-grade research firm.
+Synthesize a precise, evidence-based Professional Background for the subject.
+Every claim must be traceable to the input data.
+
+INPUT DATA:
+LinkedIn Profile: {
+  "url": "https://www.linkedin.com/in/sundarpichai",
+  "username": "sundarpichai",
+  "linkedin_id": "ACoAAE6FVtYBAW4bP82g1IhIHxzu_1J010WU3CQ",
+  "first_name": "Sundar",
+  "last_name": "Pichai",
+  "full_name": "Sundar Pichai",
+  "headline": "CEO at Google",
+  "is_influencer": true,
+  "is_premium": true,
+  "is_memorialized": false,
+  "location": "Mountain View, California, United States",
+  "location_raw": "Mountain View, California, United States",
+  "country_full": "United States",
+  "state": "California",
+  "city": "Mountain View",
+  "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQFrmDuWUxQoMg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715645354620?e=1777507200&v=beta&t=gQCg1D_PqN-po3qxhtsh7HAU-pn8RNTeIkBV2xKjLlo",
+  "top_skills": [],
+  "linkedin_followers": 4067364,
+  "connections_count": 1,
+  "about": "CEO of Google and Alphabet. Focused on organizing the world's information and making it universally accessible and useful, building great products, and developing advanced technologies, including AI, to help people everywhere.",
+  "current_positions": [
+    {
+      "company_name": "Google",
+      "company_linkedin_url": "https://www.linkedin.com/company/google/",
+      "date_range": {
+        "start": null,
+        "end": null
+      }
+    }
+  ],
+  "experiences": [
+    {
+      "title": "CEO",
+      "company": "Google",
+      "duration": null,
+      "description": "",
+      "skills": [],
+      "start_date": {
+        "month": null,
+        "year": 2015,
+        "text": "2015"
+      },
+      "end_date": {
+        "text": "Present"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1777507200&v=beta&t=DlF1YXynkOiH1__0WR9Bv63MpBFvxaKJop0PjS20RDY"
+    },
+    {
+      "title": "Product Management + Leadership",
+      "company": "Google",
+      "duration": null,
+      "description": "",
+      "skills": [],
+      "start_date": {
+        "month": "Apr",
+        "year": 2004,
+        "text": "Apr 2004"
+      },
+      "end_date": {
+        "month": null,
+        "year": 2015,
+        "text": "2015"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1777507200&v=beta&t=DlF1YXynkOiH1__0WR9Bv63MpBFvxaKJop0PjS20RDY"
+    }
+  ],
+  "educations": [
+    {
+      "institution": "The Wharton School",
+      "school_linkedin_url": "https://www.linkedin.com/school/the-wharton-school/",
+      "degree": "MBA",
+      "field_of_study": "",
+      "skills": [],
+      "start_date": null,
+      "end_date": null,
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQFQu7wZniptpA/company-logo_200_200/company-logo_200_200/0/1677690194092/the_wharton_school_logo?e=1777507200&v=beta&t=YHknddMjfr-m4rGKOBquOVohbh8h35Ur0yFgnopvqcs"
+    },
+    {
+      "institution": "Stanford University",
+      "school_linkedin_url": "https://www.linkedin.com/school/stanford-university/",
+      "degree": "MS",
+      "field_of_study": "Materials Science and Engineering",
+      "skills": [],
+      "start_date": null,
+      "end_date": null,
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_200_200/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1777507200&v=beta&t=boyhmQczHVRO9cbx-Mlf1uoX9rQyq6UdpddHG72aVwE"
+    },
+    {
+      "institution": "Indian Institute of Technology, Kharagpur",
+      "school_linkedin_url": "https://www.linkedin.com/school/indian-institute-of-technology-kharagpur/",
+      "degree": "B. Tech",
+      "field_of_study": "",
+      "skills": [],
+      "start_date": null,
+      "end_date": null,
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQE0lxIeTKBTAw/company-logo_200_200/company-logo_200_200/0/1661239083431/indian_institute_of_technology_kharagpur_logo?e=1777507200&v=beta&t=-WTwkCuzHcxPMjR3ixy8sy5M6t1eWtzlPTUDz4a8_kA"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "certifications": [],
+  "projects": [],
+  "volunteering": [],
+  "recommendations": [],
+  "publications": [],
+  "courses": [],
+  "patents": [],
+  "honors_awards": [],
+  "causes": [],
+  "featured": null
+}
+
+Output ONLY this JSON:
+{
+  "section_id": 2,
+  "section_name": "Professional Background",
+  "person_id": "UNKNOWN_ID",
+  "generated_at": "__TIMESTAMP__",
+  "data": {
+    "current_role_summary": "",
+    "role_summary_bullets": [
+      "Core Identity & Mission: ...",
+      "Domain Mastery: ...",
+      "Quantifiable Impact: ...",
+      "Strategic Scope: ...",
+      "Leadership Philosophy: ...",
+      "Current Momentum: ..."
+    ],
+    "career_timeline": [
+      {
+        "company": "",
+        "title": "",
+        "start_date": "",
+        "end_date": "",
+        "duration_months": 0,
+        "one_line_impact": ""
+      }
+    ],
+    "education_history": [
+      {
+        "institution": "",
+        "degree": "",
+        "field_of_study": "",
+        "graduation_year": ""
+      }
+    ],
+    "total_years_experience": 0,
+    "industry_expertise_areas": [],
+    "data_confidence": "high|medium|low",
+    "data_confidence_rationale": ""
+  }
+}
+
+RULES:
+- role_summary_bullets: exactly 6 items. Each covers a distinct dimension — do not repeat themes.
+- career_timeline: ordered newest-first. duration_months must be calculated, not estimated.
+- total_years_experience: calculate from earliest start_date to today, accounting for overlapping roles.
+- one_line_impact: extract a specific, measurable outcome from the role description. If none available, write a factual scope statement — never fabricate metrics.
+- industry_expertise_areas: max 6 items. Only include industries explicitly evidenced in the data.
+- Replace __TIMESTAMP__ with current ISO 8601 datetime.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

@@ -1,0 +1,118 @@
+{
+  "section_id": 3,
+  "section_name": "Skills & Expertise",
+  "person_id": "ACoAAE6FVtYBAW4bP82g1IhIHxzu_1J010WU3CQ",
+  "generated_at": "2026-05-15T10:00:00Z",
+  "data": {
+    "top_technical_skills": [
+      {
+        "skill": "Generative AI & LLMs",
+        "category": "Domain",
+        "evidence_level": "High",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "Cloud Computing Infrastructure",
+        "category": "Platform",
+        "evidence_level": "High",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "Quantum Computing",
+        "category": "Domain",
+        "evidence_level": "High",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "Product Management",
+        "category": "Methodology",
+        "evidence_level": "High",
+        "evidence_source": "Experience Description"
+      },
+      {
+        "skill": "Vertex AI",
+        "category": "Platform",
+        "evidence_level": "High",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "Tensor Processing Units (TPUs)",
+        "category": "Tool",
+        "evidence_level": "High",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "Google Workspace Integration",
+        "category": "Tool",
+        "evidence_level": "High",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "Materials Science",
+        "category": "Domain",
+        "evidence_level": "Medium",
+        "evidence_source": "About"
+      },
+      {
+        "skill": "Autonomous Systems",
+        "category": "Domain",
+        "evidence_level": "Medium",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "Subsea Cable Infrastructure",
+        "category": "Domain",
+        "evidence_level": "Medium",
+        "evidence_source": "Posts"
+      }
+    ],
+    "domain_expertise": [
+      {
+        "domain": "Executive Leadership",
+        "depth": "Expert",
+        "evidence": "CEO of Google and Alphabet, overseeing global product strategy and multi-billion dollar investment initiatives."
+      },
+      {
+        "domain": "AI Strategy",
+        "depth": "Expert",
+        "evidence": "Directly overseeing the 'AI-first strategy' and the rollout of Gemini models across the Google ecosystem."
+      },
+      {
+        "domain": "Product Lifecycle Management",
+        "depth": "Expert",
+        "evidence": "Historically led Google Chrome and currently oversees integrated product stacks across Search, Cloud, and Workspace."
+      },
+      {
+        "domain": "Global Operations",
+        "depth": "Expert",
+        "evidence": "Management of massive-scale infrastructure investments, including global data centers and connectivity projects in India and the US."
+      }
+    ],
+    "soft_skills_signals": [
+      {
+        "skill": "Strategic Visioning",
+        "signal_source": "Posts",
+        "justification": "Described by Stanford President Jon Levin as a 'deeply thoughtful leader who has a vivid sense for how technology can improve society'."
+      },
+      {
+        "skill": "Stakeholder Engagement",
+        "signal_source": "Posts",
+        "justification": "Demonstrated through cross-industry partnerships with retailers like Walmart, Shopify, and Etsy for the Universal Commerce Protocol."
+      },
+      {
+        "skill": "Crisis Communication",
+        "signal_source": "Posts",
+        "justification": "Consistently provides data-driven, transparent communication regarding quarterly financial results and technical milestones to millions of followers."
+      },
+      {
+        "skill": "Mentorship and Talent Advocacy",
+        "signal_source": "Posts",
+        "justification": "Publicly championing employee achievements and welcoming executive leadership like Karthik Narain to the team."
+      }
+    ],
+    "skill_gaps_or_blind_spots": [],
+    "skill_progression_narrative": "Sundar Pichai's career transitioned from deep technical roots in materials science and engineering into product management leadership with the development of Google Chrome. Over the past decade, he has evolved from a functional product lead to an enterprise-wide executive, now focusing on high-level infrastructure, quantum breakthroughs, and massive-scale AI commercialization.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "Expertise derived directly from verified employment history and consistent primary-source content posted by the subject regarding strategic corporate initiatives."
+  }
+}

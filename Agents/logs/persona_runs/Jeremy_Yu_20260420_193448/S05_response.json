@@ -1,0 +1,48 @@
+{
+  "section_id": 5,
+  "section_name": "Online Presence & Activity",
+  "person_id": "jeremy-yu-68928a6",
+  "data": {
+    "linkedin": {
+      "url": "https://www.linkedin.com/in/jeremy-yu-68928a6",
+      "followers": 2540,
+      "posts_analyzed": 15,
+      "posting_frequency": "Monthly",
+      "avg_likes_per_post": 13,
+      "avg_comments_per_post": 0,
+      "top_topics": [
+        "Agentic AI",
+        "Enterprise AI",
+        "Lyzr AI",
+        "Automation",
+        "NVIDIA GTC"
+      ],
+      "last_post_date": "2026-04-07T14:45:06.536Z",
+      "last_post_summary": "Discusses AI memory solutions, specifically highlighting the Cognis platform's performance on long-term memory evaluation benchmarks and its availability as an open-source SDK."
+    },
+    "twitter": {
+      "handle": null,
+      "url": null,
+      "followers": 0,
+      "posts_analyzed": 0,
+      "posting_frequency": "Unknown",
+      "top_topics": [],
+      "avg_likes_per_tweet": 0,
+      "avg_retweets_per_tweet": 0,
+      "last_tweet_date": null
+    },
+    "github": {
+      "url": "https://github.com/jeremyyuAWS",
+      "found": true
+    },
+    "personal_website": null,
+    "other_platforms": [
+      "Hugging Face",
+      "Medium"
+    ],
+    "overall_digital_footprint": "Moderate",
+    "recent_activity_summary": "Jeremy is consistently focused on the technical and product deployment of agentic AI systems within enterprise environments. His recent activity emphasizes the development of production-ready AI memory, Git-native agent deployment, and the scaling of the Lyzr AI platform.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "High confidence based on detailed LinkedIn activity logs and corroborated external profiles on GitHub and Hugging Face."
+  }
+}

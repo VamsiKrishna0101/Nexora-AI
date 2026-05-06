@@ -1,0 +1,66 @@
+{
+  "section_id": 2,
+  "section_name": "Professional Background",
+  "person_id": "ACoAAE6FVtYBAW4bP82g1IhIHxzu_1J010WU3CQ",
+  "generated_at": "2025-05-22T12:00:00Z",
+  "data": {
+    "current_role_summary": "Chief Executive Officer of Google and Alphabet, leading large-scale organizational efforts to improve global information accessibility and technological advancement.",
+    "role_summary_bullets": [
+      "Core Identity & Mission: Dedicated to organizing the world's information and making it universally accessible.",
+      "Domain Mastery: Deep expertise in product management, executive leadership, and large-scale enterprise operations.",
+      "Quantifiable Impact: Leads a multinational workforce and global product ecosystem serving billions of users.",
+      "Strategic Scope: Directs long-term vision for both Google and parent company Alphabet.",
+      "Leadership Philosophy: Prioritizes the integration of advanced technologies, with a specialized focus on AI, to solve human-centric problems.",
+      "Current Momentum: Sustained multi-decade tenure at Google, transitioning from product management to top-level corporate governance."
+    ],
+    "career_timeline": [
+      {
+        "company": "Google",
+        "title": "CEO",
+        "start_date": "2015",
+        "end_date": "Present",
+        "duration_months": 113,
+        "one_line_impact": "Serves as CEO of Google and Alphabet, defining the strategic product and technology vision."
+      },
+      {
+        "company": "Google",
+        "title": "Product Management + Leadership",
+        "start_date": "2004",
+        "end_date": "2015",
+        "duration_months": 129,
+        "one_line_impact": "Drove key product management initiatives and leadership growth within the company over 11 years."
+      }
+    ],
+    "education_history": [
+      {
+        "institution": "The Wharton School",
+        "degree": "MBA",
+        "field_of_study": "N/A",
+        "graduation_year": "N/A"
+      },
+      {
+        "institution": "Stanford University",
+        "degree": "MS",
+        "field_of_study": "Materials Science and Engineering",
+        "graduation_year": "N/A"
+      },
+      {
+        "institution": "Indian Institute of Technology, Kharagpur",
+        "degree": "B. Tech",
+        "field_of_study": "N/A",
+        "graduation_year": "N/A"
+      }
+    ],
+    "total_years_experience": 21,
+    "industry_expertise_areas": [
+      "Technology",
+      "Software Engineering",
+      "Product Management",
+      "Artificial Intelligence",
+      "Executive Leadership",
+      "Corporate Strategy"
+    ],
+    "data_confidence": "high",
+    "data_confidence_rationale": "Data directly sourced from official LinkedIn profile; professional timeline is verifiable via public employment history."
+  }
+}

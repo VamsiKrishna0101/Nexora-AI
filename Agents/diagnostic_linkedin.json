@@ -1,0 +1,557 @@
+{
+  "id": "ACoAAE6FVtYBAW4bP82g1IhIHxzu_1J010WU3CQ",
+  "publicIdentifier": "sundarpichai",
+  "linkedinUrl": "https://www.linkedin.com/in/sundarpichai",
+  "firstName": "Sundar ",
+  "lastName": "Pichai ",
+  "headline": "CEO at Google",
+  "openToWork": false,
+  "hiring": false,
+  "premium": true,
+  "influencer": true,
+  "memorialized": false,
+  "location": {
+    "linkedinText": "Mountain View, California, United States",
+    "countryCode": "US",
+    "parsed": {
+      "text": "Mountain View, CA, United States",
+      "countryCode": "US",
+      "regionCode": null,
+      "country": "United States",
+      "countryFull": "United States of America",
+      "state": "California",
+      "city": "Mountain View"
+    }
+  },
+  "objectUrn": "1317361366",
+  "registeredAt": "2024-05-13T23:36:30.297Z",
+  "topSkills": null,
+  "connectionsCount": 1,
+  "followerCount": 4059225,
+  "verified": true,
+  "about": "CEO of Google and Alphabet. Focused on organizing the world's information and making it universally accessible and useful, building great products, and developing advanced technologies, including AI, to help people everywhere.",
+  "currentPosition": [
+    {
+      "companyId": "1441",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/1441/",
+      "companyName": "Google",
+      "dateRange": {
+        "start": {
+          "month": null,
+          "year": 2015,
+          "day": null
+        },
+        "end": null
+      }
+    }
+  ],
+  "profileTopEducation": [
+    {
+      "schoolId": "19329",
+      "companyId": "5290",
+      "schoolLinkedinUrl": "https://www.linkedin.com/company/5290/",
+      "schoolName": "The Wharton School"
+    }
+  ],
+  "profileActions": [],
+  "profilePicture": {
+    "url": "https://media.licdn.com/dms/image/v2/D4E03AQFrmDuWUxQoMg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715645354620?e=1777507200&v=beta&t=gQCg1D_PqN-po3qxhtsh7HAU-pn8RNTeIkBV2xKjLlo",
+    "sizes": [
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQFrmDuWUxQoMg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715645354620?e=1777507200&v=beta&t=gQCg1D_PqN-po3qxhtsh7HAU-pn8RNTeIkBV2xKjLlo",
+        "width": 800,
+        "height": 800,
+        "expiresAt": 1777507200000
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQFrmDuWUxQoMg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1715645354619?e=1777507200&v=beta&t=PuPE1DxZib2BaQ9IOg8BrptEB9r88YJCG9q7CqyZQV0",
+        "width": 400,
+        "height": 400,
+        "expiresAt": 1777507200000
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQFrmDuWUxQoMg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715645354619?e=1777507200&v=beta&t=quW91p-HGDLYdOYCgBqGJZy89EWtS3SlxAzcSgOuS4c",
+        "width": 200,
+        "height": 200,
+        "expiresAt": 1777507200000
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQFrmDuWUxQoMg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1715645354619?e=1777507200&v=beta&t=Ne7olUQaibkKsTyib-bchi6GvudpcSmL3iyjgcjpe0s",
+        "width": 100,
+        "height": 100,
+        "expiresAt": 1777507200000
+      }
+    ]
+  },
+  "coverPicture": {
+    "url": "https://media.licdn.com/dms/image/v2/D4E16AQGYvc16pqOIVw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715645329748?e=1777507200&v=beta&t=lajPxrxMKP0uNE9Dk3wE2VzMxf9pMOae_8ym96Fswg0",
+    "sizes": [
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4E16AQGYvc16pqOIVw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715645329748?e=1777507200&v=beta&t=lajPxrxMKP0uNE9Dk3wE2VzMxf9pMOae_8ym96Fswg0",
+        "width": 1400,
+        "height": 350,
+        "expiresAt": 1777507200000
+      },
+      {
+        "url": "https://media.licdn.com/dms/image/v2/D4E16AQGYvc16pqOIVw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1715645329748?e=1777507200&v=beta&t=aEy7cSbbUN3hNaGd8zGciZrdOqE6eKSbRwMz-53kITE",
+        "width": 800,
+        "height": 200,
+        "expiresAt": 1777507200000
+      }
+    ]
+  },
+  "photo": "https://media.licdn.com/dms/image/v2/D4E03AQFrmDuWUxQoMg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715645354620?e=1777507200&v=beta&t=gQCg1D_PqN-po3qxhtsh7HAU-pn8RNTeIkBV2xKjLlo",
+  "profileLocales": [
+    {
+      "country": "US",
+      "language": "en"
+    }
+  ],
+  "primaryLocale": {
+    "country": "US",
+    "language": "en"
+  },
+  "multiLocaleHeadline": [
+    {
+      "headline": "CEO at Google",
+      "locale": "en_US"
+    }
+  ],
+  "services": null,
+  "experience": [
+    {
+      "position": "CEO",
+      "location": null,
+      "employmentType": null,
+      "workplaceType": null,
+      "companyName": "Google",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/google/",
+      "companyId": "1441",
+      "companyUniversalName": "google",
+      "duration": "11 yrs 4 mos",
+      "description": null,
+      "skills": null,
+      "experienceGroupId": "b99a53860a4df5fb42b2a451a89f2da4ebf60bfa",
+      "startDate": {
+        "year": 2015,
+        "text": "2015"
+      },
+      "endDate": {
+        "text": "Present"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1777507200&v=beta&t=DlF1YXynkOiH1__0WR9Bv63MpBFvxaKJop0PjS20RDY",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1777507200&v=beta&t=DlF1YXynkOiH1__0WR9Bv63MpBFvxaKJop0PjS20RDY",
+            "width": 400,
+            "height": 400,
+            "expiresAt": 1777507200000
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_200_200/B4EZmhegXHGcAM-/0/1759350753990/google_logo?e=1777507200&v=beta&t=hRdl_wWaYWX4KO88i-9bITDh7fhX8oKjcL_YE2mMXoY",
+            "width": 200,
+            "height": 200,
+            "expiresAt": 1777507200000
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=1777507200&v=beta&t=Qh84lGzzoJvGUYgxQi1zMUw2hbVuBEFu4hgpuMJ5ct8",
+            "width": 100,
+            "height": 100,
+            "expiresAt": 1777507200000
+          }
+        ]
+      }
+    },
+    {
+      "position": "Product Management + Leadership",
+      "location": null,
+      "employmentType": null,
+      "workplaceType": null,
+      "companyName": "Google",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/google/",
+      "companyId": "1441",
+      "companyUniversalName": "google",
+      "duration": "10 yrs 10 mos",
+      "description": null,
+      "skills": null,
+      "experienceGroupId": "b99a53860a4df5fb42b2a451a89f2da4ebf60bfa",
+      "startDate": {
+        "month": "Apr",
+        "year": 2004,
+        "text": "Apr 2004"
+      },
+      "endDate": {
+        "year": 2015,
+        "text": "2015"
+      },
+      "companyLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1777507200&v=beta&t=DlF1YXynkOiH1__0WR9Bv63MpBFvxaKJop0PjS20RDY",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1777507200&v=beta&t=DlF1YXynkOiH1__0WR9Bv63MpBFvxaKJop0PjS20RDY",
+            "width": 400,
+            "height": 400,
+            "expiresAt": 1777507200000
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_200_200/B4EZmhegXHGcAM-/0/1759350753990/google_logo?e=1777507200&v=beta&t=hRdl_wWaYWX4KO88i-9bITDh7fhX8oKjcL_YE2mMXoY",
+            "width": 200,
+            "height": 200,
+            "expiresAt": 1777507200000
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=1777507200&v=beta&t=Qh84lGzzoJvGUYgxQi1zMUw2hbVuBEFu4hgpuMJ5ct8",
+            "width": 100,
+            "height": 100,
+            "expiresAt": 1777507200000
+          }
+        ]
+      }
+    }
+  ],
+  "education": [
+    {
+      "schoolName": "The Wharton School",
+      "schoolLinkedinUrl": "https://www.linkedin.com/company/5290/",
+      "schoolId": "5290",
+      "degree": "MBA",
+      "fieldOfStudy": null,
+      "skills": [],
+      "startDate": null,
+      "endDate": {
+        "text": ""
+      },
+      "schoolLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFQu7wZniptpA/company-logo_400_400/company-logo_400_400/0/1677690194092/the_wharton_school_logo?e=1777507200&v=beta&t=egACliRSh9Wak46HB95h4YAlTD_U6tonJgDEB4Mj2EY",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFQu7wZniptpA/company-logo_400_400/company-logo_400_400/0/1677690194092/the_wharton_school_logo?e=1777507200&v=beta&t=egACliRSh9Wak46HB95h4YAlTD_U6tonJgDEB4Mj2EY",
+            "width": 400,
+            "height": 400,
+            "expiresAt": 1777507200000
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFQu7wZniptpA/company-logo_200_200/company-logo_200_200/0/1677690194092/the_wharton_school_logo?e=1777507200&v=beta&t=YHknddMjfr-m4rGKOBquOVohbh8h35Ur0yFgnopvqcs",
+            "width": 200,
+            "height": 200,
+            "expiresAt": 1777507200000
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQFQu7wZniptpA/company-logo_100_100/company-logo_100_100/0/1677690194092/the_wharton_school_logo?e=1777507200&v=beta&t=0R7ObV7yV7UzyxEKtQ_9EzsGqS_2bNhGQkZxwlI9LcI",
+            "width": 100,
+            "height": 100,
+            "expiresAt": 1777507200000
+          }
+        ]
+      }
+    },
+    {
+      "schoolName": "Stanford University",
+      "schoolLinkedinUrl": "https://www.linkedin.com/company/1792/",
+      "schoolId": "1792",
+      "degree": "MS",
+      "fieldOfStudy": "Materials Science and Engineering",
+      "skills": [],
+      "startDate": null,
+      "endDate": {
+        "text": ""
+      },
+      "schoolLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_400_400/company-logo_400_400/0/1635534378870/stanford_university_logo?e=1777507200&v=beta&t=6RNrsXTULcXi6t81yl6jFllJKLtjjqo9YjoLrtS_zNo",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_400_400/company-logo_400_400/0/1635534378870/stanford_university_logo?e=1777507200&v=beta&t=6RNrsXTULcXi6t81yl6jFllJKLtjjqo9YjoLrtS_zNo",
+            "width": 400,
+            "height": 400,
+            "expiresAt": 1777507200000
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_200_200/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1777507200&v=beta&t=boyhmQczHVRO9cbx-Mlf1uoX9rQyq6UdpddHG72aVwE",
+            "width": 200,
+            "height": 200,
+            "expiresAt": 1777507200000
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_100_100/company-logo_100_100/0/1635534378870/stanford_university_logo?e=1777507200&v=beta&t=mp_aekrMdkH330rus_Qs79rXI0dIJ1VcFSWrcX4hujk",
+            "width": 100,
+            "height": 100,
+            "expiresAt": 1777507200000
+          }
+        ]
+      }
+    },
+    {
+      "schoolName": "Indian Institute of Technology, Kharagpur",
+      "schoolLinkedinUrl": "https://www.linkedin.com/company/157265/",
+      "schoolId": "157265",
+      "degree": "B. Tech",
+      "fieldOfStudy": null,
+      "skills": [],
+      "startDate": null,
+      "endDate": {
+        "text": ""
+      },
+      "schoolLogo": {
+        "url": "https://media.licdn.com/dms/image/v2/C4D0BAQE0lxIeTKBTAw/company-logo_400_400/company-logo_400_400/0/1661239083431/indian_institute_of_technology_kharagpur_logo?e=1777507200&v=beta&t=CLrobz45T7tf4w_GECJ-mEFPsaZmHVAWYZkXluGilfY",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQE0lxIeTKBTAw/company-logo_400_400/company-logo_400_400/0/1661239083431/indian_institute_of_technology_kharagpur_logo?e=1777507200&v=beta&t=CLrobz45T7tf4w_GECJ-mEFPsaZmHVAWYZkXluGilfY",
+            "width": 400,
+            "height": 400,
+            "expiresAt": 1777507200000
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQE0lxIeTKBTAw/company-logo_200_200/company-logo_200_200/0/1661239083431/indian_institute_of_technology_kharagpur_logo?e=1777507200&v=beta&t=-WTwkCuzHcxPMjR3ixy8sy5M6t1eWtzlPTUDz4a8_kA",
+            "width": 200,
+            "height": 200,
+            "expiresAt": 1777507200000
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQE0lxIeTKBTAw/company-logo_100_100/company-logo_100_100/0/1661239083431/indian_institute_of_technology_kharagpur_logo?e=1777507200&v=beta&t=hIXUZArk4s5jGyPsSD0ouSuCvZvTn_Wv21vh5HtUt1A",
+            "width": 100,
+            "height": 100,
+            "expiresAt": 1777507200000
+          }
+        ]
+      }
+    }
+  ],
+  "certifications": [],
+  "projects": [],
+  "volunteering": [],
+  "receivedRecommendations": [],
+  "skills": [],
+  "publications": [],
+  "courses": [],
+  "patents": [],
+  "honorsAndAwards": [],
+  "languages": [],
+  "causes": [],
+  "featured": null,
+  "moreProfiles": [
+    {
+      "id": "ACoAABJoepgBS9tY2ikiL4MUls8bUnVLIv5jkzU",
+      "firstName": "Aravind",
+      "lastName": "Srinivas",
+      "publicIdentifier": "aravind-srinivas-16051987",
+      "linkedinUrl": "https://www.linkedin.com/in/aravind-srinivas-16051987"
+    },
+    {
+      "id": "ACoAACe8kMYBRySEWE-R0QpZ3udDVscbSopk3SM",
+      "firstName": "Shradha",
+      "lastName": "Khapra",
+      "publicIdentifier": "shradha-khapra",
+      "linkedinUrl": "https://www.linkedin.com/in/shradha-khapra"
+    },
+    {
+      "id": "ACoAAAMCzYcBj7k8LBrG8tu6vjLRWGWaQ9WFxoc",
+      "firstName": "Anupam",
+      "lastName": "Mittal",
+      "publicIdentifier": "anupammittal007",
+      "linkedinUrl": "https://www.linkedin.com/in/anupammittal007"
+    },
+    {
+      "id": "ACoAAAGH7jYB_v03zRuaj_YJ3L5X04wXER_Egus",
+      "firstName": "Noam",
+      "lastName": "Shazeer",
+      "publicIdentifier": "noam-shazeer-3b27288",
+      "linkedinUrl": "https://www.linkedin.com/in/noam-shazeer-3b27288"
+    },
+    {
+      "id": "ACoAAAMkc8kBdWKTLlR2OReZqTQBn4_3fRYgRlY",
+      "firstName": "Aman",
+      "lastName": "Gupta",
+      "publicIdentifier": "aman-gupta-7217a515",
+      "linkedinUrl": "https://www.linkedin.com/in/aman-gupta-7217a515"
+    },
+    {
+      "id": "ACoAAAEkwwAB9KEc2TrQgOLEQ-vzRyZeCDyc6DQ",
+      "firstName": "Satya",
+      "lastName": "Nadella",
+      "publicIdentifier": "satyanadella",
+      "linkedinUrl": "https://www.linkedin.com/in/satyanadella"
+    },
+    {
+      "id": "ACoAADjvys4B4P6r_UT3FF4bR32ZV6PtlR3lDDw",
+      "firstName": "Alakh",
+      "lastName": "Pandey",
+      "publicIdentifier": "alakh-pandey-4baaa8227",
+      "linkedinUrl": "https://www.linkedin.com/in/alakh-pandey-4baaa8227"
+    },
+    {
+      "id": "ACoAAESLOisBWkQOovTCbKFrLZIcSr-k8JP_BMI",
+      "firstName": "Nirmala",
+      "lastName": "Sitharaman",
+      "publicIdentifier": "nsitharaman",
+      "linkedinUrl": "https://www.linkedin.com/in/nsitharaman"
+    },
+    {
+      "id": "ACoAAASlZKcBxJ-rx0394rCDVwXzKMtcpvslgWc",
+      "firstName": "Ritesh",
+      "lastName": "Agarwal",
+      "publicIdentifier": "riteshagar",
+      "linkedinUrl": "https://www.linkedin.com/in/riteshagar"
+    },
+    {
+      "id": "ACoAAADOa0cBfg-ShnJidZqAW2XBcgRCw1wGRJo",
+      "firstName": "Gaurav",
+      "lastName": "Bhaya",
+      "publicIdentifier": "gaurav-bhaya-7736444",
+      "linkedinUrl": "https://www.linkedin.com/in/gaurav-bhaya-7736444"
+    },
+    {
+      "id": "ACoAAA9eyYUBh9JQIB19tmDanxKjRK9p8Nw4FrY",
+      "firstName": "Mustafa",
+      "lastName": "Suleyman",
+      "publicIdentifier": "mustafa-suleyman",
+      "linkedinUrl": "https://www.linkedin.com/in/mustafa-suleyman"
+    },
+    {
+      "id": "ACoAABBhhiABVwqIoiMz90f7wLjjl8xvtPe3u3c",
+      "firstName": "Narendra",
+      "lastName": "Modi",
+      "publicIdentifier": "narendramodi",
+      "linkedinUrl": "https://www.linkedin.com/in/narendramodi"
+    },
+    {
+      "id": "ACoAAAPoihEBiBmmg87UQXgpurPIs_mwnZYnMEI",
+      "firstName": "Thomas",
+      "lastName": "Kurian",
+      "publicIdentifier": "thomas-kurian-469b6219",
+      "linkedinUrl": "https://www.linkedin.com/in/thomas-kurian-469b6219"
+    },
+    {
+      "id": "ACoAAAAIod8BxUdn-sU2ASLUVB0gAwBYjdhypOE",
+      "firstName": "Matt",
+      "lastName": "Garman",
+      "publicIdentifier": "mattgarman",
+      "linkedinUrl": "https://www.linkedin.com/in/mattgarman"
+    },
+    {
+      "id": "ACoAAA7BNpgB-NVre32yDuTtTvW-wSrIXSH7akA",
+      "firstName": "Justin",
+      "lastName": "Mateen",
+      "publicIdentifier": "justinmateen",
+      "linkedinUrl": "https://www.linkedin.com/in/justinmateen"
+    },
+    {
+      "id": "ACoAAB8KalABDcw07tqC2Tt9EP4dlEh-EaIjLU8",
+      "firstName": "Shantanu",
+      "lastName": "Naidu",
+      "publicIdentifier": "shantanu-naidu",
+      "linkedinUrl": "https://www.linkedin.com/in/shantanu-naidu"
+    },
+    {
+      "id": "ACoAAAAKB-gBpB38VafJmh4hcINUmxIfckEqKV0",
+      "firstName": "Neal",
+      "lastName": "Mohan",
+      "publicIdentifier": "neal-mohan",
+      "linkedinUrl": "https://www.linkedin.com/in/neal-mohan"
+    },
+    {
+      "id": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc",
+      "firstName": "Bill",
+      "lastName": "Gates",
+      "publicIdentifier": "williamhgates",
+      "linkedinUrl": "https://www.linkedin.com/in/williamhgates"
+    },
+    {
+      "id": "ACoAABMznFkB_XPgkYHnUl33kIHTWt1DtMAV6Pg",
+      "firstName": "Jensen",
+      "lastName": "Huang",
+      "publicIdentifier": "jenhsunhuang",
+      "linkedinUrl": "https://www.linkedin.com/in/jenhsunhuang"
+    },
+    {
+      "id": "ACoAAADJYAkBVZlXjGdC9CSBBU3t6i2ZnSOiQZg",
+      "firstName": "Vineeta",
+      "lastName": "Singh",
+      "publicIdentifier": "vineetasingh",
+      "linkedinUrl": "https://www.linkedin.com/in/vineetasingh"
+    },
+    {
+      "id": "ACoAAGB2oYYB2Dydz7U_g50Pr8MgKhqFz10kvXg",
+      "firstName": "Royal Business",
+      "lastName": "Empire Academy",
+      "position": "Fondateur & PDG | Royal Business Empire Academy | Transformer vos ambitions en business r\u00e9els",
+      "publicIdentifier": "royal-business-empire-academy-8b2bb2391",
+      "linkedinUrl": "https://www.linkedin.com/in/royal-business-empire-academy-8b2bb2391"
+    },
+    {
+      "id": "ACoAAGRrpMUBBIu7WVTVxj4XXLtNBhar6z4-vJQ",
+      "firstName": "Connie",
+      "lastName": "B.",
+      "position": "PE, VC and Growth Equity Investor | Former Board Member | Former CFO of High Growth SaaS",
+      "publicIdentifier": "connie-butera",
+      "linkedinUrl": "https://www.linkedin.com/in/connie-butera"
+    },
+    {
+      "id": "ACoAAFjvD8oBzu69LwbwjSKfoh1t3x2dwLS4Yqw",
+      "firstName": "Andrea",
+      "lastName": "Geronimi",
+      "position": "Co-founder of Loran Smart Living | Quant & Algo Trader at WPS Fund | The Wharton School | ESCP",
+      "publicIdentifier": "andrea-geronimi",
+      "linkedinUrl": "https://www.linkedin.com/in/andrea-geronimi"
+    },
+    {
+      "id": "ACoAAFXWQ_AB29Ytx87Fhyb7fSe6GfQ0Oe0hJ7M",
+      "firstName": "Christopher",
+      "lastName": "Larnard",
+      "position": "Student-Athlete at The Wharton School",
+      "publicIdentifier": "chris-larnard",
+      "linkedinUrl": "https://www.linkedin.com/in/chris-larnard"
+    },
+    {
+      "id": "ACoAAFVp-aIBp4vGhSoFwggKfrEA8jRTk0_EFEo",
+      "firstName": "Haley",
+      "lastName": "Lewinski",
+      "position": "Student-Athlete at Swarthmore College",
+      "publicIdentifier": "haley-lewinski",
+      "linkedinUrl": "https://www.linkedin.com/in/haley-lewinski"
+    },
+    {
+      "id": "ACoAAFbV74YB4ddIqo5V5pGsw9SsLZPZHAZA7b8",
+      "firstName": "George",
+      "lastName": "Asante",
+      "position": "Incoming Corporate Banking Intern | Accounting, Finance & Informatics Student | Rising Junior at Allegheny College | CFA & CPA Candidate",
+      "publicIdentifier": "gnya",
+      "linkedinUrl": "https://www.linkedin.com/in/gnya"
+    },
+    {
+      "id": "ACoAAFdhMloBlaBjrWWkZYjA_Yuknse-iYTTyOs",
+      "firstName": "Kate",
+      "lastName": "Hebard",
+      "position": "Freshman Student at The Wharton School, University of Pennsylvania",
+      "publicIdentifier": "kate-hebard",
+      "linkedinUrl": "https://www.linkedin.com/in/kate-hebard"
+    },
+    {
+      "id": "ACoAAGC12cMB4bt9_BMt8pX4Rh4zSFRv2CsiZPI",
+      "firstName": "Ryan",
+      "lastName": "Altman",
+      "position": "Student Athlete (Basketball) at The Wharton School",
+      "publicIdentifier": "ryan-altman-4ab470393",
+      "linkedinUrl": "https://www.linkedin.com/in/ryan-altman-4ab470393"
+    },
+    {
+      "id": "ACoAAGDUWqIBUXkqkbbkYj-65EFp0JI6Z2n4018",
+      "firstName": "Mike",
+      "lastName": "Russo",
+      "position": "Sales Specialist at Paramount Capital",
+      "publicIdentifier": "mike-russo-342075394",
+      "linkedinUrl": "https://www.linkedin.com/in/mike-russo-342075394"
+    },
+    {
+      "id": "ACoAAFYRPQ0BKPdvPfXOfT4nvHZJKJQHt1uXpQc",
+      "firstName": "Akshay",
+      "lastName": "Kumar",
+      "position": "Vagelos Life Sciences & Management @ Wharton + Penn",
+      "publicIdentifier": "akshay-kumar12",
+      "linkedinUrl": "https://www.linkedin.com/in/akshay-kumar12"
+    }
+  ],
+  "originalQuery": {
+    "query": "https://www.linkedin.com/in/sundarpichai"
+  }
+}

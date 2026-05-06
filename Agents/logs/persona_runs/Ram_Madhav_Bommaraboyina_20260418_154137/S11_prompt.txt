@@ -1,0 +1,495 @@
+SYSTEM: None
+
+USER: 
+You are the Senior Intelligence Director at a Palantir-grade research firm.
+You are delivering the final, authoritative verdict on this subject based on a complete intelligence dossier.
+This verdict is read by C-suite executives and investment committees. Precision and honesty are paramount.
+Do not soften findings. Do not inflate scores. Be direct.
+
+INPUT DATA — COMPLETE INTELLIGENCE DOSSIER (Sections 1–10):
+[
+  "{'section_id': 1, 'section_name': 'Identity Overview', 'person_id': 'ACoAAFWw7ZEBQ3ThuQDibWe3Z6BoAWqPUp5WwQ4', 'data': {'full_name': 'Ram Madhav Bommaraboyina', 'current_role': 'Intern', 'company': 'ICRISAT', 'location': 'Hyderabad, Telangana, India', 'profile_photo_url': None, 'linkedin_url': 'https://www.linkedin.com/in/ram-madhav-bommaraboyina-381576341', 'twitter_handle': None, 'linkedin_followers': 174, 'twitter_followers': 0, 'connections_count': 175, 'influence_score': 9, 'influence_score_breakdown': {'linkedin_followers_points': 2, 'twitter_followers_points': 0, 'posting_activity_points': 5, 'career_seniority_points': 2, 'web_presence_points': 0}, 'influence_score_rationale': 'Subject has 174 LinkedIn followers (2 points), maintains a presence on one platform (5 points), and holds an entry-level position as an intern (2 points). Twitter data and broader web presence were not detected.', 'data_confidence': 'medium', 'data_confidence_rationale': 'Data is sourced exclusively from LinkedIn; Twitter and public media presence are absent.'}}",
+  "{'section_id': 2, 'section_name': 'Professional Background', 'person_id': 'ACoAAFWw7ZEBQ3ThuQDibWe3Z6BoAWqPUp5WwQ4', 'data': {'current_role_summary': 'Aspiring Backend and AI developer specializing in building scalable web architectures and intelligent systems using Python, Django, and deep learning frameworks.', 'role_summary_bullets': ['Core Identity & Mission: Dedicated to bridging the gap between robust backend engineering and practical, scalable AI/ML application development.', 'Domain Mastery: Proven proficiency in Django, REST API architecture, and AI/ML model integration including RAG pipelines and YOLOv8 computer vision.', 'Quantifiable Impact: Engineered an automated ticket management system (Track-IT) with JWT-based security and an ANPR detection system utilizing YOLOv8 for automated process execution.', 'Strategic Scope: Focuses on full-stack development, moving from backend service design to implementing end-user facing recommendation engines and web interfaces.', 'Leadership Philosophy: Operates as a builder-centric developer, prioritizing system security, authentication, and user-interactive intelligent modules.', 'Current Momentum: Currently scaling industry-relevant experience as an Intern at ICRISAT while maintaining a technical foundation in Python, Java, and cloud-integrated frameworks.'], 'career_timeline': [{'company': 'ICRISAT', 'title': 'Intern', 'start_date': 'Nov 2025', 'end_date': 'Present', 'duration_months': 3, 'one_line_impact': 'Contributing to technical development efforts leveraging Python and Django frameworks.'}], 'education_history': [{'institution': 'Neil Gogte Institute of Technology', 'degree': 'Bachelor of Engineering', 'field_of_study': 'Not specified', 'graduation_year': '2025'}, {'institution': 'sri chaitanya junior college', 'degree': '12th', 'field_of_study': 'Not specified', 'graduation_year': 'Not specified'}], 'total_years_experience': 0, 'industry_expertise_areas': ['Software Development', 'Artificial Intelligence', 'Machine Learning', 'Web Development', 'Computer Vision', 'Backend Systems'], 'data_confidence': 'high', 'data_confidence_rationale': \"Data is sourced directly from the subject's LinkedIn profile, providing verifiable career, education, and technical project information.\"}}",
+  {
+    "section_id": 3,
+    "section_name": "Skills & Expertise",
+    "person_id": "ACoAAFWw7ZEBQ3ThuQDibWe3Z6BoAWqPUp5WwQ4",
+    "data": {
+      "top_technical_skills": [
+        {
+          "skill": "Python",
+          "category": "Language",
+          "evidence_level": "High",
+          "evidence_source": "Experience Description"
+        },
+        {
+          "skill": "Django",
+          "category": "Framework",
+          "evidence_level": "High",
+          "evidence_source": "Experience Description"
+        },
+        {
+          "skill": "Django REST Framework (DRF)",
+          "category": "Framework",
+          "evidence_level": "High",
+          "evidence_source": "Experience Description"
+        },
+        {
+          "skill": "YOLOv8",
+          "category": "Tool",
+          "evidence_level": "High",
+          "evidence_source": "About"
+        },
+        {
+          "skill": "RAG (Retrieval-Augmented Generation)",
+          "category": "Methodology",
+          "evidence_level": "High",
+          "evidence_source": "About"
+        },
+        {
+          "skill": "REST APIs",
+          "category": "Methodology",
+          "evidence_level": "High",
+          "evidence_source": "About"
+        },
+        {
+          "skill": "JWT (JSON Web Token)",
+          "category": "Methodology",
+          "evidence_level": "Medium",
+          "evidence_source": "Experience Description"
+        },
+        {
+          "skill": "Java",
+          "category": "Language",
+          "evidence_level": "Medium",
+          "evidence_source": "LinkedIn Skills"
+        },
+        {
+          "skill": "Spring Boot",
+          "category": "Framework",
+          "evidence_level": "Medium",
+          "evidence_source": "LinkedIn Skills"
+        },
+        {
+          "skill": "MongoDB",
+          "category": "Tool",
+          "evidence_level": "Medium",
+          "evidence_source": "LinkedIn Skills"
+        },
+        {
+          "skill": "Scikit-Learn",
+          "category": "Tool",
+          "evidence_level": "Medium",
+          "evidence_source": "LinkedIn Skills"
+        },
+        {
+          "skill": "NumPy",
+          "category": "Tool",
+          "evidence_level": "Medium",
+          "evidence_source": "LinkedIn Skills"
+        }
+      ],
+      "domain_expertise": [
+        {
+          "domain": "AI/ML Development",
+          "depth": "Practitioner",
+          "evidence": "Applied YOLOv8 for computer vision and implemented RAG pipelines and LLM integration."
+        },
+        {
+          "domain": "Backend Web Engineering",
+          "depth": "Practitioner",
+          "evidence": "Experience designing REST APIs and architecture using Django and DRF."
+        },
+        {
+          "domain": "Agro-met AI Advisory",
+          "depth": "Aware",
+          "evidence": "Currently interning at ICRISAT on AI-powered agro-met advisory scaling."
+        }
+      ],
+      "soft_skills_signals": [
+        {
+          "skill": "System Architecture Design",
+          "signal_source": "About",
+          "justification": "Explicitly states experience in 'designing REST APIs and backend architectures'."
+        },
+        {
+          "skill": "Full-Stack Integration",
+          "signal_source": "About",
+          "justification": "Mentions 'bridging the gap between robust backend engineering and practical AI applications'."
+        }
+      ],
+      "skill_gaps_or_blind_spots": [
+        "Lack of demonstrated cloud infrastructure or deployment pipeline (CI/CD) expertise.",
+        "Minimal evidence of professional team-based agile software development methodology."
+      ],
+      "skill_progression_narrative": "Ram Madhav transitioned from a foundational education in Engineering to building specialized web systems, evidenced by his role-based 'Track-IT' project. He has since evolved his expertise to integrate complex AI/ML pipelines, such as RAG and Computer Vision, applying these skills in an industrial research context at ICRISAT.",
+      "data_confidence": "high",
+      "data_confidence_rationale": "Profile is current and provides specific project-based evidence supporting the stated technical skill set and recent industrial experience."
+    }
+  },
+  {
+    "section_id": 4,
+    "section_name": "Behavioral Intelligence Suite",
+    "person_id": "UNKNOWN_ID",
+    "data": {
+      "behavioral_profile": {
+        "archetype": "The Builder",
+        "one_line_description": "Technical professional focused on integrating AI architectures into scalable, real-world backend infrastructure projects.",
+        "trait_tags": [
+          "Infrastructure Focused",
+          "Systemic Thinker",
+          "Integration Oriented"
+        ]
+      },
+      "trait_scores": {
+        "dominance": 55,
+        "expressiveness": 40,
+        "pace": 65,
+        "pragmatism": 85,
+        "risk_appetite": 45,
+        "social_energy": 50
+      },
+      "working_style": {
+        "decision_making": "Prioritizes functional feasibility and proven architectural performance over theoretical models.",
+        "collaboration": "Prefers structured cross-functional alignment within large-scale institutional frameworks.",
+        "conflict_style": "Resolves technical bottlenecks through standardization and objective, data-driven optimization.",
+        "pace": "Consistent, methodically scaling systems according to predefined project roadmaps."
+      },
+      "what_drives_them": {
+        "energizers": [
+          "Implementing RAG pipelines",
+          "Standardizing agri-data ecosystems",
+          "Transitioning ML from pilot to scale",
+          "Optimizing LLM architecture"
+        ],
+        "drainers": [
+          "Lack of standardized data inputs",
+          "Ambiguous project roadmaps",
+          "Non-scalable architectural designs",
+          "Disjointed departmental silos"
+        ]
+      },
+      "engagement_guide": {
+        "how_to_open": [
+          "Reference current AI-enabled infrastructure challenges",
+          "Lead with specific technical hurdles in scaling systems",
+          "Acknowledge their role in bridging backend and AI"
+        ],
+        "how_to_run_meeting": [
+          "Focus on architecture design and capacity strengthening",
+          "Structure around concrete project milestones and roadmaps",
+          "Maintain a technical, results-oriented discussion format"
+        ],
+        "how_to_email": [
+          "State technical requirements immediately",
+          "Avoid vague or high-level strategic speculation",
+          "Include actionable, logic-based queries"
+        ],
+        "how_to_follow_up": [
+          "Reference specific progress on deployment or integration",
+          "Provide documentation on standardization outcomes",
+          "Ask for feedback on implementation constraints"
+        ],
+        "how_to_build_trust": [
+          "Demonstrate reliability in backend deployment",
+          "Deliver robust, clean, and scalable code",
+          "Show competence in multi-tool integration like YOLOv8"
+        ]
+      },
+      "blind_spots": [
+        "Over-emphasis on technical perfection over user-facing UI/UX",
+        "Potential tunnel vision regarding non-technical stakeholder priorities",
+        "Risk of prioritizing system robustness at the expense of agility"
+      ],
+      "dos_and_donts": {
+        "dos": [
+          "Discuss RAG and LLM architecture integration",
+          "Focus on system scalability and data standards",
+          "Prioritize technical depth and implementation rigor",
+          "Reference institutional project roadmaps"
+        ],
+        "donts": [
+          "Avoid abstract concepts without technical proof",
+          "Do not ignore backend architectural constraints",
+          "Avoid non-empirical, speculative AI trends",
+          "Do not bypass standardized communication channels"
+        ]
+      },
+      "data_confidence": "medium",
+      "data_confidence_rationale": "Analysis based on professional profile summary and specific participation in institutional data-standardization projects."
+    }
+  },
+  {
+    "section_id": 5,
+    "section_name": "Online Presence & Activity",
+    "person_id": "ACoAAFWw7ZEBQ3ThuQDibWe3Z6BoAWqPUp5WwQ4",
+    "data": {
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/ram-madhav-bommaraboyina-381576341",
+        "followers": 174,
+        "posts_analyzed": 1,
+        "posting_frequency": "Rarely",
+        "avg_likes_per_post": 253,
+        "avg_comments_per_post": 4,
+        "top_topics": [
+          "AI-powered Agro-met Advisories",
+          "Mission Mausam",
+          "Agri-data ecosystems",
+          "LLM architecture",
+          "Agricultural research"
+        ],
+        "last_post_date": "2025-12-22T15:27:50.229Z",
+        "last_post_summary": "Reported on a 3-day ICRISAT review program regarding 'AI-powered Agro-met Advisories at Scale', highlighting multi-institutional collaboration under Mission Mausam."
+      },
+      "twitter": {
+        "handle": null,
+        "url": null,
+        "followers": 0,
+        "posts_analyzed": 0,
+        "posting_frequency": "Unknown",
+        "top_topics": [],
+        "avg_likes_per_tweet": 0,
+        "avg_retweets_per_tweet": 0,
+        "last_tweet_date": null
+      },
+      "github": {
+        "url": "https://github.com/rammadhav929",
+        "found": true
+      },
+      "personal_website": "",
+      "other_platforms": [
+        "Hugging Face (https://huggingface.co/spaces/rammadhav929/yolov8-anpr-demo)"
+      ],
+      "overall_digital_footprint": "Moderate",
+      "recent_activity_summary": "Ram Madhav is actively focused on technical AI and backend development, specifically maintaining GitHub repositories for projects like the WhatsApp AI Assistant and RAG-based document systems. He recently shared updates regarding collaborative efforts at ICRISAT on AI-enabled agricultural advisory services.",
+      "data_confidence": "medium",
+      "data_confidence_rationale": "Data is consistent across LinkedIn and GitHub, though direct posting activity on social platforms is sparse. LinkedIn data was partially limited by platform access."
+    }
+  },
+  {
+    "raw": {
+      "section_id": 6,
+      "section_name": "Content & Thought Leadership",
+      "person_id": "rammadhav929",
+      "data": {
+        "articles_and_blogs": [],
+        "podcast_appearances": [],
+        "conference_talks": [],
+        "interviews": [],
+        "key_topics_covered": [
+          "AI-integrated backend engineering",
+          "Retrieval Augmented Generation (RAG)",
+          "Computer Vision and YOLOv8",
+          "Cloud-hosted AI deployments"
+        ],
+        "content_volume": "None",
+        "thought_leadership_tier": "None",
+        "thought_leadership_assessment": "The subject has no external footprint in terms of articles, podcasts, or conference talks and operates primarily as an individual technical contributor. They are currently known for building and documenting hands-on AI-integrated software projects on GitHub rather than contributing to professional thought leadership discourse.",
+        "data_confidence": "high",
+        "data_confidence_rationale": "A thorough search of professional and academic platforms yielded zero evidence of external content, confirming a lack of public thought leadership footprint."
+      }
+    }
+  },
+  {
+    "section_id": 7,
+    "section_name": "Network & Influence",
+    "person_id": "ACoAAFWw7ZEBQ3ThuQDibWe3Z6BoAWqPUp5WwQ4",
+    "data": {
+      "notable_collaborations": [],
+      "associated_companies": [
+        {
+          "company": "ICRISAT",
+          "role": "Intern",
+          "type": "Employer"
+        },
+        {
+          "company": "Neil Gogte Institute of Technology",
+          "role": "Student",
+          "type": "Education"
+        },
+        {
+          "company": "sri chaitanya junior college",
+          "role": "Student",
+          "type": "Education"
+        }
+      ],
+      "industry_communities": [],
+      "media_mentions": [],
+      "network_reach": "Tier 4 (Niche)",
+      "network_strength_assessment": "The subject maintains a localized network primarily centered around academic and internship environments in Hyderabad. Professional connections appear to be limited to immediate project collaborators and regional educational peers.",
+      "data_confidence": "high",
+      "data_confidence_rationale": "Data is based on verifiable LinkedIn and GitHub presence, showing clear academic and internship history without evidence of broader public or industrial networks."
+    }
+  },
+  {
+    "section_id": 8,
+    "section_name": "Tactical Outreach Playbook",
+    "person_id": "UNKNOWN_ID",
+    "data": {
+      "outreach_scripts": {
+        "email_draft": {
+          "subject": "Scalability hurdles in AI-powered agro-met advisories",
+          "body": "Your recent review on AI-powered agro-met advisories highlighted critical needs in standardizing agri-data ecosystems and transitioning ML models from pilot to production. I am reaching out to discuss your specific architectural bottlenecks in scaling these LLM pipelines.\n\nSpecifically, I would like to touch on:\n1. Infrastructure constraints preventing seamless ML-to-deployment transition.\n2. Standardizing backend data inputs to support multi-tool (e.g., YOLOv8) integration.\n3. Ensuring RAG pipeline robustness within institutional frameworks like Mission Mausam.\n\nDo you have capacity to review a brief architectural brief on optimizing these backend infrastructure layers?"
+        },
+        "linkedin_inmail": {
+          "body": "Found your recent ICRISAT post on 'AI-powered Agro-met Advisories at Scale' insightful. Scaling ML from pilot to production remains the toughest architectural hurdle. I'd love to share some notes on standardizing backend infrastructure for these pipelines. Open to a brief technical exchange?"
+        }
+      },
+      "high_resonance_topics": [
+        "Standardization of agri-data inputs for scalable ML",
+        "Transitioning LLM/RAG pilots to production-grade infrastructure",
+        "Backend bottleneck resolution in complex multi-tool architectures",
+        "Systemic alignment of AI-frameworks within large-scale institutional roadmaps"
+      ],
+      "topics_to_avoid": [
+        "Speculative or buzzword-heavy AI trends without empirical data",
+        "UI/UX-centric feature discussions",
+        "Ambiguous, non-technical strategic roadmaps",
+        "Oversimplified software-as-a-service pitches"
+      ],
+      "conversation_starters": [
+        {
+          "opener": "I noticed the focus on 'standardizing agri-data ecosystems' at the Mission Mausam review\u2014how are you currently managing the ingestion bottleneck at the architecture level?",
+          "context": "Directly references their stated interest in data standardization and systemic thinking."
+        },
+        {
+          "opener": "Regarding the transition from pilot to scale for agro-met advisories: what is your primary concern for infrastructure robustness when deploying these LLM pipelines?",
+          "context": "Addresses the specific pain point of scaling AI, leveraging their 'Builder' archetype."
+        },
+        {
+          "opener": "What is the biggest limitation you're seeing in the current backend architecture when integrating YOLOv8 with your wider ML-based decision structures?",
+          "context": "Uses a technical, implementation-heavy query to demonstrate competence."
+        }
+      ],
+      "optimization": {
+        "best_channel": "LinkedIn",
+        "best_days": [
+          "Tuesday",
+          "Wednesday"
+        ],
+        "suggested_time_of_day": "09:00 AM - 11:00 AM"
+      },
+      "data_confidence": "high"
+    }
+  },
+  "{'section_id': 9, 'section_name': 'Achievements & Milestones', 'person_id': 'ACoAAFWw7ZEBQ3ThuQDibWe3Z6BoAWqPUp5WwQ4', 'data': {'notable_achievements': [{'achievement': 'Developed ANPR Challan System with computer vision', 'context': 'Automated vehicle number plate detection and email notification system using YOLOv8', 'quantified_impact': '83.7% mAP@0.5 for plate detection and 83.6% mAP@0.5 for character detection', 'source': 'Web'}, {'achievement': 'Architected RAG-based document QA system', 'context': 'Built a pipeline for semantic document analysis using FAISS and Meta Llama-3.1-8B-Instruct', 'quantified_impact': None, 'source': 'Web'}, {'achievement': 'Engineered WhatsApp AI Assistant', 'context': 'Developed a cloud-hosted backend for real-time automated messaging via Google Gemini integration', 'quantified_impact': None, 'source': 'Web'}, {'achievement': 'Built Track-IT Ticket Management System', 'context': 'Developed a secure, role-based system using Django REST Framework and JWT authentication', 'quantified_impact': None, 'source': 'LinkedIn'}], 'companies_built_or_scaled': [], 'products_launched': [{'product': 'ANPR Challan-System', 'context': 'Web application for automated traffic law enforcement', 'impact': 'Deployed as a live demo on Hugging Face'}, {'product': 'CineVerse AI Multi Language Movie Recommender', 'context': 'Recommendation engine for English, Hindi, and Telugu films', 'impact': 'Integrated with AI-powered chatbot and interactive trailer view'}], 'awards_and_recognition': [], 'career_highlight': 'Successfully engineered and deployed specialized AI solutions, including a YOLOv8-based ANPR system achieving 83.7% mAP and a RAG-based document QA pipeline.', 'achievement_density': 'Medium', 'data_confidence': 'high', 'data_confidence_rationale': 'All achievements are corroborated by specific GitHub repository READMEs and LinkedIn project descriptions.'}}",
+  {
+    "section_id": 10,
+    "section_name": "Risk & Red Flags",
+    "person_id": "ACoAAFWw7ZEBQ3ThuQDibWe3Z6BoAWqPUp5WwQ4",
+    "data": {
+      "job_hopping_signal": {
+        "detected": false,
+        "roles_analyzed": 0,
+        "average_tenure_months": 0,
+        "shortest_tenure_months": 0,
+        "assessment": "Subject is currently in an early-career internship role with insufficient historical employment data to trigger job-hopping indicators."
+      },
+      "controversial_statements": [],
+      "failed_ventures": [],
+      "reputation_signals": [],
+      "legal_or_regulatory_issues": [],
+      "data_gaps": [
+        "No verifiable professional history beyond current internship.",
+        "LinkedIn profile content is restricted/not fully scrapable.",
+        "No social media or press coverage available for background verification."
+      ],
+      "overall_risk_rating": "Low",
+      "risk_summary": "The subject presents a low-risk profile as an early-career developer with no evidence of professional misconduct. Available data confirms a consistent focus on technical skill development and open-source project contributions.",
+      "data_confidence": "medium",
+      "data_confidence_rationale": "Confidence is medium due to the lack of historical employment data and restricted access to the full LinkedIn profile, despite clear visibility of technical work via GitHub."
+    }
+  },
+  {
+    "section_id": "social_post_intelligence",
+    "section_name": "Social Media Post Intelligence",
+    "person_id": "UNKNOWN_ID",
+    "data": {
+      "content_analysis": {
+        "top_topics": [
+          "Agricultural Technology",
+          "Artificial Intelligence",
+          "Climate Resilient Agriculture",
+          "Institutional Collaboration"
+        ],
+        "posting_pattern": "Shares substantive, project-based updates documenting organizational milestones and multi-stakeholder initiatives.",
+        "content_style": "Formal, institutional, and technical, focusing on project outcomes and cross-agency collaborative efforts.",
+        "engagement_insight": "High engagement driven by technical milestone announcements and multi-partner project reporting."
+      },
+      "post_breakdown": [
+        {
+          "platform": "LinkedIn",
+          "type": "Post",
+          "brief_description": "Reviewing 3-day program on AI-powered agro-met advisories at scale under Mission Mausam.",
+          "theme": "Agri-Tech",
+          "engagement_style": "Informational reporting"
+        }
+      ],
+      "summaries": {
+        "posts": [
+          "Collaborative AI Implementation: Hosted multi-agency review for AI-powered agro-met advisories.",
+          "Program Scaling: Facilitated standardization and planning for AI-enabled decision structures in agriculture.",
+          "Strategic Partnerships: Coordinated across multiple research and meteorological institutes for Mission Mausam."
+        ],
+        "reposts": []
+      }
+    }
+  }
+]
+
+PROFILE STRENGTH SCORE METHODOLOGY (apply exactly):
+  Start at 0. Add points as follows:
+  - Career depth (Section 2):     Strong timeline with quantified impact=20, moderate=12, minimal=5
+  - Skills breadth (Section 3):   10+ high-evidence skills=15, 5–9=10, <5=5
+  - Online influence (Section 1): influence_score >= 70=15, 40–69=10, <40=5
+  - Content output (Section 6):   Thought Leadership Tier "Authority"=15, "Active"=10, "Emerging"=5, lower=0
+  - Network strength (Section 7): Tier 1–2=15, Tier 3=8, Tier 4=3, Unknown=0
+  - Risk profile (Section 10):    Low risk=20, Medium=12, High=5, Critical=0
+  Cap final score at 100.
+
+Output ONLY this JSON:
+{
+  "section_id": 11,
+  "section_name": "AI Analyst Verdict",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "profile_strength_score": 0,
+    "profile_strength_breakdown": {
+      "career_depth_points": 0,
+      "skills_breadth_points": 0,
+      "online_influence_points": 0,
+      "content_output_points": 0,
+      "network_strength_points": 0,
+      "risk_profile_points": 0
+    },
+    "profile_strength_rationale": "",
+    "key_strengths": [
+      "",
+      "",
+      ""
+    ],
+    "key_concerns": [
+      "",
+      ""
+    ],
+    "one_line_verdict": "",
+    "recommended_use_cases": [],
+    "use_case_rationale": "",
+    "intelligence_gaps": [],
+    "confidence_level": "High|Medium|Low",
+    "confidence_rationale": ""
+  }
+}
+
+RULES:
+- Apply the profile strength score methodology above exactly. Show the breakdown.
+- profile_strength_rationale: 2-3 sentences explaining the score — what drove it up and what capped it.
+- key_strengths: exactly 3 items. Each must be specific, derived from data, and non-generic. "Strong communicator" is not acceptable. "Published in Forbes, keynoted SaaStr 2023" is acceptable.
+- key_concerns: exactly 2 items. Be honest — if the profile is clean, flag data gaps or limited verifiability as concerns.
+- one_line_verdict: the single most important takeaway. Max 20 words. Specific. Actionable. No filler.
+  Good: "High-credibility technical founder with proven AI scale — best approached via LinkedIn referral for partnership or investment."
+  Bad: "Impressive professional with a strong background in technology."
+- recommended_use_cases: array of applicable options from ["Sales Target", "Investment Target", "Strategic Partnership", "Recruitment", "Advisory", "Monitor Only", "Insufficient Data"].
+- intelligence_gaps: critical data that was missing and would change the assessment if available. Max 4.
+- confidence_level: High = all 10 sections had sufficient data. Medium = 6–9 sections. Low = fewer than 6.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

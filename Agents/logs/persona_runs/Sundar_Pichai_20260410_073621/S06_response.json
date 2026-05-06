@@ -1,0 +1,64 @@
+{
+  "section_id": 6,
+  "section_name": "Content & Thought Leadership",
+  "person_id": "UNKNOWN_ID",
+  "generated_at": "2025-05-14T12:00:00Z",
+  "data": {
+    "articles_and_blogs": [
+      {
+        "title": "Google CEO Sundar Pichai: Data centers in space will be ...",
+        "url": "https://fortune.com/article/what-is-google-ceo-sundar-pichai-timeline-ai-data-centers-in-space/",
+        "date": "2026-04-03",
+        "source": "Fortune",
+        "summary": "Discussion on the future of data centers in space and Project Suncatcher."
+      }
+    ],
+    "podcast_appearances": [
+      {
+        "show_name": "Release Notes",
+        "episode_title": "Logan Kilpatrick Interview",
+        "url": "https://lnkd.in/erbH7dtx",
+        "date": "2025-11-26"
+      },
+      {
+        "show_name": "Cheeky Pint",
+        "episode_title": "AI with Elad Gil and collision",
+        "url": null,
+        "date": "2026-04-07"
+      }
+    ],
+    "conference_talks": [
+      {
+        "event": "AI Impact Summit 2026",
+        "talk_title": "Opening ceremony remarks",
+        "date": "2026-04",
+        "url": "https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/"
+      },
+      {
+        "event": "NRF 2026",
+        "talk_title": "Retail AI transformation",
+        "date": "2026-01-12",
+        "url": null
+      },
+      {
+        "event": "Stanford 135th Commencement",
+        "talk_title": "Commencement address",
+        "date": "2026-06-14",
+        "url": null
+      }
+    ],
+    "interviews": [],
+    "key_topics_covered": [
+      "Artificial Intelligence & Gemini Development",
+      "Cloud Infrastructure & Data Centers",
+      "Global Accessibility of Information",
+      "Product Innovation",
+      "Sustainability in Technology"
+    ],
+    "content_volume": "High",
+    "thought_leadership_tier": "Industry Authority",
+    "thought_leadership_assessment": "As the CEO of Alphabet and Google, Pichai is an industry authority evidenced by frequent keynote addresses at major summits and regular updates on high-impact technological deployments. He is primarily known for his strategic focus on scaling Artificial Intelligence, global connectivity initiatives, and the long-term future of computing.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "High density of verified data points across social media, official corporate blog channels, and reputable financial news sources."
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "section_id": 3,
+  "section_name": "Skills & Expertise",
+  "person_id": "jeremy-yu-68928a6",
+  "data": {
+    "top_technical_skills": [
+      {
+        "skill": "Agentic AI / Multi-agent Systems",
+        "category": "Domain",
+        "evidence_level": "High",
+        "evidence_source": "Experience Description"
+      },
+      {
+        "skill": "Python",
+        "category": "Language",
+        "evidence_source": "Experience Description",
+        "evidence_level": "High"
+      },
+      {
+        "skill": "Retrieval-Augmented Generation (RAG)",
+        "category": "Methodology",
+        "evidence_source": "Experience Description",
+        "evidence_level": "High"
+      },
+      {
+        "skill": "AWS",
+        "category": "Platform",
+        "evidence_source": "Experience Description",
+        "evidence_level": "High"
+      },
+      {
+        "skill": "Solution Architecture",
+        "category": "Methodology",
+        "evidence_source": "Experience Description",
+        "evidence_level": "High"
+      },
+      {
+        "skill": "Machine Learning",
+        "category": "Domain",
+        "evidence_source": "Experience Description",
+        "evidence_level": "High"
+      },
+      {
+        "skill": "Vector Databases",
+        "category": "Tool",
+        "evidence_source": "Experience Description",
+        "evidence_level": "Medium"
+      },
+      {
+        "skill": "LangChain",
+        "category": "Framework",
+        "evidence_source": "Experience Description",
+        "evidence_level": "Medium"
+      },
+      {
+        "skill": "AI Observability",
+        "category": "Methodology",
+        "evidence_source": "Experience Description",
+        "evidence_level": "Medium"
+      },
+      {
+        "skill": "Knowledge Graphs",
+        "category": "Tool",
+        "evidence_source": "Experience Description",
+        "evidence_level": "Medium"
+      },
+      {
+        "skill": "Node.js",
+        "category": "Language",
+        "evidence_source": "Experience Description",
+        "evidence_level": "Low"
+      },
+      {
+        "skill": "Docker / Kubernetes",
+        "category": "Tool",
+        "evidence_source": "Experience Description",
+        "evidence_level": "Low"
+      }
+    ],
+    "domain_expertise": [
+      {
+        "domain": "Enterprise AI Strategy",
+        "depth": "Expert",
+        "evidence": "Principal Solution Architecture role leading enterprise AI adoption at Lyzr and prior strategy roles at Teradata/SAP."
+      },
+      {
+        "domain": "Financial Services AI",
+        "depth": "Practitioner",
+        "evidence": "Delivered agentic AI solutions for major firms including BMO, Willis Towers Watson, and Accenture."
+      },
+      {
+        "domain": "Media & Entertainment Analytics",
+        "depth": "Expert",
+        "evidence": "Extensive tenure at Warner Home Video, Screen Engine, and OTX in box office/consumer behavior forecasting."
+      },
+      {
+        "domain": "Marketing & AdTech",
+        "depth": "Expert",
+        "evidence": "Product Leadership at Viant and Nativo, focusing on Identity Resolution and DMP systems."
+      },
+      {
+        "domain": "Cloud Data Platforms",
+        "depth": "Practitioner",
+        "evidence": "Architecting analytics platforms on AWS and SAP HANA during Teradata and SAP tenures."
+      }
+    ],
+    "soft_skills_signals": [
+      {
+        "skill": "Executive Advisory",
+        "signal_source": "About",
+        "justification": "Self-described as a 'trusted advisor in client engagements\u2014leading executive workshops.'"
+      },
+      {
+        "skill": "Solution Selling",
+        "signal_source": "Recommendations",
+        "justification": "Endorsed for building a 'massive repository of Agentic AI use cases' that served as a 'primary sales engine'."
+      },
+      {
+        "skill": "Speed of Execution",
+        "signal_source": "Recommendations",
+        "justification": "Cited by a colleague for having a 'functional, high-quality demo ready by the afternoon' for complex use cases."
+      },
+      {
+        "skill": "Stakeholder Management",
+        "signal_source": "Recommendations",
+        "justification": "Praised for ability to 'quickly understand complex customer contexts, connect the right stakeholders, and remove friction'."
+      },
+      {
+        "skill": "Cross-Functional Leadership",
+        "signal_source": "Experience",
+        "justification": "Experience describes leading 'cross-functional collaboration between product, engineering, and sales leadership'."
+      }
+    ],
+    "skill_gaps_or_blind_spots": [],
+    "skill_progression_narrative": "Jeremy evolved from a focus on traditional market research and statistical modeling for the media industry to a cloud-native architecture expert at global tech firms like SAP and Teradata. He has now successfully transitioned into an AI Product Leader, specializing in the development of agentic AI frameworks and autonomous enterprise workflows.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "Profile data includes detailed work history, specific technical stack mentions, and verified professional recommendations."
+  }
+}

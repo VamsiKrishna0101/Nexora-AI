@@ -1,0 +1,335 @@
+SYSTEM: None
+
+USER: 
+You are a Career Intelligence Analyst at a Palantir-grade research firm.
+Synthesize a precise, evidence-based Professional Background for the subject.
+Every claim must be traceable to the input data.
+
+INPUT DATA:
+LinkedIn Profile: {
+  "url": "https://www.linkedin.com/in/lia-hofmann-2945a2229",
+  "username": "lia-hofmann-2945a2229",
+  "linkedin_id": "ACoAADk3xRAB69zRTh7jdt5UdA6JfWRk9a4nQGs",
+  "first_name": "Lia",
+  "last_name": "Hofmann",
+  "full_name": "Lia Hofmann",
+  "headline": "GTM @Lio (YC23) | Building the world\u2019s first multi-agent Al system for procurement",
+  "is_influencer": false,
+  "is_premium": true,
+  "is_memorialized": false,
+  "location": "Germany",
+  "location_raw": "Germany",
+  "country_full": "Germany",
+  "state": "",
+  "city": "",
+  "profile_picture_url": "https://media.licdn.com/dms/image/v2/C4E03AQF0vYKD21xZ9w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1667950709574?e=1778112000&v=beta&t=cFNdYLEUoKRcJvpq-L_ZO3PB1wJN_r-1v8DeWKMU1YQ",
+  "top_skills": [],
+  "linkedin_followers": 1440,
+  "connections_count": 1427,
+  "about": null,
+  "current_positions": [
+    {
+      "company_name": "Lio (formerly askLio)",
+      "company_linkedin_url": "https://www.linkedin.com/company/lio-ai/",
+      "date_range": null
+    }
+  ],
+  "experiences": [
+    {
+      "title": "GTM",
+      "company": "Lio (formerly askLio)",
+      "duration": "1 mo",
+      "description": null,
+      "skills": [],
+      "start_date": {
+        "month": "Apr",
+        "year": 2026,
+        "text": "Apr 2026"
+      },
+      "end_date": {
+        "text": "Present"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQHcwtXXLPDPFw/company-logo_400_400/B4DZy516IgIgAY-/0/1772644443012/lio_ai_logo?e=1778112000&v=beta&t=lHCbTgK_oh-d84q7U2-j8siCCQSfeZyMYcRyEwMwOCU"
+    },
+    {
+      "title": "Freelance | GTM",
+      "company": "Novosafe GmbH",
+      "duration": "5 mos",
+      "description": "Novosafe develops digital safety and alarm solutions for both B2B and B2C customers\n\nBuilt and executed the go-to-market strategy, including lead generation and automation workflows for retail chains",
+      "skills": [],
+      "start_date": {
+        "month": "Sep",
+        "year": 2025,
+        "text": "Sep 2025"
+      },
+      "end_date": {
+        "month": "Jan",
+        "year": 2026,
+        "text": "Jan 2026"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQEBJcWX1JlJBQ/company-logo_400_400/B4DZg3cNe4GQAc-/0/1753276799533/novosafe_de_logo?e=1778112000&v=beta&t=BXyTJAcQ8zstypPOiN4AJS_mpG45bkfp6qhqqVZPRwU"
+    },
+    {
+      "title": "Founders Associate | Venture Building",
+      "company": "Firstlane Capital",
+      "duration": "3 mos",
+      "description": "Firstlane is an entrepreneur-led family office supporting founders in developing and scaling tech-driven business models\n\nSupported the development of Finperks\u2019 early-stage strategy alongside a team of serial founders",
+      "skills": [],
+      "start_date": {
+        "month": "Jun",
+        "year": 2025,
+        "text": "Jun 2025"
+      },
+      "end_date": {
+        "month": "Aug",
+        "year": 2025,
+        "text": "Aug 2025"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQGRraNdMhaVsA/company-logo_400_400/B4EZl61Qa5KsAc-/0/1758702405924/firstlanecapital_logo?e=1778112000&v=beta&t=GDfPMPuHYoB_jiLy6FYeeoEEv0o96KKbBVTK8UhcVMk"
+    },
+    {
+      "title": "Working Student | Sales Strategy",
+      "company": "Wemolo",
+      "duration": "5 mos",
+      "description": "Wemolo shapes the future of digital parking through AI-based licence plate recognition\n\nSupported sales strategy, reporting, and lead qualification for the Austrian and Swiss markets",
+      "skills": [],
+      "start_date": {
+        "month": "Aug",
+        "year": 2024,
+        "text": "Aug 2024"
+      },
+      "end_date": {
+        "month": "Dec",
+        "year": 2024,
+        "text": "Dec 2024"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQFGGaFFA14t6g/company-logo_400_400/B4DZuNQu9RI8Ag-/0/1767601533207/wemolo_logo?e=1778112000&v=beta&t=_nOHMtbqK2Z1I4cvW-9I5cAciJcSs8nAi2UUOYHeFaE"
+    },
+    {
+      "title": "Intern | Sales Strategy",
+      "company": "Wemolo",
+      "duration": "3 mos",
+      "description": null,
+      "skills": [],
+      "start_date": {
+        "month": "May",
+        "year": 2024,
+        "text": "May 2024"
+      },
+      "end_date": {
+        "month": "Jul",
+        "year": 2024,
+        "text": "Jul 2024"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQFGGaFFA14t6g/company-logo_400_400/B4DZuNQu9RI8Ag-/0/1767601533207/wemolo_logo?e=1778112000&v=beta&t=_nOHMtbqK2Z1I4cvW-9I5cAciJcSs8nAi2UUOYHeFaE"
+    },
+    {
+      "title": "Intern | Marketing Strategy",
+      "company": "BMW Group",
+      "duration": "7 mos",
+      "description": "BMW Group is a leading global automotive manufacturer known for its premium brands BMW, MINI, and Rolls-Royce\n\nFocused on marketing strategy and planning for the German market, supporting campaigns and customer insights analysis",
+      "skills": [],
+      "start_date": {
+        "month": "Sep",
+        "year": 2023,
+        "text": "Sep 2023"
+      },
+      "end_date": {
+        "month": "Mar",
+        "year": 2024,
+        "text": "Mar 2024"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQEN_6AkmegD_Q/company-logo_400_400/B4DZnsM_VSGgAc-/0/1760604452665/bmw_group_logo?e=1778112000&v=beta&t=TXH_F1n_JSB2Y5-6Y_hpovbcvMMI8uJMPxX9_ZQz16Y"
+    },
+    {
+      "title": "Intern | Financial Consulting",
+      "company": "K\u00f6nigswege GmbH",
+      "duration": "1 mo",
+      "description": "K\u00f6nigswege is a financial advisory firm providing tailored investment and insurance consulting",
+      "skills": [],
+      "start_date": {
+        "month": "Oct",
+        "year": 2021,
+        "text": "Oct 2021"
+      },
+      "end_date": {
+        "month": "Oct",
+        "year": 2021,
+        "text": "Oct 2021"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQEDB78Su-1Waw/company-logo_400_400/company-logo_400_400/0/1630542956029/koenigswege_gmbh_logo?e=1778112000&v=beta&t=03ktcgb1pHaQf_yNHazXu0NWsS-krN08XhP7k4ZQFvU"
+    }
+  ],
+  "educations": [
+    {
+      "institution": "Nova School of Business and Economics",
+      "school_linkedin_url": "https://www.linkedin.com/company/2679078/",
+      "degree": "Master of Science - MS",
+      "field_of_study": "Management",
+      "skills": [],
+      "start_date": {
+        "month": "Aug",
+        "year": 2024,
+        "text": "Aug 2024"
+      },
+      "end_date": {
+        "month": "Jan",
+        "year": 2026,
+        "text": "Jan 2026"
+      },
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQERV9v6BB7yFw/company-logo_400_400/company-logo_400_400/0/1733237269995/nova_school_of_business_and_economics_logo?e=1778112000&v=beta&t=6s-NYtw8U1JeWu2rAINxiuQAXsxLjpnfgtoG-0ssX4g"
+    },
+    {
+      "institution": "National Taiwan University",
+      "school_linkedin_url": "https://www.linkedin.com/company/554182/",
+      "degree": "Economics",
+      "field_of_study": null,
+      "skills": [],
+      "start_date": {
+        "month": "Feb",
+        "year": 2023,
+        "text": "Feb 2023"
+      },
+      "end_date": {
+        "month": "Jun",
+        "year": 2023,
+        "text": "Jun 2023"
+      },
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQGAh08jkWo23Q/company-logo_400_400/company-logo_400_400/0/1679904708552/national_taiwan_university_logo?e=1778112000&v=beta&t=oYALMQKSIfEgxFYUS0nQNrEKBDccGQWWa5uhO25jtTs"
+    },
+    {
+      "institution": "Maastricht University School of Business and Economics",
+      "school_linkedin_url": "https://www.linkedin.com/company/15142521/",
+      "degree": "Bachelor of Science - BS",
+      "field_of_study": "Economics and Business Economics",
+      "skills": [],
+      "start_date": {
+        "year": 2020,
+        "text": "2020"
+      },
+      "end_date": {
+        "year": 2023,
+        "text": "2023"
+      },
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQEq7Uzxp4t1gQ/company-logo_400_400/B4DZvqT5P1IQAY-/0/1769162642837/maastricht_university_school_of_business_and_economics_logo?e=1778112000&v=beta&t=s8f7HTTfP10uL5yQbODoyc8D_CjvAYQb87ehSAl5QKo"
+    },
+    {
+      "institution": "Comenius Gymnasium",
+      "school_linkedin_url": "https://www.linkedin.com/search/results/all/?keywords=Comenius+Gymnasium",
+      "degree": "Abitur",
+      "field_of_study": null,
+      "skills": [],
+      "start_date": {
+        "month": "Jun",
+        "year": 2012,
+        "text": "Jun 2012"
+      },
+      "end_date": {
+        "month": "Jun",
+        "year": 2020,
+        "text": "Jun 2020"
+      },
+      "school_logo_url": null
+    }
+  ],
+  "skills": [],
+  "languages": [
+    "English",
+    "German",
+    "Spanish"
+  ],
+  "certifications": [],
+  "projects": [],
+  "volunteering": [
+    {
+      "role": "Member",
+      "organization": null,
+      "cause": null,
+      "description": null,
+      "start_date": {
+        "month": "Nov",
+        "year": 2021,
+        "text": "Nov 2021"
+      },
+      "end_date": {
+        "month": "Dec",
+        "year": 2022,
+        "text": "Dec 2022 \u00b7 1 yr 2 mos"
+      }
+    },
+    {
+      "role": "Marketing Director",
+      "organization": null,
+      "cause": null,
+      "description": "180 Degrees Consulting is the world\u2019s largest university-based consultancy for nonprofits and social enterprises\n\nLed the marketing strategy team and developed social media activation plans to strengthen client engagement",
+      "start_date": {
+        "month": "Dec",
+        "year": 2021,
+        "text": "Dec 2021"
+      },
+      "end_date": {
+        "month": "Dec",
+        "year": 2022,
+        "text": "Dec 2022 \u00b7 1 yr 1 mo"
+      }
+    }
+  ],
+  "recommendations": [],
+  "publications": [],
+  "courses": [],
+  "patents": [],
+  "honors_awards": [],
+  "causes": [
+    "Arts and Culture",
+    "Economic Empowerment"
+  ],
+  "featured": null
+}
+
+Output ONLY this JSON:
+{
+  "section_id": 2,
+  "section_name": "Professional Background",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "current_role_summary": "",
+    "role_summary_bullets": [
+      "Core Identity & Mission: ...",
+      "Domain Mastery: ...",
+      "Quantifiable Impact: ...",
+      "Strategic Scope: ...",
+      "Leadership Philosophy: ...",
+      "Current Momentum: ..."
+    ],
+    "career_timeline": [
+      {
+        "company": "",
+        "title": "",
+        "start_date": "",
+        "end_date": "",
+        "duration_months": 0,
+        "one_line_impact": ""
+      }
+    ],
+    "education_history": [
+      {
+        "institution": "",
+        "degree": "",
+        "field_of_study": "",
+        "graduation_year": ""
+      }
+    ],
+    "total_years_experience": 0,
+    "industry_expertise_areas": [],
+    "data_confidence": "high|medium|low",
+    "data_confidence_rationale": ""
+  }
+}
+
+RULES:
+- role_summary_bullets: exactly 6 items. Each covers a distinct dimension — do not repeat themes.
+- career_timeline: ordered newest-first. duration_months must be calculated, not estimated.
+- total_years_experience: calculate from earliest start_date to today, accounting for overlapping roles.
+- one_line_impact: extract a specific, measurable outcome from the role description. If none available, write a factual scope statement — never fabricate metrics.
+- industry_expertise_areas: max 6 items. Only include industries explicitly evidenced in the data.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

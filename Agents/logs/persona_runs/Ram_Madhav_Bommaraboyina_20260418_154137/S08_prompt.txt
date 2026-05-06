@@ -1,0 +1,155 @@
+SYSTEM: None
+
+USER: 
+You are a high-performance sales development and recruiting lead.
+Using the Behavioral Intelligence from Section 4, generate a specific outreach playbook.
+Focus on high-conversion scripts and tactical execution.
+
+INPUT DATA:
+Section 4 - Behavioral Intelligence Suite: {
+  "section_id": 4,
+  "section_name": "Behavioral Intelligence Suite",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "behavioral_profile": {
+      "archetype": "The Builder",
+      "one_line_description": "Technical professional focused on integrating AI architectures into scalable, real-world backend infrastructure projects.",
+      "trait_tags": [
+        "Infrastructure Focused",
+        "Systemic Thinker",
+        "Integration Oriented"
+      ]
+    },
+    "trait_scores": {
+      "dominance": 55,
+      "expressiveness": 40,
+      "pace": 65,
+      "pragmatism": 85,
+      "risk_appetite": 45,
+      "social_energy": 50
+    },
+    "working_style": {
+      "decision_making": "Prioritizes functional feasibility and proven architectural performance over theoretical models.",
+      "collaboration": "Prefers structured cross-functional alignment within large-scale institutional frameworks.",
+      "conflict_style": "Resolves technical bottlenecks through standardization and objective, data-driven optimization.",
+      "pace": "Consistent, methodically scaling systems according to predefined project roadmaps."
+    },
+    "what_drives_them": {
+      "energizers": [
+        "Implementing RAG pipelines",
+        "Standardizing agri-data ecosystems",
+        "Transitioning ML from pilot to scale",
+        "Optimizing LLM architecture"
+      ],
+      "drainers": [
+        "Lack of standardized data inputs",
+        "Ambiguous project roadmaps",
+        "Non-scalable architectural designs",
+        "Disjointed departmental silos"
+      ]
+    },
+    "engagement_guide": {
+      "how_to_open": [
+        "Reference current AI-enabled infrastructure challenges",
+        "Lead with specific technical hurdles in scaling systems",
+        "Acknowledge their role in bridging backend and AI"
+      ],
+      "how_to_run_meeting": [
+        "Focus on architecture design and capacity strengthening",
+        "Structure around concrete project milestones and roadmaps",
+        "Maintain a technical, results-oriented discussion format"
+      ],
+      "how_to_email": [
+        "State technical requirements immediately",
+        "Avoid vague or high-level strategic speculation",
+        "Include actionable, logic-based queries"
+      ],
+      "how_to_follow_up": [
+        "Reference specific progress on deployment or integration",
+        "Provide documentation on standardization outcomes",
+        "Ask for feedback on implementation constraints"
+      ],
+      "how_to_build_trust": [
+        "Demonstrate reliability in backend deployment",
+        "Deliver robust, clean, and scalable code",
+        "Show competence in multi-tool integration like YOLOv8"
+      ]
+    },
+    "blind_spots": [
+      "Over-emphasis on technical perfection over user-facing UI/UX",
+      "Potential tunnel vision regarding non-technical stakeholder priorities",
+      "Risk of prioritizing system robustness at the expense of agility"
+    ],
+    "dos_and_donts": {
+      "dos": [
+        "Discuss RAG and LLM architecture integration",
+        "Focus on system scalability and data standards",
+        "Prioritize technical depth and implementation rigor",
+        "Reference institutional project roadmaps"
+      ],
+      "donts": [
+        "Avoid abstract concepts without technical proof",
+        "Do not ignore backend architectural constraints",
+        "Avoid non-empirical, speculative AI trends",
+        "Do not bypass standardized communication channels"
+      ]
+    },
+    "data_confidence": "medium",
+    "data_confidence_rationale": "Analysis based on professional profile summary and specific participation in institutional data-standardization projects."
+  }
+}
+LinkedIn Posts (last 10): [
+  {
+    "type": "post",
+    "is_activity": true,
+    "url": "https://www.linkedin.com/posts/icrisat_icrisat-hosted-a-3-day-review-capacity-strengthening-ugcPost-7408826413245448192-ji2a?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAAWvnk0Bd6NNFDdu5-5QrShZux3soc8C-j8",
+    "text": "ICRISAT hosted a 3-day Review, Capacity Strengthening, Knowledge Transfer, and Planning program on \u201cAI-powered Agro-met Advisories at Scale\u201d from 17\u201319 December 2025, project under Mission Mausam, funded by the Ministry of Earth Sciences (MoES) and supported by ICAR- Indian Council of Agricultural Research, Indian Institute of Tropical Meteorology and India Meteorological Department. \n\nThe program brought together teams from ICRISAT, ICAR\u2013Central Research Institute for Dryland Agriculture, International Livestock Research Institute (ILRI), AICRPAM centres, IITM, and IMD. Discussions focused on key learnings from earlier pilots, progress achieved so far, standardization for agri-data ecosystems, ML-based decision structures, LLM architecture, fine-tuning approaches, AI framework, and the roadmap ahead for scaling AI-enabled agro- advisory services.\n\nDr Shalander Kumar Dr Kishore Kumar, Dr Ram Kiran Dhulipala Dr abburi subbarao, Dr Santanu Kumar Bal Ms Kanika Singh, Dr Sarath Chandran Dr Kailash Dhakore\n\nCGIAR, CGIAR Climate Action, CGIAR Digital Transformation",
+    "num_shares": 8,
+    "num_likes": 253,
+    "num_comments": 8,
+    "comments_count": 4,
+    "reactions_count": 10,
+    "posted_at": "2025-12-22T15:27:50.229Z",
+    "actor_name": "ICRISAT",
+    "actor_profile_url": "https://www.linkedin.com/company/icrisat/posts",
+    "post_type": "image"
+  }
+]
+Twitter Posts (last 10): []
+
+Output ONLY this JSON:
+{
+  "section_id": 8,
+  "section_name": "Tactical Outreach Playbook",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "outreach_scripts": {
+      "email_draft": {
+        "subject": "",
+        "body": ""
+      },
+      "linkedin_inmail": {
+        "body": ""
+      }
+    },
+    "high_resonance_topics": [],
+    "topics_to_avoid": [],
+    "conversation_starters": [
+      {"opener": "", "context": ""}
+    ],
+    "optimization": {
+      "best_channel": "LinkedIn|Email|Twitter|Secretariat",
+      "best_days": [],
+      "suggested_time_of_day": ""
+    },
+    "data_confidence": "high|medium|low"
+  }
+}
+
+RULES:
+- email_draft: must follow the subject's communication style (e.g., numbered points, no fluff if they are an Analyst).
+- linkedin_inmail: max 300 characters. Highly personalized based on a recent post or achievement.
+- high_resonance_topics: 3-5 specific topics they will definitively respond to.
+- conversation_starters: 3 unique, data-backed lines to start a verbal or text conversation.
+- optimization: infer best_days and time from post timestamps. If no timestamps, use industry defaults for their role.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

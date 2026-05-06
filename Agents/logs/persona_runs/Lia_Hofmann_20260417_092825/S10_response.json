@@ -1,0 +1,33 @@
+{
+  "section_id": 10,
+  "section_name": "Risk & Red Flags",
+  "person_id": "lia-hofmann-2945a2229",
+  "data": {
+    "job_hopping_signal": {
+      "detected": true,
+      "roles_analyzed": 6,
+      "average_tenure_months": 3.67,
+      "shortest_tenure_months": 1,
+      "assessment": "Subject's employment history is characterized by frequent, short-term internships and student roles, consistent with early-career development paths."
+    },
+    "controversial_statements": [],
+    "failed_ventures": [],
+    "reputation_signals": [
+      {
+        "signal": "Professional, collaborative, and career-focused presence",
+        "source": "LinkedIn activity",
+        "sentiment": "Positive"
+      }
+    ],
+    "legal_or_regulatory_issues": [],
+    "data_gaps": [
+      "Lack of personal website or verified social media presence beyond LinkedIn",
+      "No public records of speaking engagements or publications",
+      "Limited duration of historical roles makes long-term performance verification difficult"
+    ],
+    "overall_risk_rating": "Low",
+    "risk_summary": "The subject presents a low-risk profile consistent with an early-career professional in the startup and venture capital space. No evidence of professional misconduct, controversial statements, or negative reputation signals was identified.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "Data is corroborated by a well-maintained LinkedIn profile and recent, verifiable career announcements; no external negative data points exist."
+  }
+}

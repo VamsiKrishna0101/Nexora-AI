@@ -1,0 +1,58 @@
+{
+  "section_id": "social_post_intelligence",
+  "section_name": "Social Media Post Intelligence",
+  "person_id": "Lia Hofmann",
+  "data": {
+    "content_analysis": {
+      "top_topics": [
+        "Career Milestones",
+        "Growth Strategy",
+        "Professional Networking",
+        "Corporate Transitions"
+      ],
+      "posting_pattern": "Infrequent, episodic poster sharing professional updates and significant career transitions.",
+      "content_style": "Enthusiastic, optimistic, and transparent professional tone focused on growth and learning.",
+      "engagement_insight": "Professional announcements regarding new job roles generate significantly higher engagement than requests or non-personal updates."
+    },
+    "post_breakdown": [
+      {
+        "platform": "LinkedIn",
+        "type": "Post",
+        "brief_description": "Announcement of joining Lio as a Growth Associate for AI-driven procurement.",
+        "theme": "Career Update",
+        "engagement_style": "High-engagement, milestone-focused."
+      },
+      {
+        "platform": "LinkedIn",
+        "type": "Post",
+        "brief_description": "Reflecting on a three-month tenure in the commercial team at Wemolo.",
+        "theme": "Professional Reflection",
+        "engagement_style": "Professional narrative."
+      },
+      {
+        "platform": "LinkedIn",
+        "type": "Post",
+        "brief_description": "Joining BMW Group as a Marketing Strategy Intern in Munich.",
+        "theme": "Career Milestone",
+        "engagement_style": "Formal announcement."
+      },
+      {
+        "platform": "LinkedIn",
+        "type": "Repost",
+        "brief_description": "Call for support regarding an NGO project facilitating cultural exchange.",
+        "theme": "Social Impact",
+        "engagement_style": "Direct outreach/call-to-action."
+      }
+    ],
+    "summaries": {
+      "posts": [
+        "Growth and Career Pivot: Regularly broadcasts new professional chapters and organizational roles.",
+        "Reflection: Shares insights and gratitude after completing professional assignments or internships.",
+        "Professional Growth: Highlights excitement for emerging technologies like AI-driven procurement systems."
+      ],
+      "reposts": [
+        "Community Outreach: Shares initiatives aimed at supporting NGO goals and cultural integration projects."
+      ]
+    }
+  }
+}

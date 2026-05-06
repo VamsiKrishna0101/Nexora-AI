@@ -1,0 +1,10 @@
+STATUS: 500
+Traceback (most recent call last):
+  File "C:\Projects\Leo\Agents\main.py", line 192, in generate_persona_deep_dive
+    result = run_persona_pipeline(
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projects\Leo\Agents\persona\runner.py", line 196, in run_persona_pipeline
+    print(f"[PersonaRunner] Pipeline complete. Errors: {final_state.get('errors', [])}")
+                                                        ^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+

@@ -1,0 +1,464 @@
+SYSTEM: None
+
+USER: 
+You are the Senior Intelligence Director at a Palantir-grade research firm.
+You are delivering the final, authoritative verdict on this subject based on a complete intelligence dossier.
+This verdict is read by C-suite executives and investment committees. Precision and honesty are paramount.
+Do not soften findings. Do not inflate scores. Be direct.
+
+INPUT DATA — COMPLETE INTELLIGENCE DOSSIER (Sections 1–10):
+[
+  "{'section_id': 1, 'section_name': 'Identity Overview', 'person_id': 'ACoAAE6FVtYBAW4bP82g1IhIHxzu_1J010WU3CQ', 'generated_at': '2025-05-15T10:00:00Z', 'data': {'full_name': 'Sundar Pichai', 'current_role': 'CEO', 'company': 'Google', 'location': 'Mountain View, California, United States', 'profile_photo_url': 'https://media.licdn.com/dms/image/v2/D4E03AQFrmDuWUxQoMg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715645354620?e=1777507200&v=beta&t=gQCg1D_PqN-po3qxhtsh7HAU-pn8RNTeIkBV2xKjLlo', 'linkedin_url': 'https://www.linkedin.com/in/sundarpichai', 'twitter_handle': '@sundarpichai', 'linkedin_followers': 4067364, 'twitter_followers': 6269114, 'connections_count': 1, 'influence_score': 80, 'influence_score_breakdown': {'linkedin_followers_points': 25, 'twitter_followers_points': 20, 'posting_activity_points': 10, 'career_seniority_points': 15, 'web_presence_points': 10}, 'influence_score_rationale': 'Score calculated based on 4M+ LinkedIn followers (25), 6M+ Twitter followers (20), active presence on both platforms (10), C-suite executive status (15), and significant verified global media presence (10).', 'data_confidence': 'high', 'data_confidence_rationale': 'High-confidence assessment derived from comprehensive cross-platform data including verified LinkedIn and Twitter profiles.'}}",
+  "{'section_id': 2, 'section_name': 'Professional Background', 'person_id': 'ACoAAE6FVtYBAW4bP82g1IhIHxzu_1J010WU3CQ', 'generated_at': '2025-05-22T12:00:00Z', 'data': {'current_role_summary': 'Chief Executive Officer of Google and Alphabet, leading large-scale organizational efforts to improve global information accessibility and technological advancement.', 'role_summary_bullets': [\"Core Identity & Mission: Dedicated to organizing the world's information and making it universally accessible.\", 'Domain Mastery: Deep expertise in product management, executive leadership, and large-scale enterprise operations.', 'Quantifiable Impact: Leads a multinational workforce and global product ecosystem serving billions of users.', 'Strategic Scope: Directs long-term vision for both Google and parent company Alphabet.', 'Leadership Philosophy: Prioritizes the integration of advanced technologies, with a specialized focus on AI, to solve human-centric problems.', 'Current Momentum: Sustained multi-decade tenure at Google, transitioning from product management to top-level corporate governance.'], 'career_timeline': [{'company': 'Google', 'title': 'CEO', 'start_date': '2015', 'end_date': 'Present', 'duration_months': 113, 'one_line_impact': 'Serves as CEO of Google and Alphabet, defining the strategic product and technology vision.'}, {'company': 'Google', 'title': 'Product Management + Leadership', 'start_date': '2004', 'end_date': '2015', 'duration_months': 129, 'one_line_impact': 'Drove key product management initiatives and leadership growth within the company over 11 years.'}], 'education_history': [{'institution': 'The Wharton School', 'degree': 'MBA', 'field_of_study': 'N/A', 'graduation_year': 'N/A'}, {'institution': 'Stanford University', 'degree': 'MS', 'field_of_study': 'Materials Science and Engineering', 'graduation_year': 'N/A'}, {'institution': 'Indian Institute of Technology, Kharagpur', 'degree': 'B. Tech', 'field_of_study': 'N/A', 'graduation_year': 'N/A'}], 'total_years_experience': 21, 'industry_expertise_areas': ['Technology', 'Software Engineering', 'Product Management', 'Artificial Intelligence', 'Executive Leadership', 'Corporate Strategy'], 'data_confidence': 'high', 'data_confidence_rationale': 'Data directly sourced from official LinkedIn profile; professional timeline is verifiable via public employment history.'}}",
+  {
+    "section_id": 3,
+    "section_name": "Skills & Expertise",
+    "person_id": "ACoAAE6FVtYBAW4bP82g1IhIHxzu_1J010WU3CQ",
+    "generated_at": "2026-05-15T10:00:00Z",
+    "data": {
+      "top_technical_skills": [
+        {
+          "skill": "Generative AI & LLMs",
+          "category": "Domain",
+          "evidence_level": "High",
+          "evidence_source": "Posts"
+        },
+        {
+          "skill": "Cloud Computing Infrastructure",
+          "category": "Platform",
+          "evidence_level": "High",
+          "evidence_source": "Posts"
+        },
+        {
+          "skill": "Quantum Computing",
+          "category": "Domain",
+          "evidence_level": "High",
+          "evidence_source": "Posts"
+        },
+        {
+          "skill": "Product Management",
+          "category": "Methodology",
+          "evidence_level": "High",
+          "evidence_source": "Experience Description"
+        },
+        {
+          "skill": "Vertex AI",
+          "category": "Platform",
+          "evidence_level": "High",
+          "evidence_source": "Posts"
+        },
+        {
+          "skill": "Tensor Processing Units (TPUs)",
+          "category": "Tool",
+          "evidence_level": "High",
+          "evidence_source": "Posts"
+        },
+        {
+          "skill": "Google Workspace Integration",
+          "category": "Tool",
+          "evidence_level": "High",
+          "evidence_source": "Posts"
+        },
+        {
+          "skill": "Materials Science",
+          "category": "Domain",
+          "evidence_level": "Medium",
+          "evidence_source": "About"
+        },
+        {
+          "skill": "Autonomous Systems",
+          "category": "Domain",
+          "evidence_level": "Medium",
+          "evidence_source": "Posts"
+        },
+        {
+          "skill": "Subsea Cable Infrastructure",
+          "category": "Domain",
+          "evidence_level": "Medium",
+          "evidence_source": "Posts"
+        }
+      ],
+      "domain_expertise": [
+        {
+          "domain": "Executive Leadership",
+          "depth": "Expert",
+          "evidence": "CEO of Google and Alphabet, overseeing global product strategy and multi-billion dollar investment initiatives."
+        },
+        {
+          "domain": "AI Strategy",
+          "depth": "Expert",
+          "evidence": "Directly overseeing the 'AI-first strategy' and the rollout of Gemini models across the Google ecosystem."
+        },
+        {
+          "domain": "Product Lifecycle Management",
+          "depth": "Expert",
+          "evidence": "Historically led Google Chrome and currently oversees integrated product stacks across Search, Cloud, and Workspace."
+        },
+        {
+          "domain": "Global Operations",
+          "depth": "Expert",
+          "evidence": "Management of massive-scale infrastructure investments, including global data centers and connectivity projects in India and the US."
+        }
+      ],
+      "soft_skills_signals": [
+        {
+          "skill": "Strategic Visioning",
+          "signal_source": "Posts",
+          "justification": "Described by Stanford President Jon Levin as a 'deeply thoughtful leader who has a vivid sense for how technology can improve society'."
+        },
+        {
+          "skill": "Stakeholder Engagement",
+          "signal_source": "Posts",
+          "justification": "Demonstrated through cross-industry partnerships with retailers like Walmart, Shopify, and Etsy for the Universal Commerce Protocol."
+        },
+        {
+          "skill": "Crisis Communication",
+          "signal_source": "Posts",
+          "justification": "Consistently provides data-driven, transparent communication regarding quarterly financial results and technical milestones to millions of followers."
+        },
+        {
+          "skill": "Mentorship and Talent Advocacy",
+          "signal_source": "Posts",
+          "justification": "Publicly championing employee achievements and welcoming executive leadership like Karthik Narain to the team."
+        }
+      ],
+      "skill_gaps_or_blind_spots": [],
+      "skill_progression_narrative": "Sundar Pichai's career transitioned from deep technical roots in materials science and engineering into product management leadership with the development of Google Chrome. Over the past decade, he has evolved from a functional product lead to an enterprise-wide executive, now focusing on high-level infrastructure, quantum breakthroughs, and massive-scale AI commercialization.",
+      "data_confidence": "high",
+      "data_confidence_rationale": "Expertise derived directly from verified employment history and consistent primary-source content posted by the subject regarding strategic corporate initiatives."
+    }
+  },
+  {
+    "section_id": 4,
+    "section_name": "Personality & Communication Style",
+    "person_id": "sundarpichai",
+    "generated_at": "2026-04-10T12:00:00Z",
+    "data": {
+      "communication_style": "Diplomatic",
+      "communication_style_evidence": "Uses balanced, measured language such as 'I'm excited to hear his reflections' and 'We only succeed together', consistently positioning himself as a partner rather than a sole authority.",
+      "leadership_style": "Collaborative",
+      "leadership_style_evidence": "Repeatedly credits teams and partners for milestones, such as 'Huge thanks to all the teams who have worked so hard to make this possible' and attributing success to 'partners & employees'.",
+      "decision_making_style": "Data-driven",
+      "decision_making_style_evidence": "Relies heavily on quantitative metrics to validate strategy, citing specific statistics like '13,000x faster', '7B tokens per minute', and '13x fewer serious injury crashes'.",
+      "social_media_tone": "Professional",
+      "social_media_tone_evidence": "Maintains a structured, optimistic tone focused on product announcements and corporate updates; avoids personal controversy, focusing instead on company vision.",
+      "posting_behavior": {
+        "self_promotion_level": "Medium",
+        "engagement_style": "Broadcaster",
+        "content_originality": "Original"
+      },
+      "key_values": [
+        "Innovation",
+        "Accessibility",
+        "Partnership",
+        "Scale",
+        "Infrastructure"
+      ],
+      "key_values_evidence": "Repeatedly advocates for AI's ability to 'improve society', 'make the web more helpful', and focuses on $40B+ infrastructure investments to drive progress.",
+      "posts_analyzed_count": 50,
+      "data_confidence": "high",
+      "data_confidence_rationale": "High volume of posts across two platforms provides a consistent behavioral dataset regarding professional communication and organizational focus."
+    }
+  },
+  {
+    "section_id": 5,
+    "section_name": "Online Presence & Activity",
+    "person_id": "sundarpichai",
+    "generated_at": "2026-04-10T12:00:00Z",
+    "data": {
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/sundarpichai",
+        "followers": 4067364,
+        "posts_analyzed": 15,
+        "posting_frequency": "Weekly",
+        "avg_likes_per_post": 25555,
+        "avg_comments_per_post": 870,
+        "top_topics": [
+          "Gemini AI",
+          "Google Cloud",
+          "AI Infrastructure",
+          "Product Innovation",
+          "Alphabet Earnings"
+        ],
+        "last_post_date": "2026-04-02",
+        "last_post_summary": "Pichai shared his excitement about returning to Stanford University to deliver the 135th Commencement address."
+      },
+      "twitter": {
+        "handle": "sundarpichai",
+        "url": "https://twitter.com/sundarpichai",
+        "followers": 6269114,
+        "posts_analyzed": 18,
+        "posting_frequency": "Daily",
+        "top_topics": [
+          "Gemini AI",
+          "Gemma Models",
+          "Google Chrome",
+          "AI Innovation",
+          "Corporate Updates"
+        ],
+        "avg_likes_per_tweet": 6127,
+        "avg_retweets_per_tweet": 352,
+        "last_tweet_date": "2026-04-08"
+      },
+      "github": {
+        "url": null,
+        "found": false
+      },
+      "personal_website": null,
+      "other_platforms": [
+        "YouTube"
+      ],
+      "overall_digital_footprint": "Strong",
+      "recent_activity_summary": "Pichai is actively promoting the launch of Gemma 4 models and new notebook capabilities within the Gemini app. He is also engaging in technical discussions regarding browser updates, AI research, and high-level strategy for Google's cloud and hardware initiatives.",
+      "data_confidence": "high",
+      "data_confidence_rationale": "Data is sourced from provided LinkedIn and Twitter profiles, which contain detailed timestamps and engagement metrics, allowing for high-confidence calculation of activity and frequency."
+    }
+  },
+  {
+    "raw": {
+      "section_id": 6,
+      "section_name": "Content & Thought Leadership",
+      "person_id": "sundar_pichai",
+      "generated_at": "2025-05-14T12:00:00Z",
+      "data": {
+        "articles_and_blogs": [],
+        "podcast_appearances": [
+          {
+            "show_name": "Release Notes",
+            "episode_title": "Logan Kilpatrick Interview",
+            "url": "https://www.youtube.com/@GoogleDevelopers",
+            "date": "2025-11-26"
+          },
+          {
+            "show_name": "Cheeky Pint",
+            "episode_title": "AI Latency and Future Tech",
+            "url": null,
+            "date": "2026-04-07"
+          }
+        ],
+        "conference_talks": [
+          {
+            "event": "Stanford University Commencement",
+            "talk_title": "135th Commencement Address",
+            "date": "2026-06-14",
+            "url": null
+          },
+          {
+            "event": "NRF 2026",
+            "talk_title": "AI in Retail Transformation",
+            "date": "2026-01-11",
+            "url": null
+          },
+          {
+            "event": "India AI Impact Summit 2026",
+            "talk_title": "India AI Impact Summit Keynote",
+            "date": "2026-02-16",
+            "url": null
+          }
+        ],
+        "interviews": [
+          {
+            "outlet": "Fast Company",
+            "title": "Most Innovative Companies Interview",
+            "url": "https://lnkd.in/gSisNM2g",
+            "date": "2026-03-24"
+          }
+        ],
+        "key_topics_covered": [
+          "Generative AI and Large Language Models",
+          "Cloud Computing and Infrastructure Investment",
+          "Product Innovation and Design",
+          "Global AI Accessibility",
+          "Economic Development through Technology"
+        ],
+        "content_volume": "High",
+        "thought_leadership_tier": "Industry Authority",
+        "thought_leadership_assessment": "Pichai serves as a global industry authority, evidenced by his high-profile commencement addresses, executive-level interviews, and consistent thought leadership on major AI advancements. He is best known for his strategic focus on integrating AI across Google's entire product suite, sustainable infrastructure investment, and the societal impact of global technology adoption.",
+        "data_confidence": "high",
+        "data_confidence_rationale": "Data is corroborated by direct links to LinkedIn posts, X updates, and documented public speaking engagements."
+      }
+    }
+  },
+  {
+    "section_id": 7,
+    "section_name": "Network & Influence",
+    "person_id": "ACoAAE6FVtYBAW4bP82g1IhIHxzu_1J010WU3CQ",
+    "generated_at": "2025-05-22T14:30:00Z",
+    "data": {
+      "notable_collaborations": [],
+      "associated_companies": [
+        {
+          "company": "Google",
+          "role": "CEO",
+          "type": "Employer"
+        },
+        {
+          "company": "Alphabet Inc.",
+          "role": "CEO",
+          "type": "Employer"
+        }
+      ],
+      "industry_communities": [
+        "Artificial Intelligence",
+        "Technology Executive Leadership"
+      ],
+      "media_mentions": [
+        {
+          "outlet": "Forbes",
+          "title": "Sundar Pichai",
+          "url": "https://www.forbes.com/profile/sundar-pichai/",
+          "date": "N/A"
+        }
+      ],
+      "network_reach": "Tier 1 (Global)",
+      "network_strength_assessment": "As the CEO of a major global technology conglomerate, his professional network encompasses leaders across the tech, academic, and policy sectors on a worldwide scale. The quality of his network is exceptionally high, defined by his position at the helm of global AI development and major product ecosystems.",
+      "data_confidence": "high",
+      "data_confidence_rationale": "Data is supported by official corporate profiles, high-tier financial publications, and verified social presence."
+    }
+  },
+  {
+    "section_id": 8,
+    "section_name": "How to Engage",
+    "person_id": "sundarpichai",
+    "generated_at": "2026-04-10T12:00:00Z",
+    "data": {
+      "best_approach_style": "Adopt a data-driven, mission-oriented tone that prioritizes partnership and collective success. Frame inquiries around scale, infrastructure, and societal impact, ensuring all proposals are backed by clear quantitative metrics rather than vague promises of value.",
+      "topics_that_resonate": [
+        "AI infrastructure investment and data center sustainability",
+        "Scaling frontier AI capabilities (Gemini models) for enterprise utility",
+        "Building collaborative open-source or interoperable ecosystems like UCP",
+        "Real-world application of AI (Quantum, Waymo safety, Healthcare)"
+      ],
+      "topics_to_avoid": [
+        "Speculative or controversial personal topics",
+        "Hyper-competitive or combative framing regarding competitors",
+        "Purely marketing-driven content lacking technical depth or substance"
+      ],
+      "best_channel": "LinkedIn",
+      "best_channel_rationale": "Pichai utilizes LinkedIn as his primary platform for broadcasting strategic partnerships, major corporate milestones, and infrastructure updates, making it the most appropriate venue for professional high-level outreach.",
+      "suggested_conversation_starters": [
+        {
+          "opener": "I was struck by your recent commentary on the Universal Commerce Protocol; given our experience in interoperable supply chain tech, have you considered the implications for the UCP roadmap in fragmented regional markets?",
+          "based_on": "LinkedIn post regarding #NRF2026 and Universal Commerce Protocol launch."
+        },
+        {
+          "opener": "The recent data on the Waymo safety metrics is compelling. How are your teams currently weighing the trade-off between edge-device latency and centralized model reasoning as you expand into new geographic hubs?",
+          "based_on": "Twitter post regarding Waymo safety data and 13x fewer serious injury crashes."
+        },
+        {
+          "opener": "With the expansion of Gemini 3 into Google Antigravity, we are observing significant improvements in developer velocity. Are you seeing specific patterns in how these agentic tools are redefining the 'vibe coding' paradigm for legacy enterprise architecture?",
+          "based_on": "Twitter post regarding AI Studio updates and Antigravity coding agent."
+        }
+      ],
+      "outreach_timing": {
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "activity_pattern": "Highly active mid-week for product rollouts and strategic announcements; usually publishes or engages during standard Pacific Time business hours.",
+        "timing_confidence": "High"
+      },
+      "engagement_red_flags": [
+        "Ignoring the importance of ecosystem partnership (the 'we only succeed together' ethos)",
+        "Lacking specific performance metrics or evidence of scale in the pitch",
+        "Focusing on individual credit rather than team or organizational contribution"
+      ],
+      "data_confidence": "high",
+      "data_confidence_rationale": "High volume of professional posts across two platforms demonstrates a very consistent, predictable communication pattern focused on corporate milestones and strategic vision."
+    }
+  },
+  "{'section_id': 9, 'section_name': 'Achievements & Milestones', 'person_id': 'ACoAAE6FVtYBAW4bP82g1IhIHxzu_1J010WU3CQ', 'generated_at': '2025-05-14T10:00:00Z', 'data': {'notable_achievements': [{'achievement': 'Appointed CEO of Google', 'context': 'Elevation to top leadership role in 2015', 'quantified_impact': None, 'source': 'Both'}, {'achievement': 'Appointed CEO of Alphabet Inc.', 'context': 'Assumed leadership of parent company in 2019', 'quantified_impact': None, 'source': 'Web'}, {'achievement': 'Leadership of core consumer products', 'context': 'Oversaw development and product management of Chrome, Android, and Google Drive', 'quantified_impact': None, 'source': 'Web'}, {'achievement': 'Spearheaded Gemini AI platform development', 'context': 'Lead strategic shift toward advanced AI integration', 'quantified_impact': None, 'source': 'Web'}], 'companies_built_or_scaled': [{'company': 'Google', 'role': 'CEO', 'scale_indicator': None, 'outcome': 'Active'}, {'company': 'Alphabet Inc.', 'role': 'CEO', 'scale_indicator': None, 'outcome': 'Active'}], 'products_launched': [{'product': 'Chrome', 'context': 'Product leadership during growth phase', 'impact': 'Market leading browser'}, {'product': 'Android', 'context': 'Product leadership', 'impact': 'Global mobile OS dominance'}, {'product': 'Gemini', 'context': 'AI development initiative', 'impact': 'Flagship generative AI platform'}], 'awards_and_recognition': [], 'career_highlight': \"Sundar Pichai serves as the CEO of Alphabet Inc. and Google, having scaled critical global platforms including Chrome and Android before overseeing the company's enterprise-wide pivot toward AI.\", 'achievement_density': 'Medium', 'data_confidence': 'high', 'data_confidence_rationale': \"Data is corroborated by both the user's provided LinkedIn profile and verified web research (Wikipedia/Forbes), with high-level professional milestones clearly documented.\"}}",
+  {
+    "section_id": 10,
+    "section_name": "Risk & Red Flags",
+    "person_id": "ACoAAE6FVtYBAW4bP82g1IhIHxzu_1J010WU3CQ",
+    "generated_at": "2025-05-14T12:00:00Z",
+    "data": {
+      "job_hopping_signal": {
+        "detected": false,
+        "roles_analyzed": 1,
+        "average_tenure_months": 132,
+        "shortest_tenure_months": 132,
+        "assessment": "Subject displays significant tenure stability at Google since 2004."
+      },
+      "controversial_statements": [],
+      "failed_ventures": [],
+      "reputation_signals": [
+        {
+          "signal": "High public profile as leader of major technology entity.",
+          "source": "LinkedIn, Twitter, Media",
+          "sentiment": "Positive"
+        }
+      ],
+      "legal_or_regulatory_issues": [],
+      "data_gaps": [
+        "No detailed personal bio or family information.",
+        "Limited historical records of pre-2004 employment."
+      ],
+      "overall_risk_rating": "Low",
+      "risk_summary": "The subject demonstrates a low risk profile with a consistent and long-standing professional track record at a single organization. No verifiable evidence of controversial, legal, or regulatory issues was identified in the provided data.",
+      "data_confidence": "high",
+      "data_confidence_rationale": "Information is corroborated by multiple independent public sources, including professional networks and widely recognized media profiles."
+    }
+  }
+]
+
+PROFILE STRENGTH SCORE METHODOLOGY (apply exactly):
+  Start at 0. Add points as follows:
+  - Career depth (Section 2):     Strong timeline with quantified impact=20, moderate=12, minimal=5
+  - Skills breadth (Section 3):   10+ high-evidence skills=15, 5–9=10, <5=5
+  - Online influence (Section 1): influence_score >= 70=15, 40–69=10, <40=5
+  - Content output (Section 6):   Thought Leadership Tier "Authority"=15, "Active"=10, "Emerging"=5, lower=0
+  - Network strength (Section 7): Tier 1–2=15, Tier 3=8, Tier 4=3, Unknown=0
+  - Risk profile (Section 10):    Low risk=20, Medium=12, High=5, Critical=0
+  Cap final score at 100.
+
+Output ONLY this JSON:
+{
+  "section_id": 11,
+  "section_name": "AI Analyst Verdict",
+  "person_id": "UNKNOWN_ID",
+  "generated_at": "__TIMESTAMP__",
+  "data": {
+    "profile_strength_score": 0,
+    "profile_strength_breakdown": {
+      "career_depth_points": 0,
+      "skills_breadth_points": 0,
+      "online_influence_points": 0,
+      "content_output_points": 0,
+      "network_strength_points": 0,
+      "risk_profile_points": 0
+    },
+    "profile_strength_rationale": "",
+    "key_strengths": [
+      "",
+      "",
+      ""
+    ],
+    "key_concerns": [
+      "",
+      ""
+    ],
+    "one_line_verdict": "",
+    "recommended_use_cases": [],
+    "use_case_rationale": "",
+    "intelligence_gaps": [],
+    "confidence_level": "High|Medium|Low",
+    "confidence_rationale": ""
+  }
+}
+
+RULES:
+- Apply the profile strength score methodology above exactly. Show the breakdown.
+- profile_strength_rationale: 2-3 sentences explaining the score — what drove it up and what capped it.
+- key_strengths: exactly 3 items. Each must be specific, derived from data, and non-generic. "Strong communicator" is not acceptable. "Published in Forbes, keynoted SaaStr 2023" is acceptable.
+- key_concerns: exactly 2 items. Be honest — if the profile is clean, flag data gaps or limited verifiability as concerns.
+- one_line_verdict: the single most important takeaway. Max 20 words. Specific. Actionable. No filler.
+  Good: "High-credibility technical founder with proven AI scale — best approached via LinkedIn referral for partnership or investment."
+  Bad: "Impressive professional with a strong background in technology."
+- recommended_use_cases: array of applicable options from ["Sales Target", "Investment Target", "Strategic Partnership", "Recruitment", "Advisory", "Monitor Only", "Insufficient Data"].
+- intelligence_gaps: critical data that was missing and would change the assessment if available. Max 4.
+- confidence_level: High = all 10 sections had sufficient data. Medium = 6–9 sections. Low = fewer than 6.
+- Replace __TIMESTAMP__ with current ISO 8601 datetime.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

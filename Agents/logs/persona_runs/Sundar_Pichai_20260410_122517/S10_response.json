@@ -1,0 +1,33 @@
+{
+  "section_id": 10,
+  "section_name": "Risk & Red Flags",
+  "person_id": "ACoAAE6FVtYBAW4bP82g1IhIHxzu_1J010WU3CQ",
+  "generated_at": "2025-05-14T12:00:00Z",
+  "data": {
+    "job_hopping_signal": {
+      "detected": false,
+      "roles_analyzed": 1,
+      "average_tenure_months": 132,
+      "shortest_tenure_months": 132,
+      "assessment": "Subject displays significant tenure stability at Google since 2004."
+    },
+    "controversial_statements": [],
+    "failed_ventures": [],
+    "reputation_signals": [
+      {
+        "signal": "High public profile as leader of major technology entity.",
+        "source": "LinkedIn, Twitter, Media",
+        "sentiment": "Positive"
+      }
+    ],
+    "legal_or_regulatory_issues": [],
+    "data_gaps": [
+      "No detailed personal bio or family information.",
+      "Limited historical records of pre-2004 employment."
+    ],
+    "overall_risk_rating": "Low",
+    "risk_summary": "The subject demonstrates a low risk profile with a consistent and long-standing professional track record at a single organization. No verifiable evidence of controversial, legal, or regulatory issues was identified in the provided data.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "Information is corroborated by multiple independent public sources, including professional networks and widely recognized media profiles."
+  }
+}

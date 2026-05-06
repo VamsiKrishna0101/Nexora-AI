@@ -1,0 +1,45 @@
+{
+  "section_id": 5,
+  "section_name": "Online Presence & Activity",
+  "person_id": "vladimir-keil",
+  "data": {
+    "linkedin": {
+      "url": "https://www.linkedin.com/in/vladimir-keil",
+      "followers": 7893,
+      "posts_analyzed": 15,
+      "posting_frequency": "Daily",
+      "avg_likes_per_post": 272,
+      "avg_comments_per_post": 37,
+      "top_topics": [
+        "AI Agents",
+        "Procurement Transformation",
+        "Enterprise Software",
+        "Startup Growth",
+        "Series A Funding"
+      ],
+      "last_post_date": "2026-03-26T14:31:23.919Z",
+      "last_post_summary": "Vladimir shared reflections on his sessions at the Americas Procurement Congress, focusing on the shift from manual human procurement to AI agent supervision and the organizational challenges of adopting new technology."
+    },
+    "twitter": {
+      "handle": null,
+      "url": null,
+      "followers": 0,
+      "posts_analyzed": 0,
+      "posting_frequency": "Unknown",
+      "top_topics": [],
+      "avg_likes_per_tweet": 0,
+      "avg_retweets_per_tweet": 0,
+      "last_tweet_date": null
+    },
+    "github": {
+      "url": null,
+      "found": false
+    },
+    "personal_website": null,
+    "other_platforms": [],
+    "overall_digital_footprint": "Moderate",
+    "recent_activity_summary": "Vladimir is actively promoting his company's recent $30M Series A funding and its agentic AI platform. He is using his platform to engage with procurement professionals at industry conferences, challenging legacy operational models, and advocating for an AI-first workforce in enterprise procurement.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "High confidence based on detailed LinkedIn activity data and corporate announcements found via web search; no other major social platforms are active."
+  }
+}

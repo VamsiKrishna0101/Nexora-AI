@@ -1,0 +1,365 @@
+SYSTEM: None
+
+USER: 
+You are a high-performance sales development and recruiting lead.
+Using the Behavioral Intelligence from Section 4, generate a specific outreach playbook.
+Focus on high-conversion scripts and tactical execution.
+
+INPUT DATA:
+Section 4 - Behavioral Intelligence Suite: {
+  "section_id": 4,
+  "section_name": "Behavioral Intelligence Suite",
+  "person_id": "jeremy-yu-68928a6",
+  "data": {
+    "behavioral_profile": {
+      "archetype": "The Builder",
+      "one_line_description": "Technical product leader focused on practical deployment and enterprise-grade AI architecture.",
+      "trait_tags": [
+        "pragmatic",
+        "technical-focused",
+        "outcome-driven"
+      ]
+    },
+    "trait_scores": {
+      "dominance": 65,
+      "expressiveness": 50,
+      "pace": 75,
+      "pragmatism": 90,
+      "risk_appetite": 55,
+      "social_energy": 60
+    },
+    "working_style": {
+      "decision_making": "Prioritizes empirical performance benchmarks like LongMemEval over market hype.",
+      "collaboration": "Operates at the intersection of sales, engineering, and enterprise strategy.",
+      "conflict_style": "Addresses technical inefficiencies directly, framing them as solvable engineering problems.",
+      "pace": "Fast-paced, focused on consistent shipment of SDKs and production tooling."
+    },
+    "what_drives_them": {
+      "energizers": [
+        "Translating abstract AI theory into production-ready enterprise systems",
+        "Achieving specific performance benchmarks and reliability metrics",
+        "Direct integration into existing developer workflows and git repositories",
+        "Industry-wide recognition via expert profiling and strategic partnerships"
+      ],
+      "drainers": [
+        "Conceptual AI demos lacking real-world application utility",
+        "Inefficient manual procurement or business workflows",
+        "High failure rates in complex, multi-step systems",
+        "Fluff-heavy discourse that ignores security and governance"
+      ]
+    },
+    "engagement_guide": {
+      "how_to_open": [
+        "Focus immediately on technical architecture or specific deployment hurdles.",
+        "Reference current, high-impact enterprise AI challenges in fintech or insurance.",
+        "Acknowledge the shift from 'agentic' hype to production-grade utility."
+      ],
+      "how_to_run_meeting": [
+        "Keep the discussion tethered to measurable business outcomes.",
+        "Focus on technical limitations and how to overcome them systematically.",
+        "Review specific product frameworks like Lyzr's AgentMesh or Architect."
+      ],
+      "how_to_email": [
+        "Keep communication concise and focused on actionable solutions.",
+        "Cite specific use cases for deploying agents in regulated environments.",
+        "Provide clear value propositions aligned with enterprise governance."
+      ],
+      "how_to_follow_up": [
+        "Share relevant research papers or technical benchmarks.",
+        "Connect follow-ups to ongoing project roadmaps or tool deployments.",
+        "Maintain a professional cadence that respects product cycles."
+      ],
+      "how_to_build_trust": [
+        "Demonstrate deep understanding of air-gapped security and data privacy.",
+        "Prioritize the 'Six Sigma' mindset in agent reliability.",
+        "Showcase consistent, high-execution professional track records."
+      ]
+    },
+    "blind_spots": [
+      "Over-reliance on specific proprietary tools as the primary answer to complex business problems.",
+      "Potential undervaluation of non-technical stakeholders in the decision-making process.",
+      "Narrow focus on enterprise-sized clients may overlook agile, mid-market niche requirements."
+    ],
+    "dos_and_donts": {
+      "dos": [
+        "Discuss the integration of AI agents within established developer ecosystems.",
+        "Focus on reliability, accuracy, and governance in enterprise deployments.",
+        "Address the 'full lifecycle' from discovery to post-deployment support.",
+        "Emphasize practical, reproducible AI infrastructure over theoretical concepts."
+      ],
+      "donts": [
+        "Do not pitch AI solutions that lack clear performance data or benchmarks.",
+        "Do not use speculative or 'fluff' language regarding AI capabilities.",
+        "Do not ignore the importance of compliance and RBAC in systems.",
+        "Do not treat AI adoption as a standalone event rather than a process."
+      ]
+    },
+    "data_confidence": "high",
+    "data_confidence_rationale": "Data is derived from a consistent stream of professional LinkedIn activity detailing project launches, strategic partnerships, and firm-level growth announcements."
+  }
+}
+LinkedIn Posts (last 10): [
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/jeremy-yu-68928a6_ai-agent-memory-cognis-activity-7447293383036833792-qeUf?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAGC_s_4BWWtqdz1LWdw3NGQuK0SMhphgcyI",
+    "text": "Most AI memory is just vector search with a good pitch.\n\nCognis is something different. 92.4% on LongMemEval. Number one across every LoCoMo category. Benchmarks that beat alternatives by 20 to 25 percent where it actually matters: temporal reasoning, contradiction resolution, multi-hop queries.\n\nThe breakthrough was not retrieval. It was fixing what gets stored. Every new memory gets checked against what already exists. Contradictions die on arrival.\n\nNow shipping two ways. Hosted and open source SDK. No Docker. No servers. 30KB.\n\nTry it: https://www.lyzr.ai/cognis\n#lyzrai\u00a0 #opensource\u00a0 #llm",
+    "num_shares": 0,
+    "num_likes": 10,
+    "num_comments": 0,
+    "comments_count": 0,
+    "reactions_count": 10,
+    "posted_at": "2026-04-07T14:45:06.536Z",
+    "actor_name": "Jeremy Yu",
+    "actor_profile_url": "https://www.linkedin.com/in/jeremy-yu-68928a6?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAEbx0kBgENz4hlQjci6ovrhVuK8LMtPRIY",
+    "post_type": "article"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/jeremy-yu-68928a6_clawless-serverless-browser-runtime-for-activity-7440778083487551488-ygZV?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAGC_s_4BWWtqdz1LWdw3NGQuK0SMhphgcyI",
+    "text": "Really excited to see GitAgent officially launch on Product Hunt!\n\nWe\u2019ve been talking a lot about \u201cagentic AI,\u201d but most tools still require a ton of setup, orchestration, and glue code to make anything actually work.\n\nGitAgent flips that model.\n\nIt treats Git as the control plane for agents. Instead of wiring together brittle pipelines, you define behavior, workflows, and logic in a way that\u2019s versioned, reproducible, and actually scalable.\n\nWhat stands out to me:\n \u2022 It brings structure to agent workflows, not just prompts\n \u2022 It enables deeper reasoning by giving agents richer context and instructions\n \u2022 It aligns with how developers already work, instead of forcing a new paradigm\n\nThis is the kind of shift that moves AI from demos into real systems. I\u2019m especially interested in how this pairs with browser-native runtimes like Clawless and lightweight backends like Cloud Run to create a full stack for instant to production agent deployment.\n\nCurious to see where this goes. Worth checking out:\n- https://lnkd.in/gBufxaJA\n- Clawless: https://www.clawless.io/",
+    "num_shares": 0,
+    "num_likes": 14,
+    "num_comments": 0,
+    "comments_count": 0,
+    "reactions_count": 10,
+    "posted_at": "2026-03-20T15:15:38.075Z",
+    "actor_name": "Jeremy Yu",
+    "actor_profile_url": "https://www.linkedin.com/in/jeremy-yu-68928a6?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAEbx0kBgENz4hlQjci6ovrhVuK8LMtPRIY",
+    "post_type": "article"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/jeremy-yu-68928a6_agentic-ai-startup-lyzr-raises-funds-at-250-activity-7437152194854039552-iVqb?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAGC_s_4BWWtqdz1LWdw3NGQuK0SMhphgcyI",
+    "text": "We were recently profiled in Bloomberg! So proud to be part of such an innovative organization. Congrats to the Lyzr AI team!",
+    "num_shares": 0,
+    "num_likes": 15,
+    "num_comments": 0,
+    "comments_count": 0,
+    "reactions_count": 10,
+    "posted_at": "2026-03-10T15:07:38.859Z",
+    "actor_name": "Jeremy Yu",
+    "actor_profile_url": "https://www.linkedin.com/in/jeremy-yu-68928a6?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAEbx0kBgENz4hlQjci6ovrhVuK8LMtPRIY",
+    "post_type": "article"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/jeremy-yu-68928a6_ai-agents-developertools-activity-7437151405125115904-GkAy?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAGC_s_4BWWtqdz1LWdw3NGQuK0SMhphgcyI",
+    "text": "Excited to start experimenting with this new agent deployment model.\nWe\u2019re starting to see real momentum around git-native agent infrastructure where agents, tasks, and workflows live directly in repos and can be deployed and run autonomously.\n\nThis opens up powerful possibilities for teams building multi-agent systems and autonomous workflows.\n\nShout out to Shreyas Kapale for envisioning and building this. Looking forward to exploring how it can plug into the agent ecosystems we\u2019re building around Lyzr and enterprise AI use cases.\n\nCurious how others are thinking about git-native AI workflows.\n\nhttps://lnkd.in/gPZsFzwC\n\n#AI #Agents #DeveloperTools #GenAI #Automation #Lyzr",
+    "num_shares": 1,
+    "num_likes": 14,
+    "num_comments": 1,
+    "comments_count": 1,
+    "reactions_count": 10,
+    "posted_at": "2026-03-10T15:04:30.573Z",
+    "actor_name": "Jeremy Yu",
+    "actor_profile_url": "https://www.linkedin.com/in/jeremy-yu-68928a6?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAEbx0kBgENz4hlQjci6ovrhVuK8LMtPRIY",
+    "post_type": "text"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/jeremy-yu-68928a6_architect-lyzr-activity-7429138378744549376-D_7s?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAGC_s_4BWWtqdz1LWdw3NGQuK0SMhphgcyI",
+    "text": "Today, we launch a new way to build. Architect by Lyzr.\n\nAI that doesn't just assist but architects complete solutions from your vision. Transform ideas into production-ready apps in minutes, not months. This is intelligent orchestration. This is AI that works for you.\n\n#architect #lyzr",
+    "num_shares": 0,
+    "num_likes": 21,
+    "num_comments": 2,
+    "comments_count": 2,
+    "reactions_count": 10,
+    "posted_at": "2026-02-16T12:23:36.209Z",
+    "actor_name": "Jeremy Yu",
+    "actor_profile_url": "https://www.linkedin.com/in/jeremy-yu-68928a6?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAEbx0kBgENz4hlQjci6ovrhVuK8LMtPRIY",
+    "post_type": "linkedinVideo"
+  },
+  {
+    "type": "repost",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/jeremy-yu-68928a6_lyzrai-aiagents-activity-7426087057925591040-Avic?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAGC_s_4BWWtqdz1LWdw3NGQuK0SMhphgcyI",
+    "text": "We\u2019ve landed at\u00a0Amazon Web Services (AWS) AI Builder Lab.\n\nTalking agentic systems, real-world deployments, and how Lyzr is helping teams move from experiments to enterprise scale. \nCome say hi\u00a0on 13th Feb \ud83d\udc4b\n\nAWS Partners \n#LyzrAI #AIAgents",
+    "num_shares": 0,
+    "num_likes": 8,
+    "num_comments": 0,
+    "comments_count": 0,
+    "reactions_count": 8,
+    "posted_at": "2026-02-08T02:18:44.635Z",
+    "actor_name": "Jeremy Yu",
+    "actor_profile_url": "https://www.linkedin.com/in/jeremy-yu-68928a6?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAEbx0kBgENz4hlQjci6ovrhVuK8LMtPRIY",
+    "post_type": "text"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/jeremy-yu-68928a6_procurement-activity-7419725404082659328-v413?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAGC_s_4BWWtqdz1LWdw3NGQuK0SMhphgcyI",
+    "text": "Did you know you could reduce your procurement Total Cost of Ownership (TCO) by 60%?\n\nManual procurement is expensive and slow. That is why we have launched Procurement Agents designed to turn weeks of manual work into hours of automated processing.\n\nWe cover the full lifecycle to ensure maximum efficiency: \n\nStrategy Upstream: Automate spend intelligence and RFPs. \nControl Mid-Cycle: Enforce compliance and manage contracts. \nConsistency Downstream: Handle onboarding and performance scoring.\n\nSee them in Action: \u00a0https://lnkd.in/ghg9edeR\n#LyzrAI #EnterpriseAI",
+    "num_shares": 0,
+    "num_likes": 7,
+    "num_comments": 0,
+    "comments_count": 0,
+    "reactions_count": 7,
+    "posted_at": "2026-01-21T12:59:48.165Z",
+    "actor_name": "Jeremy Yu",
+    "actor_profile_url": "https://www.linkedin.com/in/jeremy-yu-68928a6?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAEbx0kBgENz4hlQjci6ovrhVuK8LMtPRIY",
+    "post_type": "article"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/jeremy-yu-68928a6_lyzr-activity-7414318067993731073-fK45?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAGC_s_4BWWtqdz1LWdw3NGQuK0SMhphgcyI",
+    "text": "I\u2019ve seen a lot of AI talk lately, but much less real execution. That\u2019s why I respect how Growthline Partners is working with Lyzr. They take a practical, boutique approach and focus on integrating AI into the systems teams already use, not creating more noise.\n\nIt\u2019s less about hype and more about making AI actually useful in day-to-day work. If you\u2019re serious about getting real value from agentic AI, this is the kind of partnership worth paying attention to.\n\nhttps://lnkd.in/gY_u9Qnh",
+    "num_shares": 0,
+    "num_likes": 15,
+    "num_comments": 0,
+    "comments_count": 0,
+    "reactions_count": 10,
+    "posted_at": "2026-01-06T14:52:58.778Z",
+    "actor_name": "Jeremy Yu",
+    "actor_profile_url": "https://www.linkedin.com/in/jeremy-yu-68928a6?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAEbx0kBgENz4hlQjci6ovrhVuK8LMtPRIY",
+    "post_type": "article"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/jeremy-yu-68928a6_999-accuracy-isnt-good-enough-not-activity-7402127097382526976-ppKl?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAGC_s_4BWWtqdz1LWdw3NGQuK0SMhphgcyI",
+    "text": "99.9% accuracy isn\u2019t good enough. \ud83d\udeab\n\nNot when you are running a multi-step complex enterprise workflow. In that environment, \"good\" accuracy compounds into a 36.7% failure rate.\nYour agents need to be perfect, or your workflow breaks.\n\nWe just released the Six Sigma Agent Research Paper. It details exactly how we achieved 99.9997% reliability by switching to a decomposed micro-agent system.\n\nIt\u2019s a game-changer for production AI.\n\nWant the paper? Check out the comments section. \ud83d\udc47",
+    "num_shares": 0,
+    "num_likes": 6,
+    "num_comments": 0,
+    "comments_count": 0,
+    "reactions_count": 6,
+    "posted_at": "2025-12-03T23:30:24.887Z",
+    "actor_name": "Jeremy Yu",
+    "actor_profile_url": "https://www.linkedin.com/in/jeremy-yu-68928a6?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAEbx0kBgENz4hlQjci6ovrhVuK8LMtPRIY",
+    "post_type": "image"
+  },
+  {
+    "type": "repost",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/jeremy-yu-68928a6_last-week-accenture-announced-our-investment-activity-7396786445383974912-wL3_?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAGC_s_4BWWtqdz1LWdw3NGQuK0SMhphgcyI",
+    "text": "We Lyzr AI are partnering with Accenture to bring 'Private' and 'Secure' Agentic AI to Banking and Insurance. \ud83e\udd1d\n\nLeading financial institutions are now adopting Lyzr as their core foundational agent layer.\n\nHere is why \ud83d\udc47 \n\n\ud83d\udd12 Air-Gapped Security: Run the entire platform locally in your own cloud or on-premise. \n\n\ud83d\udee1\ufe0f Native Guardrails: Built-in Responsible AI guardrails at the architecture level. \n\n\ud83c\udfe2 Enterprise Ready: Built-in RBAC and sub-accounts for seamless org-wide adoption. \n\n\ud83e\udde0 Advanced Context: Build vector stores, knowledge graphs, and unified memory. \n\n\ud83e\uddea Simulation Engine: Run 10,000+ simulations on every agent to ensure reliability before deployment.\n\nThe \"Better Together\" Advantage: With this partnership, you get the best of both worlds:\n\nFrom Lyzr: Build a beautiful, user-friendly interface for your agents using Lyzr Architect.\n\nFrom Accenture: Access 1000+ prebuilt agent blueprints.\n\nThis is how you scale Agentic AI in regulated industries.\n\nThanks for the partnership Julie Sweet Manish Sharma Senthil (Sen) Ramani Michael Abbott Kenneth Saldanha",
+    "num_shares": 0,
+    "num_likes": 6,
+    "num_comments": 0,
+    "comments_count": 0,
+    "reactions_count": 6,
+    "posted_at": "2025-11-19T05:48:34.226Z",
+    "actor_name": "Jeremy Yu",
+    "actor_profile_url": "https://www.linkedin.com/in/jeremy-yu-68928a6?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAEbx0kBgENz4hlQjci6ovrhVuK8LMtPRIY",
+    "post_type": "text"
+  },
+  {
+    "type": "repost",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/jeremy-yu-68928a6_fundingnews-aiinnovation-seriesafunding-activity-7390409431265501184-RJSt?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEua-xUBQujA5GaBkm0I1l66m07Zni2sVeY",
+    "text": "#FundingNews\n\nLyzr AI has secured $8 million in a Series A funding round, led by Rocketship.vc.\n\nThe round included participation from major strategic investors like Accenture, Firstsource, and GFT Ventures.\n\nThe fresh capital will be used to advance Lyzr AI\u2019s mission of enabling the secure and governed deployment of AI agents across enterprises.\n\nLyzr AI offers a full-stack, low-code framework for building intelligent, reliable AI agents that automate complex business workflows.\n\nFounded in 2023, the company already serves a robust client base, with about 70% of its clientele coming from the financial services sector, including firms like WTW and NVIDIA.\n\nLyzr AI recently introduced a large-scale simulation engine and is focused on creating \"organizational general intelligence\" by connecting agents on its AgentMesh platform.\n\nSiva Surendira, Founder and CEO of Lyzr AI\n\nRead the story: https://ow.ly/8IsE50XkLkp\n\n\n#AIInnovation #SeriesAFunding #FinTech #EnterpriseAI #TechStartups #ArtificialIntelligence  #BusinessAutomation",
+    "num_shares": 0,
+    "num_likes": 10,
+    "num_comments": 0,
+    "comments_count": 0,
+    "reactions_count": 10,
+    "posted_at": "2025-11-01T15:28:35.581Z",
+    "actor_name": "Jeremy Yu",
+    "actor_profile_url": "https://www.linkedin.com/in/jeremy-yu-68928a6?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAEbx0kBgENz4hlQjci6ovrhVuK8LMtPRIY",
+    "post_type": "text"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/jeremy-yu-68928a6_we-said-2025-would-be-the-year-of-ai-agents-activity-7389271021347983360-G33N?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEua-xUBQujA5GaBkm0I1l66m07Zni2sVeY",
+    "text": "We said 2025 would be the year of AI Agents.\n\nWe meant it. \ud83d\udca5\n\nLyzr just raised $8M Series A, led by Rocketship.vc to build the Agentic Operating System that gives enterprises full AI ownership.\n\nAnd now, Henry Ford III is coming on board...\n\nLet\u2019s just say, the future of AI is in the driver\u2019s seat. \ud83c\udfc1",
+    "num_shares": 0,
+    "num_likes": 27,
+    "num_comments": 1,
+    "comments_count": 1,
+    "reactions_count": 10,
+    "posted_at": "2025-10-29T12:04:57.506Z",
+    "actor_name": "Jeremy Yu",
+    "actor_profile_url": "https://www.linkedin.com/in/jeremy-yu-68928a6?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAEbx0kBgENz4hlQjci6ovrhVuK8LMtPRIY",
+    "post_type": "image"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/jeremy-yu-68928a6_nvidia-gtcdc-lyzrai-activity-7387506041904607233-7NR3?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEua-xUBQujA5GaBkm0I1l66m07Zni2sVeY",
+    "text": "Excited to share that my colleagues Rob Cohen, VP of Alliance Strategy, and Reid Jarvis, Sr. Enterprise Account Executive, will be joining the Lyzr crew at NVIDIA GTC in Washington, D.C., from October 27 to 29, 2025.\n\nThey\u2019ll be there connecting with industry leaders and innovators who are shaping the next generation of AI, from enterprise-grade agentic architectures to NVIDIA NIM-powered deployments.\n\nIf you\u2019re attending, stop by booth I-10 to meet the team and see how Lyzr is helping enterprises build secure, multi-agent AI systems that deliver real business impact.\n\nLet\u2019s connect in D.C. and talk about the future of intelligent automation.\n\n#NVIDIA #GTCDC #LyzrAI #AgenticAI #EnterpriseAI #AIInnovation #NIM",
+    "num_shares": 2,
+    "num_likes": 14,
+    "num_comments": 0,
+    "comments_count": 0,
+    "reactions_count": 10,
+    "posted_at": "2025-10-24T15:11:33.615Z",
+    "actor_name": "Jeremy Yu",
+    "actor_profile_url": "https://www.linkedin.com/in/jeremy-yu-68928a6?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAEbx0kBgENz4hlQjci6ovrhVuK8LMtPRIY",
+    "post_type": "image"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/jeremy-yu-68928a6_nvidia-gtc-washington-dc-ai-conference-activity-7384283760944537601-Y7hU?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEua-xUBQujA5GaBkm0I1l66m07Zni2sVeY",
+    "text": "\u2615\ufe0f Excited to share that Reid Jarvis and I will be in Washington, D.C. for NVIDIA GTC DC, happening October 27\u201329! (nvidia.com/gtc/dc)\n\nWe\u2019re looking forward to connecting with the community driving the next wave of AI innovation \u2014 from agentic systems and generative models to real-world enterprise applications.\n\nIf you\u2019ll be attending, let\u2019s grab a coffee and chat about where things are headed. Always great to meet other builders, architects, and innovators in person.\n\nSend me a DM if you\u2019ll be there \u2014 would love to connect!",
+    "num_shares": 1,
+    "num_likes": 10,
+    "num_comments": 1,
+    "comments_count": 1,
+    "reactions_count": 10,
+    "posted_at": "2025-10-15T17:47:21.967Z",
+    "actor_name": "Jeremy Yu",
+    "actor_profile_url": "https://www.linkedin.com/in/jeremy-yu-68928a6?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAEbx0kBgENz4hlQjci6ovrhVuK8LMtPRIY",
+    "post_type": "article"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/jeremy-yu-68928a6_lyzr-responsibleai-activity-7384275799639715840-mJzA?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEua-xUBQujA5GaBkm0I1l66m07Zni2sVeY",
+    "text": "Just wrapped an incredible week at IBM TechXchange in Orlando.\n\nEvery session came back to one thing \u2014 building responsibly with AI. The conversations around governance, compliance, and co-innovation show how fast enterprise adoption is evolving. Proud to be part of it.\n\n#Lyzr #ResponsibleAI",
+    "num_shares": 0,
+    "num_likes": 27,
+    "num_comments": 0,
+    "comments_count": 0,
+    "reactions_count": 10,
+    "posted_at": "2025-10-15T17:15:43.844Z",
+    "actor_name": "Jeremy Yu",
+    "actor_profile_url": "https://www.linkedin.com/in/jeremy-yu-68928a6?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAEbx0kBgENz4hlQjci6ovrhVuK8LMtPRIY",
+    "post_type": "image"
+  }
+]
+Twitter Posts (last 10): []
+
+Output ONLY this JSON:
+{
+  "section_id": 8,
+  "section_name": "Tactical Outreach Playbook",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "outreach_scripts": {
+      "email_draft": {
+        "subject": "",
+        "body": ""
+      },
+      "linkedin_inmail": {
+        "body": ""
+      }
+    },
+    "high_resonance_topics": [],
+    "topics_to_avoid": [],
+    "conversation_starters": [
+      {"opener": "", "context": ""}
+    ],
+    "optimization": {
+      "best_channel": "LinkedIn|Email|Twitter|Secretariat",
+      "best_days": [],
+      "suggested_time_of_day": ""
+    },
+    "data_confidence": "high|medium|low"
+  }
+}
+
+RULES:
+- email_draft: must follow the subject's communication style (e.g., numbered points, no fluff if they are an Analyst).
+- linkedin_inmail: max 300 characters. Highly personalized based on a recent post or achievement.
+- high_resonance_topics: 3-5 specific topics they will definitively respond to.
+- conversation_starters: 3 unique, data-backed lines to start a verbal or text conversation.
+- optimization: infer best_days and time from post timestamps. If no timestamps, use industry defaults for their role.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

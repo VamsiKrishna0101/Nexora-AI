@@ -1,0 +1,22 @@
+{
+  "section_id": 6,
+  "section_name": "Content & Thought Leadership",
+  "person_id": "Lia Hofmann",
+  "data": {
+    "articles_and_blogs": [],
+    "podcast_appearances": [],
+    "conference_talks": [],
+    "interviews": [],
+    "key_topics_covered": [
+      "Startup Growth Strategy",
+      "Enterprise Procurement AI",
+      "Sales Enablement",
+      "Go-to-Market Execution"
+    ],
+    "content_volume": "None",
+    "thought_leadership_tier": "Minimal Presence",
+    "thought_leadership_assessment": "Lia Hofmann exhibits a minimal presence in external thought leadership, as her output is currently limited to platform-specific LinkedIn posts announcing role transitions. Her content is primarily oriented toward professional milestone sharing and personal career updates rather than public-facing editorial or original thought leadership.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "The content audit was restricted to available LinkedIn data, which confirms no articles, talks, or third-party publications are present."
+  }
+}

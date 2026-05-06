@@ -1,0 +1,868 @@
+SYSTEM: None
+
+USER: 
+You are a risk assessment analyst at a Palantir-grade research firm.
+Identify verifiable Risk & Red Flags for the subject.
+This section has legal and reputational implications — only flag what is directly evidenced in the data.
+Do not speculate. Do not flag opinions as controversies.
+
+INPUT DATA:
+LinkedIn Profile: {
+  "url": "https://www.linkedin.com/in/vladimir-keil",
+  "username": "vladimir-keil",
+  "linkedin_id": "ACoAACSNaE8BokiH-nyGlzVeUVY-k3lqwpHizeg",
+  "first_name": "Vladimir",
+  "last_name": "Keil",
+  "full_name": "Vladimir Keil",
+  "headline": "CEO & Founder at Lio (YC S23) - we\u2019re hiring",
+  "is_influencer": false,
+  "is_premium": true,
+  "is_memorialized": false,
+  "location": "Munich, Bavaria, Germany",
+  "location_raw": "Munich, Bavaria, Germany",
+  "country_full": "Germany",
+  "state": "Bavaria",
+  "city": "Munich",
+  "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4D03AQErDEQtzt0D1Q/profile-displayphoto-crop_800_800/B4DZ0peJgnIoAI-/0/1774517264497?e=1777507200&v=beta&t=7p-1ecNRUBVhRdAmIqelUuj2BlT-DhuwraoH3R83IRc",
+  "top_skills": [],
+  "linkedin_followers": 7893,
+  "connections_count": 5252,
+  "about": "CEO @ Lio | We're building the Future of Procurement with our AI Agents",
+  "current_positions": [
+    {
+      "company_name": "Lio (prev. askLio)",
+      "company_linkedin_url": "https://www.linkedin.com/company/93327386/",
+      "date_range": {
+        "start": {
+          "month": 3,
+          "year": 2023,
+          "day": null
+        },
+        "end": null
+      }
+    }
+  ],
+  "experiences": [
+    {
+      "title": "Founder & CEO",
+      "company": "Lio (prev. askLio)",
+      "duration": "3 yrs 2 mos",
+      "description": "Building the world's first Multi-Agent System for procurement. Your AI workforce managing procurement end-to-end. \n\naskLio builds the world's first Al procurement workforce for enterprise companies worldwide. Every purchase request is managed by specialized agents working in parallel-researching vendors, negotiating terms, managing approvals, and tracking deliveries simultaneously. What once consumed your team's hours is now exectued by a coordinated network of Al Agents.\n\naskLio is backed by YCombinator and the best investors in the world. ",
+      "skills": [],
+      "start_date": {
+        "month": "Mar",
+        "year": 2023,
+        "text": "Mar 2023"
+      },
+      "end_date": {
+        "text": "Present"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQHcwtXXLPDPFw/company-logo_400_400/B4DZy516IgIgAY-/0/1772644443012/lio_ai_logo?e=1777507200&v=beta&t=mvyaljYPUJyIXuMEYnvKwmc44x0LGToFJbyC8o6SHoc"
+    },
+    {
+      "title": "Technical Co-Founder",
+      "company": "ProGlove Masterclass",
+      "duration": "11 mos",
+      "description": "Empowered everyone to build their own Tech Startup by providing practical & cinematic lessons from experienced founders. Owned Product and Technology.",
+      "skills": [],
+      "start_date": {
+        "month": "May",
+        "year": 2022,
+        "text": "May 2022"
+      },
+      "end_date": {
+        "month": "Mar",
+        "year": 2023,
+        "text": "Mar 2023"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQF5FGepFah1Pg/company-logo_400_400/company-logo_400_400/0/1652175231530?e=1777507200&v=beta&t=qZr08akh-tz5ByQwY4CitBCrWO6WlhaYulqr4LLmls0"
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Gabriel AI",
+      "duration": "11 mos",
+      "description": "With Gabriel we protected society from social engineering attacks using NLP technologies and Machine Learning.",
+      "skills": [],
+      "start_date": {
+        "month": "Jul",
+        "year": 2021,
+        "text": "Jul 2021"
+      },
+      "end_date": {
+        "month": "May",
+        "year": 2022,
+        "text": "May 2022"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQGTzLhPoYChaA/company-logo_400_400/company-logo_400_400/0/1689986827277/gabriel_ai_logo?e=1777507200&v=beta&t=r1BgTNXC18i2I2TQZI8P0cHVLt_WzNZo6TN5bv_RPvk"
+    },
+    {
+      "title": "Innovation Consultant",
+      "company": "Fraunhofer Venture",
+      "duration": "5 mos",
+      "description": null,
+      "skills": [],
+      "start_date": {
+        "month": "May",
+        "year": 2021,
+        "text": "May 2021"
+      },
+      "end_date": {
+        "month": "Sep",
+        "year": 2021,
+        "text": "Sep 2021"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQHLgYhWJSMNSA/company-logo_400_400/company-logo_400_400/0/1721980665330/fraunhoferventure_logo?e=1777507200&v=beta&t=Aa358N3X1DUFnFExAeMY9-fyPMeDlRfX0HQHf_NIhtw"
+    },
+    {
+      "title": "Technology Consultant",
+      "company": "GEMA",
+      "duration": "6 mos",
+      "description": "Developed a OCR application to make life of musicians easier (frontend, back-end, 3rd party integrations)",
+      "skills": [],
+      "start_date": {
+        "month": "Apr",
+        "year": 2021,
+        "text": "Apr 2021"
+      },
+      "end_date": {
+        "month": "Sep",
+        "year": 2021,
+        "text": "Sep 2021"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQHZZgDLdqmG-w/company-logo_400_400/company-logo_400_400/0/1630614041115/gema_logo?e=1777507200&v=beta&t=nnOaA7VYQAyQ859sNXoncarC_gq7m1hShVQjarawrnE"
+    },
+    {
+      "title": "Business Design Coach",
+      "company": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+      "duration": "3 mos",
+      "description": "Coached consultants and supported tech startups in the topic of business design.",
+      "skills": [],
+      "start_date": {
+        "month": "Apr",
+        "year": 2021,
+        "text": "Apr 2021"
+      },
+      "end_date": {
+        "month": "Jun",
+        "year": 2021,
+        "text": "Jun 2021"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQH_R0ADkfGotA/company-logo_400_400/company-logo_400_400/0/1630573546772/lmumuenchen_logo?e=1777507200&v=beta&t=z6IrmjD54oWmQ3eTQHNtHTNPXO1exNGE3SS3LgVW4aA"
+    },
+    {
+      "title": "Product Manager",
+      "company": "CHECK24 Vergleichsportal GmbH",
+      "duration": "6 mos",
+      "description": "#1 eCommerce comparison platform in Germany.",
+      "skills": [],
+      "start_date": {
+        "month": "Oct",
+        "year": 2020,
+        "text": "Oct 2020"
+      },
+      "end_date": {
+        "month": "Mar",
+        "year": 2021,
+        "text": "Mar 2021"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQGDPMqW8IYqfw/company-logo_400_400/B4DZZnMxdWGwAg-/0/1745488124080/check24_vergleichsportal_gmbh_logo?e=1777507200&v=beta&t=DGMy2JkcsdDU0XA-W4ML07rRbYVztvA5IzNJtl9M2j8"
+    },
+    {
+      "title": "Venture Architect",
+      "company": "Mercedes-Benz AG",
+      "duration": "4 mos",
+      "description": null,
+      "skills": [],
+      "start_date": {
+        "month": "May",
+        "year": 2019,
+        "text": "May 2019"
+      },
+      "end_date": {
+        "month": "Aug",
+        "year": 2019,
+        "text": "Aug 2019"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQHl_9JezRZLIQ/company-logo_400_400/B4EZidBMwAGUAY-/0/1754980994787/mercedes_benz_ag_logo?e=1777507200&v=beta&t=9PNPF1EDux4F75y_Ju0Egh79FDSVpOESTK4A9XQuBhU"
+    },
+    {
+      "title": "Product Manager",
+      "company": "Lab1886",
+      "duration": "6 mos",
+      "description": null,
+      "skills": [],
+      "start_date": {
+        "month": "Mar",
+        "year": 2019,
+        "text": "Mar 2019"
+      },
+      "end_date": {
+        "month": "Aug",
+        "year": 2019,
+        "text": "Aug 2019"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQF1QaUgJUn9Pg/company-logo_400_400/company-logo_400_400/0/1630554860090/1886ventures_logo?e=1777507200&v=beta&t=EEmhKVflvUjr6hQNgaBQtmGKbHE6G1RibWmZ8RZnoSI"
+    },
+    {
+      "title": "Project Manager",
+      "company": "Siemens",
+      "duration": "1 yr 4 mos",
+      "description": null,
+      "skills": [],
+      "start_date": {
+        "month": "May",
+        "year": 2017,
+        "text": "May 2017"
+      },
+      "end_date": {
+        "month": "Aug",
+        "year": 2018,
+        "text": "Aug 2018"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQFK_4wGnzwPTQ/company-logo_400_400/company-logo_400_400/0/1719931174735/siemens_logo?e=1777507200&v=beta&t=73BpGcWsMKbBCuxUUO1MlDT51kSbLviPQC3NlufeJQk"
+    }
+  ],
+  "educations": [
+    {
+      "institution": "Y Combinator",
+      "school_linkedin_url": "https://www.linkedin.com/company/167872/",
+      "degree": null,
+      "field_of_study": null,
+      "skills": [],
+      "start_date": null,
+      "end_date": {
+        "month": "Jun",
+        "year": 2023,
+        "text": "Jun 2023"
+      },
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1777507200&v=beta&t=0OsTY6AQ8N7VjMHFONTjgKVhVd4NpwQnhCGsPgw0_rs"
+    },
+    {
+      "institution": "TUM Entrepreneurship Research Institute",
+      "school_linkedin_url": "https://www.linkedin.com/company/13998339/",
+      "degree": "Venture Creation Track",
+      "field_of_study": null,
+      "skills": [],
+      "start_date": null,
+      "end_date": {
+        "text": ""
+      },
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQFvX4hdYRR2QQ/company-logo_400_400/B4DZo0vv0XJEAY-/0/1761821523607/tum_entrepreneurship_research_institute_logo?e=1777507200&v=beta&t=ikNshq70b0siZTHmIRkn6mpRdQEBc2Xmkb5i33w3ddI"
+    },
+    {
+      "institution": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+      "school_linkedin_url": "https://www.linkedin.com/company/596185/",
+      "degree": "Master of Science - MS",
+      "field_of_study": "Management and Digital Technologies",
+      "skills": [],
+      "start_date": null,
+      "end_date": {
+        "text": ""
+      },
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQH_R0ADkfGotA/company-logo_400_400/company-logo_400_400/0/1630573546772/lmumuenchen_logo?e=1777507200&v=beta&t=z6IrmjD54oWmQ3eTQHNtHTNPXO1exNGE3SS3LgVW4aA"
+    },
+    {
+      "institution": "Manage and More by UnternehmerTUM",
+      "school_linkedin_url": "https://www.linkedin.com/company/22291036/",
+      "degree": "Manage and More by UnternehmerTUM",
+      "field_of_study": null,
+      "skills": [],
+      "start_date": null,
+      "end_date": {
+        "text": ""
+      },
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQFvdiB0Zs8Yww/company-logo_400_400/company-logo_400_400/0/1688987933232/managemore_by_unternehmertum_logo?e=1777507200&v=beta&t=3czwoFS2Ye5t280F7RTVnTtEAWRTeiPdam0_ayKkR4g"
+    },
+    {
+      "institution": "National University of Malaysia (UKM)",
+      "school_linkedin_url": "https://www.linkedin.com/company/13323274/",
+      "degree": "Bachelor of Science - BS",
+      "field_of_study": "Industrial Engineering",
+      "skills": [],
+      "start_date": null,
+      "end_date": {
+        "text": ""
+      },
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQEudB7VQTcQKg/company-logo_400_400/company-logo_400_400/0/1631311683419?e=1777507200&v=beta&t=rELkKQ1sqwCKk7YfqTunlD1YgoOZY9twlCG7i0MOl_o"
+    },
+    {
+      "institution": "University of Duisburg-Essen",
+      "school_linkedin_url": "https://www.linkedin.com/company/22277/",
+      "degree": "Bachelor of Science - BS",
+      "field_of_study": "Wirtschaftsingenieurwesen",
+      "skills": [],
+      "start_date": null,
+      "end_date": {
+        "text": ""
+      },
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQEKIKeZWQU06w/company-logo_400_400/company-logo_400_400/0/1630487817436/university_of_duisburg_essen_logo?e=1777507200&v=beta&t=2QnhCOtOTLHY2n-ds1uZLL-CyBiBvfScYNJyMFgvMQ0"
+    }
+  ],
+  "skills": [
+    "Russisch",
+    "Englisch",
+    "Deutsch",
+    "MS Office",
+    "Produktmanagement",
+    "Projektmanagement",
+    "Anforderungsmanagement",
+    "Digital Marketing and business modells",
+    "Digital Marketing",
+    "Business Development",
+    "Web Development",
+    "Product Design"
+  ],
+  "languages": [],
+  "certifications": [
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    },
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    },
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    },
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    },
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    },
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    },
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    },
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    }
+  ],
+  "projects": [],
+  "volunteering": [
+    {
+      "role": "Scholarship Holder",
+      "organization": null,
+      "cause": null,
+      "description": null,
+      "start_date": {
+        "month": "Sep",
+        "year": 2018,
+        "text": "Sep 2018"
+      },
+      "end_date": {
+        "month": "Apr",
+        "year": 2019,
+        "text": "Apr 2019 \u00b7 8 mos"
+      }
+    },
+    {
+      "role": "Member",
+      "organization": null,
+      "cause": null,
+      "description": "START Munich is a student initiative of the Technical University of Munich, which has been networking the biggest prospective start-up talents from Munich since 2003. START networks a new generation of entrepreneurs and offers active access to the start-up world. Since its foundation in 2003, over 250 members have been active in the association and have founded successful start-ups such as Freeletics, Bits & Pretzels, Unu, or Lio ;)",
+      "start_date": {
+        "month": "Dec",
+        "year": 2020,
+        "text": "Dec 2020"
+      },
+      "end_date": {
+        "text": "Present \u00b7 5 yrs 5 mos"
+      }
+    }
+  ],
+  "recommendations": [
+    {
+      "recommender_name": null,
+      "text": "I have worked with Vladimir during his internship at Lab 1886 in Daimler. Vladimir supported in various topics like product management, strategy development, market research and others. I was particularly impressed by his readiness and motivation to assume responsibility even for some very challenging tasks.  And I was always sure that the results he delivered would be of the highest standard. Vladimir did not only bring several great ideas to the team but also good spirit and lots of laughs. Vladimir is a motivated young professional with a lot of passion for digitalization and innovation. He will definitely be an asset to any team. I wish him all the best in his future career."
+    }
+  ],
+  "publications": [],
+  "courses": [],
+  "patents": [],
+  "honors_awards": [],
+  "causes": [],
+  "featured": {
+    "images": [
+      "https://media.licdn.com/dms/image/v2/D4D05AQH2SLqZIZ1c0A/videocover-high/B4DZy9QOVgKYBc-/0/1772701679093?e=1776438000&v=beta&t=4KRzEkXSMhmNWoR83VaNG-c8soGrwyXs46_iUW2qcig"
+    ],
+    "link": "https://www.linkedin.com/feed/update/urn:li:activity:7435309493321777152?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7435309493321777152%29",
+    "slides": [
+      {
+        "title": null,
+        "subtitle": null,
+        "description": null,
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7435309493321777152?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7435309493321777152%29",
+        "image": {
+          "url": "https://media.licdn.com/dms/image/v2/D4D05AQH2SLqZIZ1c0A/videocover-high/B4DZy9QOVgKYBc-/0/1772701679093?e=1776438000&v=beta&t=4KRzEkXSMhmNWoR83VaNG-c8soGrwyXs46_iUW2qcig"
+        }
+      }
+    ]
+  }
+}
+Web Search Results: --- parallel_ai_research ---
+{
+  "basis": [
+    {
+      "field": "current_role",
+      "reasoning": "The LinkedIn profile lists Vladimir Keil as CEO @ Lio (formerly askLio) and the Lio About page confirms he is the CEO. The Procurement Summit speaker page also describes him as the CEO of askLio/Lio, confirming the current title and company.",
+      "citations": [
+        {
+          "url": "https://de.linkedin.com/in/vladimir-keil",
+          "excerpts": [
+            "CEO @ Lio | We're building the Future of Procurement with our AI Agents"
+          ],
+          "title": "Vladimir Keil \u2013 Lio (prev. askLio)"
+        },
+        {
+          "url": "https://lio.ai/about-us",
+          "excerpts": [],
+          "title": "The worlds first multi agent system for procurement - Lio"
+        },
+        {
+          "url": "https://procurementsummit.eu/speaker/vladimir-keil-1",
+          "excerpts": [
+            "Vladimir Keil is the CEO of askLio and a pioneer of agentic AI in procurement."
+          ],
+          "title": "Vladimir Keil - askLio"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "full_name",
+      "reasoning": "Both the LinkedIn profile and the Lio About page display the name Vladimir Keil (also referred to as Vladi).",
+      "citations": [
+        {
+          "url": "https://de.linkedin.com/in/vladimir-keil",
+          "excerpts": [],
+          "title": "Vladimir Keil \u2013 Lio (prev. askLio)"
+        },
+        {
+          "url": "https://lio.ai/about-us",
+          "excerpts": [
+            "Vladi is our CEO."
+          ],
+          "title": "The worlds first multi agent system for procurement - Lio"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "professional_summary",
+      "reasoning": "The Lio About page and the Procurement Summit bio describe Vladimir as the founder\u2011CEO of an AI\u2011driven procurement platform, a Y\u2011Combinator alum, with a background in industrial engineering and product/technology leadership.",
+      "citations": [
+        {
+          "url": "https://lio.ai/about-us",
+          "excerpts": [
+            "Vladi is our CEO. With a background in industrial engineering and digital technologies, he combines product vision and technical depth."
+          ],
+          "title": "The worlds first multi agent system for procurement - Lio"
+        },
+        {
+          "url": "https://procurementsummit.eu/speaker/vladimir-keil-1",
+          "excerpts": [
+            "Vladimir Keil is the CEO of askLio and a pioneer of agentic AI in procurement."
+          ],
+          "title": "Vladimir Keil - askLio"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "influence_score",
+      "reasoning": "The LinkedIn profile shows ~8\u202f000 followers and frequent thought\u2011leadership posts. Coverage in TechCrunch and a16z\u2011backed Series\u202fA raise indicate strong industry visibility. Combining follower count with media presence yields a mid\u2011range influence estimate.",
+      "citations": [
+        {
+          "url": "https://de.linkedin.com/in/vladimir-keil",
+          "excerpts": [],
+          "title": "Vladimir Keil \u2013 Lio (prev. askLio)"
+        },
+        {
+          "url": "https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/",
+          "excerpts": [
+            "\u2014 AI procurement startup Lio announced a $30 million Series A in a round led by Andreessen Horowitz."
+          ],
+          "title": "Lio raises $30M from Andreessen Horowitz and others to ..."
+        },
+        {
+          "url": "https://lio.ai/newsroom/lio-technologies-raises-30m-series-a-to-bring-agentic-ai-to-enterprise-procurement",
+          "excerpts": [
+            "Lio Raises $30M Series A to Bring Agentic AI to Enterprise Procurement Backed by Andreessen Horowitz"
+          ],
+          "title": "Lio Raises $30M Series A Funding"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "data_confidence",
+      "reasoning": "Multiple authoritative sources\u2014LinkedIn, the official Lio website, conference bios, and major tech press\u2014corroborate the key facts about role, background, funding, and awards.",
+      "citations": [
+        {
+          "url": "https://de.linkedin.com/in/vladimir-keil",
+          "excerpts": [],
+          "title": "Vladimir Keil \u2013 Lio (prev. askLio)"
+        },
+        {
+          "url": "https://lio.ai/about-us",
+          "excerpts": [],
+          "title": "The worlds first multi agent system for procurement - Lio"
+        },
+        {
+          "url": "https://procurementsummit.eu/speaker/vladimir-keil-1",
+          "excerpts": [],
+          "title": "Vladimir Keil - askLio"
+        },
+        {
+          "url": "https://procurementmag.com/executive/vladimir-keil",
+          "excerpts": [],
+          "title": "Vladimir Keil"
+        },
+        {
+          "url": "https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/",
+          "excerpts": [],
+          "title": "Lio raises $30M from Andreessen Horowitz and others to ..."
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "red_flags",
+      "reasoning": "No legal, security, or reputational incidents were found in the examined sources. The only cautionary note is the presence of promotional claims in LinkedIn posts that should be independently verified for high\u2011stakes decisions.",
+      "citations": [
+        {
+          "url": "https://de.linkedin.com/in/vladimir-keil",
+          "excerpts": [],
+          "title": "Vladimir Keil \u2013 Lio (prev. askLio)"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "skills",
+      "reasoning": "The LinkedIn headline and profile bullets highlight product vision, AI procurement, fundraising, and leadership. The About page mentions industrial engineering and digital technologies, indicating technical depth.",
+      "citations": [
+        {
+          "url": "https://de.linkedin.com/in/vladimir-keil",
+          "excerpts": [
+            "CEO @ Lio | We're building the Future of Procurement with our AI Agents"
+          ],
+          "title": "Vladimir Keil \u2013 Lio (prev. askLio)"
+        },
+        {
+          "url": "https://lio.ai/about-us",
+          "excerpts": [
+            "With a background in industrial engineering and digital technologies, he combines product vision and technical depth. H"
+          ],
+          "title": "The worlds first multi agent system for procurement - Lio"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "online_presence",
+      "reasoning": "The LinkedIn profile provides a strong signal of activity (followers, posts). The company website hosts a newsroom and team page. No verifiable personal website, GitHub, or Twitter/X handle was found in the extracted sources.",
+      "citations": [
+        {
+          "url": "https://de.linkedin.com/in/vladimir-keil",
+          "excerpts": [],
+          "title": "Vladimir Keil \u2013 Lio (prev. askLio)"
+        },
+        {
+          "url": "https://lio.ai/about-us",
+          "excerpts": [],
+          "title": "The worlds first multi agent system for procurement - Lio"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "education",
+      "reasoning": "The sources reference a background in industrial engineering and a link to the Technical University of Munich in the speaker bio, but specific degree titles, years, or institutions are not fully detailed.",
+      "citations": [
+        {
+          "url": "https://procurementsummit.eu/speaker/vladimir-keil-1",
+          "excerpts": [],
+          "title": "Vladimir Keil - askLio"
+        }
+      ],
+      "confidence": "low"
+    },
+    {
+      "field": "personality_signals",
+      "reasoning": "LinkedIn posts use assertive, data\u2011driven language (\u201cGet\u2011Shit\u2011Done\u201d, percentages) and emphasize disruption, indicating a direct, founder\u2011mindset communication style. The speaker bio highlights a mission\u2011driven approach and collaboration with AI experts.",
+      "citations": [
+        {
+          "url": "https://de.linkedin.com/in/vladimir-keil",
+          "excerpts": [],
+          "title": "Vladimir Keil \u2013 Lio (prev. askLio)"
+        },
+        {
+          "url": "https://procurementsummit.eu/speaker/vladimir-keil-1",
+          "excerpts": [
+            "Vladimir Keil is the CEO of askLio and a pioneer of agentic AI in procurement."
+          ],
+          "title": "Vladimir Keil - askLio"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "career_history",
+      "reasoning": "The Procurement Magazine profile lists a chronological series of roles with dates and titles, providing a clear employment timeline.",
+      "citations": [
+        {
+          "url": "https://procurementmag.com/executive/vladimir-keil",
+          "excerpts": [
+            " Co-Founder & CEO (Managing Director): Mar 2023 - Present"
+          ],
+          "title": "Vladimir Keil"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "publications_and_talks",
+      "reasoning": "The Procurement Summit page lists him as a speaker, and TechCrunch published an article on Lio\u2019s Series\u202fA which includes quotes from Vladimir, serving as media coverage.",
+      "citations": [
+        {
+          "url": "https://procurementsummit.eu/speaker/vladimir-keil-1",
+          "excerpts": [
+            "Vladimir Keil is the CEO of askLio and a pioneer of agentic AI in procurement."
+          ],
+          "title": "Vladimir Keil - askLio"
+        },
+        {
+          "url": "https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/",
+          "excerpts": [
+            "\u2014 AI procurement startup Lio announced a $30 million Series A in a round led by Andreessen Horowitz."
+          ],
+          "title": "Lio raises $30M from Andreessen Horowitz and others to ..."
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "achievements",
+      "reasoning": "The LinkedIn and Procurement Summit bios mention awards, and the TechCrunch and Lio newsroom articles confirm the $30\u202fM Series\u202fA funding.",
+      "citations": [
+        {
+          "url": "https://de.linkedin.com/in/vladimir-keil",
+          "excerpts": [],
+          "title": "Vladimir Keil \u2013 Lio (prev. askLio)"
+        },
+        {
+          "url": "https://procurementsummit.eu/speaker/vladimir-keil-1",
+          "excerpts": [],
+          "title": "Vladimir Keil - askLio"
+        },
+        {
+          "url": "https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/",
+          "excerpts": [
+            "\u2014 AI procurement startup Lio announced a $30 million Series A in a round led by Andreessen Horowitz."
+          ],
+          "title": "Lio raises $30M from Andreessen Horowitz and others to ..."
+        },
+        {
+          "url": "https://lio.ai/newsroom/lio-technologies-raises-30m-series-a-to-bring-agentic-ai-to-enterprise-procurement",
+          "excerpts": [],
+          "title": "Lio Raises $30M Series A Funding"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "how_to_approach",
+      "reasoning": "His LinkedIn activity shows a preference for direct, data\u2011driven messaging and a focus on partnership and product impact. Engaging via LinkedIn with concise, value\u2011oriented language that references AI procurement trends is likely to resonate.",
+      "citations": [
+        {
+          "url": "https://de.linkedin.com/in/vladimir-keil",
+          "excerpts": [],
+          "title": "Vladimir Keil \u2013 Lio (prev. askLio)"
+        },
+        {
+          "url": "https://procurementsummit.eu/speaker/vladimir-keil-1",
+          "excerpts": [
+            "Vladimir Keil is the CEO of askLio and a pioneer of agentic AI in procurement."
+          ],
+          "title": "Vladimir Keil - askLio"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "content": {
+    "current_role": "CEO & Founder, Lio",
+    "full_name": "Vladimir Keil",
+    "professional_summary": "Vladimir Keil is the Founder and CEO of Lio, an agentic AI procurement startup (YC S23 alumnus) that builds multi\u2011agent systems to automate enterprise procurement. He has a background in industrial engineering and has led product and technology efforts at prior ventures before launching Lio.",
+    "influence_score": 62.0,
+    "data_confidence": "high",
+    "red_flags": [],
+    "skills": [
+      "AI product development",
+      "Industrial engineering",
+      "Entrepreneurship",
+      "Fundraising",
+      "Procurement automation",
+      "Leadership",
+      "Team building"
+    ],
+    "online_presence": {
+      "personal_website": "",
+      "github_handle": "",
+      "twitter_handle": "",
+      "linkedin_url": "https://www.linkedin.com/in/vladimir-keil/",
+      "recent_posts_summary": "Frequent LinkedIn posts announcing product milestones, the $30M Series A, awards (DPW Growth Stage Award 2025), and thought\u2011leadership content on AI procurement."
+    },
+    "education": [],
+    "personality_signals": {
+      "communication_style": "Direct, data\u2011driven, assertive, founder\u2011mindset",
+      "key_interests": [
+        "AI procurement",
+        "Enterprise automation",
+        "Scaling startups"
+      ],
+      "values": [
+        "Innovation",
+        "Efficiency",
+        "Customer success"
+      ],
+      "leadership_style": "Mission\u2011driven, product\u2011focused, builder\u2011centric"
+    },
+    "career_history": [
+      {
+        "duration": "Mar 2023 - Present",
+        "title": "Co-Founder & CEO (Managing Director)",
+        "company": "askLio / Lio"
+      },
+      {
+        "duration": "May 2022 - Present",
+        "title": "Technical Co-Founder \u2013 Product and Technology",
+        "company": "ProGlove Masterclass"
+      },
+      {
+        "duration": "Jul 2021 - May 2022",
+        "title": "Co-Founder",
+        "company": "Gabriel AI"
+      },
+      {
+        "duration": "May 2021 - Sep 2021",
+        "title": "Innovation Consultant",
+        "company": "Fraunhofer Venture"
+      }
+    ],
+    "publications_and_talks": [
+      {
+        "title": "Procurement Summit 2024 \u2013 Keynote: The Future of AI\u2011Driven Procurement",
+        "date": "2024-10-15",
+        "type": "Talk",
+        "url": "https://procurementsummit.eu/speaker/vladimir-keil-1"
+      },
+      {
+        "title": "Lio AI raises $30M Series A to bring agentic AI to enterprise procurement",
+        "date": "2026-03-05",
+        "type": "Article",
+        "url": "https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/"
+      }
+    ],
+    "achievements": [
+      "DPW Growth Stage Award 2025",
+      "VivaTech Top 100 Rising European Startups",
+      "$30M Series A funding led by Andreessen Horowitz (Mar 2026)",
+      "Award from the German Federal Ministry for Economic Affairs and Climate Protection"
+    ],
+    "how_to_approach": "Reach out on LinkedIn with a brief, data\u2011focused message that aligns your proposition with AI\u2011driven procurement efficiency. Highlight concrete results or partnership opportunities and adopt a straightforward, results\u2011oriented tone."
+  },
+  "type": "json",
+  "beta_fields": null,
+  "output_schema": null
+}
+Twitter Posts (last 30): []
+
+JOB HOPPING METHODOLOGY:
+  Calculate average tenure across all roles (excluding current role if still active).
+  Flag as job hopping if: average tenure < 18 months AND 3 or more roles exist.
+  Provide exact average in months.
+
+Output ONLY this JSON:
+{
+  "section_id": 10,
+  "section_name": "Risk & Red Flags",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "job_hopping_signal": {
+      "detected": false,
+      "roles_analyzed": 0,
+      "average_tenure_months": 0,
+      "shortest_tenure_months": 0,
+      "assessment": ""
+    },
+    "controversial_statements": [
+      {
+        "summary": "",
+        "platform": "",
+        "approximate_date": "",
+        "risk_level": "Low|Medium|High",
+        "risk_rationale": ""
+      }
+    ],
+    "failed_ventures": [
+      {
+        "company": "",
+        "role": "",
+        "context": "",
+        "outcome": ""
+      }
+    ],
+    "reputation_signals": [
+      {
+        "signal": "",
+        "source": "",
+        "sentiment": "Positive|Negative|Neutral"
+      }
+    ],
+    "legal_or_regulatory_issues": [],
+    "data_gaps": [],
+    "overall_risk_rating": "Low|Medium|High|Critical",
+    "risk_summary": "",
+    "data_confidence": "high|medium|low",
+    "data_confidence_rationale": ""
+  }
+}
+
+RULES:
+- Apply the job hopping methodology above exactly.
+- controversial_statements: only flag statements that are objectively divisive, offensive, or professionally damaging. Expressing a strong opinion is NOT a red flag. Max 5.
+- risk_level High: statements involving discrimination, illegal activity, or direct professional harm. Medium: polarizing professional stances. Low: minor provocative takes.
+- failed_ventures: only include if explicitly mentioned in the data as failed/shut down. Do not infer failure from short tenure.
+- legal_or_regulatory_issues: only include if found in web data. If none, return [].
+- data_gaps: list critical data categories that were unavailable (e.g., "No web presence found", "Twitter data not provided"). This helps the reader calibrate confidence.
+- overall_risk_rating: Low = no flags. Medium = minor signals. High = multiple moderate signals. Critical = verified serious issues.
+- risk_summary: exactly 2 sentences. First states the overall risk profile. Second states the most significant flag or confirms clean profile.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

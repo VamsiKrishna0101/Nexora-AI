@@ -1,0 +1,155 @@
+{
+  "section_id": 2,
+  "section_name": "Professional Background",
+  "person_id": "jeremy-yu-68928a6",
+  "data": {
+    "current_role_summary": "Jeremy Yu is a seasoned AI product leader and principal solutions architect currently spearheading enterprise agentic AI strategy and deployment at Lyzr AI.",
+    "role_summary_bullets": [
+      "Core Identity & Mission: An AI product leader dedicated to transforming complex, ambiguous business problems into production-grade agentic AI systems that drive measurable enterprise impact.",
+      "Domain Mastery: Deep technical expertise in multi-agent systems, cloud-native architecture (AWS), and modern ML/data ecosystems, combined with a pragmatic, production-focused approach.",
+      "Quantifiable Impact: Demonstrated history of high-value delivery, including increasing identity graph coverage from 450M to 1.5B users and delivering over $2M in annual cost savings for a telecom client.",
+      "Strategic Scope: Operates at the intersection of executive advisory, solution design, and go-to-market strategy for Fortune 500 organizations across financial services, retail, and media.",
+      "Leadership Philosophy: Emphasizes a hands-on, rapid-prototyping culture that bridges the gap between engineering, product, and sales to accelerate AI adoption.",
+      "Current Momentum: Actively shaping enterprise AI adoption through the development of reference architectures and modular agentic workflows for global clients like NVIDIA and Target."
+    ],
+    "career_timeline": [
+      {
+        "company": "Lyzr AI",
+        "title": "Principal Solutions Architecture & AI Product Engineering",
+        "start_date": "Feb 2025",
+        "end_date": "Present",
+        "duration_months": 3,
+        "one_line_impact": "Lead product architecture and enterprise adoption strategy for agentic AI platforms across global Fortune 500 enterprises."
+      },
+      {
+        "company": "STAND 8 Technology Services",
+        "title": "Head of Data & AI Product and Partner Strategy",
+        "start_date": "Apr 2024",
+        "end_date": "Jan 2025",
+        "duration_months": 10,
+        "one_line_impact": "Designed and launched AI-powered products for sales forecasting and Customer 360 analytics on AWS."
+      },
+      {
+        "company": "Teradata",
+        "title": "Senior Presales Solution Engineer",
+        "start_date": "Nov 2021",
+        "end_date": "Nov 2023",
+        "duration_months": 25,
+        "one_line_impact": "Delivered $2M+ in annual cost savings for a large telecom client through secure data architecture implementation."
+      },
+      {
+        "company": "SAP",
+        "title": "Senior Presales Engineer",
+        "start_date": "Jan 2018",
+        "end_date": "Nov 2021",
+        "duration_months": 46,
+        "one_line_impact": "Led technical strategy for SAP's emerging technology portfolio, including AI, RPA, IoT, and blockchain."
+      },
+      {
+        "company": "Screen Engine, LLC",
+        "title": "Audience Intelligence Product Owner",
+        "start_date": "Jul 2017",
+        "end_date": "Dec 2017",
+        "duration_months": 6,
+        "one_line_impact": "Developed entertainment tracking product measuring consumer media usage and content engagement."
+      },
+      {
+        "company": "Nativo Inc",
+        "title": "Director Product Management",
+        "start_date": "Nov 2016",
+        "end_date": "Jul 2017",
+        "duration_months": 9,
+        "one_line_impact": "Increased native advertising impressions served by over 100% within six months through platform optimization."
+      },
+      {
+        "company": "Viant Inc.",
+        "title": "Principal Data Scientist & Product Leader",
+        "start_date": "Jul 2015",
+        "end_date": "Sep 2016",
+        "duration_months": 15,
+        "one_line_impact": "Expanded identity graph coverage from 450M to 1.5B unique users."
+      },
+      {
+        "company": "Viant Inc.",
+        "title": "Director, Consumer Data Products",
+        "start_date": "Dec 2013",
+        "end_date": "Jul 2015",
+        "duration_months": 20,
+        "one_line_impact": "Deployed ML models for demographic prediction that surpassed Nielsen Catalina benchmarks for accuracy."
+      },
+      {
+        "company": "Worldwide Motion Picture Group",
+        "title": "VP, Marketing Sciences & New Product Development",
+        "start_date": "May 2013",
+        "end_date": "Oct 2013",
+        "duration_months": 6,
+        "one_line_impact": "Introduced modern data engineering practices, improving the speed and reliability of analytics."
+      },
+      {
+        "company": "Match",
+        "title": "Director, Business Analytics",
+        "start_date": "Aug 2011",
+        "end_date": "May 2013",
+        "duration_months": 22,
+        "one_line_impact": "Built and operationalized a company-wide A/B testing platform supporting 24 niche dating websites."
+      },
+      {
+        "company": "Warner Home Video",
+        "title": "Director, Market Research",
+        "start_date": "Oct 2007",
+        "end_date": "Jun 2011",
+        "duration_months": 45,
+        "one_line_impact": "Designed automated dashboards to track near real-time VOD and digital content performance."
+      },
+      {
+        "company": "The Nielsen Company",
+        "title": "Vice President, Home Entertainment",
+        "start_date": "Oct 2005",
+        "end_date": "Oct 2007",
+        "duration_months": 25,
+        "one_line_impact": "Developed forecasting models to help studios optimize theatrical release and DVD distribution strategies."
+      },
+      {
+        "company": "OTX",
+        "title": "Director, Theatrical Research",
+        "start_date": "Jan 2003",
+        "end_date": "Sep 2005",
+        "duration_months": 33,
+        "one_line_impact": "Productized a subscription-based theatrical tracking research tool generating over $2M in recurring revenue."
+      },
+      {
+        "company": "MarketCast LLC",
+        "title": "Senior Research Analyst",
+        "start_date": "2001",
+        "end_date": "2002",
+        "duration_months": 12,
+        "one_line_impact": "Developed an advanced analytics platform with SAS to automate custom market research data processing."
+      }
+    ],
+    "education_history": [
+      {
+        "institution": "University of Massachusetts Amherst",
+        "degree": "MS",
+        "field_of_study": "Epidemiology",
+        "graduation_year": "1998"
+      },
+      {
+        "institution": "UCLA",
+        "degree": "BS",
+        "field_of_study": "Biochemistry",
+        "graduation_year": "1995"
+      }
+    ],
+    "total_years_experience": 24,
+    "industry_expertise_areas": [
+      "Financial Services",
+      "Retail",
+      "Media & Entertainment",
+      "Technology",
+      "Telecommunications",
+      "Insurance"
+    ],
+    "data_confidence": "high",
+    "data_confidence_rationale": "Professional background is derived directly from the provided LinkedIn work history and profile details; timeline gaps are minimal and career path is chronologically consistent."
+  }
+}

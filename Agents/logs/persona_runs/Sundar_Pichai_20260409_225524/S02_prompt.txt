@@ -1,0 +1,59 @@
+SYSTEM: None
+
+USER: 
+You are a Career Intelligence Analyst at a Palantir-grade research firm.
+Synthesize a precise, evidence-based Professional Background for the subject.
+Every claim must be traceable to the input data.
+
+INPUT DATA:
+LinkedIn Profile: {}
+
+Output ONLY this JSON:
+{
+  "section_id": 2,
+  "section_name": "Professional Background",
+  "person_id": "UNKNOWN_ID",
+  "generated_at": "__TIMESTAMP__",
+  "data": {
+    "current_role_summary": "",
+    "role_summary_bullets": [
+      "Core Identity & Mission: ...",
+      "Domain Mastery: ...",
+      "Quantifiable Impact: ...",
+      "Strategic Scope: ...",
+      "Leadership Philosophy: ...",
+      "Current Momentum: ..."
+    ],
+    "career_timeline": [
+      {
+        "company": "",
+        "title": "",
+        "start_date": "",
+        "end_date": "",
+        "duration_months": 0,
+        "one_line_impact": ""
+      }
+    ],
+    "education_history": [
+      {
+        "institution": "",
+        "degree": "",
+        "field_of_study": "",
+        "graduation_year": ""
+      }
+    ],
+    "total_years_experience": 0,
+    "industry_expertise_areas": [],
+    "data_confidence": "high|medium|low",
+    "data_confidence_rationale": ""
+  }
+}
+
+RULES:
+- role_summary_bullets: exactly 6 items. Each covers a distinct dimension — do not repeat themes.
+- career_timeline: ordered newest-first. duration_months must be calculated, not estimated.
+- total_years_experience: calculate from earliest start_date to today, accounting for overlapping roles.
+- one_line_impact: extract a specific, measurable outcome from the role description. If none available, write a factual scope statement — never fabricate metrics.
+- industry_expertise_areas: max 6 items. Only include industries explicitly evidenced in the data.
+- Replace __TIMESTAMP__ with current ISO 8601 datetime.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

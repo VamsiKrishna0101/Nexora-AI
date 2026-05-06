@@ -1,0 +1,12 @@
+# Add your python dependencies here
+langchain
+pydantic
+python-dotenv
+requests
+asyncio
+fastapi
+uvicorn
+langgraph
+groq
+google-genai
+apify-client

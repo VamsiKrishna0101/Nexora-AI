@@ -1,0 +1,561 @@
+SYSTEM: None
+
+USER: 
+You are the Senior Intelligence Director at a Palantir-grade research firm.
+You are delivering the final, authoritative verdict on this subject based on a complete intelligence dossier.
+This verdict is read by C-suite executives and investment committees. Precision and honesty are paramount.
+Do not soften findings. Do not inflate scores. Be direct.
+
+INPUT DATA — COMPLETE INTELLIGENCE DOSSIER (Sections 1–10):
+[
+  "{'section_id': 1, 'section_name': 'Identity Overview', 'person_id': 'ACoAACSNaE8BokiH-nyGlzVeUVY-k3lqwpHizeg', 'data': {'full_name': 'Vladimir Keil', 'current_role': 'CEO & Founder', 'company': 'Lio', 'location': 'Munich, Bavaria, Germany', 'profile_photo_url': 'https://media.licdn.com/dms/image/v2/D4D03AQErDEQtzt0D1Q/profile-displayphoto-crop_800_800/B4DZ0peJgnIoAI-/0/1774517264497?e=1777507200&v=beta&t=7p-1ecNRUBVhRdAmIqelUuj2BlT-DhuwraoH3R83IRc', 'linkedin_url': 'https://www.linkedin.com/in/vladimir-keil', 'twitter_handle': None, 'linkedin_followers': 7893, 'twitter_followers': 0, 'connections_count': 5252, 'influence_score': 30, 'influence_score_breakdown': {'linkedin_followers_points': 10, 'twitter_followers_points': 0, 'posting_activity_points': 5, 'career_seniority_points': 15, 'web_presence_points': 0}, 'influence_score_rationale': 'Score calculated based on 7,893 LinkedIn followers (10 pts), activity on one platform (5 pts), and C-suite/Founder seniority (15 pts).', 'data_confidence': 'medium', 'data_confidence_rationale': 'High-quality profile data available from LinkedIn; no external Twitter or verified media presence identified.'}}",
+  "{'section_id': 2, 'section_name': 'Professional Background', 'person_id': 'ACoAACSNaE8BokiH-nyGlzVeUVY-k3lqwpHizeg', 'data': {'current_role_summary': 'Entrepreneurial leader specializing in AI-driven B2B automation, currently building multi-agent systems for enterprise procurement at Lio.', 'role_summary_bullets': ['Core Identity & Mission: Founder focused on transforming traditional enterprise operations through autonomous AI workforce technologies.', 'Domain Mastery: Deep technical expertise in procurement workflows, NLP-based security, and product architecture.', 'Quantifiable Impact: Built Lio as an AI procurement solution backed by YCombinator, targeting global enterprise process efficiency.', 'Strategic Scope: Demonstrated ability to scale from early-stage venture building to technical product management within corporate innovation frameworks.', 'Leadership Philosophy: Prioritizes hands-on product ownership, rapid prototyping, and fostering entrepreneurial ecosystems.', 'Current Momentum: Leading a YC-backed venture while maintaining an active presence in Munich\u2019s startup innovation community.'], 'career_timeline': [{'company': 'Lio (prev. askLio)', 'title': 'Founder & CEO', 'start_date': '2023-03', 'end_date': 'Present', 'duration_months': 26, 'one_line_impact': \"Developing the world's first Multi-Agent System for end-to-end enterprise procurement.\"}, {'company': 'ProGlove Masterclass', 'title': 'Technical Co-Founder', 'start_date': '2022-05', 'end_date': '2023-03', 'duration_months': 11, 'one_line_impact': 'Owned product and technology development for a cinematic founder-education platform.'}, {'company': 'Gabriel AI', 'title': 'Co-Founder', 'start_date': '2021-07', 'end_date': '2022-05', 'duration_months': 11, 'one_line_impact': 'Utilized NLP and ML technologies to mitigate social engineering attacks.'}, {'company': 'Fraunhofer Venture', 'title': 'Innovation Consultant', 'start_date': '2021-05', 'end_date': '2021-09', 'duration_months': 5, 'one_line_impact': 'Provided specialized innovation consulting within the Fraunhofer research ecosystem.'}, {'company': 'GEMA', 'title': 'Technology Consultant', 'start_date': '2021-04', 'end_date': '2021-09', 'duration_months': 6, 'one_line_impact': 'Developed a full-stack OCR application for music industry workflows.'}, {'company': 'Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen', 'title': 'Business Design Coach', 'start_date': '2021-04', 'end_date': '2021-06', 'duration_months': 3, 'one_line_impact': 'Mentored consultants and startups on business design methodologies.'}, {'company': 'CHECK24 Vergleichsportal GmbH', 'title': 'Product Manager', 'start_date': '2020-10', 'end_date': '2021-03', 'duration_months': 6, 'one_line_impact': \"Managed product initiatives for Germany's largest eCommerce comparison platform.\"}, {'company': 'Mercedes-Benz AG', 'title': 'Venture Architect', 'start_date': '2019-05', 'end_date': '2019-08', 'duration_months': 4, 'one_line_impact': 'Facilitated venture architecture strategies within corporate innovation units.'}, {'company': 'Lab1886', 'title': 'Product Manager', 'start_date': '2019-03', 'end_date': '2019-08', 'duration_months': 6, 'one_line_impact': \"Supported strategy, market research, and product management for Daimler's innovation lab.\"}, {'company': 'Siemens', 'title': 'Project Manager', 'start_date': '2017-05', 'end_date': '2018-08', 'duration_months': 16, 'one_line_impact': 'Executed project management responsibilities within large-scale industrial operations.'}], 'education_history': [{'institution': 'Y Combinator', 'degree': 'Alumni', 'field_of_study': 'Startup Accelerator', 'graduation_year': '2023'}, {'institution': 'TUM Entrepreneurship Research Institute', 'degree': 'Certification', 'field_of_study': 'Venture Creation Track', 'graduation_year': 'N/A'}, {'institution': 'Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen', 'degree': 'Master of Science - MS', 'field_of_study': 'Management and Digital Technologies', 'graduation_year': 'N/A'}, {'institution': 'National University of Malaysia (UKM)', 'degree': 'Bachelor of Science - BS', 'field_of_study': 'Industrial Engineering', 'graduation_year': 'N/A'}, {'institution': 'University of Duisburg-Essen', 'degree': 'Bachelor of Science - BS', 'field_of_study': 'Wirtschaftsingenieurwesen', 'graduation_year': 'N/A'}], 'total_years_experience': 8, 'industry_expertise_areas': ['Artificial Intelligence', 'Enterprise Procurement', 'Product Management', 'eCommerce', 'Venture Capital', 'Industrial Engineering'], 'data_confidence': 'high', 'data_confidence_rationale': 'Information is derived directly from a verified LinkedIn profile with specific dates and role descriptions.'}}",
+  {
+    "section_id": 3,
+    "section_name": "Skills & Expertise",
+    "person_id": "vladimir-keil",
+    "data": {
+      "top_technical_skills": [
+        {
+          "skill": "Agentic AI",
+          "category": "Domain",
+          "evidence_level": "High",
+          "evidence_source": "Posts"
+        },
+        {
+          "skill": "Procurement Strategy",
+          "category": "Domain",
+          "evidence_level": "High",
+          "evidence_source": "Posts"
+        },
+        {
+          "skill": "Product Management",
+          "category": "Methodology",
+          "evidence_level": "High",
+          "evidence_source": "LinkedIn Skills"
+        },
+        {
+          "skill": "Enterprise SaaS",
+          "category": "Domain",
+          "evidence_level": "High",
+          "evidence_source": "Posts"
+        },
+        {
+          "skill": "Business Development",
+          "category": "Methodology",
+          "evidence_level": "High",
+          "evidence_source": "LinkedIn Skills"
+        },
+        {
+          "skill": "Machine Learning",
+          "category": "Domain",
+          "evidence_level": "Medium",
+          "evidence_source": "Experience Description"
+        },
+        {
+          "skill": "Project Management",
+          "category": "Methodology",
+          "evidence_level": "Medium",
+          "evidence_source": "LinkedIn Skills"
+        },
+        {
+          "skill": "NLP",
+          "category": "Domain",
+          "evidence_level": "Medium",
+          "evidence_source": "Experience Description"
+        },
+        {
+          "skill": "Web Development",
+          "category": "Tool",
+          "evidence_level": "Medium",
+          "evidence_source": "LinkedIn Skills"
+        },
+        {
+          "skill": "Product Design",
+          "category": "Methodology",
+          "evidence_level": "Medium",
+          "evidence_source": "LinkedIn Skills"
+        },
+        {
+          "skill": "Digital Marketing",
+          "category": "Methodology",
+          "evidence_level": "Low",
+          "evidence_source": "LinkedIn Skills"
+        },
+        {
+          "skill": "Anforderungsmanagement",
+          "category": "Methodology",
+          "evidence_level": "Low",
+          "evidence_source": "LinkedIn Skills"
+        }
+      ],
+      "domain_expertise": [
+        {
+          "domain": "AI-Driven Procurement",
+          "depth": "Expert",
+          "evidence": "Founder & CEO of Lio, multiple posts detailing end-to-end P2P automation."
+        },
+        {
+          "domain": "Entrepreneurship",
+          "depth": "Expert",
+          "evidence": "Y Combinator alum, multiple venture foundings, Venture Creation track at TUM."
+        },
+        {
+          "domain": "Enterprise Software",
+          "depth": "Practitioner",
+          "evidence": "Management of multi-million dollar spend for Fortune 500 and Global 2000 clients."
+        },
+        {
+          "domain": "Industrial Engineering",
+          "depth": "Practitioner",
+          "evidence": "Academic background in Industrial Engineering (BSc) and related internship/consulting roles."
+        }
+      ],
+      "soft_skills_signals": [
+        {
+          "skill": "Visionary Leadership",
+          "signal_source": "Posts",
+          "justification": "Articulates a clear manifesto on replacing legacy procurement models with AI agents in his Series A announcement post."
+        },
+        {
+          "skill": "Intellectual Independence",
+          "signal_source": "Posts",
+          "justification": "Reflects on the necessity of protecting 'original thinking' and resisting social pressure in his March 23, 2026 post."
+        },
+        {
+          "skill": "Resilience",
+          "signal_source": "Recommendations",
+          "justification": "Recommender cites his 'readiness and motivation' to assume responsibility for 'very challenging tasks' during his time at Lab 1886."
+        },
+        {
+          "skill": "Public Speaking",
+          "signal_source": "Posts",
+          "justification": "Delivered roundtables and workshops at major industry events like Americas Procurement Congress."
+        }
+      ],
+      "skill_gaps_or_blind_spots": [],
+      "skill_progression_narrative": "Vladimir transitioned from foundational corporate project and product management roles at Siemens and Mercedes-Benz into a series of AI-focused ventures. His career trajectory shows a clear maturation from learning systems (Gabriel AI, OCR application) to building autonomous, multi-agent enterprise execution layers for the procurement industry.",
+      "data_confidence": "high",
+      "data_confidence_rationale": "Data is supported by a comprehensive LinkedIn history, explicit experience descriptions, and a recent, high-frequency stream of professional posts detailing his current operational and technical responsibilities."
+    }
+  },
+  {
+    "section_id": 4,
+    "section_name": "Behavioral Intelligence Suite",
+    "person_id": "vladimir-keil",
+    "data": {
+      "behavioral_profile": {
+        "archetype": "The Pioneer",
+        "one_line_description": "Aggressive founder driving a radical shift from human-led to autonomous agent-based procurement operations.",
+        "trait_tags": [
+          "Disruptive",
+          "Visionary",
+          "Tactically-aggressive"
+        ]
+      },
+      "trait_scores": {
+        "dominance": 85,
+        "expressiveness": 75,
+        "pace": 90,
+        "pragmatism": 80,
+        "risk_appetite": 70,
+        "social_energy": 65
+      },
+      "working_style": {
+        "decision_making": "Decisive and data-backed, favoring rapid execution over consensus-building.",
+        "collaboration": "Direct and meritocratic, prioritizing talent density and high-energy contributors.",
+        "conflict_style": "Openly confronts legacy industry models and 'theater' in software.",
+        "pace": "Hyper-fast scaling, maintaining high intensity for himself and his team."
+      },
+      "what_drives_them": {
+        "energizers": [
+          "Winning market share through superior technical execution",
+          "Challenging established status quo and industry norms",
+          "High-velocity organizational growth",
+          "Concrete, measurable outcomes like automation and savings"
+        ],
+        "drainers": [
+          "Inefficient processes and administrative manual labor",
+          "Conversations centered on features rather than execution",
+          "Social pressure to compromise vision for consensus",
+          "Legacy enterprise procurement mindsets"
+        ]
+      },
+      "engagement_guide": {
+        "how_to_open": [
+          "Acknowledge the shift to agentic execution over copilots.",
+          "Reference recent funding news or industry positioning.",
+          "Demonstrate immediate alignment with the 'autonomous workforce' vision."
+        ],
+        "how_to_run_meeting": [
+          "Keep the focus on high-impact strategic execution.",
+          "Avoid fluff; come prepared with specific operational bottlenecks.",
+          "Validate the premise that AI should replace, not assist."
+        ],
+        "how_to_email": [
+          "Be concise, punchy, and outcome-oriented.",
+          "Eliminate jargon that suggests incremental improvements.",
+          "Link directly to high-level ROI or performance metrics."
+        ],
+        "how_to_follow_up": [
+          "Provide tangible updates on progress or momentum.",
+          "Avoid repetitive 'checking-in' without new value-add data.",
+          "Propose clear, definitive next steps for partnership."
+        ],
+        "how_to_build_trust": [
+          "Demonstrate commitment to the radical vision of agentic AI.",
+          "Show evidence of high-velocity team performance.",
+          "Validate his stance against 'copilot theater' in the industry."
+        ]
+      },
+      "blind_spots": [
+        "Potential risk of burnout due to unsustainable organizational pace.",
+        "Can appear confrontational or exclusionary to those in legacy roles.",
+        "Over-reliance on 'disruption' framing potentially alienating enterprise incumbents.",
+        "May underestimate the friction of long-term change management in large firms."
+      ],
+      "dos_and_donts": {
+        "dos": [
+          "Focus on agent-driven autonomy and execution.",
+          "Validate his perspective on procurement transformation.",
+          "Present data-backed results and efficiency metrics.",
+          "Maintain high intensity and professional velocity."
+        ],
+        "donts": [
+          "Propose incremental features or 'copilot' tools.",
+          "Advocate for traditional headcount or BPO-heavy models.",
+          "Use vague or 'consultancy' style therapy language.",
+          "Waste time on soft-consensus building exercises."
+        ]
+      },
+      "data_confidence": "high",
+      "data_confidence_rationale": "High volume of consistent, professional-grade communication across 20 recent LinkedIn posts demonstrating a cohesive worldview and operating style."
+    }
+  },
+  {
+    "section_id": 5,
+    "section_name": "Online Presence & Activity",
+    "person_id": "vladimir-keil",
+    "data": {
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/vladimir-keil",
+        "followers": 7893,
+        "posts_analyzed": 15,
+        "posting_frequency": "Daily",
+        "avg_likes_per_post": 272,
+        "avg_comments_per_post": 37,
+        "top_topics": [
+          "AI Agents",
+          "Procurement Transformation",
+          "Enterprise Software",
+          "Startup Growth",
+          "Series A Funding"
+        ],
+        "last_post_date": "2026-03-26T14:31:23.919Z",
+        "last_post_summary": "Vladimir shared reflections on his sessions at the Americas Procurement Congress, focusing on the shift from manual human procurement to AI agent supervision and the organizational challenges of adopting new technology."
+      },
+      "twitter": {
+        "handle": null,
+        "url": null,
+        "followers": 0,
+        "posts_analyzed": 0,
+        "posting_frequency": "Unknown",
+        "top_topics": [],
+        "avg_likes_per_tweet": 0,
+        "avg_retweets_per_tweet": 0,
+        "last_tweet_date": null
+      },
+      "github": {
+        "url": null,
+        "found": false
+      },
+      "personal_website": null,
+      "other_platforms": [],
+      "overall_digital_footprint": "Moderate",
+      "recent_activity_summary": "Vladimir is actively promoting his company's recent $30M Series A funding and its agentic AI platform. He is using his platform to engage with procurement professionals at industry conferences, challenging legacy operational models, and advocating for an AI-first workforce in enterprise procurement.",
+      "data_confidence": "high",
+      "data_confidence_rationale": "High confidence based on detailed LinkedIn activity data and corporate announcements found via web search; no other major social platforms are active."
+    }
+  },
+  {
+    "raw": {
+      "section_id": 6,
+      "section_name": "Content & Thought Leadership",
+      "person_id": "vladimir-keil",
+      "data": {
+        "articles_and_blogs": [
+          {
+            "title": "Lio AI raises $30M Series A to bring agentic AI to enterprise procurement",
+            "url": "https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/",
+            "date": "2026-03-05",
+            "source": "TechCrunch",
+            "summary": "Article covering Lio's $30M Series A funding round led by Andreessen Horowitz."
+          }
+        ],
+        "podcast_appearances": [],
+        "conference_talks": [
+          {
+            "event": "Procurement Summit 2024",
+            "talk_title": "The Future of AI-Driven Procurement",
+            "date": "2024-10-15",
+            "url": "https://procurementsummit.eu/speaker/vladimir-keil-1"
+          },
+          {
+            "event": "Americas Procurement Congress",
+            "talk_title": "Humans vs. AI Agents: Who Runs Procurement in 2026?",
+            "date": "2026-03-26",
+            "url": null
+          }
+        ],
+        "interviews": [],
+        "key_topics_covered": [
+          "Agentic AI in procurement",
+          "Enterprise automation",
+          "Procurement operational transformation",
+          "Scaling AI-driven startups",
+          "Redefining human-AI collaboration in business"
+        ],
+        "content_volume": "High",
+        "thought_leadership_tier": "Active Contributor",
+        "thought_leadership_assessment": "Vladimir Keil is an active contributor who maintains a high-frequency presence on LinkedIn, supplemented by conference keynotes and major media coverage. He is primarily known for his assertive, data-driven advocacy of autonomous AI agents as the definitive replacement for legacy enterprise procurement processes.",
+        "data_confidence": "high",
+        "data_confidence_rationale": "Data is corroborated by official Lio announcements, professional event speaker profiles, and established tech journalism."
+      }
+    }
+  },
+  {
+    "section_id": 7,
+    "section_name": "Network & Influence",
+    "person_id": "vladimir-keil",
+    "data": {
+      "notable_collaborations": [
+        {
+          "name": "Andreessen Horowitz",
+          "organization": "Andreessen Horowitz",
+          "relationship_type": "Investor",
+          "context": "Led the $30M Series A funding round for Lio.",
+          "source": "TechCrunch"
+        }
+      ],
+      "associated_companies": [
+        {
+          "company": "Lio",
+          "role": "CEO & Founder",
+          "type": "Founded"
+        },
+        {
+          "company": "ProGlove Masterclass",
+          "role": "Technical Co-Founder",
+          "type": "Founded"
+        },
+        {
+          "company": "Gabriel AI",
+          "role": "Co-Founder",
+          "type": "Founded"
+        },
+        {
+          "company": "Fraunhofer Venture",
+          "role": "Innovation Consultant",
+          "type": "Employer"
+        },
+        {
+          "company": "GEMA",
+          "role": "Technology Consultant",
+          "type": "Employer"
+        },
+        {
+          "company": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+          "role": "Business Design Coach",
+          "type": "Employer"
+        },
+        {
+          "company": "CHECK24 Vergleichsportal GmbH",
+          "role": "Product Manager",
+          "type": "Employer"
+        },
+        {
+          "company": "Mercedes-Benz AG",
+          "role": "Venture Architect",
+          "type": "Employer"
+        },
+        {
+          "company": "Lab1886",
+          "role": "Product Manager",
+          "type": "Employer"
+        },
+        {
+          "company": "Siemens",
+          "role": "Project Manager",
+          "type": "Employer"
+        }
+      ],
+      "industry_communities": [
+        "Y Combinator",
+        "START Munich",
+        "UnternehmerTUM"
+      ],
+      "media_mentions": [
+        {
+          "outlet": "TechCrunch",
+          "title": "Lio raises $30M from Andreessen Horowitz and others to automate enterprise procurement",
+          "url": "https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/",
+          "date": "2026-03-05"
+        },
+        {
+          "outlet": "Procurement Summit",
+          "title": "Vladimir Keil - askLio",
+          "url": "https://procurementsummit.eu/speaker/vladimir-keil-1",
+          "date": "2024-10-15"
+        }
+      ],
+      "network_reach": "Tier 2 (Industry)",
+      "network_strength_assessment": "Vladimir Keil maintains a specialized network within the European startup ecosystem and the global AI procurement technology sector. His connection to top-tier venture capital firms like Andreessen Horowitz suggests high-level professional credibility and institutional influence.",
+      "data_confidence": "high",
+      "data_confidence_rationale": "Data is corroborated by direct LinkedIn profile details, verified company press releases, and reputable tech media coverage of the subject's professional milestones."
+    }
+  },
+  {
+    "section_id": 8,
+    "section_name": "Tactical Outreach Playbook",
+    "person_id": "vladimir-keil",
+    "data": {
+      "outreach_scripts": {
+        "email_draft": {
+          "subject": "Moving beyond copilot theater / Procurement execution",
+          "body": "Vladimir, I\u2019ve been tracking your move to replace BPO-heavy procurement models with autonomous agents. The shift from \u2018assisting\u2019 to \u2018executing\u2019 is the only way to scale, yet most incumbents are still stuck in copilot theater.\n\nI\u2019m reaching out because I have a high-velocity solution that aligns with your vision of agentic autonomy. Specifically:\n1. We eliminate [Insert Specific Operational Bottleneck] without traditional headcount.\n2. We prioritize raw throughput over UI polish.\n\nAre you open to a brief, 10-minute exchange on how we can accelerate your target enterprise procurement metrics?"
+        },
+        "linkedin_inmail": {
+          "body": "Vladimir, your stance on \u2018copilot theater\u2019 is the most accurate take on the market I\u2019ve seen this year. Moving from process support to autonomous execution is the only way forward. I\u2019m building a solution that mirrors your vision of agentic procurement\u2014would you be open to a 10m sync?"
+        }
+      },
+      "high_resonance_topics": [
+        "Agentic AI vs. Copilot theater",
+        "Replacing BPO and manual procurement layers",
+        "High-velocity organizational scaling",
+        "Autonomous end-to-end P2P execution",
+        "Measurable ROI vs. feature-list selling"
+      ],
+      "topics_to_avoid": [
+        "Incremental feature improvements",
+        "Soft-skills/Consensus-based management strategies",
+        "Traditional BPO/Headcount-scaling models",
+        "Consultative/Vague 'digital transformation' buzzwords"
+      ],
+      "conversation_starters": [
+        {
+          "opener": "How are you avoiding the 'copilot trap' as you scale your agent swarms?",
+          "context": "Validates his specific critique of the market while inviting him to share his technical edge."
+        },
+        {
+          "opener": "I noticed your push at the Americas Procurement Congress\u2014how are you handling the organizational friction of replacing legacy procurement identity?",
+          "context": "Addresses his post regarding the 'leadership problem' vs. 'technology problem'."
+        },
+        {
+          "opener": "What\u2019s the most significant barrier you've hit when convincing incumbents that software should execute, not just suggest?",
+          "context": "Targets his drive to challenge industry norms and status-quo thinking."
+        }
+      ],
+      "optimization": {
+        "best_channel": "LinkedIn",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "suggested_time_of_day": "08:30 AM - 10:00 AM CET"
+      },
+      "data_confidence": "high"
+    }
+  },
+  "{'section_id': 9, 'section_name': 'Achievements & Milestones', 'person_id': 'ACoAACSNaE8BokiH-nyGlzVeUVY-k3lqwpHizeg', 'data': {'notable_achievements': [{'achievement': 'Raised $30M Series A funding for Lio', 'context': 'Led by Andreessen Horowitz to advance AI procurement technology.', 'quantified_impact': '$30,000,000', 'source': 'Web'}, {'achievement': 'Y Combinator Alumni', 'context': 'Participated in the YC S23 batch with company Lio.', 'quantified_impact': None, 'source': 'Both'}], 'companies_built_or_scaled': [{'company': 'Lio', 'role': 'CEO & Founder', 'scale_indicator': '$30M Series A', 'outcome': 'Active'}, {'company': 'ProGlove Masterclass', 'role': 'Technical Co-Founder', 'scale_indicator': None, 'outcome': 'Unknown'}, {'company': 'Gabriel AI', 'role': 'Co-Founder', 'scale_indicator': None, 'outcome': 'Unknown'}], 'products_launched': [{'product': 'Multi-Agent System for Procurement', 'context': 'Enterprise AI workforce', 'impact': 'Automates end-to-end procurement tasks'}, {'product': 'OCR application for GEMA', 'context': 'Technical project for music rights management', 'impact': 'Improved workflow for musicians'}], 'awards_and_recognition': [{'award': 'DPW Growth Stage Award', 'issuing_body': 'DPW', 'year': '2025'}, {'award': 'Top 100 Rising European Startups', 'issuing_body': 'VivaTech', 'year': None}], 'career_highlight': 'Vladimir Keil is the Founder and CEO of Lio, which secured $30M in Series A funding led by Andreessen Horowitz to develop agentic AI for enterprise procurement.', 'achievement_density': 'Medium', 'data_confidence': 'high', 'data_confidence_rationale': 'Key achievements are cross-referenced across LinkedIn and independent technology news outlets (TechCrunch).'}}",
+  {
+    "section_id": 10,
+    "section_name": "Risk & Red Flags",
+    "person_id": "vladimir-keil",
+    "data": {
+      "job_hopping_signal": {
+        "detected": true,
+        "roles_analyzed": 9,
+        "average_tenure_months": 5.77,
+        "shortest_tenure_months": 3,
+        "assessment": "Subject displays frequent job changes with an average tenure significantly below 18 months across multiple prior roles."
+      },
+      "controversial_statements": [],
+      "failed_ventures": [],
+      "reputation_signals": [
+        {
+          "signal": "Professional, well-regarded startup founder backed by high-profile investors (a16z, YC).",
+          "source": "LinkedIn, TechCrunch, Procurement Summit",
+          "sentiment": "Positive"
+        }
+      ],
+      "legal_or_regulatory_issues": [],
+      "data_gaps": [
+        "No independent personal website or GitHub repository provided.",
+        "Twitter/X social media history not available for analysis.",
+        "Specific academic degree completion years and grades are unverified."
+      ],
+      "overall_risk_rating": "Low",
+      "risk_summary": "The subject maintains a clean professional record with no verifiable legal or ethical red flags. While the career history shows high mobility characteristic of the startup ecosystem, this is consistent with typical venture-backed founding trajectories.",
+      "data_confidence": "high",
+      "data_confidence_rationale": "Data is corroborated by official corporate newsrooms, reputable tech media, and verified professional networking profiles."
+    }
+  }
+]
+
+PROFILE STRENGTH SCORE METHODOLOGY (apply exactly):
+  Start at 0. Add points as follows:
+  - Career depth (Section 2):     Strong timeline with quantified impact=20, moderate=12, minimal=5
+  - Skills breadth (Section 3):   10+ high-evidence skills=15, 5–9=10, <5=5
+  - Online influence (Section 1): influence_score >= 70=15, 40–69=10, <40=5
+  - Content output (Section 6):   Thought Leadership Tier "Authority"=15, "Active"=10, "Emerging"=5, lower=0
+  - Network strength (Section 7): Tier 1–2=15, Tier 3=8, Tier 4=3, Unknown=0
+  - Risk profile (Section 10):    Low risk=20, Medium=12, High=5, Critical=0
+  Cap final score at 100.
+
+Output ONLY this JSON:
+{
+  "section_id": 11,
+  "section_name": "AI Analyst Verdict",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "profile_strength_score": 0,
+    "profile_strength_breakdown": {
+      "career_depth_points": 0,
+      "skills_breadth_points": 0,
+      "online_influence_points": 0,
+      "content_output_points": 0,
+      "network_strength_points": 0,
+      "risk_profile_points": 0
+    },
+    "profile_strength_rationale": "",
+    "key_strengths": [
+      "",
+      "",
+      ""
+    ],
+    "key_concerns": [
+      "",
+      ""
+    ],
+    "one_line_verdict": "",
+    "recommended_use_cases": [],
+    "use_case_rationale": "",
+    "intelligence_gaps": [],
+    "confidence_level": "High|Medium|Low",
+    "confidence_rationale": ""
+  }
+}
+
+RULES:
+- Apply the profile strength score methodology above exactly. Show the breakdown.
+- profile_strength_rationale: 2-3 sentences explaining the score — what drove it up and what capped it.
+- key_strengths: exactly 3 items. Each must be specific, derived from data, and non-generic. "Strong communicator" is not acceptable. "Published in Forbes, keynoted SaaStr 2023" is acceptable.
+- key_concerns: exactly 2 items. Be honest — if the profile is clean, flag data gaps or limited verifiability as concerns.
+- one_line_verdict: the single most important takeaway. Max 20 words. Specific. Actionable. No filler.
+  Good: "High-credibility technical founder with proven AI scale — best approached via LinkedIn referral for partnership or investment."
+  Bad: "Impressive professional with a strong background in technology."
+- recommended_use_cases: array of applicable options from ["Sales Target", "Investment Target", "Strategic Partnership", "Recruitment", "Advisory", "Monitor Only", "Insufficient Data"].
+- intelligence_gaps: critical data that was missing and would change the assessment if available. Max 4.
+- confidence_level: High = all 10 sections had sufficient data. Medium = 6–9 sections. Low = fewer than 6.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

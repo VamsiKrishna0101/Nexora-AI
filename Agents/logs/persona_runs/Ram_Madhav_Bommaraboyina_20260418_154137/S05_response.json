@@ -1,0 +1,47 @@
+{
+  "section_id": 5,
+  "section_name": "Online Presence & Activity",
+  "person_id": "ACoAAFWw7ZEBQ3ThuQDibWe3Z6BoAWqPUp5WwQ4",
+  "data": {
+    "linkedin": {
+      "url": "https://www.linkedin.com/in/ram-madhav-bommaraboyina-381576341",
+      "followers": 174,
+      "posts_analyzed": 1,
+      "posting_frequency": "Rarely",
+      "avg_likes_per_post": 253,
+      "avg_comments_per_post": 4,
+      "top_topics": [
+        "AI-powered Agro-met Advisories",
+        "Mission Mausam",
+        "Agri-data ecosystems",
+        "LLM architecture",
+        "Agricultural research"
+      ],
+      "last_post_date": "2025-12-22T15:27:50.229Z",
+      "last_post_summary": "Reported on a 3-day ICRISAT review program regarding 'AI-powered Agro-met Advisories at Scale', highlighting multi-institutional collaboration under Mission Mausam."
+    },
+    "twitter": {
+      "handle": null,
+      "url": null,
+      "followers": 0,
+      "posts_analyzed": 0,
+      "posting_frequency": "Unknown",
+      "top_topics": [],
+      "avg_likes_per_tweet": 0,
+      "avg_retweets_per_tweet": 0,
+      "last_tweet_date": null
+    },
+    "github": {
+      "url": "https://github.com/rammadhav929",
+      "found": true
+    },
+    "personal_website": "",
+    "other_platforms": [
+      "Hugging Face (https://huggingface.co/spaces/rammadhav929/yolov8-anpr-demo)"
+    ],
+    "overall_digital_footprint": "Moderate",
+    "recent_activity_summary": "Ram Madhav is actively focused on technical AI and backend development, specifically maintaining GitHub repositories for projects like the WhatsApp AI Assistant and RAG-based document systems. He recently shared updates regarding collaborative efforts at ICRISAT on AI-enabled agricultural advisory services.",
+    "data_confidence": "medium",
+    "data_confidence_rationale": "Data is consistent across LinkedIn and GitHub, though direct posting activity on social platforms is sparse. LinkedIn data was partially limited by platform access."
+  }
+}

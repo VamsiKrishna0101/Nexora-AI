@@ -1,0 +1,113 @@
+.home-root {
+  display: flex;
+  flex-direction: column;
+  padding: 48px 40px;
+  max-width: 1200px;
+  margin: 0 auto;
+  font-family: inherit;
+}
+
+.home-hero {
+  text-align: center;
+  margin-bottom: 48px;
+}
+
+.home-title {
+  font-size: 2.2rem;
+  font-weight: 800;
+  color: #0f172a;
+  margin-bottom: 8px;
+  letter-spacing: -0.02em;
+}
+
+.home-subtitle {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #1d4ed8;
+  margin-bottom: 12px;
+}
+
+.home-desc {
+  font-size: 1rem;
+  color: #64748b;
+}
+
+.home-cards-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 24px;
+}
+
+.home-node-card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.home-node-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+.home-card-header {
+  margin-bottom: 24px;
+}
+
+.home-icon-badge {
+  width: 52px;
+  height: 52px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 18px;
+}
+
+.badge-blue {
+  background: #e0f2fe;
+}
+
+.badge-purple {
+  background: #f3e8ff;
+}
+
+.badge-orange {
+  background: #ffedd5;
+}
+
+.home-card-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #1e293b;
+  margin-bottom: 8px;
+}
+
+.home-card-desc {
+  font-size: 0.9rem;
+  color: #64748b;
+  line-height: 1.5;
+}
+
+.home-card-btn {
+  width: 100%;
+  padding: 12px 0;
+  border-radius: 8px;
+  background-color: #092241;
+  /* Matches red look */
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 0.95rem;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.home-card-btn:hover {
+  background-color: #03102f;
+}

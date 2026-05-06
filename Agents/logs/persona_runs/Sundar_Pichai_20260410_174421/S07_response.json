@@ -1,0 +1,91 @@
+{
+  "section_id": 7,
+  "section_name": "Network & Influence",
+  "person_id": "vladimir-keil",
+  "data": {
+    "notable_collaborations": [
+      {
+        "name": "Andreessen Horowitz",
+        "organization": "Andreessen Horowitz",
+        "relationship_type": "Investor",
+        "context": "Led the $30M Series A funding round for Lio.",
+        "source": "TechCrunch"
+      }
+    ],
+    "associated_companies": [
+      {
+        "company": "Lio",
+        "role": "CEO & Founder",
+        "type": "Founded"
+      },
+      {
+        "company": "ProGlove Masterclass",
+        "role": "Technical Co-Founder",
+        "type": "Founded"
+      },
+      {
+        "company": "Gabriel AI",
+        "role": "Co-Founder",
+        "type": "Founded"
+      },
+      {
+        "company": "Fraunhofer Venture",
+        "role": "Innovation Consultant",
+        "type": "Employer"
+      },
+      {
+        "company": "GEMA",
+        "role": "Technology Consultant",
+        "type": "Employer"
+      },
+      {
+        "company": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+        "role": "Business Design Coach",
+        "type": "Employer"
+      },
+      {
+        "company": "CHECK24 Vergleichsportal GmbH",
+        "role": "Product Manager",
+        "type": "Employer"
+      },
+      {
+        "company": "Mercedes-Benz AG",
+        "role": "Venture Architect",
+        "type": "Employer"
+      },
+      {
+        "company": "Lab1886",
+        "role": "Product Manager",
+        "type": "Employer"
+      },
+      {
+        "company": "Siemens",
+        "role": "Project Manager",
+        "type": "Employer"
+      }
+    ],
+    "industry_communities": [
+      "Y Combinator",
+      "START Munich",
+      "UnternehmerTUM"
+    ],
+    "media_mentions": [
+      {
+        "outlet": "TechCrunch",
+        "title": "Lio raises $30M from Andreessen Horowitz and others to automate enterprise procurement",
+        "url": "https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/",
+        "date": "2026-03-05"
+      },
+      {
+        "outlet": "Procurement Summit",
+        "title": "Vladimir Keil - askLio",
+        "url": "https://procurementsummit.eu/speaker/vladimir-keil-1",
+        "date": "2024-10-15"
+      }
+    ],
+    "network_reach": "Tier 2 (Industry)",
+    "network_strength_assessment": "Vladimir Keil maintains a specialized network within the European startup ecosystem and the global AI procurement technology sector. His connection to top-tier venture capital firms like Andreessen Horowitz suggests high-level professional credibility and institutional influence.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "Data is corroborated by direct LinkedIn profile details, verified company press releases, and reputable tech media coverage of the subject's professional milestones."
+  }
+}

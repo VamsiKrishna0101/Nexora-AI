@@ -1,0 +1,33 @@
+{
+  "subject": {
+    "name": "Sundar Pichai",
+    "designation": "CEO",
+    "company": "Google"
+  },
+  "sections": {
+    "identity": null,
+    "professional_background": null,
+    "skills_expertise": null,
+    "personality": null,
+    "online_presence": null,
+    "content_thought_leadership": null,
+    "network_influence": null,
+    "how_to_engage": null,
+    "achievements": null,
+    "red_flags": null,
+    "analyst_verdict": null
+  },
+  "errors": [
+    "S01 failed: 'person_id'",
+    "S02 failed: 'person_id'",
+    "S03 failed: 'person_id'",
+    "S04 failed: 'person_id'",
+    "S05 failed: 'person_id'",
+    "S06 failed: 'person_id'",
+    "S07 failed: 'person_id'",
+    "S09 failed: 'person_id'",
+    "S10 failed: 'person_id'",
+    "S08 failed: 'person_id'",
+    "S11 failed: 'person_id'"
+  ]
+}

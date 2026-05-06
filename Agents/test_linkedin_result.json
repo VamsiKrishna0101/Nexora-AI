@@ -1,0 +1,48 @@
+{
+  "name": "Sundar  Pichai",
+  "headline": "CEO at Google",
+  "about": "CEO of Google and Alphabet. Focused on organizing the world's information and making it universally accessible and useful, building great products, and developing advanced technologies, including AI, to help people everywhere.",
+  "location": "Mountain View, California, United States",
+  "profile_pic": null,
+  "follow_count": 4059237,
+  "connection_count": 1,
+  "experience": [
+    {
+      "title": "CEO",
+      "company": "Google",
+      "location": null,
+      "description": null,
+      "duration": "11 yrs 4 mos"
+    },
+    {
+      "title": "Product Management + Leadership",
+      "company": "Google",
+      "location": null,
+      "description": null,
+      "duration": "10 yrs 10 mos"
+    }
+  ],
+  "education": [
+    {
+      "school": "The Wharton School",
+      "degree": null,
+      "field": null,
+      "description": null
+    },
+    {
+      "school": "Stanford University",
+      "degree": null,
+      "field": "Materials Science and Engineering",
+      "description": null
+    },
+    {
+      "school": "Indian Institute of Technology, Kharagpur",
+      "degree": null,
+      "field": null,
+      "description": null
+    }
+  ],
+  "projects": [],
+  "skills": [],
+  "certifications": []
+}

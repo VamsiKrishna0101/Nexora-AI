@@ -1,0 +1,101 @@
+{
+  "section_id": 3,
+  "section_name": "Skills & Expertise",
+  "person_id": "pratheek-swargam",
+  "data": {
+    "top_technical_skills": [
+      {
+        "skill": "Python (Programming Language)",
+        "category": "Language",
+        "evidence_level": "High",
+        "evidence_source": "Project descriptions and LinkedIn Skills"
+      },
+      {
+        "skill": "Flask",
+        "category": "Framework",
+        "evidence_level": "High",
+        "evidence_source": "Agritech project description"
+      },
+      {
+        "skill": "Machine Learning (Random Forest)",
+        "category": "Methodology",
+        "evidence_level": "High",
+        "evidence_source": "Agritech project description"
+      },
+      {
+        "skill": "OpenCV",
+        "category": "Tool",
+        "evidence_level": "High",
+        "evidence_source": "Virtual Draw project description"
+      },
+      {
+        "skill": "Mediapipe",
+        "category": "Tool",
+        "evidence_level": "High",
+        "evidence_source": "Virtual Draw project description"
+      },
+      {
+        "skill": "SQL",
+        "category": "Language",
+        "evidence_level": "Medium",
+        "evidence_source": "LinkedIn Skills"
+      },
+      {
+        "skill": "Java",
+        "category": "Language",
+        "evidence_level": "Medium",
+        "evidence_source": "LinkedIn Skills"
+      },
+      {
+        "skill": "DSA",
+        "category": "Methodology",
+        "evidence_level": "Medium",
+        "evidence_source": "LinkedIn Skills"
+      },
+      {
+        "skill": "JavaScript",
+        "category": "Language",
+        "evidence_level": "Medium",
+        "evidence_source": "LinkedIn Skills"
+      },
+      {
+        "skill": "HTML/CSS",
+        "category": "Language",
+        "evidence_level": "Medium",
+        "evidence_source": "LinkedIn Skills"
+      },
+      {
+        "skill": "GitHub",
+        "category": "Tool",
+        "evidence_level": "Medium",
+        "evidence_source": "LinkedIn Skills/Project Links"
+      },
+      {
+        "skill": "Object-Oriented Programming (OOP)",
+        "category": "Methodology",
+        "evidence_level": "Medium",
+        "evidence_source": "LinkedIn Skills"
+      }
+    ],
+    "domain_expertise": [
+      {
+        "domain": "Web Development",
+        "depth": "Practitioner",
+        "evidence": "Developed web application projects using Flask and frontend technologies."
+      },
+      {
+        "domain": "Computer Vision",
+        "depth": "Practitioner",
+        "evidence": "Implemented hand-gesture tracking and real-time canvas drawing using OpenCV and Mediapipe."
+      }
+    ],
+    "soft_skills_signals": [],
+    "skill_gaps_or_blind_spots": [
+      "Absence of evidence regarding professional-grade cloud infrastructure or DevOps deployment practices.",
+      "No stated experience with formal unit testing or QA automation frameworks despite professional role."
+    ],
+    "skill_progression_narrative": "Pratheek's skill progression has moved from foundational Computer Science education to practical application through academic projects focusing on Machine Learning and Computer Vision. His current transition into the Programmer Analyst Trainee role at Cognizant represents his initial phase of applying these integrated technical competencies in a professional enterprise environment.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "Evidence is drawn directly from detailed project descriptions and verified LinkedIn skills lists; career timeline is clearly documented."
+  }
+}

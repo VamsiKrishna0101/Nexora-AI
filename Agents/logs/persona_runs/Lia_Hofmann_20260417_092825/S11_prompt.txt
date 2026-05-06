@@ -1,0 +1,505 @@
+SYSTEM: None
+
+USER: 
+You are the Senior Intelligence Director at a Palantir-grade research firm.
+You are delivering the final, authoritative verdict on this subject based on a complete intelligence dossier.
+This verdict is read by C-suite executives and investment committees. Precision and honesty are paramount.
+Do not soften findings. Do not inflate scores. Be direct.
+
+INPUT DATA — COMPLETE INTELLIGENCE DOSSIER (Sections 1–10):
+[
+  "{'section_id': 1, 'section_name': 'Identity Overview', 'person_id': 'ACoAADk3xRAB69zRTh7jdt5UdA6JfWRk9a4nQGs', 'data': {'full_name': 'Lia Hofmann', 'current_role': 'GTM', 'company': 'Lio (formerly askLio)', 'location': 'Germany', 'profile_photo_url': 'https://media.licdn.com/dms/image/v2/C4E03AQF0vYKD21xZ9w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1667950709574/e=1778112000&v=beta&t=cFNdYLEUoKRcJvpq-L_ZO3PB1wJN_r-1v8DeWKMU1YQ', 'linkedin_url': 'https://www.linkedin.com/in/lia-hofmann-2945a2229', 'twitter_handle': None, 'linkedin_followers': 1440, 'twitter_followers': 0, 'connections_count': 1427, 'influence_score': 12, 'influence_score_breakdown': {'linkedin_followers_points': 5, 'twitter_followers_points': 0, 'posting_activity_points': 5, 'career_seniority_points': 2, 'web_presence_points': 0}, 'influence_score_rationale': 'Score calculated based on 1,440 LinkedIn followers (5 pts), presence on one platform (5 pts), and current non-senior IC role (2 pts).', 'data_confidence': 'medium', 'data_confidence_rationale': 'High-quality profile data available from LinkedIn; no external social media (Twitter) data provided.'}}",
+  "{'section_id': 2, 'section_name': 'Professional Background', 'person_id': 'ACoAADk3xRAB69zRTh7jdt5UdA6JfWRk9a4nQGs', 'data': {'current_role_summary': 'Go-To-Market specialist focused on the deployment of multi-agent AI systems for the procurement sector.', 'role_summary_bullets': ['Core Identity & Mission: Dedicated to building and scaling early-stage AI-driven business models within the technology and venture ecosystem.', 'Domain Mastery: Deep expertise in go-to-market (GTM) strategy, sales automation, and lead generation across B2B and automotive industries.', 'Quantifiable Impact: Designed and executed automation-driven GTM workflows for retail-facing safety and alarm solution providers.', 'Strategic Scope: Proven experience supporting sales strategy for international markets including Austria, Germany, and Switzerland.', 'Leadership Philosophy: Blends academic rigor in management and economics with practical, entrepreneur-led venture building experience.', 'Current Momentum: Currently driving GTM operations for YC23-backed AI startup Lio in the procurement technology space.'], 'career_timeline': [{'company': 'Lio (formerly askLio)', 'title': 'GTM', 'start_date': 'Apr 2026', 'end_date': 'Present', 'duration_months': 1, 'one_line_impact': 'Driving GTM efforts for a multi-agent AI system for procurement.'}, {'company': 'Novosafe GmbH', 'title': 'Freelance | GTM', 'start_date': 'Sep 2025', 'end_date': 'Jan 2026', 'duration_months': 5, 'one_line_impact': 'Built and executed GTM strategy including lead generation and automation workflows for retail chains.'}, {'company': 'Firstlane Capital', 'title': 'Founders Associate | Venture Building', 'start_date': 'Jun 2025', 'end_date': 'Aug 2025', 'duration_months': 3, 'one_line_impact': 'Supported the development of Finperks\u2019 early-stage strategy alongside a team of serial founders.'}, {'company': 'Wemolo', 'title': 'Working Student | Sales Strategy', 'start_date': 'Aug 2024', 'end_date': 'Dec 2024', 'duration_months': 5, 'one_line_impact': 'Managed sales strategy, reporting, and lead qualification for the Austrian and Swiss markets.'}, {'company': 'Wemolo', 'title': 'Intern | Sales Strategy', 'start_date': 'May 2024', 'end_date': 'Jul 2024', 'duration_months': 3, 'one_line_impact': 'Contributed to sales strategy development within a digital parking and AI-recognition firm.'}, {'company': 'BMW Group', 'title': 'Intern | Marketing Strategy', 'start_date': 'Sep 2023', 'end_date': 'Mar 2024', 'duration_months': 7, 'one_line_impact': 'Supported marketing strategy, planning, and customer insights analysis for the German market.'}, {'company': 'K\u00f6nigswege GmbH', 'title': 'Intern | Financial Consulting', 'start_date': 'Oct 2021', 'end_date': 'Oct 2021', 'duration_months': 1, 'one_line_impact': 'Supported financial advisory firm with tailored investment and insurance consulting.'}], 'education_history': [{'institution': 'Nova School of Business and Economics', 'degree': 'Master of Science - MS', 'field_of_study': 'Management', 'graduation_year': '2026'}, {'institution': 'National Taiwan University', 'degree': 'Economics', 'field_of_study': 'Economics', 'graduation_year': '2023'}, {'institution': 'Maastricht University School of Business and Economics', 'degree': 'Bachelor of Science - BS', 'field_of_study': 'Economics and Business Economics', 'graduation_year': '2023'}], 'total_years_experience': 5, 'industry_expertise_areas': ['Artificial Intelligence', 'Procurement Technology', 'Automotive', 'Sales Strategy', 'Venture Building', 'Financial Services'], 'data_confidence': 'high', 'data_confidence_rationale': 'The profile contains precise, chronological professional and educational details with specific company names and roles.'}}",
+  {
+    "section_id": 3,
+    "section_name": "Skills & Expertise",
+    "person_id": "ACoAADk3xRAB69zRTh7jdt5UdA6JfWRk9a4nQGs",
+    "data": {
+      "top_technical_skills": [
+        {
+          "skill": "Go-To-Market (GTM) Strategy",
+          "category": "Methodology",
+          "evidence_level": "High",
+          "evidence_source": "Experience Description"
+        },
+        {
+          "skill": "Sales Strategy",
+          "category": "Methodology",
+          "evidence_level": "High",
+          "evidence_source": "Experience Description"
+        },
+        {
+          "skill": "Lead Generation",
+          "category": "Methodology",
+          "evidence_level": "High",
+          "evidence_source": "Experience Description"
+        },
+        {
+          "skill": "Sales Automation Workflows",
+          "category": "Tool",
+          "evidence_level": "Medium",
+          "evidence_source": "Experience Description"
+        },
+        {
+          "skill": "Market Analysis",
+          "category": "Methodology",
+          "evidence_level": "Medium",
+          "evidence_source": "Experience Description"
+        },
+        {
+          "skill": "Marketing Planning",
+          "category": "Methodology",
+          "evidence_level": "Medium",
+          "evidence_source": "Experience Description"
+        }
+      ],
+      "domain_expertise": [
+        {
+          "domain": "SaaS & AI Technology",
+          "depth": "Practitioner",
+          "evidence": "Roles at Lio (AI procurement) and Wemolo (AI license plate recognition)"
+        },
+        {
+          "domain": "Venture Building",
+          "depth": "Practitioner",
+          "evidence": "Founders Associate role at Firstlane Capital supporting early-stage strategy"
+        },
+        {
+          "domain": "Automotive Industry",
+          "depth": "Practitioner",
+          "evidence": "Marketing Strategy Internship at BMW Group"
+        }
+      ],
+      "soft_skills_signals": [
+        {
+          "skill": "Entrepreneurial Initiative",
+          "signal_source": "Experience",
+          "justification": "Held multiple internships and founder-facing roles while pursuing Master's and Bachelor's degrees."
+        },
+        {
+          "skill": "Public Communication",
+          "signal_source": "Posts",
+          "justification": "Active LinkedIn presence documenting career progression and team success, notably the Lio Series A announcement post."
+        },
+        {
+          "skill": "Collaboration",
+          "signal_source": "Posts",
+          "justification": "Explicitly credited team culture and skilled colleagues in her post regarding her time at Wemolo."
+        }
+      ],
+      "skill_gaps_or_blind_spots": [],
+      "skill_progression_narrative": "Lia evolved from generalist business internships at BMW and financial advisory into a specialized Growth and GTM professional. Her trajectory shows a deliberate shift toward early-stage technology and AI startups, balancing academic training in Economics with hands-on venture building and market execution.",
+      "data_confidence": "high",
+      "data_confidence_rationale": "The profile contains precise job titles, dates, and documented professional activity that aligns clearly with the stated expertise in GTM and sales strategy."
+    }
+  },
+  {
+    "section_id": 4,
+    "section_name": "Behavioral Intelligence Suite",
+    "person_id": "Lia Hofmann",
+    "data": {
+      "behavioral_profile": {
+        "archetype": "The Builder",
+        "one_line_description": "Career-focused professional transitioning between fast-paced growth environments and academic advancement.",
+        "trait_tags": [
+          "Growth Oriented",
+          "Goal Driven",
+          "Team Collaborative"
+        ]
+      },
+      "trait_scores": {
+        "dominance": 65,
+        "expressiveness": 75,
+        "pace": 85,
+        "pragmatism": 70,
+        "risk_appetite": 75,
+        "social_energy": 70
+      },
+      "working_style": {
+        "decision_making": "Prefers environments with clear objectives and growth trajectories.",
+        "collaboration": "Active contributor within established team structures and commercial settings.",
+        "conflict_style": "Direct communication focused on shared team objectives and outputs.",
+        "pace": "Maintains high velocity by jumping between high-growth startups and academic programs."
+      },
+      "what_drives_them": {
+        "energizers": [
+          "Rapid professional growth",
+          "High-stakes startup environments",
+          "GTM strategy building",
+          "Networking within elite circles"
+        ],
+        "drainers": [
+          "Stagnant project scope",
+          "Limited upward mobility",
+          "Lack of clear team structure"
+        ]
+      },
+      "engagement_guide": {
+        "how_to_open": [
+          "Acknowledge recent career moves or growth milestones.",
+          "Reference specific GTM or AI-driven industry context.",
+          "Maintain a high-energy and professional tone."
+        ],
+        "how_to_run_meeting": [
+          "Focus on tangible outcomes and strategic GTM goals.",
+          "Allow space for collaborative input on sales strategies.",
+          "Keep the agenda fast-paced and results-oriented."
+        ],
+        "how_to_email": [
+          "Keep content concise and actionable.",
+          "Highlight the value proposition of the interaction.",
+          "Reference past institutional affiliations like BMW or a16z-backed firms."
+        ],
+        "how_to_follow_up": [
+          "Timing is key; respect transition phases between studies and work.",
+          "Connect follow-ups to ongoing professional learning opportunities.",
+          "Provide clear next steps to maintain momentum."
+        ],
+        "how_to_build_trust": [
+          "Demonstrate commitment to long-term commercial goals.",
+          "Show consistency in professional branding.",
+          "Align with innovative and high-growth organizational visions."
+        ]
+      },
+      "blind_spots": [
+        "Likely to favor high-profile environments over operational longevity.",
+        "Frequent transitions may impact long-term organizational knowledge retention.",
+        "Potential bias toward growth-stage volatility over stability."
+      ],
+      "dos_and_donts": {
+        "dos": [
+          "Highlight organizational growth trajectory.",
+          "Discuss innovation in sales and GTM strategy.",
+          "Emphasize the importance of team culture.",
+          "Leverage her background in economics."
+        ],
+        "donts": [
+          "Avoid slow, administrative bureaucratic processes.",
+          "Do not offer roles lacking clear commercial ownership.",
+          "Avoid vague or non-impactful project descriptions.",
+          "Do not ignore the academic component of her career timeline."
+        ]
+      },
+      "data_confidence": "high",
+      "data_confidence_rationale": "High confidence based on chronological career progression posts and consistent professional tone across multiple employment transitions."
+    }
+  },
+  {
+    "section_id": 5,
+    "section_name": "Online Presence & Activity",
+    "person_id": "ACoAADk3xRAB69zRTh7jdt5UdA6JfWRk9a4nQGs",
+    "data": {
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/lia-hofmann-2945a2229",
+        "followers": 1440,
+        "posts_analyzed": 4,
+        "posting_frequency": "Rarely",
+        "avg_likes_per_post": 97,
+        "avg_comments_per_post": 8,
+        "top_topics": [
+          "Career transitions",
+          "GTM and growth",
+          "AI procurement",
+          "Startup culture",
+          "NGO support"
+        ],
+        "last_post_date": "2026-04-03T11:02:50.375Z",
+        "last_post_summary": "Lia announced joining Lio (formerly askLio) as a Growth Associate on their GTM team, highlighting the company's $30M Series A raise."
+      },
+      "twitter": {
+        "handle": null,
+        "url": null,
+        "followers": 0,
+        "posts_analyzed": 0,
+        "posting_frequency": "Unknown",
+        "top_topics": [],
+        "avg_likes_per_tweet": 0,
+        "avg_retweets_per_tweet": 0,
+        "last_tweet_date": null
+      },
+      "github": {
+        "url": null,
+        "found": false
+      },
+      "personal_website": null,
+      "other_platforms": [],
+      "overall_digital_footprint": "Moderate",
+      "recent_activity_summary": "Lia is actively documenting her career progression within the European startup ecosystem. Her latest activity focuses on her new role at an AI-focused startup following the completion of her studies.",
+      "data_confidence": "high",
+      "data_confidence_rationale": "Data is derived directly from the subject's LinkedIn profile and activity feed; consistent with professional norms for a GTM associate."
+    }
+  },
+  {
+    "raw": {
+      "section_id": 6,
+      "section_name": "Content & Thought Leadership",
+      "person_id": "Lia Hofmann",
+      "data": {
+        "articles_and_blogs": [],
+        "podcast_appearances": [],
+        "conference_talks": [],
+        "interviews": [],
+        "key_topics_covered": [
+          "Startup Growth Strategy",
+          "Enterprise Procurement AI",
+          "Sales Enablement",
+          "Go-to-Market Execution"
+        ],
+        "content_volume": "None",
+        "thought_leadership_tier": "Minimal Presence",
+        "thought_leadership_assessment": "Lia Hofmann exhibits a minimal presence in external thought leadership, as her output is currently limited to platform-specific LinkedIn posts announcing role transitions. Her content is primarily oriented toward professional milestone sharing and personal career updates rather than public-facing editorial or original thought leadership.",
+        "data_confidence": "high",
+        "data_confidence_rationale": "The content audit was restricted to available LinkedIn data, which confirms no articles, talks, or third-party publications are present."
+      }
+    }
+  },
+  {
+    "section_id": 7,
+    "section_name": "Network & Influence",
+    "person_id": "ACoAADk3xRAB69zRTh7jdt5UdA6JfWRk9a4nQGs",
+    "data": {
+      "notable_collaborations": [],
+      "associated_companies": [
+        {
+          "company": "Lio",
+          "role": "Growth Associate, GTM",
+          "type": "Employer"
+        },
+        {
+          "company": "Novosafe GmbH",
+          "role": "Freelance | GTM",
+          "type": "Employer"
+        },
+        {
+          "company": "Firstlane Capital",
+          "role": "Founders Associate | Venture Building",
+          "type": "Employer"
+        },
+        {
+          "company": "Wemolo",
+          "role": "Working Student / Intern | Sales Strategy",
+          "type": "Employer"
+        },
+        {
+          "company": "BMW Group",
+          "role": "Intern | Marketing Strategy",
+          "type": "Employer"
+        },
+        {
+          "company": "K\u00f6nigswege GmbH",
+          "role": "Intern | Financial Consulting",
+          "type": "Employer"
+        }
+      ],
+      "industry_communities": [
+        "Women in Business Maastricht",
+        "180 Degrees Consulting"
+      ],
+      "media_mentions": [],
+      "network_reach": "Tier 4 (Niche)",
+      "network_strength_assessment": "The subject maintains a professional network primarily centered within the European early-stage startup and academic ecosystem. The depth of her connections reflects a consistent pattern of engagement with venture-backed firms and student-led consulting organizations.",
+      "data_confidence": "high",
+      "data_confidence_rationale": "Network mapping is derived directly from validated professional history provided in the LinkedIn input; no external or unverified associations were identified."
+    }
+  },
+  {
+    "section_id": 8,
+    "section_name": "Tactical Outreach Playbook",
+    "person_id": "Lia Hofmann",
+    "data": {
+      "outreach_scripts": {
+        "email_draft": {
+          "subject": "AI procurement & GTM growth at Lio",
+          "body": "Hi Lia, congrats on joining Lio. It\u2019s an impressive leap from Wemolo, especially moving into the a16z-backed multi-agent AI space. I\u2019ve been following the shift toward autonomous procurement and would love to hear your perspective on how the GTM team is scaling this. I\u2019m currently exploring [Relevant Strategic Project/Innovation] and think there\u2019s some interesting alignment between your focus on high-stakes growth and our current trajectory. Do you have 15 minutes next week for a brief exchange on market strategy?"
+        },
+        "linkedin_inmail": {
+          "body": "Hi Lia, massive congrats on the move to Lio! Seeing you transition from Wemolo into a16z-backed AI procurement is a great trajectory. Would love to connect and trade notes on GTM strategies for high-growth tech environments. Best, [Your Name]"
+        }
+      },
+      "high_resonance_topics": [
+        "Autonomous enterprise procurement GTM strategy",
+        "Scaling AI-driven sales and growth initiatives",
+        "The intersection of economic research and commercial application",
+        "Building high-velocity team cultures in Series A startups"
+      ],
+      "topics_to_avoid": [
+        "Slow-moving bureaucratic or legacy corporate projects",
+        "Roles lacking clear commercial ownership",
+        "Stagnant operational maintenance without growth components"
+      ],
+      "conversation_starters": [
+        {
+          "opener": "How are you balancing the shift from your academic focus at Nova to the rapid-fire pace of a $30M Series A?",
+          "context": "Validates her career dual-pathing and high-pace energy."
+        },
+        {
+          "opener": "I saw your note on the multi-agent AI procurement shift\u2014how are you currently prioritizing GTM channels given the early-stage nature of the product?",
+          "context": "Demonstrates respect for her current role and invites strategic collaboration."
+        },
+        {
+          "opener": "Having seen your background at both BMW and high-growth startups, how do you think 'innovation' differs when it comes to long-term commercial impact?",
+          "context": "Leverages her previous institutional experience and appetite for growth."
+        }
+      ],
+      "optimization": {
+        "best_channel": "LinkedIn",
+        "best_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "suggested_time_of_day": "09:30 AM"
+      },
+      "data_confidence": "high"
+    }
+  },
+  "{'section_id': 9, 'section_name': 'Achievements & Milestones', 'person_id': 'ACoAADk3xRAB69zRTh7jdt5UdA6JfWRk9a4nQGs', 'data': {'notable_achievements': [{'achievement': 'Marketing Director at 180 Degrees Consulting Maastricht', 'context': 'Led the marketing strategy team for the university-based consultancy for nonprofits', 'quantified_impact': None, 'source': 'LinkedIn'}, {'achievement': 'GTM Strategy Development for Novosafe GmbH', 'context': 'Built and executed go-to-market strategy including lead generation and automation', 'quantified_impact': None, 'source': 'LinkedIn'}], 'companies_built_or_scaled': [{'company': 'Lio', 'role': 'GTM / Growth Associate', 'scale_indicator': None, 'outcome': 'Active'}, {'company': 'Novosafe GmbH', 'role': 'Freelance GTM', 'scale_indicator': None, 'outcome': 'Active'}], 'products_launched': [], 'awards_and_recognition': [], 'career_highlight': 'Lia Hofmann has progressed through multiple GTM and sales strategy roles in the European startup ecosystem, most recently joining Lio to support the development of an AI-powered procurement system.', 'achievement_density': 'Low', 'data_confidence': 'high', 'data_confidence_rationale': \"All data points are directly derived from the subject's verified LinkedIn profile and confirmed via public career activity.\"}}",
+  {
+    "section_id": 10,
+    "section_name": "Risk & Red Flags",
+    "person_id": "lia-hofmann-2945a2229",
+    "data": {
+      "job_hopping_signal": {
+        "detected": true,
+        "roles_analyzed": 6,
+        "average_tenure_months": 3.67,
+        "shortest_tenure_months": 1,
+        "assessment": "Subject's employment history is characterized by frequent, short-term internships and student roles, consistent with early-career development paths."
+      },
+      "controversial_statements": [],
+      "failed_ventures": [],
+      "reputation_signals": [
+        {
+          "signal": "Professional, collaborative, and career-focused presence",
+          "source": "LinkedIn activity",
+          "sentiment": "Positive"
+        }
+      ],
+      "legal_or_regulatory_issues": [],
+      "data_gaps": [
+        "Lack of personal website or verified social media presence beyond LinkedIn",
+        "No public records of speaking engagements or publications",
+        "Limited duration of historical roles makes long-term performance verification difficult"
+      ],
+      "overall_risk_rating": "Low",
+      "risk_summary": "The subject presents a low-risk profile consistent with an early-career professional in the startup and venture capital space. No evidence of professional misconduct, controversial statements, or negative reputation signals was identified.",
+      "data_confidence": "high",
+      "data_confidence_rationale": "Data is corroborated by a well-maintained LinkedIn profile and recent, verifiable career announcements; no external negative data points exist."
+    }
+  },
+  {
+    "section_id": "social_post_intelligence",
+    "section_name": "Social Media Post Intelligence",
+    "person_id": "Lia Hofmann",
+    "data": {
+      "content_analysis": {
+        "top_topics": [
+          "Career Milestones",
+          "Growth Strategy",
+          "Professional Networking",
+          "Corporate Transitions"
+        ],
+        "posting_pattern": "Infrequent, episodic poster sharing professional updates and significant career transitions.",
+        "content_style": "Enthusiastic, optimistic, and transparent professional tone focused on growth and learning.",
+        "engagement_insight": "Professional announcements regarding new job roles generate significantly higher engagement than requests or non-personal updates."
+      },
+      "post_breakdown": [
+        {
+          "platform": "LinkedIn",
+          "type": "Post",
+          "brief_description": "Announcement of joining Lio as a Growth Associate for AI-driven procurement.",
+          "theme": "Career Update",
+          "engagement_style": "High-engagement, milestone-focused."
+        },
+        {
+          "platform": "LinkedIn",
+          "type": "Post",
+          "brief_description": "Reflecting on a three-month tenure in the commercial team at Wemolo.",
+          "theme": "Professional Reflection",
+          "engagement_style": "Professional narrative."
+        },
+        {
+          "platform": "LinkedIn",
+          "type": "Post",
+          "brief_description": "Joining BMW Group as a Marketing Strategy Intern in Munich.",
+          "theme": "Career Milestone",
+          "engagement_style": "Formal announcement."
+        },
+        {
+          "platform": "LinkedIn",
+          "type": "Repost",
+          "brief_description": "Call for support regarding an NGO project facilitating cultural exchange.",
+          "theme": "Social Impact",
+          "engagement_style": "Direct outreach/call-to-action."
+        }
+      ],
+      "summaries": {
+        "posts": [
+          "Growth and Career Pivot: Regularly broadcasts new professional chapters and organizational roles.",
+          "Reflection: Shares insights and gratitude after completing professional assignments or internships.",
+          "Professional Growth: Highlights excitement for emerging technologies like AI-driven procurement systems."
+        ],
+        "reposts": [
+          "Community Outreach: Shares initiatives aimed at supporting NGO goals and cultural integration projects."
+        ]
+      }
+    }
+  }
+]
+
+PROFILE STRENGTH SCORE METHODOLOGY (apply exactly):
+  Start at 0. Add points as follows:
+  - Career depth (Section 2):     Strong timeline with quantified impact=20, moderate=12, minimal=5
+  - Skills breadth (Section 3):   10+ high-evidence skills=15, 5–9=10, <5=5
+  - Online influence (Section 1): influence_score >= 70=15, 40–69=10, <40=5
+  - Content output (Section 6):   Thought Leadership Tier "Authority"=15, "Active"=10, "Emerging"=5, lower=0
+  - Network strength (Section 7): Tier 1–2=15, Tier 3=8, Tier 4=3, Unknown=0
+  - Risk profile (Section 10):    Low risk=20, Medium=12, High=5, Critical=0
+  Cap final score at 100.
+
+Output ONLY this JSON:
+{
+  "section_id": 11,
+  "section_name": "AI Analyst Verdict",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "profile_strength_score": 0,
+    "profile_strength_breakdown": {
+      "career_depth_points": 0,
+      "skills_breadth_points": 0,
+      "online_influence_points": 0,
+      "content_output_points": 0,
+      "network_strength_points": 0,
+      "risk_profile_points": 0
+    },
+    "profile_strength_rationale": "",
+    "key_strengths": [
+      "",
+      "",
+      ""
+    ],
+    "key_concerns": [
+      "",
+      ""
+    ],
+    "one_line_verdict": "",
+    "recommended_use_cases": [],
+    "use_case_rationale": "",
+    "intelligence_gaps": [],
+    "confidence_level": "High|Medium|Low",
+    "confidence_rationale": ""
+  }
+}
+
+RULES:
+- Apply the profile strength score methodology above exactly. Show the breakdown.
+- profile_strength_rationale: 2-3 sentences explaining the score — what drove it up and what capped it.
+- key_strengths: exactly 3 items. Each must be specific, derived from data, and non-generic. "Strong communicator" is not acceptable. "Published in Forbes, keynoted SaaStr 2023" is acceptable.
+- key_concerns: exactly 2 items. Be honest — if the profile is clean, flag data gaps or limited verifiability as concerns.
+- one_line_verdict: the single most important takeaway. Max 20 words. Specific. Actionable. No filler.
+  Good: "High-credibility technical founder with proven AI scale — best approached via LinkedIn referral for partnership or investment."
+  Bad: "Impressive professional with a strong background in technology."
+- recommended_use_cases: array of applicable options from ["Sales Target", "Investment Target", "Strategic Partnership", "Recruitment", "Advisory", "Monitor Only", "Insufficient Data"].
+- intelligence_gaps: critical data that was missing and would change the assessment if available. Max 4.
+- confidence_level: High = all 10 sections had sufficient data. Medium = 6–9 sections. Low = fewer than 6.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

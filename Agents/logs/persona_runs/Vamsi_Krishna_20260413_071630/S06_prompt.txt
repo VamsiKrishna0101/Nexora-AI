@@ -1,0 +1,509 @@
+SYSTEM: None
+
+USER: 
+You are a content intelligence analyst at a Palantir-grade research firm.
+Map the external Content & Thought Leadership footprint of the subject.
+Fabricating URLs or publication titles is a critical failure — only report what is explicitly in the data.
+
+INPUT DATA:
+Web Search Results: --- parallel_ai_research ---
+{
+  "basis": [
+    {
+      "field": "full_name",
+      "reasoning": "The name appears directly in the LinkedIn profile and is reinforced by the RefractOne welcome post.",
+      "citations": [
+        {
+          "url": "https://in.linkedin.com/in/vamsi-krishna01",
+          "excerpts": [],
+          "title": "Vamsi Krishna - Backend Engineer | Built Convoxa"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "current_role",
+      "reasoning": "The LinkedIn experience section and the RefractOne welcome post both list Vamsi as a Backend & AI Engineer at Refract (RefractOne).",
+      "citations": [
+        {
+          "url": "https://www.linkedin.com/posts/refract-consulting_lifeatrefract-activity-7413844624420745216-GY6e",
+          "excerpts": [
+            "Welcome aboard, Vamsi Krishna! At Refract, we empower innovation through our powerful platforms"
+          ],
+          "title": "#lifeatrefract | RefractOne"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "online_presence",
+      "reasoning": "GitHub profiles provide handles and a Twitter link, while LinkedIn gives the profile URL and activity summary.",
+      "citations": [
+        {
+          "url": "https://github.com/rvamsikrishna",
+          "excerpts": [],
+          "title": "Vamsi Krishna rvamsikrishna"
+        },
+        {
+          "url": "https://github.com/vamsijkrishna",
+          "excerpts": [],
+          "title": "Vamsi Krishna vamsijkrishna"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "influence_score",
+      "reasoning": "Score derived from modest follower counts on LinkedIn (~259), GitHub followers (~140), limited public speaking or press, and active open\u2011source contributions.",
+      "citations": [
+        {
+          "url": "https://github.com/rvamsikrishna",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://github.com/vamsijkrishna",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://www.linkedin.com/posts/refract-consulting_lifeatrefract-activity-7413844624420745216-GY6e",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://in.linkedin.com/in/vamsi-krishna01",
+          "excerpts": [],
+          "title": null
+        }
+      ],
+      "confidence": "low"
+    },
+    {
+      "field": "data_confidence",
+      "reasoning": "Multiple public sources (LinkedIn, GitHub, company post) confirm core details, but some fields such as exact education years and full career timeline are missing.",
+      "citations": [
+        {
+          "url": "https://github.com/rvamsikrishna",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://github.com/vamsijkrishna",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://www.linkedin.com/posts/refract-consulting_lifeatrefract-activity-7413844624420745216-GY6e",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://in.linkedin.com/in/vamsi-krishna01",
+          "excerpts": [],
+          "title": null
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "red_flags",
+      "reasoning": "No controversial posts, legal issues, or warnings appear in the examined sources.",
+      "citations": [
+        {
+          "url": "https://github.com/rvamsikrishna",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://github.com/vamsijkrishna",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://www.linkedin.com/posts/refract-consulting_lifeatrefract-activity-7413844624420745216-GY6e",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://in.linkedin.com/in/vamsi-krishna01",
+          "excerpts": [],
+          "title": null
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "how_to_approach",
+      "reasoning": "LinkedIn likes indicate interest in AI and developer tooling; GitHub activity shows recent contributions to backend and Flutter projects.",
+      "citations": [
+        {
+          "url": "https://github.com/rvamsikrishna",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://github.com/vamsijkrishna",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://www.linkedin.com/posts/refract-consulting_lifeatrefract-activity-7413844624420745216-GY6e",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://in.linkedin.com/in/vamsi-krishna01",
+          "excerpts": [],
+          "title": null
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "professional_summary",
+      "reasoning": "Synthesized from LinkedIn role, founder description, and GitHub activity.",
+      "citations": [
+        {
+          "url": "https://github.com/rvamsikrishna",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://github.com/vamsijkrishna",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://www.linkedin.com/posts/refract-consulting_lifeatrefract-activity-7413844624420745216-GY6e",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://in.linkedin.com/in/vamsi-krishna01",
+          "excerpts": [],
+          "title": null
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "skills",
+      "reasoning": "Derived from GitHub repositories (Node.js, FastAPI, Flutter, CI/CD) and LinkedIn profile keywords.",
+      "citations": [
+        {
+          "url": "https://github.com/rvamsikrishna",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://github.com/vamsijkrishna",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://www.linkedin.com/posts/refract-consulting_lifeatrefract-activity-7413844624420745216-GY6e",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://in.linkedin.com/in/vamsi-krishna01",
+          "excerpts": [],
+          "title": null
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "education",
+      "reasoning": "LinkedIn profile lists the institution and indicates a Computer Science graduate.",
+      "citations": [
+        {
+          "url": "https://github.com/rvamsikrishna",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://github.com/vamsijkrishna",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://www.linkedin.com/posts/refract-consulting_lifeatrefract-activity-7413844624420745216-GY6e",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://in.linkedin.com/in/vamsi-krishna01",
+          "excerpts": [],
+          "title": null
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "personality_signals",
+      "reasoning": "Inferred from LinkedIn activity (likes) and founder role indicating interests and values.",
+      "citations": [
+        {
+          "url": "https://github.com/rvamsikrishna",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://github.com/vamsijkrishna",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://www.linkedin.com/posts/refract-consulting_lifeatrefract-activity-7413844624420745216-GY6e",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://in.linkedin.com/in/vamsi-krishna01",
+          "excerpts": [],
+          "title": null
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "career_history",
+      "reasoning": "Based on LinkedIn experience and the founder entry for Convoxa.",
+      "citations": [
+        {
+          "url": "https://github.com/rvamsikrishna",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://github.com/vamsijkrishna",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://www.linkedin.com/posts/refract-consulting_lifeatrefract-activity-7413844624420745216-GY6e",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://in.linkedin.com/in/vamsi-krishna01",
+          "excerpts": [],
+          "title": null
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "publications_and_talks",
+      "reasoning": "No articles, talks, or podcasts were found in the public search/extracted content.",
+      "citations": [
+        {
+          "url": "https://github.com/rvamsikrishna",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://github.com/vamsijkrishna",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://www.linkedin.com/posts/refract-consulting_lifeatrefract-activity-7413844624420745216-GY6e",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://in.linkedin.com/in/vamsi-krishna01",
+          "excerpts": [],
+          "title": null
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "achievements",
+      "reasoning": "Based on GitHub contributions and founder status observed in sources.",
+      "citations": [
+        {
+          "url": "https://github.com/rvamsikrishna",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://github.com/vamsijkrishna",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://www.linkedin.com/posts/refract-consulting_lifeatrefract-activity-7413844624420745216-GY6e",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://in.linkedin.com/in/vamsi-krishna01",
+          "excerpts": [],
+          "title": null
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "content": {
+    "full_name": "Vamsi Krishna",
+    "current_role": "Backend / Backend & AI Engineer at RefractOne",
+    "online_presence": {
+      "personal_website": "",
+      "github_handle": "rvamsikrishna, vamsijkrishna",
+      "twitter_handle": "r_vamsi_krishna",
+      "linkedin_url": "https://www.linkedin.com/in/vamsi-krishna01/",
+      "recent_posts_summary": "LinkedIn activity shows frequent likes on AI, data, cloud, and developer productivity content; a recent RefractOne post welcomes him as a new hire."
+    },
+    "influence_score": 28.0,
+    "data_confidence": "medium",
+    "red_flags": [],
+    "how_to_approach": "Use a technical, concise, product\u2011focused outreach that references his backend and LLM pipeline experience, cites specific open\u2011source contributions (e.g., the inview_notifier_list Flutter package), and proposes a concrete, collaborative ask.",
+    "professional_summary": "Vamsi Krishna is a Backend & AI Engineer at RefractOne, specializing in scalable backend systems and applied AI pipelines (LLM/RAG). He founded the early\u2011stage product Convoxa and contributes actively to open\u2011source Flutter/Dart packages.",
+    "skills": [
+      "Node.js",
+      "FastAPI",
+      "System Design",
+      "Redis",
+      "LLM pipelines / RAG",
+      "Flutter/Dart",
+      "CI/CD",
+      "Product\u2011oriented engineering",
+      "Community / OSS collaboration",
+      "Problem\u2011solving"
+    ],
+    "education": [
+      {
+        "institution": "Neil Gogte Institute of Technology",
+        "year": "",
+        "degree": "Computer Science Graduate"
+      }
+    ],
+    "personality_signals": {
+      "communication_style": "concise, professional, technically oriented",
+      "key_interests": [
+        "applied AI (LLMs, agents)",
+        "scalable backend systems",
+        "open\u2011source development (Flutter packages)",
+        "developer tooling",
+        "cloud infrastructure"
+      ],
+      "values": [
+        "growth/learning",
+        "community contribution",
+        "pragmatic engineering"
+      ],
+      "leadership_style": "hands\u2011on technical leadership; founder of Convoxa indicates initiative and product focus"
+    },
+    "career_history": [
+      {
+        "duration": "current",
+        "title": "Backend / Backend & AI Engineer",
+        "company": "RefractOne"
+      },
+      {
+        "duration": "Jan 2026 - Present",
+        "title": "Founder",
+        "company": "Convoxa"
+      }
+    ],
+    "publications_and_talks": [],
+    "achievements": [
+      "Active maintainer of several public repositories (e.g., inview_notifier_list Flutter package)",
+      "Founder of Convoxa and recent hire at RefractOne"
+    ]
+  },
+  "type": "json",
+  "beta_fields": null,
+  "output_schema": null
+}
+LinkedIn Posts (last 20): [
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/vamsi-krishna01_one-insight-changed-how-i-built-convoxa-activity-7447183908921847808-AieJ?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAC2x9rkBzztW3etKU5iH5rce4fPBfWTOafU",
+    "text": "One insight changed how I built Convoxa\n\nPeople don\u2019t comment much \u2014 but they LOVE voting\n\nDuring IPL, poll engagement was insane.\nSo instead of forcing comments, I leaned into that behavior\n\nShipped:\n\u2192 Polls feature (anonymous support)\n\u2192 Cleaner UI for faster interactions\n\nStill working on:\n\u2192 Feed ranking (NEW / HOT / TOP)\n\u2192 Engagement-focused UX\n\nGoal: reduce friction, increase participation.\n\nBuilding based on real user behavior \u2014 not assumptions",
+    "num_shares": 0,
+    "num_likes": 4,
+    "num_comments": 0,
+    "comments_count": 0,
+    "reactions_count": 4,
+    "posted_at": "2026-04-07T07:30:05.873Z",
+    "actor_name": "Vamsi Krishna",
+    "actor_profile_url": "https://www.linkedin.com/in/vamsi-krishna01?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD8unisBsIgHnZVFhsrjL-DTdoCwCeesXko",
+    "post_type": "image"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/vamsi-krishna01_backendengineering-systemdesign-nodejs-activity-7445371994096893952-ozaW?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAC2x9rkBzztW3etKU5iH5rce4fPBfWTOafU",
+    "text": "1.9M requests handled in testing. Now, real users are stress-testing the live environment.\n\nConvoxa \u2014 28 days post-launch:\n\u2192 514 device acquisitions\n\u2192 152 first opens\n\u2192 177 monthly active users\n\nAll on free-tier infrastructure. The Node.js/PostgreSQL backend held up in k6 with a 75ms median response time, and it's holding up in production now.\n\nWhat's next?\nPolls \u2014 launching just in time for IPL. Because the best communities thrive on healthy debate\n\nAfter building, productionizing, and shipping real features \u2014 from scalable backends to AI agents and RAG pipelines \u2014 I\u2019m actively seeking Junior/Associate Backend Engineering roles in Germany \ud83c\udde9\ud83c\uddea / Netherlands \ud83c\uddf3\ud83c\uddf1\n\n\u2705 Anabin H+ recognized degree (Computer Science & AIML)\n\u2705 LeetCode Knight (Top 3% globally 1875 rating)\n\u2705 Full-stack experience with AI Agents and RAG systems\n\nFull architecture case study and Play Store link in the comments! \ud83d\udc47\n\n#BackendEngineering #SystemDesign #NodeJS #Relocation #GermanyTech",
+    "num_shares": 0,
+    "num_likes": 9,
+    "num_comments": 1,
+    "comments_count": 1,
+    "reactions_count": 9,
+    "posted_at": "2026-04-02T07:30:11.715Z",
+    "actor_name": "Vamsi Krishna",
+    "actor_profile_url": "https://www.linkedin.com/in/vamsi-krishna01?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD8unisBsIgHnZVFhsrjL-DTdoCwCeesXko",
+    "post_type": "image"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/vamsi-krishna01_backendengineering-systemdesign-nodejs-activity-7444632809039720448-dCxy?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAC2x9rkBzztW3etKU5iH5rce4fPBfWTOafU",
+    "text": "\ud83d\ude80 Can a Node.js backend handle 1.9M requests at 75ms latency on $0 infrastructure?\n\nI built Convoxa from scratch and stress-tested it using k6 to see how far it could scale.\n\n\ud83d\udc49 1.9M requests across all endpoints  \n\ud83d\udc49 318 RPS (avg throughput)  \n\ud83d\udc49 75ms median latency @ 500 concurrent users  \n\ud83d\udc49 5-minute k6 load test (steady 500 VUs)\n\nHonestly, I expected it to break much earlier.\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udd27 What is Convoxa?\nA community discussion platform\n\u2192 Create posts\n\u2192 Deeply nested comment threads\n\u2192 Personalized + discovery feeds\n\u2192 Real-time chat\n\n\u26a1 Core challenge:\nHandling deep comment trees + dynamic feeds at scale\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udd27 Tech Stack\nNode.js \u00b7 TypeScript \u00b7 PostgreSQL \u00b7 Redis \u00b7 GCP \u00b7 Socket.io\n400+ downloads \u00b7 Launched March 7, 2026\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udca5 Problem #1 \u2014 Nested comments at scale\n\n\u274c Initial approach:\nOnly storing \"parentId\"\n\n\u2192 Recursive queries for deep threads\n\u2192 One DB hit per level (N depth = N queries)\n\u2192 Breaks under high concurrency\n\n\ud83d\udea8 Issue:\nComment loading became the slowest API\n\n\u2705 Solution: Hybrid Data Model\n(Materialized Path + Adjacency List)\n\n\u2192 Each comment stores full ancestry\n\u2192 Fetch entire thread in a single indexed query\n\u2192 Reconstruct tree in memory\n\n\u2696\ufe0f Trade-off:\nHeavier writes \u2192 significantly faster reads\n\n\ud83d\udca1 Insight:\nIn community platforms, reads >> writes\nSo optimize for reads\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83c\udfce\ufe0f Problem #2 \u2014 Feed system performance\n\n\u274c Initial approach:\nSequential execution\n\n\u2192 Personalized \u2192 Trending \u2192 Merge \u2192 Paginate\n\u2192 Each step blocks the next\n\n\ud83d\udea8 Issue:\nSlow feed load, poor UX\n\n\u2705 Solution: Parallel Feed Architecture\n\n\u2192 Personalized + discovery queries run in parallel\n\u2192 70/30 blend for relevance + exploration\n\n\ud83e\udde0 Dual Cursor System\n(pCursor | dCursor)\n\n\u2192 Independent pagination per feed source\n\u2192 Stateless infinite scroll\n\u2192 No duplicate posts\n\n\ud83d\udd25 Cold Start Fix:\nNew users always get a full, dynamic feed\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udcca Load testing (k6)\n\n1.9M requests \u00b7 318 RPS \u00b7 75ms median latency\n\nRan entirely on free tier.\nTests were so thorough they generated a \u20b9200 (~\u20ac1.87) bill.\n\nProbably the most productive \u20ac1.87 I've spent \ud83d\ude04\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udcce Full architecture + k6 screenshots + app\n(Links in first comment)\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83c\udf0d  Interested in Backend & AI opportunities in Germany \ud83c\udde9\ud83c\uddea / Netherlands \ud83c\uddf3\ud83c\uddf1  \n\u2714\ufe0f Anabin H+ recognized degree\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n#BackendEngineering #SystemDesign #NodeJS #PostgreSQL #Redis\n#Scalability #OpenToWork #GermanyTech #BerlinStartups #MunichTech",
+    "num_shares": 0,
+    "num_likes": 6,
+    "num_comments": 1,
+    "comments_count": 1,
+    "reactions_count": 6,
+    "posted_at": "2026-03-31T06:32:56.264Z",
+    "actor_name": "Vamsi Krishna",
+    "actor_profile_url": "https://www.linkedin.com/in/vamsi-krishna01?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD8unisBsIgHnZVFhsrjL-DTdoCwCeesXko",
+    "post_type": "text"
+  }
+]
+Twitter Posts (last 30): []
+
+Output ONLY this JSON:
+{
+  "section_id": 6,
+  "section_name": "Content & Thought Leadership",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "articles_and_blogs": [
+      {"title": "", "url": "", "date": "", "source": "", "summary": ""}
+    ],
+    "podcast_appearances": [
+      {"show_name": "", "episode_title": "", "url": "", "date": ""}
+    ],
+    "conference_talks": [
+      {"event": "", "talk_title": "", "date": "", "url": ""}
+    ],
+    "interviews": [
+      {"outlet": "", "title": "", "url": "", "date": ""}
+    ],
+    "key_topics_covered": [],
+    "content_volume": "High|Medium|Low|None",
+    "thought_leadership_tier": "Industry Authority|Active Contributor|Emerging Voice|Minimal Presence|None",
+    "thought_leadership_assessment": "",
+    "data_confidence": "high|medium|low",
+    "data_confidence_rationale": ""
+  }
+}
+
+RULES:
+- NEVER construct, guess, or hallucinate URLs. If a URL is not explicitly in the provided data, set url to null.
+- NEVER invent article titles, podcast names, or publication names.
+- If no items are found for a category, return an empty array [].
+- key_topics_covered: 3-6 recurring themes across ALL their content. Derived only from provided data.
+- content_volume: High = 5+ pieces of external content found. Medium = 2–4. Low = 1. None = 0.
+- thought_leadership_tier: Industry Authority = widely cited, speaks at major events. Active Contributor = regular publisher. Emerging Voice = occasional content. Minimal Presence = rare. None = no external content found.
+- thought_leadership_assessment: exactly 2 sentences. First sentence states the tier and evidence. Second sentence states what topics they are known for.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

@@ -1,0 +1,97 @@
+{
+  "section_id": 4,
+  "section_name": "Behavioral Intelligence Suite",
+  "person_id": "KOLYA_KRAFELD_001",
+  "data": {
+    "behavioral_profile": {
+      "archetype": "The Builder",
+      "one_line_description": "Technical founder focused on high-velocity development and iterative AI-driven product architecture.",
+      "trait_tags": [
+        "High Velocity",
+        "Technical Pragmatism",
+        "Team Centric"
+      ]
+    },
+    "trait_scores": {
+      "dominance": 65,
+      "expressiveness": 70,
+      "pace": 85,
+      "pragmatism": 90,
+      "risk_appetite": 75,
+      "social_energy": 60
+    },
+    "working_style": {
+      "decision_making": "Prioritizes functional utility and speed over conventional development standards.",
+      "collaboration": "High focus on team cohesion through shared offsites and peer mentorship.",
+      "conflict_style": "Addresses blockers directly through technical innovation rather than organizational friction.",
+      "pace": "Operates at extreme velocity with continuous delivery and rapid iteration cycles."
+    },
+    "what_drives_them": {
+      "energizers": [
+        "Shipping features at high frequency",
+        "Removing technical constraints for development",
+        "Team building in unique environments",
+        "Leveraging AI to maximize coding speed"
+      ],
+      "drainers": [
+        "Restricted parallel development workflows",
+        "IDE tab management bottlenecks",
+        "Slow-moving legacy infrastructure",
+        "Lack of real-time customer feedback loops"
+      ]
+    },
+    "engagement_guide": {
+      "how_to_open": [
+        "Reference current technical stack or infrastructure choices.",
+        "Acknowledge the Silicon Valley influence in his workflow.",
+        "Start with direct, high-value technical observations.",
+        "Mention the transition from corporate to startup environments."
+      ],
+      "how_to_run_meeting": [
+        "Keep meetings short to maintain coding velocity.",
+        "Focus on clear, actionable outcomes for the product.",
+        "Expect a candid discussion about software architecture trade-offs.",
+        "Include collaborative moments for team reflection."
+      ],
+      "how_to_email": [
+        "Be concise and technical in scope.",
+        "Avoid fluff; address functional requirements directly.",
+        "Focus on product-market fit or engineering scalability.",
+        "Respect his focus on maintaining high development throughput."
+      ],
+      "how_to_follow_up": [
+        "Provide direct feedback on technical implementations.",
+        "Align follow-ups with the current company hiring focus.",
+        "Highlight tangible progress toward product milestones.",
+        "Reference specific recent feature updates or product shifts."
+      ],
+      "how_to_build_trust": [
+        "Demonstrate high technical competency and customer empathy.",
+        "Show consistency in output and team support.",
+        "Value the balance of deep work and collaborative offsites.",
+        "Maintain a low-friction approach to project execution."
+      ]
+    },
+    "blind_spots": [
+      "Preference for bespoke infrastructure solutions over industry-standard tooling.",
+      "Potential risk of burnout due to consistently high output.",
+      "Over-emphasis on speed potentially creating long-term technical debt."
+    ],
+    "dos_and_donts": {
+      "dos": [
+        "Value his experience in both SF-based startups and corporate enterprise.",
+        "Respect the need for autonomy in development environments.",
+        "Highlight the human element of his engineering teams.",
+        "Focus on the tangible 'AI application layer' business value."
+      ],
+      "donts": [
+        "Don't suggest slow, bureaucratic processes.",
+        "Don't ignore the importance of the team culture he fosters.",
+        "Don't focus on abstract theory over concrete coding results.",
+        "Don't waste time on non-impactful administrative tasks."
+      ]
+    },
+    "data_confidence": "high",
+    "data_confidence_rationale": "Data is sourced from a consistent timeline of public professional posts, including specific project methodologies, team culture contributions, and stated professional motivations."
+  }
+}

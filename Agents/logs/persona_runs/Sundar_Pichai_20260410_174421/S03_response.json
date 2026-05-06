@@ -1,0 +1,129 @@
+{
+  "section_id": 3,
+  "section_name": "Skills & Expertise",
+  "person_id": "vladimir-keil",
+  "data": {
+    "top_technical_skills": [
+      {
+        "skill": "Agentic AI",
+        "category": "Domain",
+        "evidence_level": "High",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "Procurement Strategy",
+        "category": "Domain",
+        "evidence_level": "High",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "Product Management",
+        "category": "Methodology",
+        "evidence_level": "High",
+        "evidence_source": "LinkedIn Skills"
+      },
+      {
+        "skill": "Enterprise SaaS",
+        "category": "Domain",
+        "evidence_level": "High",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "Business Development",
+        "category": "Methodology",
+        "evidence_level": "High",
+        "evidence_source": "LinkedIn Skills"
+      },
+      {
+        "skill": "Machine Learning",
+        "category": "Domain",
+        "evidence_level": "Medium",
+        "evidence_source": "Experience Description"
+      },
+      {
+        "skill": "Project Management",
+        "category": "Methodology",
+        "evidence_level": "Medium",
+        "evidence_source": "LinkedIn Skills"
+      },
+      {
+        "skill": "NLP",
+        "category": "Domain",
+        "evidence_level": "Medium",
+        "evidence_source": "Experience Description"
+      },
+      {
+        "skill": "Web Development",
+        "category": "Tool",
+        "evidence_level": "Medium",
+        "evidence_source": "LinkedIn Skills"
+      },
+      {
+        "skill": "Product Design",
+        "category": "Methodology",
+        "evidence_level": "Medium",
+        "evidence_source": "LinkedIn Skills"
+      },
+      {
+        "skill": "Digital Marketing",
+        "category": "Methodology",
+        "evidence_level": "Low",
+        "evidence_source": "LinkedIn Skills"
+      },
+      {
+        "skill": "Anforderungsmanagement",
+        "category": "Methodology",
+        "evidence_level": "Low",
+        "evidence_source": "LinkedIn Skills"
+      }
+    ],
+    "domain_expertise": [
+      {
+        "domain": "AI-Driven Procurement",
+        "depth": "Expert",
+        "evidence": "Founder & CEO of Lio, multiple posts detailing end-to-end P2P automation."
+      },
+      {
+        "domain": "Entrepreneurship",
+        "depth": "Expert",
+        "evidence": "Y Combinator alum, multiple venture foundings, Venture Creation track at TUM."
+      },
+      {
+        "domain": "Enterprise Software",
+        "depth": "Practitioner",
+        "evidence": "Management of multi-million dollar spend for Fortune 500 and Global 2000 clients."
+      },
+      {
+        "domain": "Industrial Engineering",
+        "depth": "Practitioner",
+        "evidence": "Academic background in Industrial Engineering (BSc) and related internship/consulting roles."
+      }
+    ],
+    "soft_skills_signals": [
+      {
+        "skill": "Visionary Leadership",
+        "signal_source": "Posts",
+        "justification": "Articulates a clear manifesto on replacing legacy procurement models with AI agents in his Series A announcement post."
+      },
+      {
+        "skill": "Intellectual Independence",
+        "signal_source": "Posts",
+        "justification": "Reflects on the necessity of protecting 'original thinking' and resisting social pressure in his March 23, 2026 post."
+      },
+      {
+        "skill": "Resilience",
+        "signal_source": "Recommendations",
+        "justification": "Recommender cites his 'readiness and motivation' to assume responsibility for 'very challenging tasks' during his time at Lab 1886."
+      },
+      {
+        "skill": "Public Speaking",
+        "signal_source": "Posts",
+        "justification": "Delivered roundtables and workshops at major industry events like Americas Procurement Congress."
+      }
+    ],
+    "skill_gaps_or_blind_spots": [],
+    "skill_progression_narrative": "Vladimir transitioned from foundational corporate project and product management roles at Siemens and Mercedes-Benz into a series of AI-focused ventures. His career trajectory shows a clear maturation from learning systems (Gabriel AI, OCR application) to building autonomous, multi-agent enterprise execution layers for the procurement industry.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "Data is supported by a comprehensive LinkedIn history, explicit experience descriptions, and a recent, high-frequency stream of professional posts detailing his current operational and technical responsibilities."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "section_id": 7,
+  "section_name": "Network & Influence",
+  "person_id": "ACoAADk3xRAB69zRTh7jdt5UdA6JfWRk9a4nQGs",
+  "data": {
+    "notable_collaborations": [],
+    "associated_companies": [
+      {
+        "company": "Lio",
+        "role": "Growth Associate, GTM",
+        "type": "Employer"
+      },
+      {
+        "company": "Novosafe GmbH",
+        "role": "Freelance | GTM",
+        "type": "Employer"
+      },
+      {
+        "company": "Firstlane Capital",
+        "role": "Founders Associate | Venture Building",
+        "type": "Employer"
+      },
+      {
+        "company": "Wemolo",
+        "role": "Working Student / Intern | Sales Strategy",
+        "type": "Employer"
+      },
+      {
+        "company": "BMW Group",
+        "role": "Intern | Marketing Strategy",
+        "type": "Employer"
+      },
+      {
+        "company": "K\u00f6nigswege GmbH",
+        "role": "Intern | Financial Consulting",
+        "type": "Employer"
+      }
+    ],
+    "industry_communities": [
+      "Women in Business Maastricht",
+      "180 Degrees Consulting"
+    ],
+    "media_mentions": [],
+    "network_reach": "Tier 4 (Niche)",
+    "network_strength_assessment": "The subject maintains a professional network primarily centered within the European early-stage startup and academic ecosystem. The depth of her connections reflects a consistent pattern of engagement with venture-backed firms and student-led consulting organizations.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "Network mapping is derived directly from validated professional history provided in the LinkedIn input; no external or unverified associations were identified."
+  }
+}

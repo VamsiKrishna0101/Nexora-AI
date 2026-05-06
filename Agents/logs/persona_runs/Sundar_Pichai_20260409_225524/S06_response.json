@@ -1,0 +1,64 @@
+{
+  "section_id": 6,
+  "section_name": "Content & Thought Leadership",
+  "person_id": "sundar_pichai",
+  "generated_at": "2026-05-20T10:00:00Z",
+  "data": {
+    "articles_and_blogs": [
+      {
+        "title": "Google CEO testifies against DOJ's 'extraordinary' proposals",
+        "url": "https://www.npr.org/2025/04/30/nx-s1-5382294/sundar-pichai-google-antitrust-testimony",
+        "date": "2025-04-30",
+        "source": "NPR",
+        "summary": "Report on Sundar Pichai's testimony regarding antitrust remedies."
+      }
+    ],
+    "podcast_appearances": [
+      {
+        "show_name": "Release Notes",
+        "episode_title": "Interview with Logan Kilpatrick",
+        "url": "https://lnkd.in/erbH7dtx",
+        "date": "2025-11-26"
+      },
+      {
+        "show_name": "Cheeky Pint",
+        "episode_title": "Sundar Pichai episode",
+        "url": null,
+        "date": "2026-04-07"
+      }
+    ],
+    "conference_talks": [
+      {
+        "event": "India AI Impact Summit 2026",
+        "talk_title": "Keynote on AI trajectory in India",
+        "date": "2026-02-23",
+        "url": null
+      },
+      {
+        "event": "NRF2026",
+        "talk_title": "AI in the retail journey",
+        "date": "2026-01-12",
+        "url": null
+      }
+    ],
+    "interviews": [
+      {
+        "outlet": "Axios",
+        "title": "Google CEO Pichai: AI will be huge part of search",
+        "url": "https://www.axios.com/2025/04/30/google-ceo-pichai-ai-will-be-huge-part-of-search",
+        "date": "2025-04-30"
+      }
+    ],
+    "key_topics_covered": [
+      "Artificial Intelligence strategy and product integration",
+      "Responsible technology and innovation",
+      "Corporate infrastructure and economic impact",
+      "Search engine evolution"
+    ],
+    "content_volume": "High",
+    "thought_leadership_tier": "Industry Authority",
+    "thought_leadership_assessment": "Pichai is an industry authority evidenced by his consistent delivery of keynote speeches, participation in high-level antitrust testimony, and active engagement with global business audiences. He is best known for articulating a clear, AI-centric vision for the future of search, cloud computing, and enterprise technology.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "All listed activities are extracted directly from provided LinkedIn and Twitter engagement data, as well as the external news citations included in the input."
+  }
+}

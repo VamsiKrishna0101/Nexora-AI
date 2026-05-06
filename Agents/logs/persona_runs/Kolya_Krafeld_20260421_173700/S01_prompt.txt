@@ -1,0 +1,224 @@
+SYSTEM: None
+
+USER: 
+You are a senior intelligence analyst at a Palantir-grade research firm.
+Your task is to produce a precise, factual Identity Overview for the subject.
+This section anchors the entire intelligence report — accuracy is non-negotiable.
+
+INPUT DATA:
+LinkedIn Profile: {
+  "url": "https://www.linkedin.com/in/kolya-krafeld",
+  "username": "kolya-krafeld",
+  "linkedin_id": "ACoAAC2ys7MBDjC3E45uSK81wKZSv9JBnfdDKbw",
+  "first_name": "Kolya",
+  "last_name": "Krafeld",
+  "full_name": "Kolya Krafeld",
+  "headline": "Founding Engineer at Mercura (YC W25) | KTH",
+  "is_influencer": false,
+  "is_premium": false,
+  "is_memorialized": false,
+  "location": "Munich, Bavaria, Germany",
+  "location_raw": "Munich, Bavaria, Germany",
+  "country_full": "Germany",
+  "state": "Bavaria",
+  "city": "Munich",
+  "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4D03AQHLSFiHnkKIOg/profile-displayphoto-crop_800_800/B4DZzmgdrbIQAI-/0/1773393796247?e=1778112000&v=beta&t=Xr7GhsU4XKV8wp3dALX5psZlgvY7aram2gxoW5QVW1A",
+  "top_skills": [],
+  "linkedin_followers": 1174,
+  "connections_count": 1116,
+  "about": "Building the AI application layer for distributors & manufacturers.",
+  "current_positions": [
+    {
+      "company_name": "Mercura (YC W25)",
+      "company_linkedin_url": "https://www.linkedin.com/company/mercura-ai/",
+      "date_range": null
+    }
+  ],
+  "experiences": [
+    {
+      "title": "Founding Engineer",
+      "company": "Mercura (YC W25)",
+      "duration": "11 mos",
+      "description": null,
+      "skills": [],
+      "start_date": {
+        "month": "Jun",
+        "year": 2025,
+        "text": "Jun 2025"
+      },
+      "end_date": {
+        "text": "Present"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQEvxZRc8ofwPw/company-logo_400_400/company-logo_400_400/0/1737947566402?e=1778112000&v=beta&t=YHd8E-rIvw-pSCumLUo7DpFAcak27k4FF4Wss0OmVMk"
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Etleap",
+      "duration": "2 yrs",
+      "description": null,
+      "skills": [],
+      "start_date": {
+        "month": "Sep",
+        "year": 2021,
+        "text": "Sep 2021"
+      },
+      "end_date": {
+        "month": "Aug",
+        "year": 2023,
+        "text": "Aug 2023"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQE_sFectE5u_w/company-logo_400_400/B56ZU_vzxBGoAY-/0/1740531254577/etleap_logo?e=1778112000&v=beta&t=i1j6TV1P64xM4nuyXZudwKaJVIkmSuR0fp8uHmknNoQ"
+    },
+    {
+      "title": "Corporate Software Engineering Student",
+      "company": "SAP",
+      "duration": "3 yrs 1 mo",
+      "description": "Rotational Student Program gaining full\u2010time experience in 5 different agile development teams.",
+      "skills": [],
+      "start_date": {
+        "month": "Sep",
+        "year": 2018,
+        "text": "Sep 2018"
+      },
+      "end_date": {
+        "month": "Sep",
+        "year": 2021,
+        "text": "Sep 2021"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQGmwwo0aq4jVA/company-logo_400_400/company-logo_400_400/0/1723034255614/sap_logo?e=1778112000&v=beta&t=sOlJlaLVqo6NdB5RliPl3ccOqSxtGCcDYdllGUuJeHA"
+    }
+  ],
+  "educations": [
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "school_linkedin_url": "https://www.linkedin.com/company/4814/",
+      "degree": "Master of Science - MS, Software Engineering of Distributed Systems",
+      "field_of_study": null,
+      "skills": [],
+      "start_date": {
+        "month": "Aug",
+        "year": 2023,
+        "text": "Aug 2023"
+      },
+      "end_date": {
+        "month": "Jul",
+        "year": 2025,
+        "text": "Jul 2025"
+      },
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQFDvNUYDVR6cA/company-logo_400_400/B4DZkpBLOmJkAY-/0/1757329798694/kth_logo?e=1778112000&v=beta&t=rnxkqLufC3lZaIwx1wtlI8qyHrTy8kiRbnQyq7guYrw"
+    },
+    {
+      "institution": "National Taiwan University",
+      "school_linkedin_url": "https://www.linkedin.com/company/554182/",
+      "degree": "Exchange Study Program, Computer Science",
+      "field_of_study": null,
+      "skills": [],
+      "start_date": {
+        "month": "Aug",
+        "year": 2024,
+        "text": "Aug 2024"
+      },
+      "end_date": {
+        "month": "Dec",
+        "year": 2024,
+        "text": "Dec 2024"
+      },
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQGAh08jkWo23Q/company-logo_400_400/company-logo_400_400/0/1679904708552/national_taiwan_university_logo?e=1778112000&v=beta&t=oYALMQKSIfEgxFYUS0nQNrEKBDccGQWWa5uhO25jtTs"
+    }
+  ],
+  "skills": [
+    "Snowflake",
+    "Amazon Redshift"
+  ],
+  "languages": [],
+  "certifications": [],
+  "projects": [],
+  "volunteering": [
+    {
+      "role": "SVIP Class of 2021",
+      "organization": null,
+      "cause": "Science and Technology",
+      "description": "Immersed in the Silicon Valley startup ecosystem, visited multiple early stage startup companies and participated in local hackathons to gain exposure to cutting\u2011edge technologies and innovation.",
+      "start_date": {
+        "month": "Oct",
+        "year": 2021,
+        "text": "Oct 2021"
+      },
+      "end_date": {
+        "month": "Oct",
+        "year": 2022,
+        "text": "Oct 2022 \u00b7 1 yr 1 mo"
+      }
+    },
+    {
+      "role": "Member Of Technical Staff",
+      "organization": null,
+      "cause": "Science and Technology",
+      "description": "Digitalized workflows for Germany\u2019s largest student\u2011led conference with 1000+ participants.",
+      "start_date": {
+        "month": "Nov",
+        "year": 2019,
+        "text": "Nov 2019"
+      },
+      "end_date": {
+        "month": "Apr",
+        "year": 2021,
+        "text": "Apr 2021 \u00b7 1 yr 6 mos"
+      }
+    }
+  ],
+  "recommendations": [],
+  "publications": [],
+  "courses": [],
+  "patents": [],
+  "honors_awards": [],
+  "causes": [],
+  "featured": null
+}
+Twitter Profile: {}
+
+INFLUENCE SCORE METHODOLOGY (apply exactly):
+  Start at 0. Add points as follows:
+  - LinkedIn followers:  <500=2, 500–2k=5, 2k–10k=10, 10k–50k=18, 50k+=25
+  - Twitter followers:   <1k=2, 1k–10k=5, 10k–100k=12, 100k+=20
+  - Posting activity:    posts found on both platforms=10, one platform=5, none=0
+  - Career seniority:    C-suite/Founder=15, VP/Director=10, Senior IC=5, other=2
+  - Web presence:        verified/media presence=10, minimal=0
+  Cap final score at 100.
+
+Output ONLY this JSON:
+{
+  "section_id": 1,
+  "section_name": "Identity Overview",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "full_name": "",
+    "current_role": "",
+    "company": "",
+    "location": "",
+    "profile_photo_url": "",
+    "linkedin_url": "",
+    "twitter_handle": "",
+    "linkedin_followers": 0,
+    "twitter_followers": 0,
+    "connections_count": 0,
+    "influence_score": 0,
+    "influence_score_breakdown": {
+      "linkedin_followers_points": 0,
+      "twitter_followers_points": 0,
+      "posting_activity_points": 0,
+      "career_seniority_points": 0,
+      "web_presence_points": 0
+    },
+    "influence_score_rationale": "",
+    "data_confidence": "high|medium|low",
+    "data_confidence_rationale": ""
+  }
+}
+
+RULES:
+- influence_score: apply the exact methodology above. Do not estimate freely.
+- data_confidence: high = rich LinkedIn + Twitter data. medium = one platform only. low = minimal or no data.
+- profile_photo_url: only include if explicitly present in input data.
+- If any field cannot be determined from the data, set it to null.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

@@ -1,0 +1,41 @@
+{
+  "section_id": 7,
+  "section_name": "Network & Influence",
+  "person_id": "ACoAAE6FVtYBAW4bP82g1IhIHxzu_1J010WU3CQ",
+  "generated_at": "2025-05-14T12:00:00Z",
+  "data": {
+    "notable_collaborations": [],
+    "associated_companies": [
+      {
+        "company": "Google",
+        "role": "CEO",
+        "type": "Employer"
+      },
+      {
+        "company": "Alphabet",
+        "role": "CEO",
+        "type": "Employer"
+      },
+      {
+        "company": "Jive Software",
+        "role": "Board of Directors",
+        "type": "Board"
+      }
+    ],
+    "industry_communities": [
+      "Technology Executive Leadership"
+    ],
+    "media_mentions": [
+      {
+        "outlet": "Fortune",
+        "title": "Google CEO Sundar Pichai: Data centers in space will be ...",
+        "url": "https://fortune.com/article/what-is-google-ceo-sundar-pichai-timeline-ai-data-centers-in-space/",
+        "date": "2026-04-03"
+      }
+    ],
+    "network_reach": "Tier 1 (Global)",
+    "network_strength_assessment": "Pichai maintains an expansive global network as the chief executive of one of the world's most influential technology conglomerates. His influence is characterized by high-level engagement with policy makers, global technology leaders, and the broader AI research community.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "Data is corroborated by official company filings, public LinkedIn profiles, and reputable news outlets regarding his executive career."
+  }
+}

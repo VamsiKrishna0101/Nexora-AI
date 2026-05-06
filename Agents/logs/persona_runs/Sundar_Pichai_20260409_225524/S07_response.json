@@ -1,0 +1,49 @@
+{
+  "section_id": 7,
+  "section_name": "Network & Influence",
+  "person_id": "SUNDAR_PICHAI_001",
+  "generated_at": "2025-05-14T10:00:00Z",
+  "data": {
+    "notable_collaborations": [],
+    "associated_companies": [
+      {
+        "company": "Google",
+        "role": "CEO",
+        "type": "Employer"
+      },
+      {
+        "company": "Alphabet",
+        "role": "CEO",
+        "type": "Employer"
+      }
+    ],
+    "industry_communities": [
+      "Technology Executive Leadership",
+      "Artificial Intelligence Industry"
+    ],
+    "media_mentions": [
+      {
+        "outlet": "NPR",
+        "title": "Google CEO testifies against DOJ's 'extraordinary' proposals",
+        "url": "https://www.npr.org/2025/04/30/nx-s1-5382294/sundar-pichai-google-antitrust-testimony",
+        "date": "2025-04-30"
+      },
+      {
+        "outlet": "Axios",
+        "title": "Google CEO Pichai: AI will be huge part of search",
+        "url": "https://www.axios.com/2025/04/30/google-ceo-pichai-ai-will-be-huge-part-of-search",
+        "date": "2025-04-30"
+      },
+      {
+        "outlet": "CNBC",
+        "title": "Google might lose its $26 billion search deals in antitrust trial",
+        "url": "https://www.cnbc.com/2025/08/27/google-search-antitrust-decision-apple.html",
+        "date": "2025-08-27"
+      }
+    ],
+    "network_reach": "Tier 1 (Global)",
+    "network_strength_assessment": "Pichai maintains an extensive global network through his leadership of one of the world's most influential technology conglomerates. His connections are characterized by high-level interactions with international regulatory bodies, global corporate leaders, and the broader tech industry ecosystem.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "The network profile is supported by high-quality, authoritative biographical data and recent documentation of his professional responsibilities and public appearances."
+  }
+}

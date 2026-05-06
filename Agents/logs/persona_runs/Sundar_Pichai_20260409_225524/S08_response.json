@@ -1,0 +1,52 @@
+{
+  "section_id": 8,
+  "section_name": "How to Engage",
+  "person_id": "sundarpichai",
+  "generated_at": "2026-04-10T12:00:00Z",
+  "data": {
+    "best_approach_style": "Approach with a balance of technical rigor and high-level strategic impact, ensuring every proposal is backed by clear performance metrics. Maintain a collaborative and diplomatic tone that emphasizes shared value and long-term societal benefit rather than mere competitive advantage.",
+    "topics_that_resonate": [
+      "Large-scale AI infrastructure and energy resilience",
+      "Developer productivity and agentic workflows",
+      "Cross-industry digital transformation (retail, legal, healthcare)",
+      "Global economic impact through technology investment"
+    ],
+    "topics_to_avoid": [
+      "Speculative hype without verifiable performance benchmarking",
+      "Transactional, short-term sales pitches that lack partnership vision",
+      "Critiques of open-source initiatives or industry-wide protocols"
+    ],
+    "best_channel": "LinkedIn",
+    "best_channel_rationale": "High-volume, thoughtful, and professional content suggests that LinkedIn is the primary arena for both his brand's corporate messaging and his personal reflections, making it the most appropriate venue for high-level partnership outreach.",
+    "suggested_conversation_starters": [
+      {
+        "opener": "I was struck by your recent focus on the Universal Commerce Protocol; how do you see that interoperability framework evolving to support smaller-scale, mission-driven retailers alongside industry giants?",
+        "based_on": "NRF2026/Universal Commerce Protocol post"
+      },
+      {
+        "opener": "The scale of your $40 billion infrastructure commitment in Texas is impressive\u2014how is Google balancing that rapid footprint growth with the ambitious energy efficiency targets you've outlined for data centers?",
+        "based_on": "Midlothian, Texas investment post"
+      },
+      {
+        "opener": "Your reflections on the evolution of AI from 'reading text' to 'reading the room' with Gemini 3 are fascinating. Do you view the next stage of agentic growth as being defined more by model reasoning depth or by improved context-window reliability?",
+        "based_on": "Gemini 3 launch post"
+      }
+    ],
+    "outreach_timing": {
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "activity_pattern": "Highly active during mid-week, particularly during business hours in Pacific Time; leans toward late-week for major corporate announcements.",
+      "timing_confidence": "High"
+    },
+    "engagement_red_flags": [
+      "Ignoring the importance of 'partnership'\u2014any framing that focuses solely on dominating a market segment rather than growing the ecosystem.",
+      "Lacking quantitative rigor; all claims should be anchored in efficiency, speed, or scalability data.",
+      "Inauthentic engagement; he prioritizes professional, original, and community-oriented discourse."
+    ],
+    "data_confidence": "high",
+    "data_confidence_rationale": "Consistent, high-volume posting history across both LinkedIn and Twitter provides a clear blueprint of his strategic interests and communication philosophy."
+  }
+}

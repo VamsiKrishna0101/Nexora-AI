@@ -1,0 +1,122 @@
+{
+  "section_id": 3,
+  "section_name": "Skills & Expertise",
+  "person_id": "ACoAAD8unisBsIgHnZVFhsrjL-DTdoCwCeesXko",
+  "data": {
+    "top_technical_skills": [
+      {
+        "skill": "Backend Engineering",
+        "category": "Domain",
+        "evidence_level": "High",
+        "evidence_source": "Experience Description"
+      },
+      {
+        "skill": "Node.js",
+        "category": "Framework",
+        "evidence_level": "High",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "Python",
+        "category": "Language",
+        "evidence_level": "High",
+        "evidence_source": "Experience Description"
+      },
+      {
+        "skill": "PostgreSQL",
+        "category": "Tool",
+        "evidence_level": "High",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "FastAPI",
+        "category": "Framework",
+        "evidence_level": "High",
+        "evidence_source": "Experience Description"
+      },
+      {
+        "skill": "LangGraph",
+        "category": "Tool",
+        "evidence_level": "High",
+        "evidence_source": "Experience Description"
+      },
+      {
+        "skill": "Redis",
+        "category": "Tool",
+        "evidence_level": "Medium",
+        "evidence_source": "About"
+      },
+      {
+        "skill": "System Design",
+        "category": "Methodology",
+        "evidence_level": "Medium",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "Load Testing (k6)",
+        "category": "Methodology",
+        "evidence_level": "Medium",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "TypeScript",
+        "category": "Language",
+        "evidence_level": "Medium",
+        "evidence_source": "About"
+      },
+      {
+        "skill": "Google Cloud Platform",
+        "category": "Platform",
+        "evidence_level": "Medium",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "Algorithms",
+        "category": "Methodology",
+        "evidence_level": "Medium",
+        "evidence_source": "About"
+      }
+    ],
+    "domain_expertise": [
+      {
+        "domain": "AI/LLM Engineering",
+        "depth": "Practitioner",
+        "evidence": "Implemented RAG systems, multi-agent workflows with LangGraph, and optimized LLM token/API usage."
+      },
+      {
+        "domain": "High-Concurrency Systems",
+        "depth": "Practitioner",
+        "evidence": "Handled 1.9M requests with k6 load testing and optimized hybrid data models for nested comment threads."
+      },
+      {
+        "domain": "Full-Stack Development",
+        "depth": "Practitioner",
+        "evidence": "Built and deployed end-to-end community platform (Convoxa) using React Native, PostgreSQL, and Node.js."
+      }
+    ],
+    "soft_skills_signals": [
+      {
+        "skill": "Data-Driven Decision Making",
+        "signal_source": "Posts",
+        "justification": "Explicitly states: 'Building based on real user behavior \u2014 not assumptions' regarding poll implementation."
+      },
+      {
+        "skill": "Result-Oriented",
+        "signal_source": "About",
+        "justification": "Cites specific quantitative impact: 'Improved persona generation latency by ~60% and reduced LLM API costs by ~40%'."
+      },
+      {
+        "skill": "Problem Solving",
+        "signal_source": "Experience",
+        "justification": "Detailed the 'Hybrid Data Model (Materialized Path + Adjacency List)' solution to overcome recursive query performance bottlenecks."
+      }
+    ],
+    "skill_gaps_or_blind_spots": [
+      "No evidence of formal DevOps orchestration (e.g., Kubernetes/Terraform) beyond managed Cloud Run services.",
+      "Limited public evidence of CI/CD pipeline management or infrastructure-as-code expertise."
+    ],
+    "skill_progression_narrative": "Vamsi began by establishing strong algorithmic foundations, evidenced by his Knight rank on LeetCode. He transitioned into practical backend and full-stack development, culminating in the independent architecture of Convoxa, before specializing in applied AI and multi-agent RAG systems at RefractOne.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "Data is supported by a LinkedIn profile containing specific architectural case studies, quantified performance metrics, and verified project outcomes."
+  }
+}

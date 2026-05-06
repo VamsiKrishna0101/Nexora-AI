@@ -1,0 +1,194 @@
+SYSTEM: None
+
+USER: 
+You are a senior intelligence analyst at a Palantir-grade research firm.
+Your task is to produce a precise, factual Identity Overview for the subject.
+This section anchors the entire intelligence report — accuracy is non-negotiable.
+
+INPUT DATA:
+LinkedIn Profile: {
+  "url": "https://www.linkedin.com/in/pratheek-swargam",
+  "username": "pratheek-swargam",
+  "linkedin_id": "ACoAAE3vR2gB6Z7qUMJrfQvGzz0umpILY6mUUHU",
+  "first_name": "Pratheek",
+  "last_name": "Swargam",
+  "full_name": "Pratheek Swargam",
+  "headline": "Programmer Analyst Trainee at Cognizant",
+  "is_influencer": null,
+  "is_premium": null,
+  "is_memorialized": false,
+  "location": "Hyder\u0101b\u0101d, Telangana, India",
+  "location_raw": "Hyderabad, Telangana, India India",
+  "country_full": "India",
+  "state": "Telangana",
+  "city": "Hyder\u0101b\u0101d",
+  "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQGS1trmG2nmRQ/profile-displayphoto-crop_800_800/B56ZzSsIwyJQAM-/0/1773061314734?e=1778112000&v=beta&t=iH3NvU48DeO8vFEEkKfJ350EbFdSb5emnl9TGyqaBkY",
+  "top_skills": [],
+  "linkedin_followers": null,
+  "connections_count": null,
+  "about": null,
+  "current_positions": [
+    {
+      "company_name": "Cognizant",
+      "company_linkedin_url": "https://www.linkedin.com/company/1680/",
+      "date_range": null
+    }
+  ],
+  "experiences": [
+    {
+      "title": "Programmer Analyst Trainee",
+      "company": "Cognizant",
+      "duration": "6 mos",
+      "description": null,
+      "skills": [],
+      "start_date": {
+        "month": "Nov",
+        "year": 2025,
+        "text": "Nov 2025"
+      },
+      "end_date": {
+        "text": "Present"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQFZH4svu5BTZA/company-logo_400_400/B4EZk_EfNgHgAc-/0/1757699778309/cognizant_logo?e=1778112000&v=beta&t=Lq0b9TiEwMTJ9QN85e0tm9ZIio7uSKo4hqyy8fZynYQ"
+    }
+  ],
+  "educations": [
+    {
+      "institution": "Neil Gogte Institute of Technology",
+      "school_linkedin_url": null,
+      "degree": "Bachelor of Engineering - BE",
+      "field_of_study": "Computer Science",
+      "skills": [],
+      "start_date": {
+        "year": 2021,
+        "text": "2021"
+      },
+      "end_date": {
+        "year": 2025,
+        "text": "2025"
+      },
+      "school_logo_url": null
+    },
+    {
+      "institution": "Impulse Junior College",
+      "school_linkedin_url": null,
+      "degree": "Intermediate",
+      "field_of_study": "M.P.C",
+      "skills": [],
+      "start_date": {
+        "year": 2019,
+        "text": "2019"
+      },
+      "end_date": {
+        "year": 2021,
+        "text": "2021"
+      },
+      "school_logo_url": null
+    },
+    {
+      "institution": "Navyabharathi Global School - India",
+      "school_linkedin_url": "https://www.linkedin.com/school/7894343/",
+      "degree": "High School",
+      "field_of_study": "CBSE",
+      "skills": [],
+      "start_date": {
+        "year": 2016,
+        "text": "2016"
+      },
+      "end_date": {
+        "year": 2019,
+        "text": "2019"
+      },
+      "school_logo_url": null
+    }
+  ],
+  "skills": [
+    "Flask",
+    "Random Forest",
+    "Python (Programming Language)",
+    "GitHub",
+    "SQL",
+    "Object-Oriented Programming (OOP)",
+    "HTML",
+    "JavaScript",
+    "Cascading Style Sheets (CSS)",
+    "DSA",
+    "Java"
+  ],
+  "languages": [],
+  "certifications": [
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    }
+  ],
+  "projects": [
+    {
+      "title": "Agritech",
+      "description": "This webapp uses machine learning algorithms to predict the annual rainfall, yield and crop recommendation.\nSkills: Flask, Random Forest, +2 skills\nAgritech",
+      "url": null
+    },
+    {
+      "title": "Virtual Draw",
+      "description": "->This tool helps users to draw and annotate visually in real time without using input tools like stylus or digital board .\n->Instead, it takes input using hand gestures of users through the webcam.\n->OpenCv and Mediapipe are used to capture image in real time and to recognize landmarks on hands to efficiently draw on canvas.\nSkills: Python (Programming Language)\nGitHub - Pratheek3/Gesture-Draw-Using-ML",
+      "url": null
+    }
+  ],
+  "volunteering": [],
+  "recommendations": [],
+  "publications": [],
+  "courses": [],
+  "patents": [],
+  "honors_awards": [],
+  "causes": [],
+  "featured": []
+}
+Twitter Profile: {}
+
+INFLUENCE SCORE METHODOLOGY (apply exactly):
+  Start at 0. Add points as follows:
+  - LinkedIn followers:  <500=2, 500–2k=5, 2k–10k=10, 10k–50k=18, 50k+=25
+  - Twitter followers:   <1k=2, 1k–10k=5, 10k–100k=12, 100k+=20
+  - Posting activity:    posts found on both platforms=10, one platform=5, none=0
+  - Career seniority:    C-suite/Founder=15, VP/Director=10, Senior IC=5, other=2
+  - Web presence:        verified/media presence=10, minimal=0
+  Cap final score at 100.
+
+Output ONLY this JSON:
+{
+  "section_id": 1,
+  "section_name": "Identity Overview",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "full_name": "",
+    "current_role": "",
+    "company": "",
+    "location": "",
+    "profile_photo_url": "",
+    "linkedin_url": "",
+    "twitter_handle": "",
+    "linkedin_followers": 0,
+    "twitter_followers": 0,
+    "connections_count": 0,
+    "influence_score": 0,
+    "influence_score_breakdown": {
+      "linkedin_followers_points": 0,
+      "twitter_followers_points": 0,
+      "posting_activity_points": 0,
+      "career_seniority_points": 0,
+      "web_presence_points": 0
+    },
+    "influence_score_rationale": "",
+    "data_confidence": "high|medium|low",
+    "data_confidence_rationale": ""
+  }
+}
+
+RULES:
+- influence_score: apply the exact methodology above. Do not estimate freely.
+- data_confidence: high = rich LinkedIn + Twitter data. medium = one platform only. low = minimal or no data.
+- profile_photo_url: only include if explicitly present in input data.
+- If any field cannot be determined from the data, set it to null.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

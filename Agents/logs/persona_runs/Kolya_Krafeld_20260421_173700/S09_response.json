@@ -1,0 +1,41 @@
+{
+  "section_id": 9,
+  "section_name": "Achievements & Milestones",
+  "person_id": "kolya-krafeld",
+  "data": {
+    "notable_achievements": [
+      {
+        "achievement": "Founding Engineer at YC W25 startup",
+        "context": "Joining Mercura as a founding team member for a Y-Combinator Winter 2025 batch company.",
+        "quantified_impact": null,
+        "source": "LinkedIn"
+      },
+      {
+        "achievement": "Digitalized operations for large-scale event",
+        "context": "Member of Technical Staff for Germany's largest student-led conference.",
+        "quantified_impact": "1000+ participants",
+        "source": "LinkedIn"
+      },
+      {
+        "achievement": "Corporate rotational software engineering program completion",
+        "context": "Completed a 3-year program at SAP rotating through 5 different agile development teams.",
+        "quantified_impact": "5 teams",
+        "source": "LinkedIn"
+      }
+    ],
+    "companies_built_or_scaled": [
+      {
+        "company": "Mercura",
+        "role": "Founding Engineer",
+        "scale_indicator": null,
+        "outcome": "Active"
+      }
+    ],
+    "products_launched": [],
+    "awards_and_recognition": [],
+    "career_highlight": "Kolya Krafeld is a Founding Engineer at the YC W25 company Mercura, following extensive experience in agile development at SAP and data engineering at Etleap.",
+    "achievement_density": "Medium",
+    "data_confidence": "high",
+    "data_confidence_rationale": "All data points are derived directly from the provided LinkedIn professional profile."
+  }
+}

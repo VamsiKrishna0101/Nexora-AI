@@ -1,0 +1,51 @@
+{
+  "section_id": 8,
+  "section_name": "Tactical Outreach Playbook",
+  "person_id": "Lia Hofmann",
+  "data": {
+    "outreach_scripts": {
+      "email_draft": {
+        "subject": "AI procurement & GTM growth at Lio",
+        "body": "Hi Lia, congrats on joining Lio. It\u2019s an impressive leap from Wemolo, especially moving into the a16z-backed multi-agent AI space. I\u2019ve been following the shift toward autonomous procurement and would love to hear your perspective on how the GTM team is scaling this. I\u2019m currently exploring [Relevant Strategic Project/Innovation] and think there\u2019s some interesting alignment between your focus on high-stakes growth and our current trajectory. Do you have 15 minutes next week for a brief exchange on market strategy?"
+      },
+      "linkedin_inmail": {
+        "body": "Hi Lia, massive congrats on the move to Lio! Seeing you transition from Wemolo into a16z-backed AI procurement is a great trajectory. Would love to connect and trade notes on GTM strategies for high-growth tech environments. Best, [Your Name]"
+      }
+    },
+    "high_resonance_topics": [
+      "Autonomous enterprise procurement GTM strategy",
+      "Scaling AI-driven sales and growth initiatives",
+      "The intersection of economic research and commercial application",
+      "Building high-velocity team cultures in Series A startups"
+    ],
+    "topics_to_avoid": [
+      "Slow-moving bureaucratic or legacy corporate projects",
+      "Roles lacking clear commercial ownership",
+      "Stagnant operational maintenance without growth components"
+    ],
+    "conversation_starters": [
+      {
+        "opener": "How are you balancing the shift from your academic focus at Nova to the rapid-fire pace of a $30M Series A?",
+        "context": "Validates her career dual-pathing and high-pace energy."
+      },
+      {
+        "opener": "I saw your note on the multi-agent AI procurement shift\u2014how are you currently prioritizing GTM channels given the early-stage nature of the product?",
+        "context": "Demonstrates respect for her current role and invites strategic collaboration."
+      },
+      {
+        "opener": "Having seen your background at both BMW and high-growth startups, how do you think 'innovation' differs when it comes to long-term commercial impact?",
+        "context": "Leverages her previous institutional experience and appetite for growth."
+      }
+    ],
+    "optimization": {
+      "best_channel": "LinkedIn",
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "suggested_time_of_day": "09:30 AM"
+    },
+    "data_confidence": "high"
+  }
+}

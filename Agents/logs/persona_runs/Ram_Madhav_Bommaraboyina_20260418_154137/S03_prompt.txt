@@ -1,0 +1,202 @@
+SYSTEM: None
+
+USER: 
+You are a Technical Talent Architect at a Palantir-grade research firm.
+Produce a precise, evidence-ranked Skills & Expertise profile for the subject.
+Do not infer skills not evidenced in the data.
+
+INPUT DATA:
+LinkedIn Profile: {
+  "url": "https://www.linkedin.com/in/ram-madhav-bommaraboyina-381576341",
+  "username": "ram-madhav-bommaraboyina-381576341",
+  "linkedin_id": "ACoAAFWw7ZEBQ3ThuQDibWe3Z6BoAWqPUp5WwQ4",
+  "first_name": "Ram Madhav",
+  "last_name": "Bommaraboyina",
+  "full_name": "Ram Madhav Bommaraboyina",
+  "headline": "Intern at ICRISAT",
+  "is_influencer": false,
+  "is_premium": false,
+  "is_memorialized": false,
+  "location": "Hyder\u0101b\u0101d, Telangana, India",
+  "location_raw": "Hyderabad, Telangana, India",
+  "country_full": "India",
+  "state": "Telangana",
+  "city": "Hyder\u0101b\u0101d",
+  "profile_picture_url": null,
+  "top_skills": [],
+  "linkedin_followers": 174,
+  "connections_count": 175,
+  "about": "Backend & AI Developer with hands-on industry experience building intelligent, scalable systems... experienced in designing REST APIs and backend architectures with Django, and building AI/ML solutions spanning RAG pipelines, computer vision (YOLOv8), and large language model integration \u2014 bridging the gap between robust backend engineering and practical AI applications",
+  "current_positions": [
+    {
+      "company_name": "ICRISAT",
+      "company_linkedin_url": "https://www.linkedin.com/company/icrisat/",
+      "date_range": null
+    }
+  ],
+  "experiences": [
+    {
+      "title": "Intern",
+      "company": "ICRISAT",
+      "duration": "6 mos",
+      "description": null,
+      "skills": [
+        "Python (Programming Language)",
+        "Django"
+      ],
+      "start_date": {
+        "month": "Nov",
+        "year": 2025,
+        "text": "Nov 2025"
+      },
+      "end_date": {
+        "text": "Present"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQG-8JIPC1E1ig/company-logo_400_400/company-logo_400_400/0/1707305647045/icrisat_logo?e=1778112000&v=beta&t=i1rs_bj3nb2gn7nG11RI7gJaJtgtA6m0f1lRuM7d3v0"
+    }
+  ],
+  "educations": [
+    {
+      "institution": "Neil Gogte Institute of Technology",
+      "school_linkedin_url": "https://www.linkedin.com/company/82110623/",
+      "degree": "Bachelor of Engineering",
+      "field_of_study": null,
+      "skills": [
+        "Extract load transform"
+      ],
+      "start_date": {
+        "year": 2021,
+        "text": "2021"
+      },
+      "end_date": {
+        "year": 2025,
+        "text": "2025"
+      },
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQGleaQAtBGvRg/company-logo_400_400/company-logo_400_400/0/1654673880195?e=1778112000&v=beta&t=LhX-fbwNNtSHrkxc6lxB0_ogLlmkv7pN9ZwF566P-yA"
+    },
+    {
+      "institution": "sri chaitanya junior college",
+      "school_linkedin_url": "https://www.linkedin.com/company/67713817/",
+      "degree": "12th",
+      "field_of_study": null,
+      "skills": [],
+      "start_date": null,
+      "end_date": {
+        "text": ""
+      },
+      "school_logo_url": null
+    }
+  ],
+  "skills": [
+    "Programming Languages",
+    "Technology Trends",
+    "Web Application Development",
+    "Scikit-Learn",
+    "Sendmail",
+    "Large Language Models (LLM)",
+    "Deep Learning",
+    "Recommender Systems",
+    "Speech Technology",
+    "NumPy",
+    "Front-End Development",
+    "Back-End Web Development",
+    "Python (Programming Language)",
+    "Django",
+    "REST APIs",
+    "Spring Boot",
+    "OkHttp",
+    "Tkinter",
+    "MongoDB",
+    "Java",
+    "Generative AI",
+    "Extract load transform",
+    "Gemini"
+  ],
+  "languages": [],
+  "certifications": [],
+  "projects": [
+    {
+      "title": "ANPR Challan-System",
+      "description": "Automated Number Plate Detection and Challan Issuing System is a web application that uses YOLOv8 to identify vehicle number plates and automatically send challans via email.",
+      "url": null
+    },
+    {
+      "title": "CineVerse AI Multi Language Movie Recommender",
+      "description": "Developed a multi-language movie recommendation system that suggests movies in English, Hindi, and Telugu using both content-based and collaborative filtering techniques. The system is enhanced with an AI-powered chatbot and a quiz module that predicts genres based on user interaction and User as option view the trailer at there only.",
+      "url": null
+    },
+    {
+      "title": "Track-IT",
+      "description": "TrackIt is a secure, role-based Ticket Management System built using Django and Django REST Framework (DRF). It enables users to create, manage, and track issue tickets with proper authentication, authorization, filtering, and pagination. Security Feature implemented using JWT.",
+      "url": null
+    }
+  ],
+  "volunteering": [],
+  "recommendations": [],
+  "publications": [],
+  "courses": [],
+  "patents": [],
+  "honors_awards": [],
+  "causes": [],
+  "featured": null
+}
+LinkedIn Posts (last 20): [
+  {
+    "type": "post",
+    "is_activity": true,
+    "url": "https://www.linkedin.com/posts/icrisat_icrisat-hosted-a-3-day-review-capacity-strengthening-ugcPost-7408826413245448192-ji2a?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAAWvnk0Bd6NNFDdu5-5QrShZux3soc8C-j8",
+    "text": "ICRISAT hosted a 3-day Review, Capacity Strengthening, Knowledge Transfer, and Planning program on \u201cAI-powered Agro-met Advisories at Scale\u201d from 17\u201319 December 2025, project under Mission Mausam, funded by the Ministry of Earth Sciences (MoES) and supported by ICAR- Indian Council of Agricultural Research, Indian Institute of Tropical Meteorology and India Meteorological Department. \n\nThe program brought together teams from ICRISAT, ICAR\u2013Central Research Institute for Dryland Agriculture, International Livestock Research Institute (ILRI), AICRPAM centres, IITM, and IMD. Discussions focused on key learnings from earlier pilots, progress achieved so far, standardization for agri-data ecosystems, ML-based decision structures, LLM architecture, fine-tuning approaches, AI framework, and the roadmap ahead for scaling AI-enabled agro- advisory services.\n\nDr Shalander Kumar Dr Kishore Kumar, Dr Ram Kiran Dhulipala Dr abburi subbarao, Dr Santanu Kumar Bal Ms Kanika Singh, Dr Sarath Chandran Dr Kailash Dhakore\n\nCGIAR, CGIAR Climate Action, CGIAR Digital Transformation",
+    "num_shares": 8,
+    "num_likes": 253,
+    "num_comments": 8,
+    "comments_count": 4,
+    "reactions_count": 10,
+    "posted_at": "2025-12-22T15:27:50.229Z",
+    "actor_name": "ICRISAT",
+    "actor_profile_url": "https://www.linkedin.com/company/icrisat/posts",
+    "post_type": "image"
+  }
+]
+
+Output ONLY this JSON:
+{
+  "section_id": 3,
+  "section_name": "Skills & Expertise",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "top_technical_skills": [
+      {
+        "skill": "",
+        "category": "Language|Tool|Framework|Methodology|Platform|Domain",
+        "evidence_level": "High|Medium|Low",
+        "evidence_source": "LinkedIn Skills|Experience Description|Posts|About"
+      }
+    ],
+    "domain_expertise": [
+      {
+        "domain": "",
+        "depth": "Expert|Practitioner|Aware",
+        "evidence": ""
+      }
+    ],
+    "soft_skills_signals": [
+      {
+        "skill": "",
+        "signal_source": "Experience|About|Posts|Recommendations",
+        "justification": ""
+      }
+    ],
+    "skill_gaps_or_blind_spots": [],
+    "skill_progression_narrative": "",
+    "data_confidence": "high|medium|low",
+    "data_confidence_rationale": ""
+  }
+}
+
+RULES:
+- top_technical_skills: max 12 items. Rank by evidence_level descending.
+- domain_expertise: max 6 items. Only include domains with clear, repeated evidence.
+- soft_skills_signals: max 5 items. Each justification must cite a specific post, phrase, or description — no generic inferences.
+- skill_gaps_or_blind_spots: infer only if there is a clear absence in a domain they work in. Max 3. If none evident, return [].
+- skill_progression_narrative: 2-3 sentences showing how their expertise evolved across their career timeline.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

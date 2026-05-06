@@ -1,0 +1,67 @@
+{
+  "section_id": 2,
+  "section_name": "Professional Background",
+  "person_id": "ACoAAC2ys7MBDjC3E45uSK81wKZSv9JBnfdDKbw",
+  "data": {
+    "current_role_summary": "Founding engineer focused on building the AI application layer for distributors and manufacturers at YC-backed startup Mercura.",
+    "role_summary_bullets": [
+      "Core Identity & Mission: Architecting generative AI applications specifically tailored to modernize workflows for industrial distributors and manufacturers.",
+      "Domain Mastery: Deep technical expertise in software engineering of distributed systems, complemented by hands-on proficiency in enterprise data infrastructure like Snowflake and Amazon Redshift.",
+      "Quantifiable Impact: Accelerated professional development through a high-intensity rotational program at SAP, completing projects across five distinct agile development teams.",
+      "Strategic Scope: Cross-continental operational exposure gained through an exchange at National Taiwan University and immersion in the Silicon Valley startup ecosystem.",
+      "Leadership Philosophy: Pragmatic builder with a focus on scalable technical infrastructure and digital transformation, demonstrated by leadership in large-scale student-led technical initiatives.",
+      "Current Momentum: Rapidly scaling contributions as a founding engineer at Mercura (YC W25), bridging the gap between high-level academic theory and industrial AI application."
+    ],
+    "career_timeline": [
+      {
+        "company": "Mercura (YC W25)",
+        "title": "Founding Engineer",
+        "start_date": "Jun 2025",
+        "end_date": "Present",
+        "duration_months": 11,
+        "one_line_impact": "Developing the AI application layer for distributors and manufacturers."
+      },
+      {
+        "company": "Etleap",
+        "title": "Software Engineer",
+        "start_date": "Sep 2021",
+        "end_date": "Aug 2023",
+        "duration_months": 24,
+        "one_line_impact": "Provided enterprise-grade software engineering support at a data pipeline company."
+      },
+      {
+        "company": "SAP",
+        "title": "Corporate Software Engineering Student",
+        "start_date": "Sep 2018",
+        "end_date": "Sep 2021",
+        "duration_months": 37,
+        "one_line_impact": "Completed a rotational program across 5 different agile development teams."
+      }
+    ],
+    "education_history": [
+      {
+        "institution": "KTH Royal Institute of Technology",
+        "degree": "Master of Science - MS",
+        "field_of_study": "Software Engineering of Distributed Systems",
+        "graduation_year": "2025"
+      },
+      {
+        "institution": "National Taiwan University",
+        "degree": "Exchange Study Program",
+        "field_of_study": "Computer Science",
+        "graduation_year": "2024"
+      }
+    ],
+    "total_years_experience": 7,
+    "industry_expertise_areas": [
+      "Artificial Intelligence",
+      "Software Engineering",
+      "Distributed Systems",
+      "Data Infrastructure",
+      "Manufacturing",
+      "Distribution"
+    ],
+    "data_confidence": "high",
+    "data_confidence_rationale": "All professional and educational milestones are explicitly documented with dates and roles provided via the subject's LinkedIn profile."
+  }
+}

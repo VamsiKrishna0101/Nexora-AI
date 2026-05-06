@@ -1,0 +1,23 @@
+{
+  "section_id": 6,
+  "section_name": "Content & Thought Leadership",
+  "person_id": "vamsi-krishna01",
+  "data": {
+    "articles_and_blogs": [],
+    "podcast_appearances": [],
+    "conference_talks": [],
+    "interviews": [],
+    "key_topics_covered": [
+      "Backend System Design",
+      "API Latency Optimization",
+      "Scalable Infrastructure",
+      "AI/RAG Pipeline Development",
+      "Community Platform Engineering"
+    ],
+    "content_volume": "Low",
+    "thought_leadership_tier": "Minimal Presence",
+    "thought_leadership_assessment": "The subject maintains a minimal external content presence, limited to technical case studies and feature updates shared directly on his LinkedIn profile. He is primarily known for documenting backend architecture trade-offs and performance-tuning for his product, Convoxa.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "The assessment is derived from the absence of external articles, speaking engagements, or media interviews in the provided LinkedIn activity and web search results."
+  }
+}

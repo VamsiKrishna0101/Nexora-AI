@@ -1,0 +1,436 @@
+SYSTEM: None
+
+USER: 
+You are the Senior Intelligence Director at a Palantir-grade research firm.
+You are delivering the final, authoritative verdict on this subject based on a complete intelligence dossier.
+This verdict is read by C-suite executives and investment committees. Precision and honesty are paramount.
+Do not soften findings. Do not inflate scores. Be direct.
+
+INPUT DATA — COMPLETE INTELLIGENCE DOSSIER (Sections 1–10):
+[
+  "{'section_id': 1, 'section_name': 'Identity Overview', 'person_id': 'ACoAAE3vR2gB6Z7qUMJrfQvGzz0umpILY6mUUHU', 'data': {'full_name': 'Pratheek Swargam', 'current_role': 'Programmer Analyst Trainee', 'company': 'Cognizant', 'location': 'Hyderabad, Telangana, India', 'profile_photo_url': 'https://media.licdn.com/dms/image/v2/D5603AQGS1trmG2nmRQ/profile-displayphoto-crop_800_800/B56ZzSsIwyJQAM-/0/1773061314734?e=1778112000&v=beta&t=iH3NvU48DeO8vFEEkKfJ350EbFdSb5emnl9TGyqaBkY', 'linkedin_url': 'https://www.linkedin.com/in/pratheek-swargam', 'twitter_handle': None, 'linkedin_followers': 0, 'twitter_followers': 0, 'connections_count': 0, 'influence_score': 7, 'influence_score_breakdown': {'linkedin_followers_points': 2, 'twitter_followers_points': 0, 'posting_activity_points': 0, 'career_seniority_points': 2, 'web_presence_points': 3}, 'influence_score_rationale': 'Subject scores 2 points for low LinkedIn follower count (defaulting to <500 category), 2 points for entry-level career seniority as a Trainee, and 3 points for single-platform existence. No posting activity or external web presence detected.', 'data_confidence': 'medium', 'data_confidence_rationale': 'Data derived from a single active LinkedIn profile; no external presence or social media activity on other platforms detected.'}}",
+  "{'section_id': 2, 'section_name': 'Professional Background', 'person_id': 'pratheek-swargam', 'data': {'current_role_summary': 'Early-career technical professional currently serving as a Programmer Analyst Trainee at Cognizant.', 'role_summary_bullets': ['Core Identity & Mission: Entry-level software engineering professional focused on professional development and enterprise technology delivery.', 'Domain Mastery: Technical competency in full-stack web development (HTML, CSS, JavaScript) and backend logic (Python, Java, Flask, SQL).', 'Quantifiable Impact: Applied machine learning techniques including Random Forest for predictive agricultural analytics and computer vision via OpenCV/Mediapipe.', 'Strategic Scope: Development of interactive, gesture-based software tools for real-time annotation and visual manipulation.', 'Leadership Philosophy: Primarily focused on individual contributor excellence and collaborative project development via GitHub.', 'Current Momentum: Transitioned from academic background in computer science to a corporate trainee program at a major global IT services firm.'], 'career_timeline': [{'company': 'Cognizant', 'title': 'Programmer Analyst Trainee', 'start_date': '2025-11', 'end_date': 'Present', 'duration_months': 6, 'one_line_impact': 'Participating in structured professional development and IT services delivery as a trainee.'}], 'education_history': [{'institution': 'Neil Gogte Institute of Technology', 'degree': 'Bachelor of Engineering - BE', 'field_of_study': 'Computer Science', 'graduation_year': '2025'}, {'institution': 'Impulse Junior College', 'degree': 'Intermediate', 'field_of_study': 'M.P.C', 'graduation_year': '2021'}, {'institution': 'Navyabharathi Global School - India', 'degree': 'High School', 'field_of_study': 'CBSE', 'graduation_year': '2019'}], 'total_years_experience': 1, 'industry_expertise_areas': ['Information Technology', 'Software Development', 'Machine Learning', 'Web Development', 'Computer Vision'], 'data_confidence': 'high', 'data_confidence_rationale': \"The data is derived directly from the provided LinkedIn profile, which contains clear start dates and specific project details for the subject's academic and professional timeline.\"}}",
+  {
+    "section_id": 3,
+    "section_name": "Skills & Expertise",
+    "person_id": "pratheek-swargam",
+    "data": {
+      "top_technical_skills": [
+        {
+          "skill": "Python (Programming Language)",
+          "category": "Language",
+          "evidence_level": "High",
+          "evidence_source": "Project descriptions and LinkedIn Skills"
+        },
+        {
+          "skill": "Flask",
+          "category": "Framework",
+          "evidence_level": "High",
+          "evidence_source": "Agritech project description"
+        },
+        {
+          "skill": "Machine Learning (Random Forest)",
+          "category": "Methodology",
+          "evidence_level": "High",
+          "evidence_source": "Agritech project description"
+        },
+        {
+          "skill": "OpenCV",
+          "category": "Tool",
+          "evidence_level": "High",
+          "evidence_source": "Virtual Draw project description"
+        },
+        {
+          "skill": "Mediapipe",
+          "category": "Tool",
+          "evidence_level": "High",
+          "evidence_source": "Virtual Draw project description"
+        },
+        {
+          "skill": "SQL",
+          "category": "Language",
+          "evidence_level": "Medium",
+          "evidence_source": "LinkedIn Skills"
+        },
+        {
+          "skill": "Java",
+          "category": "Language",
+          "evidence_level": "Medium",
+          "evidence_source": "LinkedIn Skills"
+        },
+        {
+          "skill": "DSA",
+          "category": "Methodology",
+          "evidence_level": "Medium",
+          "evidence_source": "LinkedIn Skills"
+        },
+        {
+          "skill": "JavaScript",
+          "category": "Language",
+          "evidence_level": "Medium",
+          "evidence_source": "LinkedIn Skills"
+        },
+        {
+          "skill": "HTML/CSS",
+          "category": "Language",
+          "evidence_level": "Medium",
+          "evidence_source": "LinkedIn Skills"
+        },
+        {
+          "skill": "GitHub",
+          "category": "Tool",
+          "evidence_level": "Medium",
+          "evidence_source": "LinkedIn Skills/Project Links"
+        },
+        {
+          "skill": "Object-Oriented Programming (OOP)",
+          "category": "Methodology",
+          "evidence_level": "Medium",
+          "evidence_source": "LinkedIn Skills"
+        }
+      ],
+      "domain_expertise": [
+        {
+          "domain": "Web Development",
+          "depth": "Practitioner",
+          "evidence": "Developed web application projects using Flask and frontend technologies."
+        },
+        {
+          "domain": "Computer Vision",
+          "depth": "Practitioner",
+          "evidence": "Implemented hand-gesture tracking and real-time canvas drawing using OpenCV and Mediapipe."
+        }
+      ],
+      "soft_skills_signals": [],
+      "skill_gaps_or_blind_spots": [
+        "Absence of evidence regarding professional-grade cloud infrastructure or DevOps deployment practices.",
+        "No stated experience with formal unit testing or QA automation frameworks despite professional role."
+      ],
+      "skill_progression_narrative": "Pratheek's skill progression has moved from foundational Computer Science education to practical application through academic projects focusing on Machine Learning and Computer Vision. His current transition into the Programmer Analyst Trainee role at Cognizant represents his initial phase of applying these integrated technical competencies in a professional enterprise environment.",
+      "data_confidence": "high",
+      "data_confidence_rationale": "Evidence is drawn directly from detailed project descriptions and verified LinkedIn skills lists; career timeline is clearly documented."
+    }
+  },
+  {
+    "section_id": 4,
+    "section_name": "Behavioral Intelligence Suite",
+    "person_id": "UNKNOWN_ID",
+    "data": {
+      "behavioral_profile": {
+        "archetype": "The Analyst",
+        "one_line_description": "Insufficient behavioral data available to establish a professional profile or working methodology.",
+        "trait_tags": [
+          "Data deficient",
+          "Inactive footprint",
+          "Undetermined"
+        ]
+      },
+      "trait_scores": {
+        "dominance": 0,
+        "expressiveness": 0,
+        "pace": 0,
+        "pragmatism": 0,
+        "risk_appetite": 0,
+        "social_energy": 0
+      },
+      "working_style": {
+        "decision_making": "Data absent; decision-making process cannot be determined.",
+        "collaboration": "Collaboration style indeterminate due to lack of visible interaction.",
+        "conflict_style": "Conflict resolution approach cannot be evaluated from provided data.",
+        "pace": "Operational pace is currently unobservable."
+      },
+      "what_drives_them": {
+        "energizers": [],
+        "drainers": []
+      },
+      "engagement_guide": {
+        "how_to_open": [
+          "No opening strategy available due to lack of digital footprint."
+        ],
+        "how_to_run_meeting": [
+          "Agenda should focus on fundamental discovery questions."
+        ],
+        "how_to_email": [
+          "Keep correspondence neutral and inquiry-based."
+        ],
+        "how_to_follow_up": [
+          "Direct outreach is required to establish current status."
+        ],
+        "how_to_build_trust": [
+          "Trust building must be done through direct professional dialogue."
+        ]
+      },
+      "blind_spots": [
+        "Zero digital professional presence.",
+        "Absence of verifiable thought leadership.",
+        "Lack of demonstrated public collaborative history."
+      ],
+      "dos_and_donts": {
+        "dos": [
+          "Verify identity through primary sources.",
+          "Initiate direct contact for assessment.",
+          "Maintain objective inquiry.",
+          "Request professional background documentation."
+        ],
+        "donts": [
+          "Assume professional expertise based on non-existent content.",
+          "Infer behavioral traits from empty data sets.",
+          "Rely on external anecdotal assumptions.",
+          "Predict communication preferences."
+        ]
+      },
+      "data_confidence": "low",
+      "data_confidence_rationale": "The subject has provided no observable professional signals across LinkedIn or Twitter platforms."
+    }
+  },
+  {
+    "section_id": 5,
+    "section_name": "Online Presence & Activity",
+    "person_id": "ACoAAE3vR2gB6Z7qUMJrfQvGzz0umpILY6mUUHU",
+    "data": {
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/pratheek-swargam",
+        "followers": 0,
+        "posts_analyzed": 0,
+        "posting_frequency": "Unknown",
+        "avg_likes_per_post": 0,
+        "avg_comments_per_post": 0,
+        "top_topics": [],
+        "last_post_date": null,
+        "last_post_summary": null
+      },
+      "twitter": {
+        "handle": "@heloitspratheek",
+        "url": "https://x.com/heloitspratheek",
+        "followers": 0,
+        "posts_analyzed": 0,
+        "posting_frequency": "Unknown",
+        "top_topics": [],
+        "avg_likes_per_tweet": 0,
+        "avg_retweets_per_tweet": 0,
+        "last_tweet_date": null
+      },
+      "github": {
+        "url": null,
+        "found": false
+      },
+      "personal_website": null,
+      "other_platforms": [
+        "https://www.tiktok.com/@prateekswargam",
+        "https://www.instagram.com/prateekswargam/"
+      ],
+      "overall_digital_footprint": "Minimal",
+      "recent_activity_summary": "Subject maintains a professional LinkedIn presence centered on his role at Cognizant. An associated music-producer alias exists across X, TikTok, and Instagram, though recent activity on these platforms is not clearly documented.",
+      "data_confidence": "medium",
+      "data_confidence_rationale": "Identity ambiguity between professional and creative profiles; LinkedIn post activity is null."
+    }
+  },
+  {
+    "raw": {
+      "section_id": 6,
+      "section_name": "Content & Thought Leadership",
+      "person_id": "UNKNOWN_ID",
+      "data": {
+        "articles_and_blogs": [],
+        "podcast_appearances": [],
+        "conference_talks": [],
+        "interviews": [],
+        "key_topics_covered": [],
+        "content_volume": "None",
+        "thought_leadership_tier": "None",
+        "thought_leadership_assessment": "The subject has no verifiable external content or thought leadership presence identified in the provided research data. As an entry-level professional at Cognizant, their current footprint is limited to basic professional profile listings without associated publications.",
+        "data_confidence": "high",
+        "data_confidence_rationale": "Research indicates an absence of indexed articles, talks, or professional publications for the subject."
+      }
+    }
+  },
+  {
+    "section_id": 7,
+    "section_name": "Network & Influence",
+    "person_id": "pratheek-swargam",
+    "data": {
+      "notable_collaborations": [],
+      "associated_companies": [
+        {
+          "company": "Cognizant",
+          "role": "Programmer Analyst Trainee",
+          "type": "Employer"
+        }
+      ],
+      "industry_communities": [],
+      "media_mentions": [],
+      "network_reach": "Tier 3 (Regional)",
+      "network_strength_assessment": "The subject maintains a localized professional network primarily concentrated within the Hyderabad technology and educational sectors. Due to the early-career status of the subject, the network depth remains limited to collegiate peers and immediate colleagues at their current employer.",
+      "data_confidence": "medium",
+      "data_confidence_rationale": "Data is primarily derived from a LinkedIn profile snippet and potentially unrelated social media presence, with no verifiable documentation of high-level professional partnerships or industry-wide collaborations."
+    }
+  },
+  {
+    "section_id": 8,
+    "section_name": "Tactical Outreach Playbook",
+    "person_id": "UNKNOWN_ID",
+    "data": {
+      "outreach_scripts": {
+        "email_draft": {
+          "subject": "Professional background inquiry: [Name]",
+          "body": "Hi [Name], I am conducting a review of professionals in your sector and noticed limited public information regarding your current initiatives. To ensure my records are accurate, I have three questions: 1. What is your current professional focus? 2. Are you open to a brief informational exchange? 3. Could you provide a current summary of your work? I look forward to connecting directly."
+        },
+        "linkedin_inmail": {
+          "body": "Hi [Name], I am looking to connect with professionals in your field to discuss industry trends. Your profile appeared in my search, but I noticed a lack of public background. I would appreciate the opportunity to learn more about your current focus and professional goals. Best, [Name]."
+        }
+      },
+      "high_resonance_topics": [
+        "Professional background verification",
+        "Industry standard benchmarking",
+        "Neutral, inquiry-based discovery",
+        "Clarification of career trajectory"
+      ],
+      "topics_to_avoid": [
+        "Assumptions about personal interests",
+        "Speculative professional expertise",
+        "Casual or informal vernacular",
+        "Inferred behavioral traits"
+      ],
+      "conversation_starters": [
+        {
+          "opener": "I'm reaching out to establish a direct connection as my internal data on your profile is currently incomplete.",
+          "context": "Used to initiate contact while acknowledging the lack of data."
+        },
+        {
+          "opener": "I am currently updating my industry network map and would like to capture your current professional scope accurately.",
+          "context": "Positions the request as a professional data-gathering exercise."
+        },
+        {
+          "opener": "Could you provide a brief overview of your current priorities? I want to ensure I understand your professional context correctly.",
+          "context": "Used during initial dialogue to build trust through objective inquiry."
+        }
+      ],
+      "optimization": {
+        "best_channel": "Email",
+        "best_days": [
+          "Tuesday",
+          "Wednesday"
+        ],
+        "suggested_time_of_day": "09:00 AM - 10:30 AM"
+      },
+      "data_confidence": "low"
+    }
+  },
+  "{'section_id': 9, 'section_name': 'Achievements & Milestones', 'person_id': 'ACoAAE3vR2gB6Z7qUMJrfQvGzz0umpILY6mUUHU', 'data': {'notable_achievements': [], 'companies_built_or_scaled': [], 'products_launched': [{'product': 'Agritech Webapp', 'context': 'Academic project utilizing machine learning for rainfall, yield, and crop recommendation prediction.', 'impact': None}, {'product': 'Virtual Draw', 'context': 'Gesture-based drawing tool utilizing OpenCV and Mediapipe for real-time annotation.', 'impact': None}], 'awards_and_recognition': [], 'career_highlight': 'Pratheek Swargam is currently serving as a Programmer Analyst Trainee at Cognizant.', 'achievement_density': 'Low', 'data_confidence': 'high', 'data_confidence_rationale': \"Data is sourced directly from the subject's LinkedIn profile; no significant awards or high-impact professional milestones were reported.\"}}",
+  {
+    "section_id": 10,
+    "section_name": "Risk & Red Flags",
+    "person_id": "pratheek-swargam",
+    "data": {
+      "job_hopping_signal": {
+        "detected": false,
+        "roles_analyzed": 0,
+        "average_tenure_months": 0,
+        "shortest_tenure_months": 0,
+        "assessment": "Subject has held only one professional role to date; job hopping metrics are not applicable."
+      },
+      "controversial_statements": [],
+      "failed_ventures": [],
+      "reputation_signals": [
+        {
+          "signal": "Ambiguous identity regarding secondary online presence",
+          "source": "Social Media (X/TikTok)",
+          "sentiment": "Neutral"
+        }
+      ],
+      "legal_or_regulatory_issues": [],
+      "data_gaps": [
+        "Limited professional footprint beyond entry-level role",
+        "No verifiable third-party references or professional endorsements",
+        "Unconfirmed link between professional LinkedIn profile and creative music production accounts"
+      ],
+      "overall_risk_rating": "Low",
+      "risk_summary": "The subject presents a low-risk profile as an entry-level professional with no evidence of negative public conduct or professional controversy. The only identified signal is the potential for identity confusion with a separate music-focused social media persona, which does not appear to impact professional standing.",
+      "data_confidence": "medium",
+      "data_confidence_rationale": "High confidence in professional role data from LinkedIn, but medium confidence in overall identity resolution due to multiple social media accounts with identical naming conventions."
+    }
+  },
+  {
+    "section_id": "social_post_intelligence",
+    "section_name": "Social Media Post Intelligence",
+    "person_id": "UNKNOWN_ID",
+    "data": {
+      "content_analysis": {
+        "top_topics": [
+          "No data available",
+          "N/A",
+          "Inconclusive"
+        ],
+        "posting_pattern": "No posting activity detected in the provided dataset.",
+        "content_style": "Insufficient data to determine stylistic preferences.",
+        "engagement_insight": "No historical engagement data available for analysis."
+      },
+      "post_breakdown": [],
+      "summaries": {
+        "posts": [
+          "No posts identified in source feed."
+        ],
+        "reposts": [
+          "No reposts identified in source feed."
+        ]
+      }
+    }
+  }
+]
+
+PROFILE STRENGTH SCORE METHODOLOGY (apply exactly):
+  Start at 0. Add points as follows:
+  - Career depth (Section 2):     Strong timeline with quantified impact=20, moderate=12, minimal=5
+  - Skills breadth (Section 3):   10+ high-evidence skills=15, 5–9=10, <5=5
+  - Online influence (Section 1): influence_score >= 70=15, 40–69=10, <40=5
+  - Content output (Section 6):   Thought Leadership Tier "Authority"=15, "Active"=10, "Emerging"=5, lower=0
+  - Network strength (Section 7): Tier 1–2=15, Tier 3=8, Tier 4=3, Unknown=0
+  - Risk profile (Section 10):    Low risk=20, Medium=12, High=5, Critical=0
+  Cap final score at 100.
+
+Output ONLY this JSON:
+{
+  "section_id": 11,
+  "section_name": "AI Analyst Verdict",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "profile_strength_score": 0,
+    "profile_strength_breakdown": {
+      "career_depth_points": 0,
+      "skills_breadth_points": 0,
+      "online_influence_points": 0,
+      "content_output_points": 0,
+      "network_strength_points": 0,
+      "risk_profile_points": 0
+    },
+    "profile_strength_rationale": "",
+    "key_strengths": [
+      "",
+      "",
+      ""
+    ],
+    "key_concerns": [
+      "",
+      ""
+    ],
+    "one_line_verdict": "",
+    "recommended_use_cases": [],
+    "use_case_rationale": "",
+    "intelligence_gaps": [],
+    "confidence_level": "High|Medium|Low",
+    "confidence_rationale": ""
+  }
+}
+
+RULES:
+- Apply the profile strength score methodology above exactly. Show the breakdown.
+- profile_strength_rationale: 2-3 sentences explaining the score — what drove it up and what capped it.
+- key_strengths: exactly 3 items. Each must be specific, derived from data, and non-generic. "Strong communicator" is not acceptable. "Published in Forbes, keynoted SaaStr 2023" is acceptable.
+- key_concerns: exactly 2 items. Be honest — if the profile is clean, flag data gaps or limited verifiability as concerns.
+- one_line_verdict: the single most important takeaway. Max 20 words. Specific. Actionable. No filler.
+  Good: "High-credibility technical founder with proven AI scale — best approached via LinkedIn referral for partnership or investment."
+  Bad: "Impressive professional with a strong background in technology."
+- recommended_use_cases: array of applicable options from ["Sales Target", "Investment Target", "Strategic Partnership", "Recruitment", "Advisory", "Monitor Only", "Insufficient Data"].
+- intelligence_gaps: critical data that was missing and would change the assessment if available. Max 4.
+- confidence_level: High = all 10 sections had sufficient data. Medium = 6–9 sections. Low = fewer than 6.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

@@ -1,0 +1,135 @@
+{
+  "section_id": 7,
+  "section_name": "Network & Influence",
+  "person_id": "ACoAAAEbx0kBgENz4hlQjci6ovrhVuK8LMtPRIY",
+  "data": {
+    "notable_collaborations": [
+      {
+        "name": "NVIDIA",
+        "organization": "NVIDIA",
+        "relationship_type": "Partner",
+        "context": "Enterprise client partnership for agentic AI platform deployment.",
+        "source": "LinkedIn"
+      },
+      {
+        "name": "Accenture",
+        "organization": "Accenture",
+        "relationship_type": "Partner",
+        "context": "Enterprise client partnership for agentic AI platform deployment.",
+        "source": "LinkedIn"
+      },
+      {
+        "name": "Willis Towers Watson",
+        "organization": "Willis Towers Watson",
+        "relationship_type": "Partner",
+        "context": "Enterprise client partnership for agentic AI platform deployment.",
+        "source": "LinkedIn"
+      },
+      {
+        "name": "BMO",
+        "organization": "BMO",
+        "relationship_type": "Partner",
+        "context": "Enterprise client partnership for agentic AI platform deployment.",
+        "source": "LinkedIn"
+      },
+      {
+        "name": "Crown Castle",
+        "organization": "Crown Castle",
+        "relationship_type": "Partner",
+        "context": "Enterprise client partnership for agentic AI platform deployment.",
+        "source": "LinkedIn"
+      },
+      {
+        "name": "Target",
+        "organization": "Target",
+        "relationship_type": "Partner",
+        "context": "Enterprise client partnership for agentic AI platform deployment.",
+        "source": "LinkedIn"
+      }
+    ],
+    "associated_companies": [
+      {
+        "company": "Lyzr AI",
+        "role": "Principal Solutions Architecture & AI Product Engineering",
+        "type": "Employer"
+      },
+      {
+        "company": "STAND 8 Technology Services",
+        "role": "Head of Data & AI Product and Partner Strategy",
+        "type": "Employer"
+      },
+      {
+        "company": "Teradata",
+        "role": "Senior Presales Solution Engineer",
+        "type": "Employer"
+      },
+      {
+        "company": "SAP",
+        "role": "Senior Presales Engineer",
+        "type": "Employer"
+      },
+      {
+        "company": "Screen Engine, LLC",
+        "role": "Audience Intelligence Product Owner",
+        "type": "Employer"
+      },
+      {
+        "company": "Nativo Inc",
+        "role": "Director Product Management",
+        "type": "Employer"
+      },
+      {
+        "company": "Viant Inc.",
+        "role": "Principal Data Scientist / Director, Consumer Data Products",
+        "type": "Employer"
+      },
+      {
+        "company": "Worldwide Motion Picture Group",
+        "role": "VP, Marketing Sciences & New Product Development",
+        "type": "Employer"
+      },
+      {
+        "company": "Match",
+        "role": "Director, Business Analytics",
+        "type": "Employer"
+      },
+      {
+        "company": "Warner Home Video",
+        "role": "Director, Market Research",
+        "type": "Employer"
+      },
+      {
+        "company": "The Nielsen Company",
+        "role": "Vice President, Home Entertainment",
+        "type": "Employer"
+      },
+      {
+        "company": "OTX",
+        "role": "Director, Theatrical Research",
+        "type": "Employer"
+      },
+      {
+        "company": "MarketCast LLC",
+        "role": "Senior Research Analyst",
+        "type": "Employer"
+      }
+    ],
+    "industry_communities": [
+      "AWS Partner Ecosystem",
+      "Atlassian Partner Network",
+      "Enterprise AI Architecture Community"
+    ],
+    "media_mentions": [
+      {
+        "outlet": "Yahoo Finance",
+        "title": "Fintech startups offer banks tools to harness agentic AI",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7342702753929928704?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7342702753929928704%29",
+        "date": "2025"
+      }
+    ],
+    "network_reach": "Tier 2 (Industry)",
+    "network_strength_assessment": "Jeremy Yu maintains a robust network built through extensive consulting and solution architecture roles at major technology enterprises and global brands. His professional connections are characterized by high-trust advisory engagements with Fortune 500 leadership and strategic technology partners.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "Profile information and career history are verifiable through official LinkedIn data and direct professional activity history across multiple major industry entities."
+  }
+}

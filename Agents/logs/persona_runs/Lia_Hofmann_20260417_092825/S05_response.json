@@ -1,0 +1,45 @@
+{
+  "section_id": 5,
+  "section_name": "Online Presence & Activity",
+  "person_id": "ACoAADk3xRAB69zRTh7jdt5UdA6JfWRk9a4nQGs",
+  "data": {
+    "linkedin": {
+      "url": "https://www.linkedin.com/in/lia-hofmann-2945a2229",
+      "followers": 1440,
+      "posts_analyzed": 4,
+      "posting_frequency": "Rarely",
+      "avg_likes_per_post": 97,
+      "avg_comments_per_post": 8,
+      "top_topics": [
+        "Career transitions",
+        "GTM and growth",
+        "AI procurement",
+        "Startup culture",
+        "NGO support"
+      ],
+      "last_post_date": "2026-04-03T11:02:50.375Z",
+      "last_post_summary": "Lia announced joining Lio (formerly askLio) as a Growth Associate on their GTM team, highlighting the company's $30M Series A raise."
+    },
+    "twitter": {
+      "handle": null,
+      "url": null,
+      "followers": 0,
+      "posts_analyzed": 0,
+      "posting_frequency": "Unknown",
+      "top_topics": [],
+      "avg_likes_per_tweet": 0,
+      "avg_retweets_per_tweet": 0,
+      "last_tweet_date": null
+    },
+    "github": {
+      "url": null,
+      "found": false
+    },
+    "personal_website": null,
+    "other_platforms": [],
+    "overall_digital_footprint": "Moderate",
+    "recent_activity_summary": "Lia is actively documenting her career progression within the European startup ecosystem. Her latest activity focuses on her new role at an AI-focused startup following the completion of her studies.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "Data is derived directly from the subject's LinkedIn profile and activity feed; consistent with professional norms for a GTM associate."
+  }
+}

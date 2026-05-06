@@ -1,0 +1,614 @@
+SYSTEM: None
+
+USER: 
+You are a relationship intelligence analyst at a Palantir-grade research firm.
+Map the Network & Influence graph of the subject based on verifiable signals.
+Do not infer connections not supported by the data.
+
+INPUT DATA:
+LinkedIn Profile: {
+  "url": "https://www.linkedin.com/in/vamsi-krishna01",
+  "username": "vamsi-krishna01",
+  "linkedin_id": "ACoAAD8unisBsIgHnZVFhsrjL-DTdoCwCeesXko",
+  "first_name": "Vamsi",
+  "last_name": "Krishna",
+  "full_name": "Vamsi Krishna",
+  "headline": "Backend Engineer | Built Convoxa | 1.9M requests @ 75ms (k6 load test) | AI Systems (RAG, FastAPI, Node.js) | Open to Germany \ud83c\udde9\ud83c\uddea",
+  "is_influencer": false,
+  "is_premium": false,
+  "is_memorialized": false,
+  "location": "Hyder\u0101b\u0101d, Telangana, India",
+  "location_raw": "Hyderabad, Telangana, India",
+  "country_full": "India",
+  "state": "Telangana",
+  "city": "Hyder\u0101b\u0101d",
+  "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQFtfIhUAWi92w/profile-displayphoto-crop_800_800/B56Z0y74_8GYAI-/0/1774676057326?e=1777507200&v=beta&t=CR2oym1JgzSsl8PQJtT5ORbGhFn55UN81kA8NwAeeag",
+  "top_skills": [],
+  "linkedin_followers": null,
+  "connections_count": 432,
+  "about": "Backend & AI Engineer focused on scalable backend systems and applied AI\n \nAt RefractOne, I design and develop backend systems for AI intelligence platforms, working on LLM pipelines, Retrieval-Augmented Generation (RAG), and parallel data collection workflows using FastAPI and LangGraph. Improved persona generation latency by ~60% and reduced LLM API costs by ~40% in production.\n \nIndependently built and deployed Convoxa, a community platform with real-time messaging (WebSockets / Socket.io), PostgreSQL and Redis backend, and Firebase push notifications on Google Cloud Run. Reached 400+ downloads with active users after launch.\n \nTech stack:\n Node.js, FastAPI, TypeScript, Python, PostgreSQL, Redis, LangGraph, GCP\n \nCore strengths:\n \u2022 Backend system design and API development\n \u2022 Scalable data pipelines and caching strategies\n \u2022 Applied AI systems (RAG, vector retrieval, prompt optimization)\n \u2022 Performance optimization and load testing (k6, ~2000 concurrent users)\n \nProblem-solving:\n Knight (~1875) on LeetCode with 750+ problems solved across core data structures and algorithms.\n \nCurrently working full-time at RefractOne.\n Open to Backend and AI Engineering opportunities in Germany.\n Degree recognized in Germany (Anabin H+) | 30-day notice | German (A1, improving)",
+  "current_positions": [
+    {
+      "company_name": "RefractOne",
+      "company_linkedin_url": "https://www.linkedin.com/company/13245712/",
+      "date_range": null
+    }
+  ],
+  "experiences": [
+    {
+      "title": "Software Engineer",
+      "company": "RefractOne",
+      "duration": "5 mos",
+      "description": "\u2022 Designed and developed backend services for an AI intelligence platform using FastAPI, contributing to scalable persona generation workflows, chatbot interactions, and internal admin tools\n\n\u2022 Optimized system performance by implementing parallel web-scraping pipelines and improving prompt orchestration, reducing persona generation latency by ~60% and LLM API costs by ~40%\n\n\u2022 Designed and implemented a Retrieval-Augmented Generation (RAG) system using vector-based retrieval, enabling efficient querying of intelligence reports and reducing token usage by ~50%\nSkills: FastAPI, Python (Programming Language), +2 skills",
+      "skills": [],
+      "start_date": {
+        "month": "Dec",
+        "year": 2025,
+        "text": "Dec 2025"
+      },
+      "end_date": {
+        "text": "Present"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQEt1cnw-PuXQg/company-logo_400_400/B56ZwdIU9NHwAY-/0/1770015248495/refract_consulting_logo?e=1777507200&v=beta&t=VeGdBX6yYkowjzVPnhchIMnpTFhC7joSJXqXUuO9Mvw"
+    },
+    {
+      "title": "Software Engineer Intern",
+      "company": "RefractOne",
+      "duration": "3 mos",
+      "description": "\u2022 Designed and implemented multiple data collection agents to gather intelligence from external sources (via APIs such as RapidAPI), enabling structured data aggregation for persona generation\n\n\u2022 Built and orchestrated multi-agent workflows using LangGraph to generate end-to-end intelligence persona reports from collected data signals\n\n\u2022 Contributed to frontend development by building React components and integrating backend outputs into user-facing interfaces for report visualization\nSkills: Python (Programming Language), SQL, +2 skills",
+      "skills": [],
+      "start_date": {
+        "month": "Sep",
+        "year": 2025,
+        "text": "Sep 2025"
+      },
+      "end_date": {
+        "month": "Nov",
+        "year": 2025,
+        "text": "Nov 2025"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQEt1cnw-PuXQg/company-logo_400_400/B56ZwdIU9NHwAY-/0/1770015248495/refract_consulting_logo?e=1777507200&v=beta&t=VeGdBX6yYkowjzVPnhchIMnpTFhC7joSJXqXUuO9Mvw"
+    },
+    {
+      "title": "Founder",
+      "company": "Convoxa",
+      "duration": "4 mos",
+      "description": "\u2022 Designed and implemented a scalable backend for a community discussion platform using Node.js, Express, React Native, and PostgreSQL, supporting threaded discussions, voting, and community interactions\n\n\u2022 Designed a real-time messaging and live update system using WebSockets (Socket.io) with client-side persistence via SQLite to handle offline scenarios and improve reliability\n\n\u2022 Designed and optimized backend APIs using Node.js and TypeScript with Redis caching and frontend caching via TanStack Query; conducted k6 load testing to validate performance under ~1000 concurrent users and identify latency bottlenecks\n\n\u2022 Deployed stateless backend services on Google Cloud Run with horizontal scaling and integrated Firebase FCM for push notifications; launched on March 7, 2026, achieving 400+ downloads with active users\nConvoxa - Backend Architecture Case Study\nConvoxa - Live App(Play Store)\nTypeScript, Node.js and +3 skills",
+      "skills": [],
+      "start_date": {
+        "month": "Jan",
+        "year": 2026,
+        "text": "Jan 2026"
+      },
+      "end_date": {
+        "text": "Present"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQGEBiSLFJ_Zag/company-logo_400_400/B56Z0oPNvOJkAY-/0/1774496570745?e=1777507200&v=beta&t=iAPFk9czD4zoO29GGHErM9clJ28M5df82m9v3badBkY"
+    }
+  ],
+  "educations": [
+    {
+      "institution": "Neil Gogte Institute of Technology",
+      "school_linkedin_url": "https://www.linkedin.com/company/82110623/",
+      "degree": "B.Tech in Computer Science and Engineering (Artificial Intelligence and Machine Learning)",
+      "field_of_study": null,
+      "skills": [],
+      "start_date": {
+        "month": "Dec",
+        "year": 2021,
+        "text": "Dec 2021"
+      },
+      "end_date": {
+        "month": "Jul",
+        "year": 2025,
+        "text": "Jul 2025"
+      },
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQGleaQAtBGvRg/company-logo_400_400/company-logo_400_400/0/1654673880195?e=1777507200&v=beta&t=QgdOo2kW6uOeM80CqKXoYujvyTwT4jUa0pB3IU4_320"
+    }
+  ],
+  "skills": [
+    "Systems Design",
+    "Redis",
+    "TypeScript",
+    "Google Cloud Platform (GCP)",
+    "PostgreSQL",
+    "React Native",
+    "LangGraph",
+    "SQL",
+    "JavaScript",
+    "Express.js",
+    "Algorithm Analysis",
+    "React.js",
+    "MERN Stack",
+    "FastAPI",
+    "REST APIs",
+    "Node.js",
+    "MongoDB",
+    "Problem Solving",
+    "React",
+    "Python (Programming Language)"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Telugu"
+  ],
+  "certifications": [
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    }
+  ],
+  "projects": [
+    {
+      "title": "IntelligiHire \u2014 AI Backend & Multi-Agent System",
+      "description": "\u2022 Engineered a multi-agent intelligence pipeline using LangGraph to orchestrate 15+ specialized agents for automated data extraction and analysis\n\n\u2022 Designed and integrated multiple data agents (LinkedIn, Crunchbase, Google News, Glassdoor, GitHub, financial APIs, and social platforms) to collect and aggregate multi-domain company intelligence\n\n\u2022 Built a data synthesis layer leveraging LLMs (Llama 3.3, Gemini 1.5) to transform raw signals into structured intelligence reports across engineering, business, and culture domains\n\n\u2022 Developed real-time data processing systems to extract high-impact signals (e.g., layoffs, leadership changes, market updates) from multiple APIs and data sources\n\n\u2022 Built a high-performance FastAPI backend with asynchronous workflows and stateful processing, improving system efficiency and reducing response latency\nSkills: Python (Programming Language), LangGraph, +2 skills\nIntelligiHire - Backend Documentation\nGitHub",
+      "url": null
+    },
+    {
+      "title": "Lepus \u2014 Campus Platform",
+      "description": "\u2022 Designed and developed a mobile-first campus platform enabling students to manage attendance, habits, and discussions within a unified system\n\n\u2022 Built a multi-feature backend integrating attendance tracking, habits, and discussions into a single scalable architecture\n\n\u2022 Designed scalable backend services using Node.js and Express.js with Redis caching and real-time communication via WebSockets (Socket.io)\n\n\u2022 Implemented frontend data caching using AsyncStorage and deployed backend services on Google Cloud Run, supporting features like stories, anonymous confessions, and messaging\nSkills: Node.js, JavaScript, +3 skills\nLepus - Notion Link\nLepus - Campus Platform(Play Store)\nLepus \u2014 Backend Architecture & Campus Platform Case Study",
+      "url": null
+    }
+  ],
+  "volunteering": [],
+  "recommendations": [],
+  "publications": [
+    {
+      "title": "Case Study: Architecting a Real-Time Student Ecosystem (Lepus",
+      "publisher": null,
+      "date": null,
+      "url": null,
+      "description": "An engineering breakdown of a high-concurrency campus platform built with Node.js, MongoDB, and Socket.io. Features a modular monolith architecture with specialized services for live bus tracking, encrypted attendance management, and multi-language support (6+ regional languages). Highlights include a read-optimized NoSQL design to handle high-traffic social feeds and a Redis-based eventual consistency model for real-time messaging"
+    },
+    {
+      "title": "Case Study: Scaling a Modular Monolith to 2,000+ Concurrent Users",
+      "publisher": null,
+      "date": null,
+      "url": null,
+      "description": "A comprehensive backend engineering deep-dive into Convoxa, a community platform built with Node.js, Redis, and PostgreSQL. Highlights include implementing a server-authoritative vote consistency system using composite unique constraints and aggregate field synchronization. Detailed k6 stress testing results showing a sustained 318 RPS with 65ms P95 latency across 1.9M+ API requests on Google Cloud Run"
+    }
+  ],
+  "courses": [],
+  "patents": [],
+  "honors_awards": [
+    {
+      "title": "Knight Rank | LeetCode (Top 5% Globally)",
+      "issuer": null,
+      "date": null,
+      "description": "Achieved a contest rating of 1875+ (Knight rank), placing in the top 5% of participants globally. Demonstrated proficiency in complex data structures, algorithms, and high-pressure problem-solving across 750+ solved challenges"
+    }
+  ],
+  "causes": [],
+  "featured": null
+}
+Web Search Results: --- parallel_ai_research ---
+{
+  "basis": [
+    {
+      "field": "full_name",
+      "reasoning": "The full name 'Vamsi Krishna' is explicitly stated in the provided text and is consistent across multiple online profiles (LinkedIn, GitHub, X/Twitter) as indicated in the summary of steps taken and citations.",
+      "citations": [
+        {
+          "url": "https://in.linkedin.com/in/vamsi-krishna01",
+          "excerpts": [],
+          "title": "Vamsi Krishna - Backend Engineer | Built Convoxa"
+        },
+        {
+          "url": "https://www.linkedin.com/posts/refract-consulting_lifeatrefract-activity-7413844624420745216-GY6e",
+          "excerpts": [
+            "Welcome aboard, Vamsi Krishna!"
+          ],
+          "title": "#lifeatrefract | RefractOne"
+        },
+        {
+          "url": "https://github.com/Vamsicse",
+          "excerpts": [],
+          "title": "VAMSI KRISHNA Vamsicse"
+        },
+        {
+          "url": "https://x.com/VamsiKTweets",
+          "excerpts": [],
+          "title": "Vamsi Krishna (@VamsiKTweets) / Posts / X"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "current_role",
+      "reasoning": "The current role is identified from the LinkedIn profile and a company announcement post, both explicitly stating his position at RefractOne.",
+      "citations": [
+        {
+          "url": "https://in.linkedin.com/in/vamsi-krishna01",
+          "excerpts": [
+            "At RefractOne, I design and develop backend systems for AI intelligence platforms, working on LLM pipelines, Retrieval-Augmented Generation (RAG), and parallel"
+          ],
+          "title": "Vamsi Krishna - Backend Engineer | Built Convoxa"
+        },
+        {
+          "url": "https://www.linkedin.com/posts/refract-consulting_lifeatrefract-activity-7413844624420745216-GY6e",
+          "excerpts": [],
+          "title": "#lifeatrefract | RefractOne"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "professional_summary",
+      "reasoning": "The professional summary is synthesized from information found on his LinkedIn profile, which describes his focus on backend systems, AI intelligence platforms, LLM pipelines, and RAG, along with his general approach to problem-solving.",
+      "citations": [
+        {
+          "url": "https://in.linkedin.com/in/vamsi-krishna01",
+          "excerpts": [
+            "At RefractOne, I design and develop backend systems for AI intelligence platforms, working on LLM pipelines, Retrieval-Augmented Generation (RAG), and parallel"
+          ],
+          "title": "Vamsi Krishna - Backend Engineer | Built Convoxa"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "influence_score",
+      "reasoning": "The influence score is derived from an assessment of his online presence, including LinkedIn followers/connections, X/Twitter followers, and GitHub activity. The rationale provided explains the modest reach and engagement primarily within technical networks.",
+      "citations": [
+        {
+          "url": "https://x.com/VamsiKTweets",
+          "excerpts": [],
+          "title": "Vamsi Krishna (@VamsiKTweets) / Posts / X"
+        },
+        {
+          "url": "https://in.linkedin.com/in/vamsi-krishna01",
+          "excerpts": [],
+          "title": "Vamsi Krishna - Backend Engineer | Built Convoxa"
+        },
+        {
+          "url": "https://github.com/Vamsicse",
+          "excerpts": [],
+          "title": "VAMSI KRISHNA Vamsicse"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "data_confidence",
+      "reasoning": "The data confidence is assessed as medium because while multiple public profiles confirm identity and current role, detailed biographical information like exact degree year or full past employment history is not readily available or fully specified in the public domain.",
+      "citations": [
+        {
+          "url": "https://in.linkedin.com/in/vamsi-krishna01",
+          "excerpts": [],
+          "title": "Vamsi Krishna - Backend Engineer | Built Convoxa"
+        },
+        {
+          "url": "https://www.linkedin.com/posts/refract-consulting_lifeatrefract-activity-7413844624420745216-GY6e",
+          "excerpts": [],
+          "title": "#lifeatrefract | RefractOne"
+        },
+        {
+          "url": "https://github.com/Vamsicse",
+          "excerpts": [],
+          "title": "VAMSI KRISHNA Vamsicse"
+        },
+        {
+          "url": "https://x.com/VamsiKTweets",
+          "excerpts": [],
+          "title": "Vamsi Krishna (@VamsiKTweets) / Posts / X"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "red_flags",
+      "reasoning": "No red flags were identified based on the public data reviewed. There were no indications of problematic posts, legal issues, or suspicious content across his online presence.",
+      "citations": [
+        {
+          "url": "https://in.linkedin.com/in/vamsi-krishna01",
+          "excerpts": [],
+          "title": "Vamsi Krishna - Backend Engineer | Built Convoxa"
+        },
+        {
+          "url": "https://github.com/Vamsicse",
+          "excerpts": [],
+          "title": "VAMSI KRISHNA Vamsicse"
+        },
+        {
+          "url": "https://x.com/VamsiKTweets",
+          "excerpts": [],
+          "title": "Vamsi Krishna (@VamsiKTweets) / Posts / X"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "how_to_approach",
+      "reasoning": "The recommended approach is based on his identified communication style (concise, technical, pragmatic) and key interests (backend systems, AI, coding problems, system design) as evidenced by his LinkedIn activity, GitHub repositories, and X/Twitter posts.",
+      "citations": [
+        {
+          "url": "https://in.linkedin.com/in/vamsi-krishna01",
+          "excerpts": [
+            "At RefractOne, I design and develop backend systems for AI intelligence platforms, working on LLM pipelines, Retrieval-Augmented Generation (RAG), and parallel"
+          ],
+          "title": "Vamsi Krishna - Backend Engineer | Built Convoxa"
+        },
+        {
+          "url": "https://github.com/Vamsicse",
+          "excerpts": [],
+          "title": "VAMSI KRISHNA Vamsicse"
+        },
+        {
+          "url": "https://x.com/VamsiKTweets",
+          "excerpts": [],
+          "title": "Vamsi Krishna (@VamsiKTweets) / Posts / X"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "online_presence",
+      "reasoning": "This section compiles information about his online presence from the provided LinkedIn URL, GitHub handle, and X/Twitter handle, along with a summary of his recent activity on these platforms.",
+      "citations": [
+        {
+          "url": "https://in.linkedin.com/in/vamsi-krishna01",
+          "excerpts": [],
+          "title": "Vamsi Krishna - Backend Engineer | Built Convoxa"
+        },
+        {
+          "url": "https://github.com/Vamsicse",
+          "excerpts": [],
+          "title": "VAMSI KRISHNA Vamsicse"
+        },
+        {
+          "url": "https://x.com/VamsiKTweets",
+          "excerpts": [],
+          "title": "Vamsi Krishna (@VamsiKTweets) / Posts / X"
+        },
+        {
+          "url": "https://www.linkedin.com/posts/refract-consulting_lifeatrefract-activity-7413844624420745216-GY6e",
+          "excerpts": [],
+          "title": "#lifeatrefract | RefractOne"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "education",
+      "reasoning": "The educational institution and degree are identified from his LinkedIn profile. The year is noted as not publicly available, and the degree type is inferred from the 'Computer Science Graduate' description.",
+      "citations": [
+        {
+          "url": "https://in.linkedin.com/in/vamsi-krishna01",
+          "excerpts": [],
+          "title": "Vamsi Krishna - Backend Engineer | Built Convoxa"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "personality_signals",
+      "reasoning": "Personality signals are inferred from his online activity, including his communication style on X/Twitter, the types of content he engages with on LinkedIn, and the nature of his GitHub projects, which reveal his interests and values. His leadership style is inferred from the absence of managerial roles.",
+      "citations": [
+        {
+          "url": "https://in.linkedin.com/in/vamsi-krishna01",
+          "excerpts": [
+            "At RefractOne, I design and develop backend systems for AI intelligence platforms, working on LLM pipelines, Retrieval-Augmented Generation (RAG), and parallel"
+          ],
+          "title": "Vamsi Krishna - Backend Engineer | Built Convoxa"
+        },
+        {
+          "url": "https://github.com/Vamsicse",
+          "excerpts": [],
+          "title": "VAMSI KRISHNA Vamsicse"
+        },
+        {
+          "url": "https://x.com/VamsiKTweets",
+          "excerpts": [],
+          "title": "Vamsi Krishna (@VamsiKTweets) / Posts / X"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "career_history",
+      "reasoning": "The current role at Refract/RefractOne is confirmed by LinkedIn and a company post. A previous role at Walmart Labs is mentioned in his GitHub bio, but specific dates and full details are not available on LinkedIn, indicating incomplete public information.",
+      "citations": [
+        {
+          "url": "https://in.linkedin.com/in/vamsi-krishna01",
+          "excerpts": [],
+          "title": "Vamsi Krishna - Backend Engineer | Built Convoxa"
+        },
+        {
+          "url": "https://www.linkedin.com/posts/refract-consulting_lifeatrefract-activity-7413844624420745216-GY6e",
+          "excerpts": [],
+          "title": "#lifeatrefract | RefractOne"
+        },
+        {
+          "url": "https://github.com/Vamsicse",
+          "excerpts": [],
+          "title": "VAMSI KRISHNA Vamsicse"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "publications_and_talks",
+      "reasoning": "No authored articles, podcasts, conference talks, or academic publications were found that could be clearly attributed to Vamsi Krishna in the public search results.",
+      "citations": [
+        {
+          "url": "https://x.com/VamsiKTweets",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://github.com/Vamsicse",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://www.linkedin.com/posts/refract-consulting_lifeatrefract-activity-7413844624420745216-GY6e",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://in.linkedin.com/in/vamsi-krishna01",
+          "excerpts": [],
+          "title": null
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "achievements",
+      "reasoning": "Achievements are identified through his active GitHub presence, where he maintains multiple public repositories for coding problems and projects. Social/peer recognition is inferred from his engagement with engineering community posts on LinkedIn.",
+      "citations": [
+        {
+          "url": "https://github.com/Vamsicse",
+          "excerpts": [],
+          "title": "VAMSI KRISHNA Vamsicse"
+        },
+        {
+          "url": "https://in.linkedin.com/in/vamsi-krishna01",
+          "excerpts": [],
+          "title": "Vamsi Krishna - Backend Engineer | Built Convoxa"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "skills",
+      "reasoning": "Skills are derived from his LinkedIn profile description (Computer Science Graduate, Full-Stack Developer, AI & Automation, LLM pipelines, RAG), his GitHub repositories (Java, REST API, JAX-RS, Jersey, Lombok, Java RMI), and his general professional focus.",
+      "citations": [
+        {
+          "url": "https://in.linkedin.com/in/vamsi-krishna01",
+          "excerpts": [
+            "At RefractOne, I design and develop backend systems for AI intelligence platforms, working on LLM pipelines, Retrieval-Augmented Generation (RAG), and parallel"
+          ],
+          "title": "Vamsi Krishna - Backend Engineer | Built Convoxa"
+        },
+        {
+          "url": "https://github.com/Vamsicse",
+          "excerpts": [],
+          "title": "VAMSI KRISHNA Vamsicse"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "content": {
+    "full_name": "Vamsi Krishna",
+    "current_role": "Software Engineer at Refract (RefractOne)",
+    "professional_summary": "A computer-science trained full-stack/backend engineer focused on building AI-enabled backend systems and automation. Public profile indicates hands-on experience with backend APIs, LLM pipelines and Retrieval-Augmented Generation (RAG), and a practical, code-first approach to problem solving.",
+    "influence_score": 28.0,
+    "data_confidence": "medium",
+    "red_flags": [],
+    "how_to_approach": "Technical, concise, and evidence-driven communication works best. Engage via LinkedIn or GitHub with concrete technical topics (backend systems, Java/REST, LLM/RAG, system design). Share code samples, design diagrams, or short reproducible examples. Avoid overly salesy or marketing-heavy initial outreach\u2014lead with specific engineering questions or collaboration opportunities.",
+    "online_presence": {
+      "personal_website": "Not found/publicly available",
+      "github_handle": "github.com/Vamsicse",
+      "twitter_handle": "@VamsiKTweets",
+      "linkedin_url": "https://in.linkedin.com/in/vamsi-krishna01",
+      "recent_posts_summary": "LinkedIn activity shows likes of posts about AI\u2019s impact on work and system design/interview prep; RefractOne LinkedIn post welcomed him to the firm ~3 months ago. X shows replies and short opinionated replies (e.g., music critique thread in May 2024) and occasional engagement rather than frequent original long-form posting."
+    },
+    "education": [
+      {
+        "institution": "Neil Gogte Institute of Technology",
+        "year": "Not specified/publicly available",
+        "degree": "Computer Science (likely a bachelor\u2019s degree)"
+      }
+    ],
+    "personality_signals": {
+      "communication_style": "Concise, technical, and pragmatic. On LinkedIn he mainly likes and shares domain-relevant content (AI, systems, interview prep). On X he posts short replies with direct opinions (e.g., critiques of takes on music) indicating candid, sometimes blunt style.",
+      "key_interests": [
+        "Backend engineering",
+        "full-stack development",
+        "AI & automation (LLMs/RAG)",
+        "system design",
+        "coding practice and problem solving (DailyCodingProblem repo)",
+        "practical engineering tools (REST, Java stacks)"
+      ],
+      "values": [
+        "Technical growth",
+        "practical engineering outcomes",
+        "upskilling"
+      ],
+      "leadership_style": "No strong public signals of managerial or people-lead roles\u2014appears to be an individual-contributor/technical IC focused on delivering engineering work."
+    },
+    "career_history": [
+      {
+        "duration": "Current",
+        "title": "Software Engineer",
+        "company": "Refract / RefractOne"
+      },
+      {
+        "duration": "Not specified/publicly available",
+        "title": "Software Development Engineer",
+        "company": "Walmart Labs, Sunnyvale, CA"
+      }
+    ],
+    "publications_and_talks": [],
+    "achievements": [
+      "Maintains multiple public GitHub repositories solving coding problems and some small projects (DailyCodingProblemSolutions, CheatPreventionVisualCryptogaphy, etc.)",
+      "Social/peer recognition: liked content showing engagement with engineering community; LinkedIn interactions include engaging with posts about AI and system design."
+    ],
+    "skills": [
+      "Java",
+      "REST APIs",
+      "JAX-RS",
+      "Jersey",
+      "Lombok",
+      "Java RMI",
+      "backend development",
+      "full-stack concepts",
+      "LLM pipelines",
+      "RAG",
+      "system design",
+      "Practical problem-solving",
+      "concise technical communication",
+      "collaborative engagement"
+    ]
+  },
+  "type": "json",
+  "beta_fields": null,
+  "output_schema": null
+}
+
+Output ONLY this JSON:
+{
+  "section_id": 7,
+  "section_name": "Network & Influence",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "notable_collaborations": [
+      {
+        "name": "",
+        "organization": "",
+        "relationship_type": "Colleague|Co-founder|Investor|Advisor|Mentor|Partner|Public Mention",
+        "context": "",
+        "source": ""
+      }
+    ],
+    "associated_companies": [
+      {
+        "company": "",
+        "role": "",
+        "type": "Employer|Founded|Advisory|Investment|Board"
+      }
+    ],
+    "industry_communities": [],
+    "media_mentions": [
+      {"outlet": "", "title": "", "url": "", "date": ""}
+    ],
+    "network_reach": "Tier 1 (Global)|Tier 2 (Industry)|Tier 3 (Regional)|Tier 4 (Niche)|Unknown",
+    "network_strength_assessment": "",
+    "data_confidence": "high|medium|low",
+    "data_confidence_rationale": ""
+  }
+}
+
+RULES:
+- notable_collaborations: only include if an explicit connection is mentioned in the data. Max 8.
+- associated_companies: include all companies from career history + any advisory/board roles found. No cap.
+- industry_communities: groups, associations, or communities they are publicly affiliated with. Max 5.
+- media_mentions: only include URLs explicitly found in web_snippets. Never construct URLs. Max 10.
+- network_reach: Tier 1 = global media coverage + Fortune 500 connections. Tier 2 = industry-wide recognition. Tier 3 = regional or local relevance. Tier 4 = niche community. Unknown = insufficient data.
+- network_strength_assessment: exactly 2 sentences. First on the breadth of their network. Second on the depth or quality.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

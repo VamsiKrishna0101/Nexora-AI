@@ -1,0 +1,61 @@
+{
+  "section_id": 2,
+  "section_name": "Professional Background",
+  "person_id": "vamsi-krishna01",
+  "data": {
+    "current_role_summary": "Backend and AI Engineer specialized in high-performance system design and LLM-driven intelligence pipelines.",
+    "role_summary_bullets": [
+      "Core Identity & Mission: Dedicated to engineering scalable, high-concurrency backend systems and optimizing AI workflows for production environments.",
+      "Domain Mastery: Expert in FastAPI, Node.js, and Python, with a strong focus on RAG, LangGraph, and vector-based retrieval architectures.",
+      "Quantifiable Impact: Achieved a ~60% reduction in persona generation latency and a 40% decrease in LLM API costs through optimized prompt orchestration.",
+      "Strategic Scope: Proven capacity to architect and deploy stateless, horizontally scalable services on Google Cloud Run capable of managing high-traffic real-time applications.",
+      "Leadership Philosophy: Founder-minded engineer who emphasizes rigorous load testing (k6), performance optimization, and evidence-based architectural case studies.",
+      "Current Momentum: Actively working at RefractOne while maintaining external projects; currently pursuing opportunities in the German technology market."
+    ],
+    "career_timeline": [
+      {
+        "company": "RefractOne",
+        "title": "Software Engineer",
+        "start_date": "Dec 2025",
+        "end_date": "Present",
+        "duration_months": 3,
+        "one_line_impact": "Reduced persona generation latency by ~60% and LLM API costs by ~40% through parallel pipelines and prompt optimization."
+      },
+      {
+        "company": "Convoxa",
+        "title": "Founder",
+        "start_date": "Jan 2026",
+        "end_date": "Present",
+        "duration_months": 2,
+        "one_line_impact": "Reached 400+ downloads with a system capable of 318 RPS at 65ms P95 latency."
+      },
+      {
+        "company": "RefractOne",
+        "title": "Software Engineer Intern",
+        "start_date": "Sep 2025",
+        "end_date": "Nov 2025",
+        "duration_months": 3,
+        "one_line_impact": "Orchestrated multi-agent workflows using LangGraph for end-to-end intelligence report generation."
+      }
+    ],
+    "education_history": [
+      {
+        "institution": "Neil Gogte Institute of Technology",
+        "degree": "B.Tech",
+        "field_of_study": "Computer Science and Engineering (Artificial Intelligence and Machine Learning)",
+        "graduation_year": "2025"
+      }
+    ],
+    "total_years_experience": 1,
+    "industry_expertise_areas": [
+      "Artificial Intelligence",
+      "Software Development",
+      "Cloud Computing",
+      "System Architecture",
+      "EdTech",
+      "Community Platforms"
+    ],
+    "data_confidence": "high",
+    "data_confidence_rationale": "Data is synthesized directly from a detailed LinkedIn profile including clear start/end dates for professional experience and specific performance metrics for technical projects."
+  }
+}

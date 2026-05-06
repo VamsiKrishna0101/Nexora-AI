@@ -1,0 +1,141 @@
+{
+  "section_id": 2,
+  "section_name": "Professional Background",
+  "person_id": "ACoAACSNaE8BokiH-nyGlzVeUVY-k3lqwpHizeg",
+  "data": {
+    "current_role_summary": "Entrepreneurial leader specializing in AI-driven B2B automation, currently building multi-agent systems for enterprise procurement at Lio.",
+    "role_summary_bullets": [
+      "Core Identity & Mission: Founder focused on transforming traditional enterprise operations through autonomous AI workforce technologies.",
+      "Domain Mastery: Deep technical expertise in procurement workflows, NLP-based security, and product architecture.",
+      "Quantifiable Impact: Built Lio as an AI procurement solution backed by YCombinator, targeting global enterprise process efficiency.",
+      "Strategic Scope: Demonstrated ability to scale from early-stage venture building to technical product management within corporate innovation frameworks.",
+      "Leadership Philosophy: Prioritizes hands-on product ownership, rapid prototyping, and fostering entrepreneurial ecosystems.",
+      "Current Momentum: Leading a YC-backed venture while maintaining an active presence in Munich\u2019s startup innovation community."
+    ],
+    "career_timeline": [
+      {
+        "company": "Lio (prev. askLio)",
+        "title": "Founder & CEO",
+        "start_date": "2023-03",
+        "end_date": "Present",
+        "duration_months": 26,
+        "one_line_impact": "Developing the world's first Multi-Agent System for end-to-end enterprise procurement."
+      },
+      {
+        "company": "ProGlove Masterclass",
+        "title": "Technical Co-Founder",
+        "start_date": "2022-05",
+        "end_date": "2023-03",
+        "duration_months": 11,
+        "one_line_impact": "Owned product and technology development for a cinematic founder-education platform."
+      },
+      {
+        "company": "Gabriel AI",
+        "title": "Co-Founder",
+        "start_date": "2021-07",
+        "end_date": "2022-05",
+        "duration_months": 11,
+        "one_line_impact": "Utilized NLP and ML technologies to mitigate social engineering attacks."
+      },
+      {
+        "company": "Fraunhofer Venture",
+        "title": "Innovation Consultant",
+        "start_date": "2021-05",
+        "end_date": "2021-09",
+        "duration_months": 5,
+        "one_line_impact": "Provided specialized innovation consulting within the Fraunhofer research ecosystem."
+      },
+      {
+        "company": "GEMA",
+        "title": "Technology Consultant",
+        "start_date": "2021-04",
+        "end_date": "2021-09",
+        "duration_months": 6,
+        "one_line_impact": "Developed a full-stack OCR application for music industry workflows."
+      },
+      {
+        "company": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+        "title": "Business Design Coach",
+        "start_date": "2021-04",
+        "end_date": "2021-06",
+        "duration_months": 3,
+        "one_line_impact": "Mentored consultants and startups on business design methodologies."
+      },
+      {
+        "company": "CHECK24 Vergleichsportal GmbH",
+        "title": "Product Manager",
+        "start_date": "2020-10",
+        "end_date": "2021-03",
+        "duration_months": 6,
+        "one_line_impact": "Managed product initiatives for Germany's largest eCommerce comparison platform."
+      },
+      {
+        "company": "Mercedes-Benz AG",
+        "title": "Venture Architect",
+        "start_date": "2019-05",
+        "end_date": "2019-08",
+        "duration_months": 4,
+        "one_line_impact": "Facilitated venture architecture strategies within corporate innovation units."
+      },
+      {
+        "company": "Lab1886",
+        "title": "Product Manager",
+        "start_date": "2019-03",
+        "end_date": "2019-08",
+        "duration_months": 6,
+        "one_line_impact": "Supported strategy, market research, and product management for Daimler's innovation lab."
+      },
+      {
+        "company": "Siemens",
+        "title": "Project Manager",
+        "start_date": "2017-05",
+        "end_date": "2018-08",
+        "duration_months": 16,
+        "one_line_impact": "Executed project management responsibilities within large-scale industrial operations."
+      }
+    ],
+    "education_history": [
+      {
+        "institution": "Y Combinator",
+        "degree": "Alumni",
+        "field_of_study": "Startup Accelerator",
+        "graduation_year": "2023"
+      },
+      {
+        "institution": "TUM Entrepreneurship Research Institute",
+        "degree": "Certification",
+        "field_of_study": "Venture Creation Track",
+        "graduation_year": "N/A"
+      },
+      {
+        "institution": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+        "degree": "Master of Science - MS",
+        "field_of_study": "Management and Digital Technologies",
+        "graduation_year": "N/A"
+      },
+      {
+        "institution": "National University of Malaysia (UKM)",
+        "degree": "Bachelor of Science - BS",
+        "field_of_study": "Industrial Engineering",
+        "graduation_year": "N/A"
+      },
+      {
+        "institution": "University of Duisburg-Essen",
+        "degree": "Bachelor of Science - BS",
+        "field_of_study": "Wirtschaftsingenieurwesen",
+        "graduation_year": "N/A"
+      }
+    ],
+    "total_years_experience": 8,
+    "industry_expertise_areas": [
+      "Artificial Intelligence",
+      "Enterprise Procurement",
+      "Product Management",
+      "eCommerce",
+      "Venture Capital",
+      "Industrial Engineering"
+    ],
+    "data_confidence": "high",
+    "data_confidence_rationale": "Information is derived directly from a verified LinkedIn profile with specific dates and role descriptions."
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "section_id": 4,
+  "section_name": "Behavioral Intelligence Suite",
+  "person_id": "jeremy-yu-68928a6",
+  "data": {
+    "behavioral_profile": {
+      "archetype": "The Builder",
+      "one_line_description": "Technical product leader focused on practical deployment and enterprise-grade AI architecture.",
+      "trait_tags": [
+        "pragmatic",
+        "technical-focused",
+        "outcome-driven"
+      ]
+    },
+    "trait_scores": {
+      "dominance": 65,
+      "expressiveness": 50,
+      "pace": 75,
+      "pragmatism": 90,
+      "risk_appetite": 55,
+      "social_energy": 60
+    },
+    "working_style": {
+      "decision_making": "Prioritizes empirical performance benchmarks like LongMemEval over market hype.",
+      "collaboration": "Operates at the intersection of sales, engineering, and enterprise strategy.",
+      "conflict_style": "Addresses technical inefficiencies directly, framing them as solvable engineering problems.",
+      "pace": "Fast-paced, focused on consistent shipment of SDKs and production tooling."
+    },
+    "what_drives_them": {
+      "energizers": [
+        "Translating abstract AI theory into production-ready enterprise systems",
+        "Achieving specific performance benchmarks and reliability metrics",
+        "Direct integration into existing developer workflows and git repositories",
+        "Industry-wide recognition via expert profiling and strategic partnerships"
+      ],
+      "drainers": [
+        "Conceptual AI demos lacking real-world application utility",
+        "Inefficient manual procurement or business workflows",
+        "High failure rates in complex, multi-step systems",
+        "Fluff-heavy discourse that ignores security and governance"
+      ]
+    },
+    "engagement_guide": {
+      "how_to_open": [
+        "Focus immediately on technical architecture or specific deployment hurdles.",
+        "Reference current, high-impact enterprise AI challenges in fintech or insurance.",
+        "Acknowledge the shift from 'agentic' hype to production-grade utility."
+      ],
+      "how_to_run_meeting": [
+        "Keep the discussion tethered to measurable business outcomes.",
+        "Focus on technical limitations and how to overcome them systematically.",
+        "Review specific product frameworks like Lyzr's AgentMesh or Architect."
+      ],
+      "how_to_email": [
+        "Keep communication concise and focused on actionable solutions.",
+        "Cite specific use cases for deploying agents in regulated environments.",
+        "Provide clear value propositions aligned with enterprise governance."
+      ],
+      "how_to_follow_up": [
+        "Share relevant research papers or technical benchmarks.",
+        "Connect follow-ups to ongoing project roadmaps or tool deployments.",
+        "Maintain a professional cadence that respects product cycles."
+      ],
+      "how_to_build_trust": [
+        "Demonstrate deep understanding of air-gapped security and data privacy.",
+        "Prioritize the 'Six Sigma' mindset in agent reliability.",
+        "Showcase consistent, high-execution professional track records."
+      ]
+    },
+    "blind_spots": [
+      "Over-reliance on specific proprietary tools as the primary answer to complex business problems.",
+      "Potential undervaluation of non-technical stakeholders in the decision-making process.",
+      "Narrow focus on enterprise-sized clients may overlook agile, mid-market niche requirements."
+    ],
+    "dos_and_donts": {
+      "dos": [
+        "Discuss the integration of AI agents within established developer ecosystems.",
+        "Focus on reliability, accuracy, and governance in enterprise deployments.",
+        "Address the 'full lifecycle' from discovery to post-deployment support.",
+        "Emphasize practical, reproducible AI infrastructure over theoretical concepts."
+      ],
+      "donts": [
+        "Do not pitch AI solutions that lack clear performance data or benchmarks.",
+        "Do not use speculative or 'fluff' language regarding AI capabilities.",
+        "Do not ignore the importance of compliance and RBAC in systems.",
+        "Do not treat AI adoption as a standalone event rather than a process."
+      ]
+    },
+    "data_confidence": "high",
+    "data_confidence_rationale": "Data is derived from a consistent stream of professional LinkedIn activity detailing project launches, strategic partnerships, and firm-level growth announcements."
+  }
+}

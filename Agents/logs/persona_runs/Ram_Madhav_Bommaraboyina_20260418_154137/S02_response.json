@@ -1,0 +1,51 @@
+{
+  "section_id": 2,
+  "section_name": "Professional Background",
+  "person_id": "ACoAAFWw7ZEBQ3ThuQDibWe3Z6BoAWqPUp5WwQ4",
+  "data": {
+    "current_role_summary": "Aspiring Backend and AI developer specializing in building scalable web architectures and intelligent systems using Python, Django, and deep learning frameworks.",
+    "role_summary_bullets": [
+      "Core Identity & Mission: Dedicated to bridging the gap between robust backend engineering and practical, scalable AI/ML application development.",
+      "Domain Mastery: Proven proficiency in Django, REST API architecture, and AI/ML model integration including RAG pipelines and YOLOv8 computer vision.",
+      "Quantifiable Impact: Engineered an automated ticket management system (Track-IT) with JWT-based security and an ANPR detection system utilizing YOLOv8 for automated process execution.",
+      "Strategic Scope: Focuses on full-stack development, moving from backend service design to implementing end-user facing recommendation engines and web interfaces.",
+      "Leadership Philosophy: Operates as a builder-centric developer, prioritizing system security, authentication, and user-interactive intelligent modules.",
+      "Current Momentum: Currently scaling industry-relevant experience as an Intern at ICRISAT while maintaining a technical foundation in Python, Java, and cloud-integrated frameworks."
+    ],
+    "career_timeline": [
+      {
+        "company": "ICRISAT",
+        "title": "Intern",
+        "start_date": "Nov 2025",
+        "end_date": "Present",
+        "duration_months": 3,
+        "one_line_impact": "Contributing to technical development efforts leveraging Python and Django frameworks."
+      }
+    ],
+    "education_history": [
+      {
+        "institution": "Neil Gogte Institute of Technology",
+        "degree": "Bachelor of Engineering",
+        "field_of_study": "Not specified",
+        "graduation_year": "2025"
+      },
+      {
+        "institution": "sri chaitanya junior college",
+        "degree": "12th",
+        "field_of_study": "Not specified",
+        "graduation_year": "Not specified"
+      }
+    ],
+    "total_years_experience": 0,
+    "industry_expertise_areas": [
+      "Software Development",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Web Development",
+      "Computer Vision",
+      "Backend Systems"
+    ],
+    "data_confidence": "high",
+    "data_confidence_rationale": "Data is sourced directly from the subject's LinkedIn profile, providing verifiable career, education, and technical project information."
+  }
+}

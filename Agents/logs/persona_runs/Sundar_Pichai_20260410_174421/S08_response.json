@@ -1,0 +1,53 @@
+{
+  "section_id": 8,
+  "section_name": "Tactical Outreach Playbook",
+  "person_id": "vladimir-keil",
+  "data": {
+    "outreach_scripts": {
+      "email_draft": {
+        "subject": "Moving beyond copilot theater / Procurement execution",
+        "body": "Vladimir, I\u2019ve been tracking your move to replace BPO-heavy procurement models with autonomous agents. The shift from \u2018assisting\u2019 to \u2018executing\u2019 is the only way to scale, yet most incumbents are still stuck in copilot theater.\n\nI\u2019m reaching out because I have a high-velocity solution that aligns with your vision of agentic autonomy. Specifically:\n1. We eliminate [Insert Specific Operational Bottleneck] without traditional headcount.\n2. We prioritize raw throughput over UI polish.\n\nAre you open to a brief, 10-minute exchange on how we can accelerate your target enterprise procurement metrics?"
+      },
+      "linkedin_inmail": {
+        "body": "Vladimir, your stance on \u2018copilot theater\u2019 is the most accurate take on the market I\u2019ve seen this year. Moving from process support to autonomous execution is the only way forward. I\u2019m building a solution that mirrors your vision of agentic procurement\u2014would you be open to a 10m sync?"
+      }
+    },
+    "high_resonance_topics": [
+      "Agentic AI vs. Copilot theater",
+      "Replacing BPO and manual procurement layers",
+      "High-velocity organizational scaling",
+      "Autonomous end-to-end P2P execution",
+      "Measurable ROI vs. feature-list selling"
+    ],
+    "topics_to_avoid": [
+      "Incremental feature improvements",
+      "Soft-skills/Consensus-based management strategies",
+      "Traditional BPO/Headcount-scaling models",
+      "Consultative/Vague 'digital transformation' buzzwords"
+    ],
+    "conversation_starters": [
+      {
+        "opener": "How are you avoiding the 'copilot trap' as you scale your agent swarms?",
+        "context": "Validates his specific critique of the market while inviting him to share his technical edge."
+      },
+      {
+        "opener": "I noticed your push at the Americas Procurement Congress\u2014how are you handling the organizational friction of replacing legacy procurement identity?",
+        "context": "Addresses his post regarding the 'leadership problem' vs. 'technology problem'."
+      },
+      {
+        "opener": "What\u2019s the most significant barrier you've hit when convincing incumbents that software should execute, not just suggest?",
+        "context": "Targets his drive to challenge industry norms and status-quo thinking."
+      }
+    ],
+    "optimization": {
+      "best_channel": "LinkedIn",
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "suggested_time_of_day": "08:30 AM - 10:00 AM CET"
+    },
+    "data_confidence": "high"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "section_id": 4,
+  "section_name": "Behavioral Intelligence Suite",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "behavioral_profile": {
+      "archetype": "The Builder",
+      "one_line_description": "Technical professional focused on integrating AI architectures into scalable, real-world backend infrastructure projects.",
+      "trait_tags": [
+        "Infrastructure Focused",
+        "Systemic Thinker",
+        "Integration Oriented"
+      ]
+    },
+    "trait_scores": {
+      "dominance": 55,
+      "expressiveness": 40,
+      "pace": 65,
+      "pragmatism": 85,
+      "risk_appetite": 45,
+      "social_energy": 50
+    },
+    "working_style": {
+      "decision_making": "Prioritizes functional feasibility and proven architectural performance over theoretical models.",
+      "collaboration": "Prefers structured cross-functional alignment within large-scale institutional frameworks.",
+      "conflict_style": "Resolves technical bottlenecks through standardization and objective, data-driven optimization.",
+      "pace": "Consistent, methodically scaling systems according to predefined project roadmaps."
+    },
+    "what_drives_them": {
+      "energizers": [
+        "Implementing RAG pipelines",
+        "Standardizing agri-data ecosystems",
+        "Transitioning ML from pilot to scale",
+        "Optimizing LLM architecture"
+      ],
+      "drainers": [
+        "Lack of standardized data inputs",
+        "Ambiguous project roadmaps",
+        "Non-scalable architectural designs",
+        "Disjointed departmental silos"
+      ]
+    },
+    "engagement_guide": {
+      "how_to_open": [
+        "Reference current AI-enabled infrastructure challenges",
+        "Lead with specific technical hurdles in scaling systems",
+        "Acknowledge their role in bridging backend and AI"
+      ],
+      "how_to_run_meeting": [
+        "Focus on architecture design and capacity strengthening",
+        "Structure around concrete project milestones and roadmaps",
+        "Maintain a technical, results-oriented discussion format"
+      ],
+      "how_to_email": [
+        "State technical requirements immediately",
+        "Avoid vague or high-level strategic speculation",
+        "Include actionable, logic-based queries"
+      ],
+      "how_to_follow_up": [
+        "Reference specific progress on deployment or integration",
+        "Provide documentation on standardization outcomes",
+        "Ask for feedback on implementation constraints"
+      ],
+      "how_to_build_trust": [
+        "Demonstrate reliability in backend deployment",
+        "Deliver robust, clean, and scalable code",
+        "Show competence in multi-tool integration like YOLOv8"
+      ]
+    },
+    "blind_spots": [
+      "Over-emphasis on technical perfection over user-facing UI/UX",
+      "Potential tunnel vision regarding non-technical stakeholder priorities",
+      "Risk of prioritizing system robustness at the expense of agility"
+    ],
+    "dos_and_donts": {
+      "dos": [
+        "Discuss RAG and LLM architecture integration",
+        "Focus on system scalability and data standards",
+        "Prioritize technical depth and implementation rigor",
+        "Reference institutional project roadmaps"
+      ],
+      "donts": [
+        "Avoid abstract concepts without technical proof",
+        "Do not ignore backend architectural constraints",
+        "Avoid non-empirical, speculative AI trends",
+        "Do not bypass standardized communication channels"
+      ]
+    },
+    "data_confidence": "medium",
+    "data_confidence_rationale": "Analysis based on professional profile summary and specific participation in institutional data-standardization projects."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "section_id": 5,
+  "section_name": "Online Presence & Activity",
+  "person_id": "ACoAAE6FVtYBAW4bP82g1IhIHxzu_1J010WU3CQ",
+  "generated_at": "2026-04-09T12:00:00Z",
+  "data": {
+    "linkedin": {
+      "url": "https://www.linkedin.com/in/sundarpichai",
+      "followers": 4065718,
+      "posts_analyzed": 15,
+      "posting_frequency": "Monthly",
+      "avg_likes_per_post": 25774,
+      "avg_comments_per_post": 878,
+      "top_topics": [
+        "Gemini 3",
+        "AI Innovation",
+        "Google Cloud",
+        "India AI Impact",
+        "Corporate Financial Results"
+      ],
+      "last_post_date": "2026-04-02",
+      "last_post_summary": "Pichai shared his excitement about returning to Stanford University as the commencement speaker for the class of 2026."
+    },
+    "twitter": {
+      "handle": "sundarpichai",
+      "url": "https://twitter.com/sundarpichai",
+      "followers": 6266940,
+      "posts_analyzed": 17,
+      "posting_frequency": "Weekly",
+      "top_topics": [
+        "Gemma 4",
+        "Gemini Live",
+        "Chrome Features",
+        "AI Research",
+        "Waymo Safety"
+      ],
+      "avg_likes_per_tweet": 6554,
+      "avg_retweets_per_tweet": 328,
+      "last_tweet_date": "2026-04-08"
+    },
+    "github": {
+      "url": null,
+      "found": false
+    },
+    "personal_website": null,
+    "other_platforms": [
+      "YouTube"
+    ],
+    "overall_digital_footprint": "Strong",
+    "recent_activity_summary": "Sundar Pichai is currently focused on the launch of Gemma 4, recent updates to Chrome's interface including vertical tabs, and the rollout of new 'Notebooks' functionality within the Gemini app. His communications emphasize rapid product deployment and the integration of AI agents into user workflows.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "High volume of primary data available from both LinkedIn and Twitter profiles, providing granular detail on activity, engagement, and specific topics of focus."
+  }
+}

@@ -1,0 +1,536 @@
+SYSTEM: None
+
+USER: 
+You are the Senior Intelligence Director at a Palantir-grade research firm.
+You are delivering the final, authoritative verdict on this subject based on a complete intelligence dossier.
+This verdict is read by C-suite executives and investment committees. Precision and honesty are paramount.
+Do not soften findings. Do not inflate scores. Be direct.
+
+INPUT DATA — COMPLETE INTELLIGENCE DOSSIER (Sections 1–10):
+[
+  "{'section_id': 1, 'section_name': 'Identity Overview', 'person_id': 'ACoAAC2ys7MBDjC3E45uSK81wKZSv9JBnfdDKbw', 'data': {'full_name': 'Kolya Krafeld', 'current_role': 'Founding Engineer', 'company': 'Mercura (YC W25)', 'location': 'Munich, Bavaria, Germany', 'profile_photo_url': 'https://media.licdn.com/dms/image/v2/D4D03AQHLSFiHnkKIOg/profile-displayphoto-crop_800_800/B4DZzmgdrbIQAI-/0/1773393796247?e=1778112000&v=beta&t=Xr7GhsU4XKV8wp3dALX5psZlgvY7aram2gxoW5QVW1A', 'linkedin_url': 'https://www.linkedin.com/in/kolya-krafeld', 'twitter_handle': None, 'linkedin_followers': 1174, 'twitter_followers': 0, 'connections_count': 1116, 'influence_score': 22, 'influence_score_breakdown': {'linkedin_followers_points': 5, 'twitter_followers_points': 0, 'posting_activity_points': 5, 'career_seniority_points': 15, 'web_presence_points': 0}, 'influence_score_rationale': 'Score based on 1,174 LinkedIn followers (5 pts), presence on one platform (5 pts), and role as a Founding Engineer (15 pts). Base score of 0, plus 25 points minus 3 points for lack of Twitter presence/verified media.', 'data_confidence': 'medium', 'data_confidence_rationale': 'Profile data is sourced exclusively from LinkedIn; no corroborating Twitter data or external media presence detected.'}}",
+  "{'section_id': 2, 'section_name': 'Professional Background', 'person_id': 'ACoAAC2ys7MBDjC3E45uSK81wKZSv9JBnfdDKbw', 'data': {'current_role_summary': 'Founding engineer focused on building the AI application layer for distributors and manufacturers at YC-backed startup Mercura.', 'role_summary_bullets': ['Core Identity & Mission: Architecting generative AI applications specifically tailored to modernize workflows for industrial distributors and manufacturers.', 'Domain Mastery: Deep technical expertise in software engineering of distributed systems, complemented by hands-on proficiency in enterprise data infrastructure like Snowflake and Amazon Redshift.', 'Quantifiable Impact: Accelerated professional development through a high-intensity rotational program at SAP, completing projects across five distinct agile development teams.', 'Strategic Scope: Cross-continental operational exposure gained through an exchange at National Taiwan University and immersion in the Silicon Valley startup ecosystem.', 'Leadership Philosophy: Pragmatic builder with a focus on scalable technical infrastructure and digital transformation, demonstrated by leadership in large-scale student-led technical initiatives.', 'Current Momentum: Rapidly scaling contributions as a founding engineer at Mercura (YC W25), bridging the gap between high-level academic theory and industrial AI application.'], 'career_timeline': [{'company': 'Mercura (YC W25)', 'title': 'Founding Engineer', 'start_date': 'Jun 2025', 'end_date': 'Present', 'duration_months': 11, 'one_line_impact': 'Developing the AI application layer for distributors and manufacturers.'}, {'company': 'Etleap', 'title': 'Software Engineer', 'start_date': 'Sep 2021', 'end_date': 'Aug 2023', 'duration_months': 24, 'one_line_impact': 'Provided enterprise-grade software engineering support at a data pipeline company.'}, {'company': 'SAP', 'title': 'Corporate Software Engineering Student', 'start_date': 'Sep 2018', 'end_date': 'Sep 2021', 'duration_months': 37, 'one_line_impact': 'Completed a rotational program across 5 different agile development teams.'}], 'education_history': [{'institution': 'KTH Royal Institute of Technology', 'degree': 'Master of Science - MS', 'field_of_study': 'Software Engineering of Distributed Systems', 'graduation_year': '2025'}, {'institution': 'National Taiwan University', 'degree': 'Exchange Study Program', 'field_of_study': 'Computer Science', 'graduation_year': '2024'}], 'total_years_experience': 7, 'industry_expertise_areas': ['Artificial Intelligence', 'Software Engineering', 'Distributed Systems', 'Data Infrastructure', 'Manufacturing', 'Distribution'], 'data_confidence': 'high', 'data_confidence_rationale': \"All professional and educational milestones are explicitly documented with dates and roles provided via the subject's LinkedIn profile.\"}}",
+  {
+    "section_id": 3,
+    "section_name": "Skills & Expertise",
+    "person_id": "kolya-krafeld",
+    "data": {
+      "top_technical_skills": [
+        {
+          "skill": "AI Application Development",
+          "category": "Domain",
+          "evidence_level": "High",
+          "evidence_source": "About and Posts"
+        },
+        {
+          "skill": "Full Stack Engineering",
+          "category": "Domain",
+          "evidence_level": "High",
+          "evidence_source": "Posts"
+        },
+        {
+          "skill": "LLM Integration",
+          "category": "Tool",
+          "evidence_level": "High",
+          "evidence_source": "Posts"
+        },
+        {
+          "skill": "PostgreSQL",
+          "category": "Tool",
+          "evidence_level": "High",
+          "evidence_source": "Posts"
+        },
+        {
+          "skill": "Cloud Architecture",
+          "category": "Platform",
+          "evidence_level": "Medium",
+          "evidence_source": "Posts"
+        },
+        {
+          "skill": "Snowflake",
+          "category": "Tool",
+          "evidence_level": "Medium",
+          "evidence_source": "LinkedIn Skills"
+        },
+        {
+          "skill": "Amazon Redshift",
+          "category": "Tool",
+          "evidence_level": "Medium",
+          "evidence_source": "LinkedIn Skills"
+        },
+        {
+          "skill": "VSCode Remote SSH",
+          "category": "Tool",
+          "evidence_level": "Medium",
+          "evidence_source": "Posts"
+        },
+        {
+          "skill": "Docker/Containerization",
+          "category": "Tool",
+          "evidence_level": "Medium",
+          "evidence_source": "Posts"
+        }
+      ],
+      "domain_expertise": [
+        {
+          "domain": "Industrial Tech & Supply Chain",
+          "depth": "Practitioner",
+          "evidence": "Focusing on AI application layer for distributors and manufacturers."
+        },
+        {
+          "domain": "Startup Engineering",
+          "depth": "Expert",
+          "evidence": "Founding Engineer at YC W25 startup; experience at Etleap and SAP rotations."
+        }
+      ],
+      "soft_skills_signals": [
+        {
+          "skill": "Customer Empathy",
+          "signal_source": "Posts",
+          "justification": "Stefan Zheng explicitly identifies him as having 'deep customer empathy' and turning feedback into impactful improvements."
+        },
+        {
+          "skill": "Leadership & Mentorship",
+          "signal_source": "Posts",
+          "justification": "Organizing team offsites and acting as a 'driving force' that makes others in the team better."
+        },
+        {
+          "skill": "Communication",
+          "signal_source": "Posts",
+          "justification": "Engages regularly with both technical and non-technical stakeholders, including prospective hires and team members."
+        }
+      ],
+      "skill_gaps_or_blind_spots": [],
+      "skill_progression_narrative": "Krafeld progressed from a structured rotational engineering role at SAP to the fast-paced environment of early-stage startups in San Francisco. His career has shifted from traditional corporate software engineering to a highly specialized focus on building AI application layers for industrial sectors, emphasizing rapid iterative development and modern DevOps practices.",
+      "data_confidence": "high",
+      "data_confidence_rationale": "The profile is supplemented by specific LinkedIn posts detailing day-to-day engineering workflows and peer endorsements, allowing for high-confidence assessment of technical and soft skills."
+    }
+  },
+  {
+    "section_id": 4,
+    "section_name": "Behavioral Intelligence Suite",
+    "person_id": "KOLYA_KRAFELD_001",
+    "data": {
+      "behavioral_profile": {
+        "archetype": "The Builder",
+        "one_line_description": "Technical founder focused on high-velocity development and iterative AI-driven product architecture.",
+        "trait_tags": [
+          "High Velocity",
+          "Technical Pragmatism",
+          "Team Centric"
+        ]
+      },
+      "trait_scores": {
+        "dominance": 65,
+        "expressiveness": 70,
+        "pace": 85,
+        "pragmatism": 90,
+        "risk_appetite": 75,
+        "social_energy": 60
+      },
+      "working_style": {
+        "decision_making": "Prioritizes functional utility and speed over conventional development standards.",
+        "collaboration": "High focus on team cohesion through shared offsites and peer mentorship.",
+        "conflict_style": "Addresses blockers directly through technical innovation rather than organizational friction.",
+        "pace": "Operates at extreme velocity with continuous delivery and rapid iteration cycles."
+      },
+      "what_drives_them": {
+        "energizers": [
+          "Shipping features at high frequency",
+          "Removing technical constraints for development",
+          "Team building in unique environments",
+          "Leveraging AI to maximize coding speed"
+        ],
+        "drainers": [
+          "Restricted parallel development workflows",
+          "IDE tab management bottlenecks",
+          "Slow-moving legacy infrastructure",
+          "Lack of real-time customer feedback loops"
+        ]
+      },
+      "engagement_guide": {
+        "how_to_open": [
+          "Reference current technical stack or infrastructure choices.",
+          "Acknowledge the Silicon Valley influence in his workflow.",
+          "Start with direct, high-value technical observations.",
+          "Mention the transition from corporate to startup environments."
+        ],
+        "how_to_run_meeting": [
+          "Keep meetings short to maintain coding velocity.",
+          "Focus on clear, actionable outcomes for the product.",
+          "Expect a candid discussion about software architecture trade-offs.",
+          "Include collaborative moments for team reflection."
+        ],
+        "how_to_email": [
+          "Be concise and technical in scope.",
+          "Avoid fluff; address functional requirements directly.",
+          "Focus on product-market fit or engineering scalability.",
+          "Respect his focus on maintaining high development throughput."
+        ],
+        "how_to_follow_up": [
+          "Provide direct feedback on technical implementations.",
+          "Align follow-ups with the current company hiring focus.",
+          "Highlight tangible progress toward product milestones.",
+          "Reference specific recent feature updates or product shifts."
+        ],
+        "how_to_build_trust": [
+          "Demonstrate high technical competency and customer empathy.",
+          "Show consistency in output and team support.",
+          "Value the balance of deep work and collaborative offsites.",
+          "Maintain a low-friction approach to project execution."
+        ]
+      },
+      "blind_spots": [
+        "Preference for bespoke infrastructure solutions over industry-standard tooling.",
+        "Potential risk of burnout due to consistently high output.",
+        "Over-emphasis on speed potentially creating long-term technical debt."
+      ],
+      "dos_and_donts": {
+        "dos": [
+          "Value his experience in both SF-based startups and corporate enterprise.",
+          "Respect the need for autonomy in development environments.",
+          "Highlight the human element of his engineering teams.",
+          "Focus on the tangible 'AI application layer' business value."
+        ],
+        "donts": [
+          "Don't suggest slow, bureaucratic processes.",
+          "Don't ignore the importance of the team culture he fosters.",
+          "Don't focus on abstract theory over concrete coding results.",
+          "Don't waste time on non-impactful administrative tasks."
+        ]
+      },
+      "data_confidence": "high",
+      "data_confidence_rationale": "Data is sourced from a consistent timeline of public professional posts, including specific project methodologies, team culture contributions, and stated professional motivations."
+    }
+  },
+  {
+    "section_id": 5,
+    "section_name": "Online Presence & Activity",
+    "person_id": "UNKNOWN_ID",
+    "data": {
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/kolya-krafeld",
+        "followers": 1174,
+        "posts_analyzed": 5,
+        "posting_frequency": "Monthly",
+        "avg_likes_per_post": 119,
+        "avg_comments_per_post": 7,
+        "top_topics": [
+          "Mercura",
+          "AI application layer",
+          "software engineering",
+          "startup culture",
+          "developer tools"
+        ],
+        "last_post_date": "2026-04-17T07:15:03.294Z",
+        "last_post_summary": "Discusses organizing the first Mercura company offsite in the Austrian Alps and the efficiency of AI-assisted coding in remote work environments."
+      },
+      "twitter": {
+        "handle": null,
+        "url": null,
+        "followers": 0,
+        "posts_analyzed": 0,
+        "posting_frequency": "Unknown",
+        "top_topics": [],
+        "avg_likes_per_tweet": 0,
+        "avg_retweets_per_tweet": 0,
+        "last_tweet_date": null
+      },
+      "github": {
+        "url": "",
+        "found": false
+      },
+      "personal_website": "",
+      "other_platforms": [],
+      "overall_digital_footprint": "Moderate",
+      "recent_activity_summary": "Kolya is actively promoting his work as a Founding Engineer at Mercura. He focuses on technical workflows (cloud development environments), company culture through offsite reflections, and scaling AI applications for industrial sectors.",
+      "data_confidence": "high",
+      "data_confidence_rationale": "Data is derived directly from the subject's provided LinkedIn profile and activity feed."
+    }
+  },
+  {
+    "raw": {
+      "section_id": 6,
+      "section_name": "Content & Thought Leadership",
+      "person_id": "kolya-krafeld",
+      "data": {
+        "articles_and_blogs": [],
+        "podcast_appearances": [],
+        "conference_talks": [],
+        "interviews": [],
+        "key_topics_covered": [
+          "AI-assisted software development",
+          "Startup engineering culture",
+          "Industrial automation for wholesalers",
+          "Scaling AI applications",
+          "Distributed development environments"
+        ],
+        "content_volume": "Medium",
+        "thought_leadership_tier": "Emerging Voice",
+        "thought_leadership_assessment": "The subject maintains an emerging voice, primarily through active LinkedIn engagement focused on technical workflows and internal startup team building. They are known for sharing practical insights into AI-driven coding environments and the challenges of scaling enterprise software within the construction and manufacturing sectors.",
+        "data_confidence": "high",
+        "data_confidence_rationale": "Data is derived directly from the provided LinkedIn post history for Kolya Krafeld."
+      }
+    }
+  },
+  {
+    "section_id": 7,
+    "section_name": "Network & Influence",
+    "person_id": "ACoAAC2ys7MBDjC3E45uSK81wKZSv9JBnfdDKbw",
+    "data": {
+      "notable_collaborations": [],
+      "associated_companies": [
+        {
+          "company": "Mercura (YC W25)",
+          "role": "Founding Engineer",
+          "type": "Founded"
+        },
+        {
+          "company": "Etleap",
+          "role": "Software Engineer",
+          "type": "Employer"
+        },
+        {
+          "company": "SAP",
+          "role": "Corporate Software Engineering Student",
+          "type": "Employer"
+        }
+      ],
+      "industry_communities": [
+        "SVIP Class of 2021",
+        "YC W25"
+      ],
+      "media_mentions": [],
+      "network_reach": "Tier 4 (Niche)",
+      "network_strength_assessment": "The subject maintains a professional network primarily centered around the European tech landscape and academic environments in Sweden and Taiwan. The strength of the network is bolstered by participation in high-tier startup accelerator programs like Y Combinator, indicating strong potential for growth within the AI application sector.",
+      "data_confidence": "high",
+      "data_confidence_rationale": "All information is derived directly from the provided LinkedIn profile and verified career history."
+    }
+  },
+  {
+    "section_id": 8,
+    "section_name": "Tactical Outreach Playbook",
+    "person_id": "KOLYA_KRAFELD_001",
+    "data": {
+      "outreach_scripts": {
+        "email_draft": {
+          "subject": "Parallel development & remote dev environments",
+          "body": "Hi Kolya, I caught your recent post on using VSCode Remote SSH to manage independent dev containers. It\u2019s a pragmatic solution for the bottleneck you described. I\u2019m reaching out because [Company Name] is solving the exact scalability issues you\u2019re tackling at Mercura regarding [Specific Tech/Infrastructure Alignment]. I\u2019d love to share how we\u2019re reducing overhead without compromising the 'Silicon Valley speed' you prioritize. Do you have 10 minutes to discuss how you're handling [Specific Technical Challenge]?"
+        },
+        "linkedin_inmail": {
+          "body": "Hi Kolya, loved your take on Git Worktrees vs. independent remote dev environments. As a fellow engineer, that balance between velocity and technical debt is a constant struggle. Would love to connect and share some insights on building AI infrastructure for scale."
+        }
+      },
+      "high_resonance_topics": [
+        "AI-assisted coding and development workflows",
+        "Scaling cloud infrastructure for parallel feature testing",
+        "Building high-velocity engineering team culture",
+        "Engineering architecture for industrial AI applications"
+      ],
+      "topics_to_avoid": [
+        "Traditional enterprise sales cycles",
+        "Abstract software theories without concrete implementation plans",
+        "Administrative or bureaucratic process improvements",
+        "Legacy tool integration requirements"
+      ],
+      "conversation_starters": [
+        {
+          "opener": "That remote dev setup you detailed on LinkedIn\u2014have you looked into [Specific Tooling] to handle those container migrations?",
+          "context": "Direct technical engagement based on his recent content."
+        },
+        {
+          "opener": "Saw the photos from the Hochk\u00f6nig offsite. How do you balance that high-intensity team bonding with your ship-velocity goals?",
+          "context": "Acknowledging his focus on both team culture and engineering throughput."
+        },
+        {
+          "opener": "Mercura's focus on the AI application layer is fascinating. How are you managing the trade-off between AI-assisted speed and maintaining code quality/long-term debt?",
+          "context": "Demonstrating high-level technical empathy regarding his specific operational role."
+        }
+      ],
+      "optimization": {
+        "best_channel": "LinkedIn",
+        "best_days": [
+          "Tuesday",
+          "Wednesday"
+        ],
+        "suggested_time_of_day": "08:00 - 09:30 AM CET"
+      },
+      "data_confidence": "high"
+    }
+  },
+  "{'section_id': 9, 'section_name': 'Achievements & Milestones', 'person_id': 'kolya-krafeld', 'data': {'notable_achievements': [{'achievement': 'Founding Engineer at YC W25 startup', 'context': 'Joining Mercura as a founding team member for a Y-Combinator Winter 2025 batch company.', 'quantified_impact': None, 'source': 'LinkedIn'}, {'achievement': 'Digitalized operations for large-scale event', 'context': \"Member of Technical Staff for Germany's largest student-led conference.\", 'quantified_impact': '1000+ participants', 'source': 'LinkedIn'}, {'achievement': 'Corporate rotational software engineering program completion', 'context': 'Completed a 3-year program at SAP rotating through 5 different agile development teams.', 'quantified_impact': '5 teams', 'source': 'LinkedIn'}], 'companies_built_or_scaled': [{'company': 'Mercura', 'role': 'Founding Engineer', 'scale_indicator': None, 'outcome': 'Active'}], 'products_launched': [], 'awards_and_recognition': [], 'career_highlight': 'Kolya Krafeld is a Founding Engineer at the YC W25 company Mercura, following extensive experience in agile development at SAP and data engineering at Etleap.', 'achievement_density': 'Medium', 'data_confidence': 'high', 'data_confidence_rationale': 'All data points are derived directly from the provided LinkedIn professional profile.'}}",
+  {
+    "section_id": 10,
+    "section_name": "Risk & Red Flags",
+    "person_id": "kolya-krafeld",
+    "data": {
+      "job_hopping_signal": {
+        "detected": false,
+        "roles_analyzed": 2,
+        "average_tenure_months": 30,
+        "shortest_tenure_months": 24,
+        "assessment": "Average tenure of 30 months exceeds the 18-month threshold for job hopping."
+      },
+      "controversial_statements": [],
+      "failed_ventures": [],
+      "reputation_signals": [],
+      "legal_or_regulatory_issues": [],
+      "data_gaps": [
+        "No secondary web presence or public press mentions found.",
+        "Twitter/social media activity not available for review."
+      ],
+      "overall_risk_rating": "Low",
+      "risk_summary": "The subject maintains a low-risk profile consistent with a professional trajectory in software engineering. No evidence of professional misconduct, failed ventures, or regulatory issues was identified in the available data.",
+      "data_confidence": "high",
+      "data_confidence_rationale": "The assessment is based on a clear and consistent LinkedIn employment history with no external indicators of negative reputation or legal issues."
+    }
+  },
+  {
+    "section_id": "social_post_intelligence",
+    "section_name": "Social Media Post Intelligence",
+    "person_id": "Kolya Krafeld",
+    "data": {
+      "content_analysis": {
+        "top_topics": [
+          "AI Application Layer",
+          "Founding Engineering",
+          "Developer Productivity",
+          "Startup Culture",
+          "Technical Innovation"
+        ],
+        "posting_pattern": "Intermittent posting frequency, primarily focusing on professional updates and engineering-specific insights during business hours.",
+        "content_style": "Authentic, transparent, and technically detailed with a bias towards demonstrating engineering rigor and startup growth.",
+        "engagement_insight": "Posts combining specific technical solutions with personal professional anecdotes generate the highest audience interaction."
+      },
+      "post_breakdown": [
+        {
+          "platform": "LinkedIn",
+          "type": "Post",
+          "brief_description": "Reflecting on team offsites and the evolution of AI-assisted coding.",
+          "theme": "Startup Culture",
+          "engagement_style": "Casual/Personal"
+        },
+        {
+          "platform": "LinkedIn",
+          "type": "Repost",
+          "brief_description": "Customer testimonial regarding the value of Mercura's AI for industrial processes.",
+          "theme": "Customer Success",
+          "engagement_style": "Third-party validation"
+        },
+        {
+          "platform": "LinkedIn",
+          "type": "Post",
+          "brief_description": "Technical deep-dive on using cloud servers to enable multi-branch development.",
+          "theme": "Developer Productivity",
+          "engagement_style": "Technical/Educational"
+        },
+        {
+          "platform": "LinkedIn",
+          "type": "Repost",
+          "brief_description": "Founder narrative detailing the origin and growth of Mercura.",
+          "theme": "Founder Journey",
+          "engagement_style": "Storytelling"
+        },
+        {
+          "platform": "LinkedIn",
+          "type": "Post",
+          "brief_description": "Hiring announcement emphasizing Munich-based engineering spirit and AI application development.",
+          "theme": "Recruitment",
+          "engagement_style": "Call-to-action"
+        },
+        {
+          "platform": "LinkedIn",
+          "type": "Repost",
+          "brief_description": "Official company funding announcement celebrating Mercura's seed round.",
+          "theme": "Corporate Milestone",
+          "engagement_style": "Celebratory"
+        },
+        {
+          "platform": "LinkedIn",
+          "type": "Repost",
+          "brief_description": "Peer recognition highlighting professional performance and technical contributions.",
+          "theme": "Team Recognition",
+          "engagement_style": "Professional endorsement"
+        },
+        {
+          "platform": "LinkedIn",
+          "type": "Post",
+          "brief_description": "Short announcement regarding joining Mercura as a Founding Engineer.",
+          "theme": "Career Milestone",
+          "engagement_style": "Informative"
+        }
+      ],
+      "summaries": {
+        "posts": [
+          "Technical Workflow Optimization: Detailed use of remote SSH and containers for improved parallel feature development.",
+          "Organizational Culture: Highlighted the transition from San Francisco to Munich while maintaining high-paced startup energy.",
+          "Talent Acquisition: Leveraged technical brand to attract engineers interested in the AI application layer.",
+          "Personal Growth: Chronicled professional transitions and the value of team-building in remote or nature settings."
+        ],
+        "reposts": [
+          "Customer Success: Amplified real-world adoption stories demonstrating the effectiveness of AI in construction and industrial sales.",
+          "Founder Narrative: Shared origin stories of the business to highlight the complexity of the domain and the resilience of the team.",
+          "Corporate Milestones: Circulated news regarding funding rounds and institutional recognition of the company's growth.",
+          "Peer Endorsements: Shared public recognition from co-founders regarding personal technical performance and team contributions."
+        ]
+      }
+    }
+  }
+]
+
+PROFILE STRENGTH SCORE METHODOLOGY (apply exactly):
+  Start at 0. Add points as follows:
+  - Career depth (Section 2):     Strong timeline with quantified impact=20, moderate=12, minimal=5
+  - Skills breadth (Section 3):   10+ high-evidence skills=15, 5–9=10, <5=5
+  - Online influence (Section 1): influence_score >= 70=15, 40–69=10, <40=5
+  - Content output (Section 6):   Thought Leadership Tier "Authority"=15, "Active"=10, "Emerging"=5, lower=0
+  - Network strength (Section 7): Tier 1–2=15, Tier 3=8, Tier 4=3, Unknown=0
+  - Risk profile (Section 10):    Low risk=20, Medium=12, High=5, Critical=0
+  Cap final score at 100.
+
+Output ONLY this JSON:
+{
+  "section_id": 11,
+  "section_name": "AI Analyst Verdict",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "profile_strength_score": 0,
+    "profile_strength_breakdown": {
+      "career_depth_points": 0,
+      "skills_breadth_points": 0,
+      "online_influence_points": 0,
+      "content_output_points": 0,
+      "network_strength_points": 0,
+      "risk_profile_points": 0
+    },
+    "profile_strength_rationale": "",
+    "key_strengths": [
+      "",
+      "",
+      ""
+    ],
+    "key_concerns": [
+      "",
+      ""
+    ],
+    "one_line_verdict": "",
+    "recommended_use_cases": [],
+    "use_case_rationale": "",
+    "intelligence_gaps": [],
+    "confidence_level": "High|Medium|Low",
+    "confidence_rationale": ""
+  }
+}
+
+RULES:
+- Apply the profile strength score methodology above exactly. Show the breakdown.
+- profile_strength_rationale: 2-3 sentences explaining the score — what drove it up and what capped it.
+- key_strengths: exactly 3 items. Each must be specific, derived from data, and non-generic. "Strong communicator" is not acceptable. "Published in Forbes, keynoted SaaStr 2023" is acceptable.
+- key_concerns: exactly 2 items. Be honest — if the profile is clean, flag data gaps or limited verifiability as concerns.
+- one_line_verdict: the single most important takeaway. Max 20 words. Specific. Actionable. No filler.
+  Good: "High-credibility technical founder with proven AI scale — best approached via LinkedIn referral for partnership or investment."
+  Bad: "Impressive professional with a strong background in technology."
+- recommended_use_cases: array of applicable options from ["Sales Target", "Investment Target", "Strategic Partnership", "Recruitment", "Advisory", "Monitor Only", "Insufficient Data"].
+- intelligence_gaps: critical data that was missing and would change the assessment if available. Max 4.
+- confidence_level: High = all 10 sections had sufficient data. Medium = 6–9 sections. Low = fewer than 6.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

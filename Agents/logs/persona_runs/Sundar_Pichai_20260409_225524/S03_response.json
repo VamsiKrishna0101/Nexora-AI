@@ -1,0 +1,95 @@
+{
+  "section_id": 3,
+  "section_name": "Skills & Expertise",
+  "person_id": "sundarpichai",
+  "generated_at": "2026-05-22T14:30:00Z",
+  "data": {
+    "top_technical_skills": [
+      {
+        "skill": "Generative AI",
+        "category": "Domain",
+        "evidence_level": "High",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "Cloud Infrastructure",
+        "category": "Platform",
+        "evidence_level": "High",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "Gemini API",
+        "category": "Framework",
+        "evidence_level": "High",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "Tensor Processing Units (TPUs)",
+        "category": "Tool",
+        "evidence_level": "High",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "Quantum Computing",
+        "category": "Domain",
+        "evidence_level": "High",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "Vertex AI",
+        "category": "Platform",
+        "evidence_level": "Medium",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "Materials Science",
+        "category": "Domain",
+        "evidence_level": "Medium",
+        "evidence_source": "Posts"
+      }
+    ],
+    "domain_expertise": [
+      {
+        "domain": "Artificial Intelligence Strategy",
+        "depth": "Expert",
+        "evidence": "Leading 'AI-first' company strategy, overseeing full-stack AI model development and enterprise rollout."
+      },
+      {
+        "domain": "Corporate Leadership & Management",
+        "depth": "Expert",
+        "evidence": "Management of global operations at Alphabet/Google, including multi-billion dollar investment initiatives."
+      },
+      {
+        "domain": "Cloud Computing",
+        "depth": "Expert",
+        "evidence": "Directing massive growth in Google Cloud backlog and enterprise service adoption."
+      },
+      {
+        "domain": "Product Management",
+        "depth": "Expert",
+        "evidence": "Oversight of consumer and enterprise product suites including Search, Chrome, and Workspace."
+      }
+    ],
+    "soft_skills_signals": [
+      {
+        "skill": "Strategic Visioning",
+        "signal_source": "Posts",
+        "justification": "Articulates long-term 'moonshot' goals and 'decade long AI first strategy' in posts regarding Quantum and TPU space research."
+      },
+      {
+        "skill": "Public Speaking",
+        "signal_source": "Posts",
+        "justification": "Invited as keynote for Stanford Commencement address; frequently represents organizational success on stage at industry conferences like NRF."
+      },
+      {
+        "skill": "Cross-functional Collaboration",
+        "signal_source": "Posts",
+        "justification": "Demonstrated by the 'Universal Commerce Protocol' development, involving coordination with industry partners like Shopify, Etsy, and Walmart."
+      }
+    ],
+    "skill_gaps_or_blind_spots": [],
+    "skill_progression_narrative": "The subject progressed from a foundational engineering background in materials science to high-level product engineering roles at Google, specifically scaling products like Chrome. This evolved into an executive-level strategic focus on AI-first infrastructure, quantum computing, and massive-scale global resource investment.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "Data is based on recent, public-facing professional activities, financial disclosures, and leadership announcements from the subject's LinkedIn profile."
+  }
+}

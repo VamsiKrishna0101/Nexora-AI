@@ -1,0 +1,203 @@
+SYSTEM: None
+
+USER: 
+You are a senior behavioral intelligence analyst at a Palantir-grade research firm.
+Your analysis is based ONLY on observable professional signals — not speculation.
+Every insight must be traceable to a specific post, pattern, or behavior in the data.
+Be cold, factual, and tactical. No therapy language. No speculation.
+
+INPUT DATA:
+LinkedIn Posts (last 20): [
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/kolya-krafeld_after-experiencing-a-lot-of-great-offsites-activity-7450804001887035392-xX4s?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFhLF2wBwkJ_DbB-aWKA77KfD4J0nhoY02c",
+    "text": "After experiencing a lot of great offsites during my time in SF, it was finally time to organize the first one myself here at Mercura (YC W25)\n\nLast weekend the Mercura team headed to the Austrian Alps in the Hochk\u00f6nig region. We hiked, had amazing food and played a lot of Mario Kart. What I really enjoyed was getting the team together, taking time to reflect on how far we've come in the past year and getting excited about what's ahead.\n\nA personal offsite tradition: coding in the car on the way there. AI-assisted coding has made this so much more enjoyable. I still remember wrestling with multiple IDE tabs in the back of a pickup truck on a 4-hour drive to Tahoe a few years ago. Now it's genuinely seamless.\n\nIf you want to join us for the next offsite, we're hiring across all teams.",
+    "num_shares": 3,
+    "num_likes": 89,
+    "num_comments": 5,
+    "comments_count": 5,
+    "reactions_count": 10,
+    "posted_at": "2026-04-17T07:15:03.294Z",
+    "actor_name": "Kolya Krafeld",
+    "actor_profile_url": "https://www.linkedin.com/in/kolya-krafeld?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC2ys7MBDjC3E45uSK81wKZSv9JBnfdDKbw",
+    "post_type": "image"
+  },
+  {
+    "type": "post",
+    "is_activity": true,
+    "url": "https://www.linkedin.com/posts/jaunius-skrodenis-365387254_ich-war-ehrlich-gesagt-anfangs-skeptisch-activity-7443212781698473985-SM4B?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFhLF2wBwkJ_DbB-aWKA77KfD4J0nhoY02c",
+    "text": "Ich war ehrlich gesagt anfangs skeptisch, was KI im SHK angeht \ud83e\udd14\n\nGerade bei Themen wie Leistungsverzeichnissen und Kalkulation.\n\nSeit ein paar Monaten arbeite ich jetzt mit Mercura (YC W25)   \u2013\nund meine Sicht hat sich deutlich ver\u00e4ndert \ud83d\udcc8\n\nIm Alltag merke ich, dass die Ergebnisse immer besser werden.\nTeilweise wirklich von Woche zu Woche \u26a1\n\nIch bin gespannt, wo das Ganze in 6\u201312 Monaten steht \ud83d\ude80\n\nNutzt ihr KI schon im Alltag oder seid ihr noch eher zur\u00fcckhaltend? \ud83d\udcac",
+    "num_shares": 5,
+    "num_likes": 21,
+    "num_comments": 3,
+    "comments_count": 2,
+    "reactions_count": 10,
+    "posted_at": "2026-03-27T08:34:09.735Z",
+    "actor_name": "Jaunius Skrodenis",
+    "actor_profile_url": "https://www.linkedin.com/in/jaunius-skrodenis-365387254?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD60HT0BdAzRd7CDuw4QYQiUGZncAUex-Ic",
+    "post_type": "image"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/kolya-krafeld_i-got-really-fed-up-only-being-able-to-work-activity-7443208948024770560-mT3-?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFhLF2wBwkJ_DbB-aWKA77KfD4J0nhoY02c",
+    "text": "I got really fed up only being able to work on one branch at a time\n\nAt Mercura (YC W25) we all use AI to write our code, which means we're constantly working on multiple features in parallel. Thats great for development speed but it gets messy fast when you need to actually test things separately.\nGit Worktrees or cloud agents can help here, but they have serious downsides: they struggle when you wanna work on different DB migrations or auto-generated API code from your server.\n\nSo I spun up a cloud server on Hetzner with a full replica of my dev environment: independent Postgres instance and an entire copy of my backend and frontend containers. I SSH into it via VSCode Remote SSH in Cursor and expose all the services on different ports through my SSH config so I can access everything locally.\nNow I can actually work on two completely different branches at the same time. This allows me to have different DB versions and different UI states without constantly switching between worktrees or nuking my local setup.\n\nHonestly should have done this way sooner.",
+    "num_shares": 3,
+    "num_likes": 123,
+    "num_comments": 13,
+    "comments_count": 9,
+    "reactions_count": 10,
+    "posted_at": "2026-03-27T08:15:01.344Z",
+    "actor_name": "Kolya Krafeld",
+    "actor_profile_url": "https://www.linkedin.com/in/kolya-krafeld?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC2ys7MBDjC3E45uSK81wKZSv9JBnfdDKbw",
+    "post_type": "image"
+  },
+  {
+    "type": "post",
+    "is_activity": true,
+    "url": "https://www.linkedin.com/posts/lukas-bock_viel-gl%C3%BCck-lukas-das-wird-nicht-funktionieren-ugcPost-7441595675244535808-CuZ1?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFhLF2wBwkJ_DbB-aWKA77KfD4J0nhoY02c",
+    "text": "\u201eViel Gl\u00fcck, Lukas. Das wird nicht funktionieren.\u201c\n\nAls ich meiner Familie das erste Mal von meiner Idee erz\u00e4hlte, glaubten sie nicht daran. Nicht aus Zweifel an meinen F\u00e4higkeiten \u2013 sondern weil sie die Branche kannten, die Daten und die wahnsinnige Komplexit\u00e4t dahinter.\n\nWie aus dieser Idee dann doch Mercura (YC W25) wurde? Das hat viel mit Hartn\u00e4ckigkeit, gesundem Selbstvertrauen - und einer Kiste Bier zu tun ;) \ud83c\udf7a\n\nDamals bin ich einfach pers\u00f6nlich zu einer Niederlassung von Sanit\u00e4r-Heinze GmbH & Co. KG gefahren. Ich habe von einem Projekt mit W\u00fcrth und einer Vision f\u00fcr Sanit\u00e4r-Heinze erz\u00e4hlt. Der Mitarbeiter hat nicht genau verstanden, wie das genau funktionieren soll. Ich ehrlicherweise auch nicht.\u00a0\nAber er hat gesp\u00fcrt: Es ist spannend. Es ist innovativ. Und ich hatte ein Angebot f\u00fcr ihn, das er nicht ablehnen kann: Eine Kiste Bier, wenn er mich mit dem Headquarter vernetzt.\n\nDann hatten wir unseren ersten Termin mit Michael Kania. Er hat uns von Anfang an unterst\u00fctzt, uns Vertrauen geschenkt und Zugang zu echten Nutzerproblemen gegeben. Auf dieser Basis konnten wir die erste Produktversion entwickeln.\n\nKurz darauf: Intro in die Gesch\u00e4ftsf\u00fchrung \u2013 und Start der Partnerschaft mit Sanit\u00e4r-Heinze.\n\nAus diesen Anf\u00e4ngen ist Mercura entstanden: Ein Team mit einigen der smartesten und ambitioniertesten K\u00f6pfen, die ich mir vorstellen kann.\n\nDamals haben wir Sanit\u00e4r-Heinze eine Vision der Zukunft gepitcht \u2013 heute sind wir in dieser Zukunft angekommen. Selbst die kritischsten Nutzer sind begeistert, weil wir einen realen, messbaren Impact liefern.\n\nIch bin unglaublich stolz auf das Mercura-Team und das Video hier unten, das Ende 2025 entstanden ist. Es zeigt unsere harte Arbeit, aber vor allem zeigt es, was m\u00f6glich ist, wenn ein Kunde an eine Idee und ein Team glaubt.\n\nOhne die Unterst\u00fctzung von Sanit\u00e4r-Heinze, Michael Kania und Nutzern wie Simon Haigermoser w\u00e4re all das nicht m\u00f6glich gewesen. Danke! \ud83e\udd1d\n\nSchaut euch das Video an! \ud83d\udc47",
+    "num_shares": 9,
+    "num_likes": 137,
+    "num_comments": 12,
+    "comments_count": 10,
+    "reactions_count": 10,
+    "posted_at": "2026-03-23T07:59:42.860Z",
+    "actor_name": "Lukas Bock",
+    "actor_profile_url": "https://www.linkedin.com/in/lukas-bock?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACBQxjsBXEKmByQZowA1zjnUX3blSJVAKrI",
+    "post_type": "linkedinVideo"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/kolya-krafeld_were-looking-for-strong-engineers-to-join-activity-7439962553461428224-3hiE?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFhLF2wBwkJ_DbB-aWKA77KfD4J0nhoY02c",
+    "text": "We\u2019re looking for strong engineers to join us at Mercura (YC W25)!\n\nAfter working and living in San Francisco myself, I joined Mercura as the team returned from their Y Combinator batch. What genuinely impresses me is how we've kept the Silicon Valley spirit alive in our Munich office: from late-night coding sessions like this one with Gabriel Hauss and Thomas Alexander Beck, to pushing the limits of what's possible with LLMs and constantly rethinking the status quo.\n\nWe're building the AI application layer for distributors and manufacturers. The companies behind construction and electronics that quietly shape the physical world around us.\n\nIf you\u2019re excited about solving hard technical problems and want to be part of a fast-paced, ambitious team, skip the job boards and reach out to me directly.\n\n(Or check out our open roles in the comments \ud83d\udc47)",
+    "num_shares": 6,
+    "num_likes": 157,
+    "num_comments": 11,
+    "comments_count": 8,
+    "reactions_count": 10,
+    "posted_at": "2026-03-18T09:15:00.565Z",
+    "actor_name": "Kolya Krafeld",
+    "actor_profile_url": "https://www.linkedin.com/in/kolya-krafeld?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC2ys7MBDjC3E45uSK81wKZSv9JBnfdDKbw",
+    "post_type": "image"
+  },
+  {
+    "type": "post",
+    "is_activity": true,
+    "url": "https://www.linkedin.com/posts/werk1_werk1-constructiontech-munichstartups-activity-7415330714784866305-5V2t?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFhLF2wBwkJ_DbB-aWKA77KfD4J0nhoY02c",
+    "text": "Congratulations to our WERK1 startup Mercura (YC W25)! \ud83c\udf89  The team around co-founders Stefan Zheng, Sean Sdahl und Lukas Bock has raised over \u20ac1.8 million ($2.1 million) in a highly sought-after seed round. \n\nWith top-tier investors such as TQ Ventures, SignalFire, and Y Combinator, along with renowned business angels on board, Mercura is proving just how much potential AI-driven automation holds for industrial sales. \n\n\ud83d\udca1 Mercura is tackling a massive, still largely manual market by accelerating quoting and sales processes for wholesalers and industrial suppliers. The team will use the funding to accelerate the automation of quoting and sales processes in the industrial wholesale sector.\n\n#WERK1\u00a0#ConstructionTech #MunichStartups #funding Gr\u00fcnderland Bayern Bayerisches Staatsministerium f\u00fcr Wirtschaft, Landesentwicklung und Energie",
+    "num_shares": 3,
+    "num_likes": 190,
+    "num_comments": 1,
+    "comments_count": 1,
+    "reactions_count": 10,
+    "posted_at": "2026-01-09T10:54:02.152Z",
+    "actor_name": "WERK1 \u2013 the most startup-friendly place in Munich",
+    "actor_profile_url": "https://www.linkedin.com/company/werk1/posts",
+    "post_type": "image"
+  },
+  {
+    "type": "post",
+    "is_activity": true,
+    "url": "https://www.linkedin.com/posts/stefan-zheng_can-i-introduce-you-to-the-10x-engineer-who-activity-7371802179629649921-wN_X?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFhLF2wBwkJ_DbB-aWKA77KfD4J0nhoY02c",
+    "text": "Can I introduce you to the 10x engineer who is taking our company to the next level?\n\nMeet Kolya Krafeld, our brilliant Founding Engineer at Mercura (YC W25).\nBefore joining us, Kolya built software in San Francisco at Etleap (also a Y Combinator startup) and SAP.\n\nAt Mercura, Kolya is the driving force behind making our software more scalable, taking us from X to Y in record time. During his time here, he has already shipped countless features and iterated on our product at lightning speed.\n\nBut Kolya isn\u2019t just technically brilliant\u2014he\u2019s the kind of teammate everyone loves to work with.\nThoughtful, collaborative, and always listening, he makes everyone in the team better. With his deep customer empathy, he listens to our customers and consistently turns feedback into real, impactful improvements.\n\nAnd if he\u2019s not pushing code on the weekends, you\u2019ll probably find him in the mountains skiing, bouldering, or hiking.\n\nWe\u2019re incredibly lucky to have him on board!",
+    "num_shares": 6,
+    "num_likes": 223,
+    "num_comments": 4,
+    "comments_count": 4,
+    "reactions_count": 10,
+    "posted_at": "2025-09-11T07:35:18.798Z",
+    "actor_name": "Stefan Zheng",
+    "actor_profile_url": "https://www.linkedin.com/in/stefan-zheng?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC1Jsa4BrnfmfnzPtqrjY2-5bPyW4XS1yfc",
+    "post_type": "image"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/kolya-krafeld_im-happy-to-share-that-ive-started-a-new-activity-7368593347113893891-qL1n?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAFhLF2wBwkJ_DbB-aWKA77KfD4J0nhoY02c",
+    "text": "I\u2019m happy to share that I\u2019ve started a new position as Founding Engineer at Mercura (YC W25) a few months ago!",
+    "num_shares": 2,
+    "num_likes": 117,
+    "num_comments": 5,
+    "comments_count": 5,
+    "reactions_count": 10,
+    "posted_at": "2025-09-02T10:39:15.796Z",
+    "actor_name": "Kolya Krafeld",
+    "actor_profile_url": "https://www.linkedin.com/in/kolya-krafeld?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC2ys7MBDjC3E45uSK81wKZSv9JBnfdDKbw",
+    "post_type": null
+  }
+]
+Twitter Posts (last 30): []
+LinkedIn About Section: Building the AI application layer for distributors & manufacturers.
+
+Output ONLY this JSON:
+{
+  "section_id": 4,
+  "section_name": "Behavioral Intelligence Suite",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "behavioral_profile": {
+      "archetype": "",
+      "one_line_description": "",
+      "trait_tags": []
+    },
+    "trait_scores": {
+      "dominance": 0,
+      "expressiveness": 0,
+      "pace": 0,
+      "pragmatism": 0,
+      "risk_appetite": 0,
+      "social_energy": 0
+    },
+    "working_style": {
+      "decision_making": "",
+      "collaboration": "",
+      "conflict_style": "",
+      "pace": ""
+    },
+    "what_drives_them": {
+      "energizers": [],
+      "drainers": []
+    },
+    "engagement_guide": {
+      "how_to_open": [],
+      "how_to_run_meeting": [],
+      "how_to_email": [],
+      "how_to_follow_up": [],
+      "how_to_build_trust": []
+    },
+    "blind_spots": [],
+    "dos_and_donts": {
+      "dos": [],
+      "donts": []
+    },
+    "data_confidence": "high|medium|low",
+    "data_confidence_rationale": ""
+  }
+}
+
+RULES:
+- behavioral_profile archetype MUST be one of:
+  "The Operator", "The Visionary", "The Skeptic", "The Builder",
+  "The Connector", "The Analyst", "The Challenger", "The Diplomat",
+  "The Pioneer", "The Executor"
+- one_line_description: exactly 1 sentence. 15 words max.
+- trait_tags: exactly 3 tags. Single words or two-word phrases only.
+- trait_scores: integers 0-100.
+  0-30 = low or opposite trait present
+  31-60 = moderate mixed signals
+  61-80 = clearly present
+  81-100 = dominant defining trait
+  Never assign 100 — no person is absolute.
+- working_style: 4 single-line signals. Max 12 words each.
+- what_drives_them: max 4 energizers and 4 drainers. Specific to this person.
+- engagement_guide: exactly 3-5 specific bullet points per sub-section.
+  Must reference actual patterns from their posts — not generic advice.
+- blind_spots: exactly 3-4 real weaknesses from professional footprint only.
+- dos_and_donts: exactly 4 specific items each. No generic advice.
+- If twitter_posts is empty — exclude Twitter from analysis
+- Never invent signals not present in the data
+- Replace __TIMESTAMP__ with current ISO 8601 datetime.
+- Output ONLY the JSON. No markdown. No explanation. No preamble.

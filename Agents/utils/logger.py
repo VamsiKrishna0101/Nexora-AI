@@ -1,0 +1,1 @@
+# Logger configuration for agents

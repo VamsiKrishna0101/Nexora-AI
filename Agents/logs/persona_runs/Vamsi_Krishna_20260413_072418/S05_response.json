@@ -1,0 +1,45 @@
+{
+  "section_id": 5,
+  "section_name": "Online Presence & Activity",
+  "person_id": "ACoAAD8unisBsIgHnZVFhsrjL-DTdoCwCeesXko",
+  "data": {
+    "linkedin": {
+      "url": "https://www.linkedin.com/in/vamsi-krishna01",
+      "followers": 0,
+      "posts_analyzed": 3,
+      "posting_frequency": "Weekly",
+      "avg_likes_per_post": 6,
+      "avg_comments_per_post": 1,
+      "top_topics": [
+        "Backend Engineering",
+        "System Design",
+        "Convoxa",
+        "Scalability",
+        "Node.js"
+      ],
+      "last_post_date": "2026-04-07T07:30:05.873Z",
+      "last_post_summary": "Vamsi shared a product insight regarding user behavior on his platform, Convoxa, noting that users prefer voting over commenting and detailing UI/UX updates aimed at increasing engagement."
+    },
+    "twitter": {
+      "handle": null,
+      "url": null,
+      "followers": 0,
+      "posts_analyzed": 0,
+      "posting_frequency": "Unknown",
+      "top_topics": [],
+      "avg_likes_per_tweet": 0,
+      "avg_retweets_per_tweet": 0,
+      "last_tweet_date": null
+    },
+    "github": {
+      "url": "https://github.com/Vamsicse",
+      "found": true
+    },
+    "personal_website": null,
+    "other_platforms": [],
+    "overall_digital_footprint": "Moderate",
+    "recent_activity_summary": "Vamsi is currently focused on building and scaling his community platform, Convoxa, while actively marketing his backend engineering skills to recruiters in Germany and the Netherlands. He shares technical case studies, stress-testing results, and product iteration insights to demonstrate his proficiency in system architecture.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "The profile data is derived directly from the subject's primary LinkedIn account, supported by clear evidence of professional activity, projects, and recent posts."
+  }
+}

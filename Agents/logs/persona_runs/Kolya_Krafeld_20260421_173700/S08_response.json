@@ -1,0 +1,51 @@
+{
+  "section_id": 8,
+  "section_name": "Tactical Outreach Playbook",
+  "person_id": "KOLYA_KRAFELD_001",
+  "data": {
+    "outreach_scripts": {
+      "email_draft": {
+        "subject": "Parallel development & remote dev environments",
+        "body": "Hi Kolya, I caught your recent post on using VSCode Remote SSH to manage independent dev containers. It\u2019s a pragmatic solution for the bottleneck you described. I\u2019m reaching out because [Company Name] is solving the exact scalability issues you\u2019re tackling at Mercura regarding [Specific Tech/Infrastructure Alignment]. I\u2019d love to share how we\u2019re reducing overhead without compromising the 'Silicon Valley speed' you prioritize. Do you have 10 minutes to discuss how you're handling [Specific Technical Challenge]?"
+      },
+      "linkedin_inmail": {
+        "body": "Hi Kolya, loved your take on Git Worktrees vs. independent remote dev environments. As a fellow engineer, that balance between velocity and technical debt is a constant struggle. Would love to connect and share some insights on building AI infrastructure for scale."
+      }
+    },
+    "high_resonance_topics": [
+      "AI-assisted coding and development workflows",
+      "Scaling cloud infrastructure for parallel feature testing",
+      "Building high-velocity engineering team culture",
+      "Engineering architecture for industrial AI applications"
+    ],
+    "topics_to_avoid": [
+      "Traditional enterprise sales cycles",
+      "Abstract software theories without concrete implementation plans",
+      "Administrative or bureaucratic process improvements",
+      "Legacy tool integration requirements"
+    ],
+    "conversation_starters": [
+      {
+        "opener": "That remote dev setup you detailed on LinkedIn\u2014have you looked into [Specific Tooling] to handle those container migrations?",
+        "context": "Direct technical engagement based on his recent content."
+      },
+      {
+        "opener": "Saw the photos from the Hochk\u00f6nig offsite. How do you balance that high-intensity team bonding with your ship-velocity goals?",
+        "context": "Acknowledging his focus on both team culture and engineering throughput."
+      },
+      {
+        "opener": "Mercura's focus on the AI application layer is fascinating. How are you managing the trade-off between AI-assisted speed and maintaining code quality/long-term debt?",
+        "context": "Demonstrating high-level technical empathy regarding his specific operational role."
+      }
+    ],
+    "optimization": {
+      "best_channel": "LinkedIn",
+      "best_days": [
+        "Tuesday",
+        "Wednesday"
+      ],
+      "suggested_time_of_day": "08:00 - 09:30 AM CET"
+    },
+    "data_confidence": "high"
+  }
+}

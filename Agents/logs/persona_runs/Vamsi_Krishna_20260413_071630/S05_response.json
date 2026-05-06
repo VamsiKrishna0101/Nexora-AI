@@ -1,0 +1,45 @@
+{
+  "section_id": 5,
+  "section_name": "Online Presence & Activity",
+  "person_id": "vamsi-krishna01",
+  "data": {
+    "linkedin": {
+      "url": "https://www.linkedin.com/in/vamsi-krishna01",
+      "followers": 0,
+      "posts_analyzed": 3,
+      "posting_frequency": "Weekly",
+      "avg_likes_per_post": 6,
+      "avg_comments_per_post": 1,
+      "top_topics": [
+        "Backend Engineering",
+        "System Design",
+        "Node.js",
+        "AI Agents",
+        "Scalability"
+      ],
+      "last_post_date": "2026-04-07T07:30:05.873Z",
+      "last_post_summary": "Vamsi shared an insight regarding user behavior on his community platform Convoxa, noting that users prefer voting over commenting, leading him to implement poll features."
+    },
+    "twitter": {
+      "handle": null,
+      "url": null,
+      "followers": 0,
+      "posts_analyzed": 0,
+      "posting_frequency": "Unknown",
+      "top_topics": [],
+      "avg_likes_per_tweet": 0,
+      "avg_retweets_per_tweet": 0,
+      "last_tweet_date": null
+    },
+    "github": {
+      "url": "https://github.com/rvamsikrishna",
+      "found": true
+    },
+    "personal_website": null,
+    "other_platforms": [],
+    "overall_digital_footprint": "Moderate",
+    "recent_activity_summary": "Vamsi is actively focused on technical evangelism for his project Convoxa, sharing detailed architecture breakdowns and load testing results. He is currently leveraging his experience in backend engineering and AI to seek new opportunities in Germany and the Netherlands.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "High confidence based on direct LinkedIn profile data, recent platform activity, and cross-referenced GitHub repository handles."
+  }
+}

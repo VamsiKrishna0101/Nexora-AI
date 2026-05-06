@@ -1,0 +1,143 @@
+SYSTEM: None
+
+USER: 
+You are a senior behavioral intelligence analyst at a Palantir-grade research firm.
+Your analysis is based ONLY on observable professional signals — not speculation.
+Every insight must be traceable to a specific post, pattern, or behavior in the data.
+Be cold, factual, and tactical. No therapy language. No speculation.
+
+INPUT DATA:
+LinkedIn Posts (last 20): [
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/lia-hofmann-2945a2229_lia-goes-lio-super-excited-to-share-that-activity-7445787895661027328-Hm53?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAE0CwxgB2Fqd2nEM3abAWZZQRi7JFjoGOMM",
+    "text": "Lia goes Lio \ud83d\ude80\n\nSuper excited to share that I\u2019ve joined Lio (formerly askLio)  as a Growth Associate in the GTM team!\n\nLio is building the first multi-agent AI system to autonomously run enterprise procurement end-to-end, and just raised a $30M Series A led by Andreessen Horowitz (a16z). \n\nLooking forward to building, learning, and helping bring this to market together with the team. LFG.",
+    "num_shares": 0,
+    "num_likes": 239,
+    "num_comments": 21,
+    "comments_count": 10,
+    "reactions_count": 10,
+    "posted_at": "2026-04-03T11:02:50.375Z",
+    "actor_name": "Lia Hofmann",
+    "actor_profile_url": "https://www.linkedin.com/in/lia-hofmann-2945a2229?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADk3xRAB69zRTh7jdt5UdA6JfWRk9a4nQGs",
+    "post_type": "image"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/lia-hofmann-2945a2229_the-past-three-months-in-the-commercial-team-activity-7223622183070146560-zOG7?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAE0CwxgB2Fqd2nEM3abAWZZQRi7JFjoGOMM",
+    "text": "The past three months in the Commercial Team at Wemolo have been an interesting and valuable ride! \ud83c\udfa2\n\nTogether with my team I was able to actively develop innovative sales strategies, mainly focused on Austria and Switzerland, and to further support the company on extensive commercial topics.\u00a0\nWorking with such a skilled team and being part of the unique team culture has been both rewarding and fun. \n\nAs I\u2018ll proceed with my studies at Nova School of Business and Economics from September onwards, Vincent Buchholz\u00a0 and Tobias Lehner are looking for the next addition to the team, starting immediately! \ud83d\ude80",
+    "num_shares": 2,
+    "num_likes": 45,
+    "num_comments": 1,
+    "comments_count": 1,
+    "reactions_count": 10,
+    "posted_at": "2024-07-29T09:35:36.854Z",
+    "actor_name": "Lia Hofmann",
+    "actor_profile_url": "https://www.linkedin.com/in/lia-hofmann-2945a2229?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADk3xRAB69zRTh7jdt5UdA6JfWRk9a4nQGs",
+    "post_type": null
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/lia-hofmann-2945a2229_dear-network-i-am-happy-to-share-that-i-activity-7105589272866426880-Di1t?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAE0CwxgB2Fqd2nEM3abAWZZQRi7JFjoGOMM",
+    "text": "Dear Network,\n\nI am happy to share that I have joined the BMW Group as a Marketing Strategy Intern in Munich! \n\nAfter successfully obtaining my Bachelor of Science in Economics and Business Economics at Maastricht University School of Business and Economics with an exchange semester at National Taiwan University, I am eager to embark on this new opportunity.",
+    "num_shares": 0,
+    "num_likes": 130,
+    "num_comments": 10,
+    "comments_count": 10,
+    "reactions_count": 10,
+    "posted_at": "2023-09-07T16:34:58.116Z",
+    "actor_name": "Lia Hofmann",
+    "actor_profile_url": "https://www.linkedin.com/in/lia-hofmann-2945a2229?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADk3xRAB69zRTh7jdt5UdA6JfWRk9a4nQGs",
+    "post_type": null
+  },
+  {
+    "type": "repost",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/lia-hofmann-2945a2229_dear-network-we-need-your-help-we-are-activity-6918275243102863360-vol9?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAE0CwxgB2Fqd2nEM3abAWZZQRi7JFjoGOMM",
+    "text": "Dear network, we need your help!\n\nWe are currently working on a project with myBuddy. It is an NGO that aims to facilitate cultural exchange and integration in Germany. As a part of this, myBuddy offers an Advent Calendar with typical sweets from different countries around the world, while giving some information on the respective country. So, it is a good way to make the typical Advent Calendar more interesting!\n\nWe are currently looking for potential buyers (companies) in Germany. If you know anyone, or have a contact to a potentially interested company, please send us a message!\n\nWe appreciate your help!\n\nAlso, feel free to check out their website: https://lnkd.in/dZ5VVjaa",
+    "num_shares": 0,
+    "num_likes": 5,
+    "num_comments": 0,
+    "comments_count": 0,
+    "reactions_count": 5,
+    "posted_at": "2022-04-08T19:15:53.294Z",
+    "actor_name": "Lia Hofmann",
+    "actor_profile_url": "https://www.linkedin.com/in/lia-hofmann-2945a2229?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADk3xRAB69zRTh7jdt5UdA6JfWRk9a4nQGs",
+    "post_type": "text"
+  }
+]
+Twitter Posts (last 30): []
+LinkedIn About Section: Not available
+
+Output ONLY this JSON:
+{
+  "section_id": 4,
+  "section_name": "Behavioral Intelligence Suite",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "behavioral_profile": {
+      "archetype": "",
+      "one_line_description": "",
+      "trait_tags": []
+    },
+    "trait_scores": {
+      "dominance": 0,
+      "expressiveness": 0,
+      "pace": 0,
+      "pragmatism": 0,
+      "risk_appetite": 0,
+      "social_energy": 0
+    },
+    "working_style": {
+      "decision_making": "",
+      "collaboration": "",
+      "conflict_style": "",
+      "pace": ""
+    },
+    "what_drives_them": {
+      "energizers": [],
+      "drainers": []
+    },
+    "engagement_guide": {
+      "how_to_open": [],
+      "how_to_run_meeting": [],
+      "how_to_email": [],
+      "how_to_follow_up": [],
+      "how_to_build_trust": []
+    },
+    "blind_spots": [],
+    "dos_and_donts": {
+      "dos": [],
+      "donts": []
+    },
+    "data_confidence": "high|medium|low",
+    "data_confidence_rationale": ""
+  }
+}
+
+RULES:
+- behavioral_profile archetype MUST be one of:
+  "The Operator", "The Visionary", "The Skeptic", "The Builder",
+  "The Connector", "The Analyst", "The Challenger", "The Diplomat",
+  "The Pioneer", "The Executor"
+- one_line_description: exactly 1 sentence. 15 words max.
+- trait_tags: exactly 3 tags. Single words or two-word phrases only.
+- trait_scores: integers 0-100.
+  0-30 = low or opposite trait present
+  31-60 = moderate mixed signals
+  61-80 = clearly present
+  81-100 = dominant defining trait
+  Never assign 100 — no person is absolute.
+- working_style: 4 single-line signals. Max 12 words each.
+- what_drives_them: max 4 energizers and 4 drainers. Specific to this person.
+- engagement_guide: exactly 3-5 specific bullet points per sub-section.
+  Must reference actual patterns from their posts — not generic advice.
+- blind_spots: exactly 3-4 real weaknesses from professional footprint only.
+- dos_and_donts: exactly 4 specific items each. No generic advice.
+- If twitter_posts is empty — exclude Twitter from analysis
+- Never invent signals not present in the data
+- Replace __TIMESTAMP__ with current ISO 8601 datetime.
+- Output ONLY the JSON. No markdown. No explanation. No preamble.

@@ -1,0 +1,51 @@
+{
+  "section_id": 8,
+  "section_name": "Tactical Outreach Playbook",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "outreach_scripts": {
+      "email_draft": {
+        "subject": "Scalability hurdles in AI-powered agro-met advisories",
+        "body": "Your recent review on AI-powered agro-met advisories highlighted critical needs in standardizing agri-data ecosystems and transitioning ML models from pilot to production. I am reaching out to discuss your specific architectural bottlenecks in scaling these LLM pipelines.\n\nSpecifically, I would like to touch on:\n1. Infrastructure constraints preventing seamless ML-to-deployment transition.\n2. Standardizing backend data inputs to support multi-tool (e.g., YOLOv8) integration.\n3. Ensuring RAG pipeline robustness within institutional frameworks like Mission Mausam.\n\nDo you have capacity to review a brief architectural brief on optimizing these backend infrastructure layers?"
+      },
+      "linkedin_inmail": {
+        "body": "Found your recent ICRISAT post on 'AI-powered Agro-met Advisories at Scale' insightful. Scaling ML from pilot to production remains the toughest architectural hurdle. I'd love to share some notes on standardizing backend infrastructure for these pipelines. Open to a brief technical exchange?"
+      }
+    },
+    "high_resonance_topics": [
+      "Standardization of agri-data inputs for scalable ML",
+      "Transitioning LLM/RAG pilots to production-grade infrastructure",
+      "Backend bottleneck resolution in complex multi-tool architectures",
+      "Systemic alignment of AI-frameworks within large-scale institutional roadmaps"
+    ],
+    "topics_to_avoid": [
+      "Speculative or buzzword-heavy AI trends without empirical data",
+      "UI/UX-centric feature discussions",
+      "Ambiguous, non-technical strategic roadmaps",
+      "Oversimplified software-as-a-service pitches"
+    ],
+    "conversation_starters": [
+      {
+        "opener": "I noticed the focus on 'standardizing agri-data ecosystems' at the Mission Mausam review\u2014how are you currently managing the ingestion bottleneck at the architecture level?",
+        "context": "Directly references their stated interest in data standardization and systemic thinking."
+      },
+      {
+        "opener": "Regarding the transition from pilot to scale for agro-met advisories: what is your primary concern for infrastructure robustness when deploying these LLM pipelines?",
+        "context": "Addresses the specific pain point of scaling AI, leveraging their 'Builder' archetype."
+      },
+      {
+        "opener": "What is the biggest limitation you're seeing in the current backend architecture when integrating YOLOv8 with your wider ML-based decision structures?",
+        "context": "Uses a technical, implementation-heavy query to demonstrate competence."
+      }
+    ],
+    "optimization": {
+      "best_channel": "LinkedIn",
+      "best_days": [
+        "Tuesday",
+        "Wednesday"
+      ],
+      "suggested_time_of_day": "09:00 AM - 11:00 AM"
+    },
+    "data_confidence": "high"
+  }
+}

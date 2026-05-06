@@ -1,0 +1,31 @@
+{
+  "section_id": 7,
+  "section_name": "Network & Influence",
+  "person_id": "ACoAAFWw7ZEBQ3ThuQDibWe3Z6BoAWqPUp5WwQ4",
+  "data": {
+    "notable_collaborations": [],
+    "associated_companies": [
+      {
+        "company": "ICRISAT",
+        "role": "Intern",
+        "type": "Employer"
+      },
+      {
+        "company": "Neil Gogte Institute of Technology",
+        "role": "Student",
+        "type": "Education"
+      },
+      {
+        "company": "sri chaitanya junior college",
+        "role": "Student",
+        "type": "Education"
+      }
+    ],
+    "industry_communities": [],
+    "media_mentions": [],
+    "network_reach": "Tier 4 (Niche)",
+    "network_strength_assessment": "The subject maintains a localized network primarily centered around academic and internship environments in Hyderabad. Professional connections appear to be limited to immediate project collaborators and regional educational peers.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "Data is based on verifiable LinkedIn and GitHub presence, showing clear academic and internship history without evidence of broader public or industrial networks."
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "section_id": "social_post_intelligence",
+  "section_name": "Social Media Post Intelligence",
+  "person_id": "jeremy-yu-68928a6",
+  "data": {
+    "content_analysis": {
+      "top_topics": [
+        "Agentic AI Infrastructure",
+        "Enterprise Automation",
+        "Reliable/Governed AI",
+        "Software Development Tools"
+      ],
+      "posting_pattern": "Active consistently on weekdays, sharing frequent product updates and industry event participation.",
+      "content_style": "Authoritative, product-focused, and pragmatic, often using technical benchmarks to validate arguments.",
+      "engagement_insight": "Posts announcing major company milestones, funding, or specific product launches drive the highest engagement."
+    },
+    "post_breakdown": [
+      {
+        "platform": "LinkedIn",
+        "type": "Post",
+        "brief_description": "Introduced Cognis, an AI memory solution emphasizing reliability over traditional vector search.",
+        "theme": "Product Innovation",
+        "engagement_style": "Technical/Analytical"
+      },
+      {
+        "platform": "LinkedIn",
+        "type": "Post",
+        "brief_description": "Advocated for GitAgent as a control plane for scalable, versioned agent workflows.",
+        "theme": "Developer Tools",
+        "engagement_style": "Thought Leadership"
+      },
+      {
+        "platform": "LinkedIn",
+        "type": "Post",
+        "brief_description": "Announced the launch of Architect by Lyzr for automated app building.",
+        "theme": "Product Launch",
+        "engagement_style": "Promotional"
+      },
+      {
+        "platform": "LinkedIn",
+        "type": "Post",
+        "brief_description": "Detailed achieving 99.9997% reliability using a decomposed micro-agent architecture.",
+        "theme": "AI Reliability",
+        "engagement_style": "Technical"
+      },
+      {
+        "platform": "LinkedIn",
+        "type": "Repost",
+        "brief_description": "Shared partnership details with Accenture for secure, enterprise-grade agentic AI in finance.",
+        "theme": "Strategic Partnership",
+        "engagement_style": "Corporate"
+      },
+      {
+        "platform": "LinkedIn",
+        "type": "Post",
+        "brief_description": "Celebrated the company's $8M Series A funding and new advisory board addition.",
+        "theme": "Company Milestone",
+        "engagement_style": "Celebratory"
+      },
+      {
+        "platform": "LinkedIn",
+        "type": "Post",
+        "brief_description": "Promoted Lyzr\u2019s presence at NVIDIA GTC to discuss enterprise agentic architectures.",
+        "theme": "Event Promotion",
+        "engagement_style": "Professional"
+      },
+      {
+        "platform": "LinkedIn",
+        "type": "Post",
+        "brief_description": "Highlighted Procurement Agents for automating business lifecycles and reducing TCO.",
+        "theme": "Enterprise Use Case",
+        "engagement_style": "Problem/Solution"
+      },
+      {
+        "platform": "LinkedIn",
+        "type": "Post",
+        "brief_description": "Praised Growthline Partners for a practical, noise-free approach to AI integration.",
+        "theme": "Partner Spotlight",
+        "engagement_style": "Thought Leadership"
+      },
+      {
+        "platform": "LinkedIn",
+        "type": "Post",
+        "brief_description": "Reflected on the importance of responsible, governed AI following IBM TechXchange.",
+        "theme": "Industry Trends",
+        "engagement_style": "Reflective"
+      }
+    ],
+    "summaries": {
+      "posts": [
+        "Product Innovation: Regularly showcases new technical breakthroughs like Cognis and micro-agent architectures.",
+        "Strategic Growth: Maintains focus on enterprise-ready AI, highlighting funding news and major partnerships.",
+        "Advocacy: Promotes a 'git-native' and 'enterprise-governed' paradigm for deploying AI agents.",
+        "Industry Engagement: Actively documents appearances at high-profile industry events like NVIDIA GTC and IBM TechXchange."
+      ],
+      "reposts": [
+        "Partnership Expansion: Highlights collaborations with major firms like Accenture to drive market adoption.",
+        "Funding and Scaling: Shares official news regarding company investment rounds and organizational growth."
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "section_id": 1,
+  "section_name": "Identity Overview",
+  "person_id": "ACoAAE3vR2gB6Z7qUMJrfQvGzz0umpILY6mUUHU",
+  "data": {
+    "full_name": "Pratheek Swargam",
+    "current_role": "Programmer Analyst Trainee",
+    "company": "Cognizant",
+    "location": "Hyderabad, Telangana, India",
+    "profile_photo_url": "https://media.licdn.com/dms/image/v2/D5603AQGS1trmG2nmRQ/profile-displayphoto-crop_800_800/B56ZzSsIwyJQAM-/0/1773061314734?e=1778112000&v=beta&t=iH3NvU48DeO8vFEEkKfJ350EbFdSb5emnl9TGyqaBkY",
+    "linkedin_url": "https://www.linkedin.com/in/pratheek-swargam",
+    "twitter_handle": null,
+    "linkedin_followers": 0,
+    "twitter_followers": 0,
+    "connections_count": 0,
+    "influence_score": 7,
+    "influence_score_breakdown": {
+      "linkedin_followers_points": 2,
+      "twitter_followers_points": 0,
+      "posting_activity_points": 0,
+      "career_seniority_points": 2,
+      "web_presence_points": 3
+    },
+    "influence_score_rationale": "Subject scores 2 points for low LinkedIn follower count (defaulting to <500 category), 2 points for entry-level career seniority as a Trainee, and 3 points for single-platform existence. No posting activity or external web presence detected.",
+    "data_confidence": "medium",
+    "data_confidence_rationale": "Data derived from a single active LinkedIn profile; no external presence or social media activity on other platforms detected."
+  }
+}

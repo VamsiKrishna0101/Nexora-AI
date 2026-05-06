@@ -1,0 +1,341 @@
+/* ===================================================
+   Leo Intelligence Hub — Global Design System v2
+   Premium SaaS · Dense · Clean · Inter font
+=================================================== */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,400;0,14..32,500;0,14..32,600;0,14..32,700;0,14..32,800&display=swap');
+
+:root {
+  --c-bg:        #f1f5f9;
+  --c-surface:   #ffffff;
+  --c-border:    #e2e8f0;
+  --c-border-2:  #f1f5f9;
+
+  --c-text-1:    #0f172a;
+  --c-text-2:    #334155;
+  --c-text-3:    #64748b;
+  --c-text-4:    #94a3b8;
+
+  --c-accent:    #6366f1;
+  --c-accent-bg: #eef2ff;
+
+  --c-green:     #16a34a;
+  --c-green-bg:  #f0fdf4;
+  --c-red:       #dc2626;
+  --c-red-bg:    #fef2f2;
+  --c-amber:     #d97706;
+  --c-amber-bg:  #fffbeb;
+
+  --radius:      10px;
+  --radius-sm:   7px;
+  --shadow:      0 1px 3px rgb(0 0 0 / 0.05), 0 1px 2px -1px rgb(0 0 0 / 0.04);
+  --shadow-md:   0 4px 12px -2px rgb(0 0 0 / 0.08);
+}
+
+/* Font everywhere */
+.personality-dashboard, .personality-dashboard * {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Tab page wrapper */
+.personality-dashboard {
+  width: 100%;
+}
+
+/* ── Cards ── */
+.intel-card {
+  background: var(--c-surface);
+  border: 1px solid var(--c-border);
+  border-radius: var(--radius);
+  padding: 18px 20px;
+  margin-bottom: 14px;
+  box-shadow: var(--shadow);
+}
+
+/* 2-col grid */
+.intel-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+}
+@media (max-width: 820px) { .intel-grid { grid-template-columns: 1fr; } }
+
+/* ── Card Headers ── */
+.tab-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 16px;
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--c-text-1);
+  letter-spacing: -0.01em;
+  text-transform: none;
+}
+.tab-header svg { color: var(--c-accent); }
+
+/* ── Tags ── */
+.tag-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 12px;
+}
+.tag {
+  background: var(--c-border-2);
+  border: 1px solid var(--c-border);
+  color: var(--c-text-3);
+  padding: 3px 10px;
+  border-radius: 99px;
+  font-size: 0.76rem;
+  font-weight: 500;
+  white-space: nowrap;
+  font-family: 'Inter', sans-serif;
+}
+
+/* ── Bullet Lists ── */
+.bullet-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+.bullet-item {
+  position: relative;
+  padding-left: 14px;
+  font-size: 0.838rem;
+  line-height: 1.5;
+  color: var(--c-text-3);
+  font-family: 'Inter', sans-serif;
+}
+.bullet-item::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 7px;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--c-border);
+}
+.bullet-item.positive::before { background: var(--c-green); }
+.bullet-item.negative::before { background: var(--c-red); }
+
+/* ── Archetype Banner ── */
+.archetype-banner {
+  border-left: 3px solid var(--c-accent);
+}
+
+.archetype-title {
+  font-size: 0.65rem;
+  font-weight: 700;
+  color: var(--c-accent);
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  margin-bottom: 4px;
+}
+
+.archetype-name {
+  font-size: 1.35rem;
+  font-weight: 800;
+  color: var(--c-text-1);
+  letter-spacing: -0.025em;
+  margin-bottom: 6px;
+}
+
+/* ── Trait Gauges ── */
+.trait-container {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 8px;
+}
+@media (max-width: 900px) { .trait-container { grid-template-columns: repeat(3, 1fr); } }
+
+.trait-score-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+}
+
+.circle-svg {
+  width: 68px;
+  height: 68px;
+  transform: rotate(-90deg);
+}
+
+.circle-bg     { fill: none; stroke: #f1f5f9; stroke-width: 7; }
+.circle-progress {
+  fill: none;
+  stroke-width: 7;
+  stroke-linecap: round;
+  transition: stroke-dashoffset 0.9s ease-out;
+}
+
+.score-text  { font-size: 0.82rem; font-weight: 800; color: var(--c-text-1); letter-spacing: -0.02em; font-family: 'Inter', sans-serif; }
+.label-text  { font-size: 0.65rem; font-weight: 600; color: var(--c-text-4); text-transform: uppercase; letter-spacing: 0.04em; font-family: 'Inter', sans-serif; }
+
+/* ── Working Style Row ── */
+.behavior-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.behavior-item {
+  background: var(--c-border-2);
+  border: 1px solid var(--c-border);
+  border-radius: var(--radius-sm);
+  padding: 12px 14px;
+}
+
+.behavior-key {
+  font-size: 0.64rem;
+  font-weight: 700;
+  color: var(--c-accent);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: 5px;
+}
+
+.behavior-val {
+  font-size: 0.82rem;
+  color: var(--c-text-2);
+  line-height: 1.45;
+}
+
+/* ── Playbook Sections ── */
+.playbook-label {
+  font-size: 0.65rem;
+  font-weight: 700;
+  color: var(--c-text-4);
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  display: block;
+  margin-bottom: 8px;
+}
+
+.playbook-tip {
+  display: block;
+  background: var(--c-border-2);
+  border: 1px solid var(--c-border);
+  border-radius: var(--radius-sm);
+  padding: 8px 12px;
+  font-size: 0.82rem;
+  color: var(--c-text-3);
+  line-height: 1.4;
+  list-style: none;
+  margin-bottom: 6px;
+  transition: border-color 0.15s;
+  font-family: 'Inter', sans-serif;
+}
+.playbook-tip:hover { border-color: var(--c-accent); color: var(--c-text-2); }
+
+/* ── Engage grid ── */
+.engage-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+}
+
+.playbook-section {}
+
+/* ── Depth Badges ── */
+.depth-badge {
+  font-size: 0.65rem;
+  font-weight: 700;
+  padding: 2px 9px;
+  border-radius: 99px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  display: inline-flex;
+}
+.depth-expert       { background: var(--c-green-bg); color: var(--c-green); border: 1px solid #bbf7d0; }
+.depth-practitioner { background: #eff6ff;            color: #1d4ed8;        border: 1px solid #bfdbfe; }
+
+/* Tab empty */
+.tab-empty { padding: 60px; text-align: center; color: var(--c-text-4); font-size: 0.88rem; }
+
+/* ── Autocomplete Suggestions ── */
+.builder-suggestions-dropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: var(--c-surface);
+  border: 1px solid var(--c-border);
+  border-radius: var(--radius);
+  margin-top: 5px;
+  box-shadow: var(--shadow-md);
+  z-index: 110;
+  max-height: 250px;
+  overflow-y: auto;
+  animation: slideInUp 0.2s ease-out;
+}
+
+.suggestion-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 14px;
+  cursor: pointer;
+  transition: background 0.15s;
+  border-bottom: 1px solid var(--c-border-2);
+}
+
+.suggestion-item:last-child {
+  border-bottom: none;
+}
+
+.suggestion-item:hover {
+  background: var(--c-accent-bg);
+}
+
+.suggestion-logo {
+  width: 28px;
+  height: 28px;
+  background: var(--c-bg);
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  border: 1px solid var(--c-border);
+}
+
+.suggestion-logo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.suggestion-logo svg {
+  color: var(--c-text-4);
+}
+
+.suggestion-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.suggestion-name {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--c-text-1);
+}
+
+.suggestion-domain {
+  font-size: 0.72rem;
+  color: var(--c-text-3);
+}
+
+@keyframes slideInUp {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes _spin { to { transform: rotate(360deg); } }
+.spin { animation: _spin 1s linear infinite; }

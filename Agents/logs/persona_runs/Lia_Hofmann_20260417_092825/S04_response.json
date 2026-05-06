@@ -1,0 +1,91 @@
+{
+  "section_id": 4,
+  "section_name": "Behavioral Intelligence Suite",
+  "person_id": "Lia Hofmann",
+  "data": {
+    "behavioral_profile": {
+      "archetype": "The Builder",
+      "one_line_description": "Career-focused professional transitioning between fast-paced growth environments and academic advancement.",
+      "trait_tags": [
+        "Growth Oriented",
+        "Goal Driven",
+        "Team Collaborative"
+      ]
+    },
+    "trait_scores": {
+      "dominance": 65,
+      "expressiveness": 75,
+      "pace": 85,
+      "pragmatism": 70,
+      "risk_appetite": 75,
+      "social_energy": 70
+    },
+    "working_style": {
+      "decision_making": "Prefers environments with clear objectives and growth trajectories.",
+      "collaboration": "Active contributor within established team structures and commercial settings.",
+      "conflict_style": "Direct communication focused on shared team objectives and outputs.",
+      "pace": "Maintains high velocity by jumping between high-growth startups and academic programs."
+    },
+    "what_drives_them": {
+      "energizers": [
+        "Rapid professional growth",
+        "High-stakes startup environments",
+        "GTM strategy building",
+        "Networking within elite circles"
+      ],
+      "drainers": [
+        "Stagnant project scope",
+        "Limited upward mobility",
+        "Lack of clear team structure"
+      ]
+    },
+    "engagement_guide": {
+      "how_to_open": [
+        "Acknowledge recent career moves or growth milestones.",
+        "Reference specific GTM or AI-driven industry context.",
+        "Maintain a high-energy and professional tone."
+      ],
+      "how_to_run_meeting": [
+        "Focus on tangible outcomes and strategic GTM goals.",
+        "Allow space for collaborative input on sales strategies.",
+        "Keep the agenda fast-paced and results-oriented."
+      ],
+      "how_to_email": [
+        "Keep content concise and actionable.",
+        "Highlight the value proposition of the interaction.",
+        "Reference past institutional affiliations like BMW or a16z-backed firms."
+      ],
+      "how_to_follow_up": [
+        "Timing is key; respect transition phases between studies and work.",
+        "Connect follow-ups to ongoing professional learning opportunities.",
+        "Provide clear next steps to maintain momentum."
+      ],
+      "how_to_build_trust": [
+        "Demonstrate commitment to long-term commercial goals.",
+        "Show consistency in professional branding.",
+        "Align with innovative and high-growth organizational visions."
+      ]
+    },
+    "blind_spots": [
+      "Likely to favor high-profile environments over operational longevity.",
+      "Frequent transitions may impact long-term organizational knowledge retention.",
+      "Potential bias toward growth-stage volatility over stability."
+    ],
+    "dos_and_donts": {
+      "dos": [
+        "Highlight organizational growth trajectory.",
+        "Discuss innovation in sales and GTM strategy.",
+        "Emphasize the importance of team culture.",
+        "Leverage her background in economics."
+      ],
+      "donts": [
+        "Avoid slow, administrative bureaucratic processes.",
+        "Do not offer roles lacking clear commercial ownership.",
+        "Avoid vague or non-impactful project descriptions.",
+        "Do not ignore the academic component of her career timeline."
+      ]
+    },
+    "data_confidence": "high",
+    "data_confidence_rationale": "High confidence based on chronological career progression posts and consistent professional tone across multiple employment transitions."
+  }
+}

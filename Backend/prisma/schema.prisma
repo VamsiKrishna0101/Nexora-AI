@@ -1,0 +1,198 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model Domain {
+  id             String   @id @default(uuid())
+  company_name   String   @unique
+  domain         String   @unique
+  linkedin_url   String?
+  linkedin_slug  String?
+  created_at     DateTime @default(now())
+  updated_at     DateTime @updatedAt
+  company        Company?
+}
+
+model Company {
+  id           String   @id @default(uuid())
+  domain_id    String   @unique
+  domain       Domain   @relation(fields: [domain_id], references: [id])
+  company_data Json
+  created_at   DateTime @default(now())
+  updated_at   DateTime @updatedAt
+}
+
+model Timeline {
+  id            String   @id @default(uuid())
+  domain        String   @unique
+  timeline_data Json
+  created_at    DateTime @default(now())
+  updated_at    DateTime @updatedAt
+}
+
+model Employees {
+  id             String   @id @default(uuid())
+  linkedinurl    String   @unique
+  employees_data Json
+  created_at     DateTime @default(now())
+  updated_at     DateTime @updatedAt
+}
+
+model Products {
+  id            String   @id @default(uuid())
+  domain        String   @unique
+  products_data Json
+  created_at    DateTime @default(now())
+  updated_at    DateTime @updatedAt
+}
+
+model linkedinPosts {
+  id          Int      @id @default(autoincrement())
+  linkedinurl String   @unique
+  posts_data  Json
+  createdAt   DateTime @default(now())
+}
+
+model competitors {
+  id               String   @id @default(uuid())
+  domain           String   @unique
+  competitors_data Json
+  created_at       DateTime @default(now())
+  updated_at       DateTime @updatedAt
+}
+
+model TechStack {
+  id         String   @id @default(uuid())
+  domain     String   @unique
+  tech_data  Json
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+}
+
+model Financials {
+  id              String   @id @default(uuid())
+  domain          String   @unique
+  financials_data Json
+  created_at      DateTime @default(now())
+  updated_at      DateTime @updatedAt
+}
+
+model Newsfeed {
+  id         String   @id @default(uuid())
+  domain     String   @unique
+  news_data  Json
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+}
+
+model CompanyJobs {
+  id         String   @id @default(uuid())
+  domain     String   @unique
+  jobs_data  Json
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+}
+
+model User {
+  id         String   @id @default(uuid())
+  email      String   @unique
+  name       String?
+  password   String
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+  reports    Report[]
+  persona_forensics PersonaForensic[]
+  company_forensics CompanyForensic[]
+  saved_companies  SavedCompany[]
+  intelligence_reports CompanyIntelligenceReport[]
+}
+
+
+model Report {
+  id           String   @id @default(uuid())
+  user_id      String
+  user         User     @relation(fields: [user_id], references: [id])
+  domain       String
+  company_name String
+  linkedin_id  String?  // Unique identifier for deduplication (e.g. username/slug)
+  report_data  Json
+  created_at   DateTime @default(now())
+  forensic_insights PersonaForensic[]
+
+  @@unique([user_id, linkedin_id])
+}
+
+model PersonaComparison {
+  id              String   @id @default(uuid())
+  user_id         String
+  report1_id      String
+  report2_id      String
+  comparison_data Json
+  created_at      DateTime @default(now())
+}
+
+model PersonaForensic {
+  id                String   @id @default(uuid())
+  user_id           String
+  user              User     @relation(fields: [user_id], references: [id])
+  report_id         String?
+  report            Report?  @relation(fields: [report_id], references: [id])
+  comparison_id     String?  // Frontend provided comparison hash or UUID
+  compare_report_id String?  // Secondary report ID for dual lookup
+  forensic_type     String
+  forensic_data     Json
+  created_at        DateTime @default(now())
+  updated_at        DateTime @updatedAt
+
+  @@unique([report_id, comparison_id, forensic_type])
+}
+
+model CompanyForensic {
+  id                 String   @id @default(uuid())
+  user_id            String
+  user               User     @relation(fields: [user_id], references: [id])
+  company_id         String?  
+  company            SavedCompany? @relation(fields: [company_id], references: [id])
+  comparison_id      String?  
+  compare_company_id String?  
+  forensic_type      String
+  forensic_data      Json
+  created_at         DateTime @default(now())
+  updated_at         DateTime @updatedAt
+
+  @@unique([company_id, comparison_id, forensic_type])
+}
+
+
+model SavedCompany {
+  id           String   @id @default(uuid())
+  user_id      String
+  user         User     @relation(fields: [user_id], references: [id])
+  domain       String
+  company_name String
+  logo_url     String?
+  description  String?
+  report_type  String   @default("PARTIAL") // "PARTIAL" or "DEEP_DIVE"
+  created_at   DateTime @default(now())
+  updated_at   DateTime @updatedAt
+  company_forensics CompanyForensic[]
+
+  @@unique([user_id, domain, report_type])
+}
+
+model CompanyIntelligenceReport {
+  id           String   @id @default(uuid())
+  user_id      String
+  user         User     @relation(fields: [user_id], references: [id])
+  domain       String
+  company_name String
+  report_data  Json     // The 12 Agentic Sections (from Python)
+  created_at   DateTime @default(now())
+  updated_at   DateTime @updatedAt
+
+  @@unique([user_id, domain])
+}

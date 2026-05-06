@@ -1,0 +1,42 @@
+{
+  "section_id": 5,
+  "section_name": "Online Presence & Activity",
+  "person_id": "ACoAAE3vR2gB6Z7qUMJrfQvGzz0umpILY6mUUHU",
+  "data": {
+    "linkedin": {
+      "url": "https://www.linkedin.com/in/pratheek-swargam",
+      "followers": 0,
+      "posts_analyzed": 0,
+      "posting_frequency": "Unknown",
+      "avg_likes_per_post": 0,
+      "avg_comments_per_post": 0,
+      "top_topics": [],
+      "last_post_date": null,
+      "last_post_summary": null
+    },
+    "twitter": {
+      "handle": "@heloitspratheek",
+      "url": "https://x.com/heloitspratheek",
+      "followers": 0,
+      "posts_analyzed": 0,
+      "posting_frequency": "Unknown",
+      "top_topics": [],
+      "avg_likes_per_tweet": 0,
+      "avg_retweets_per_tweet": 0,
+      "last_tweet_date": null
+    },
+    "github": {
+      "url": null,
+      "found": false
+    },
+    "personal_website": null,
+    "other_platforms": [
+      "https://www.tiktok.com/@prateekswargam",
+      "https://www.instagram.com/prateekswargam/"
+    ],
+    "overall_digital_footprint": "Minimal",
+    "recent_activity_summary": "Subject maintains a professional LinkedIn presence centered on his role at Cognizant. An associated music-producer alias exists across X, TikTok, and Instagram, though recent activity on these platforms is not clearly documented.",
+    "data_confidence": "medium",
+    "data_confidence_rationale": "Identity ambiguity between professional and creative profiles; LinkedIn post activity is null."
+  }
+}

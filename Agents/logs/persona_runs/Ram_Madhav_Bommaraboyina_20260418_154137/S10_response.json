@@ -1,0 +1,27 @@
+{
+  "section_id": 10,
+  "section_name": "Risk & Red Flags",
+  "person_id": "ACoAAFWw7ZEBQ3ThuQDibWe3Z6BoAWqPUp5WwQ4",
+  "data": {
+    "job_hopping_signal": {
+      "detected": false,
+      "roles_analyzed": 0,
+      "average_tenure_months": 0,
+      "shortest_tenure_months": 0,
+      "assessment": "Subject is currently in an early-career internship role with insufficient historical employment data to trigger job-hopping indicators."
+    },
+    "controversial_statements": [],
+    "failed_ventures": [],
+    "reputation_signals": [],
+    "legal_or_regulatory_issues": [],
+    "data_gaps": [
+      "No verifiable professional history beyond current internship.",
+      "LinkedIn profile content is restricted/not fully scrapable.",
+      "No social media or press coverage available for background verification."
+    ],
+    "overall_risk_rating": "Low",
+    "risk_summary": "The subject presents a low-risk profile as an early-career developer with no evidence of professional misconduct. Available data confirms a consistent focus on technical skill development and open-source project contributions.",
+    "data_confidence": "medium",
+    "data_confidence_rationale": "Confidence is medium due to the lack of historical employment data and restricted access to the full LinkedIn profile, despite clear visibility of technical work via GitHub."
+  }
+}

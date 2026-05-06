@@ -1,0 +1,52 @@
+{
+  "section_id": 8,
+  "section_name": "Tactical Outreach Playbook",
+  "person_id": "jeremy-yu-68928a6",
+  "data": {
+    "outreach_scripts": {
+      "email_draft": {
+        "subject": "Reducing multi-step agent failure rates: Engineering perspective",
+        "body": "Jeremy, I\u2019ve been following your work on Cognis and your recent focus on the Six Sigma agent research. Your point on 'good' accuracy compounding into 36% failure rates in complex workflows hit home.\n\nI\u2019m reaching out because we\u2019re currently evaluating infrastructure for production-grade agent reliability in regulated environments. I\u2019d be interested in your perspective on:\n\n1. How Lyzr handles contradiction resolution specifically in high-frequency multi-hop queries.\n2. The feasibility of your micro-agent decomposition strategy for on-premise, air-gapped deployments.\n\nDo you have 10 minutes to discuss the trade-offs between your current SDK model and existing enterprise governance frameworks?"
+      },
+      "linkedin_inmail": {
+        "body": "Jeremy, saw your latest on Cognis\u201492.4% on LongMemEval is a significant technical benchmark for temporal reasoning. Curious to hear your take on how that architecture handles latency during large-scale enterprise deployments compared to vector-search heavy alternatives. Let\u2019s connect."
+      }
+    },
+    "high_resonance_topics": [
+      "Six Sigma reliability benchmarks for AI agents",
+      "Git-native agent deployment infrastructure",
+      "Contradiction resolution in temporal reasoning models",
+      "Air-gapped security and RBAC for agentic AI",
+      "Decomposed micro-agent system architecture"
+    ],
+    "topics_to_avoid": [
+      "High-level 'agentic' marketing fluff",
+      "Standalone AI demos without performance data",
+      "Speculative discussions on future AI capabilities",
+      "Non-technical business procurement workflows"
+    ],
+    "conversation_starters": [
+      {
+        "opener": "I noticed your shift toward git-native agent infrastructure; how do you see that impacting the CI/CD pipeline for enterprise teams?",
+        "context": "Based on his posts regarding GitAgent and operational workflows."
+      },
+      {
+        "opener": "The 36.7% failure rate you highlighted for 'good' accuracy\u2014are you finding that the decomposed micro-agent model is the definitive fix for that, or are there still edge cases in state maintenance?",
+        "context": "Based on his Six Sigma research paper post."
+      },
+      {
+        "opener": "How does the Cognis architecture handle memory consistency across distributed micro-agents in your current deployments?",
+        "context": "Based on his recent technical deep-dive on Cognis."
+      }
+    ],
+    "optimization": {
+      "best_channel": "LinkedIn",
+      "best_days": [
+        "Monday",
+        "Tuesday"
+      ],
+      "suggested_time_of_day": "14:00 - 15:30 UTC"
+    },
+    "data_confidence": "high"
+  }
+}

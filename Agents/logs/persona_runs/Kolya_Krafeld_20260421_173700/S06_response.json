@@ -1,0 +1,23 @@
+{
+  "section_id": 6,
+  "section_name": "Content & Thought Leadership",
+  "person_id": "kolya-krafeld",
+  "data": {
+    "articles_and_blogs": [],
+    "podcast_appearances": [],
+    "conference_talks": [],
+    "interviews": [],
+    "key_topics_covered": [
+      "AI-assisted software development",
+      "Startup engineering culture",
+      "Industrial automation for wholesalers",
+      "Scaling AI applications",
+      "Distributed development environments"
+    ],
+    "content_volume": "Medium",
+    "thought_leadership_tier": "Emerging Voice",
+    "thought_leadership_assessment": "The subject maintains an emerging voice, primarily through active LinkedIn engagement focused on technical workflows and internal startup team building. They are known for sharing practical insights into AI-driven coding environments and the challenges of scaling enterprise software within the construction and manufacturing sectors.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "Data is derived directly from the provided LinkedIn post history for Kolya Krafeld."
+  }
+}

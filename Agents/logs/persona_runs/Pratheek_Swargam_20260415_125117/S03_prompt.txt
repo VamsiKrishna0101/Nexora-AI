@@ -1,0 +1,207 @@
+SYSTEM: None
+
+USER: 
+You are a Technical Talent Architect at a Palantir-grade research firm.
+Produce a precise, evidence-ranked Skills & Expertise profile for the subject.
+Do not infer skills not evidenced in the data.
+
+INPUT DATA:
+LinkedIn Profile: {
+  "url": "https://www.linkedin.com/in/pratheek-swargam",
+  "username": "pratheek-swargam",
+  "linkedin_id": "ACoAAE3vR2gB6Z7qUMJrfQvGzz0umpILY6mUUHU",
+  "first_name": "Pratheek",
+  "last_name": "Swargam",
+  "full_name": "Pratheek Swargam",
+  "headline": "Programmer Analyst Trainee at Cognizant",
+  "is_influencer": null,
+  "is_premium": null,
+  "is_memorialized": false,
+  "location": "Hyder\u0101b\u0101d, Telangana, India",
+  "location_raw": "Hyderabad, Telangana, India India",
+  "country_full": "India",
+  "state": "Telangana",
+  "city": "Hyder\u0101b\u0101d",
+  "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQGS1trmG2nmRQ/profile-displayphoto-crop_800_800/B56ZzSsIwyJQAM-/0/1773061314734?e=1778112000&v=beta&t=iH3NvU48DeO8vFEEkKfJ350EbFdSb5emnl9TGyqaBkY",
+  "top_skills": [],
+  "linkedin_followers": null,
+  "connections_count": null,
+  "about": null,
+  "current_positions": [
+    {
+      "company_name": "Cognizant",
+      "company_linkedin_url": "https://www.linkedin.com/company/1680/",
+      "date_range": null
+    }
+  ],
+  "experiences": [
+    {
+      "title": "Programmer Analyst Trainee",
+      "company": "Cognizant",
+      "duration": "6 mos",
+      "description": null,
+      "skills": [],
+      "start_date": {
+        "month": "Nov",
+        "year": 2025,
+        "text": "Nov 2025"
+      },
+      "end_date": {
+        "text": "Present"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQFZH4svu5BTZA/company-logo_400_400/B4EZk_EfNgHgAc-/0/1757699778309/cognizant_logo?e=1778112000&v=beta&t=Lq0b9TiEwMTJ9QN85e0tm9ZIio7uSKo4hqyy8fZynYQ"
+    }
+  ],
+  "educations": [
+    {
+      "institution": "Neil Gogte Institute of Technology",
+      "school_linkedin_url": null,
+      "degree": "Bachelor of Engineering - BE",
+      "field_of_study": "Computer Science",
+      "skills": [],
+      "start_date": {
+        "year": 2021,
+        "text": "2021"
+      },
+      "end_date": {
+        "year": 2025,
+        "text": "2025"
+      },
+      "school_logo_url": null
+    },
+    {
+      "institution": "Impulse Junior College",
+      "school_linkedin_url": null,
+      "degree": "Intermediate",
+      "field_of_study": "M.P.C",
+      "skills": [],
+      "start_date": {
+        "year": 2019,
+        "text": "2019"
+      },
+      "end_date": {
+        "year": 2021,
+        "text": "2021"
+      },
+      "school_logo_url": null
+    },
+    {
+      "institution": "Navyabharathi Global School - India",
+      "school_linkedin_url": "https://www.linkedin.com/school/7894343/",
+      "degree": "High School",
+      "field_of_study": "CBSE",
+      "skills": [],
+      "start_date": {
+        "year": 2016,
+        "text": "2016"
+      },
+      "end_date": {
+        "year": 2019,
+        "text": "2019"
+      },
+      "school_logo_url": null
+    }
+  ],
+  "skills": [
+    "Flask",
+    "Random Forest",
+    "Python (Programming Language)",
+    "GitHub",
+    "SQL",
+    "Object-Oriented Programming (OOP)",
+    "HTML",
+    "JavaScript",
+    "Cascading Style Sheets (CSS)",
+    "DSA",
+    "Java"
+  ],
+  "languages": [],
+  "certifications": [
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    }
+  ],
+  "projects": [
+    {
+      "title": "Agritech",
+      "description": "This webapp uses machine learning algorithms to predict the annual rainfall, yield and crop recommendation.\nSkills: Flask, Random Forest, +2 skills\nAgritech",
+      "url": null
+    },
+    {
+      "title": "Virtual Draw",
+      "description": "->This tool helps users to draw and annotate visually in real time without using input tools like stylus or digital board .\n->Instead, it takes input using hand gestures of users through the webcam.\n->OpenCv and Mediapipe are used to capture image in real time and to recognize landmarks on hands to efficiently draw on canvas.\nSkills: Python (Programming Language)\nGitHub - Pratheek3/Gesture-Draw-Using-ML",
+      "url": null
+    }
+  ],
+  "volunteering": [],
+  "recommendations": [],
+  "publications": [],
+  "courses": [],
+  "patents": [],
+  "honors_awards": [],
+  "causes": [],
+  "featured": []
+}
+LinkedIn Posts (last 20): [
+  {
+    "type": "post",
+    "is_activity": null,
+    "url": null,
+    "text": "",
+    "num_shares": 0,
+    "num_likes": 0,
+    "num_comments": 0,
+    "comments_count": 0,
+    "reactions_count": 0,
+    "posted_at": null,
+    "actor_name": null,
+    "actor_profile_url": null,
+    "post_type": null
+  }
+]
+
+Output ONLY this JSON:
+{
+  "section_id": 3,
+  "section_name": "Skills & Expertise",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "top_technical_skills": [
+      {
+        "skill": "",
+        "category": "Language|Tool|Framework|Methodology|Platform|Domain",
+        "evidence_level": "High|Medium|Low",
+        "evidence_source": "LinkedIn Skills|Experience Description|Posts|About"
+      }
+    ],
+    "domain_expertise": [
+      {
+        "domain": "",
+        "depth": "Expert|Practitioner|Aware",
+        "evidence": ""
+      }
+    ],
+    "soft_skills_signals": [
+      {
+        "skill": "",
+        "signal_source": "Experience|About|Posts|Recommendations",
+        "justification": ""
+      }
+    ],
+    "skill_gaps_or_blind_spots": [],
+    "skill_progression_narrative": "",
+    "data_confidence": "high|medium|low",
+    "data_confidence_rationale": ""
+  }
+}
+
+RULES:
+- top_technical_skills: max 12 items. Rank by evidence_level descending.
+- domain_expertise: max 6 items. Only include domains with clear, repeated evidence.
+- soft_skills_signals: max 5 items. Each justification must cite a specific post, phrase, or description — no generic inferences.
+- skill_gaps_or_blind_spots: infer only if there is a clear absence in a domain they work in. Max 3. If none evident, return [].
+- skill_progression_narrative: 2-3 sentences showing how their expertise evolved across their career timeline.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

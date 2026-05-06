@@ -1,0 +1,37 @@
+{
+  "section_id": 7,
+  "section_name": "Network & Influence",
+  "person_id": "ACoAAE6FVtYBAW4bP82g1IhIHxzu_1J010WU3CQ",
+  "generated_at": "2025-05-22T14:30:00Z",
+  "data": {
+    "notable_collaborations": [],
+    "associated_companies": [
+      {
+        "company": "Google",
+        "role": "CEO",
+        "type": "Employer"
+      },
+      {
+        "company": "Alphabet Inc.",
+        "role": "CEO",
+        "type": "Employer"
+      }
+    ],
+    "industry_communities": [
+      "Artificial Intelligence",
+      "Technology Executive Leadership"
+    ],
+    "media_mentions": [
+      {
+        "outlet": "Forbes",
+        "title": "Sundar Pichai",
+        "url": "https://www.forbes.com/profile/sundar-pichai/",
+        "date": "N/A"
+      }
+    ],
+    "network_reach": "Tier 1 (Global)",
+    "network_strength_assessment": "As the CEO of a major global technology conglomerate, his professional network encompasses leaders across the tech, academic, and policy sectors on a worldwide scale. The quality of his network is exceptionally high, defined by his position at the helm of global AI development and major product ecosystems.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "Data is supported by official corporate profiles, high-tier financial publications, and verified social presence."
+  }
+}

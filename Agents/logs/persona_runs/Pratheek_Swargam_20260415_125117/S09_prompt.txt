@@ -1,0 +1,433 @@
+SYSTEM: None
+
+USER: 
+You are a career intelligence analyst at a Palantir-grade research firm.
+Extract verifiable Achievements & Milestones for the subject.
+Precision over volume — only report what is explicitly supported by the data.
+
+INPUT DATA:
+LinkedIn Profile: {
+  "url": "https://www.linkedin.com/in/pratheek-swargam",
+  "username": "pratheek-swargam",
+  "linkedin_id": "ACoAAE3vR2gB6Z7qUMJrfQvGzz0umpILY6mUUHU",
+  "first_name": "Pratheek",
+  "last_name": "Swargam",
+  "full_name": "Pratheek Swargam",
+  "headline": "Programmer Analyst Trainee at Cognizant",
+  "is_influencer": null,
+  "is_premium": null,
+  "is_memorialized": false,
+  "location": "Hyder\u0101b\u0101d, Telangana, India",
+  "location_raw": "Hyderabad, Telangana, India India",
+  "country_full": "India",
+  "state": "Telangana",
+  "city": "Hyder\u0101b\u0101d",
+  "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQGS1trmG2nmRQ/profile-displayphoto-crop_800_800/B56ZzSsIwyJQAM-/0/1773061314734?e=1778112000&v=beta&t=iH3NvU48DeO8vFEEkKfJ350EbFdSb5emnl9TGyqaBkY",
+  "top_skills": [],
+  "linkedin_followers": null,
+  "connections_count": null,
+  "about": null,
+  "current_positions": [
+    {
+      "company_name": "Cognizant",
+      "company_linkedin_url": "https://www.linkedin.com/company/1680/",
+      "date_range": null
+    }
+  ],
+  "experiences": [
+    {
+      "title": "Programmer Analyst Trainee",
+      "company": "Cognizant",
+      "duration": "6 mos",
+      "description": null,
+      "skills": [],
+      "start_date": {
+        "month": "Nov",
+        "year": 2025,
+        "text": "Nov 2025"
+      },
+      "end_date": {
+        "text": "Present"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQFZH4svu5BTZA/company-logo_400_400/B4EZk_EfNgHgAc-/0/1757699778309/cognizant_logo?e=1778112000&v=beta&t=Lq0b9TiEwMTJ9QN85e0tm9ZIio7uSKo4hqyy8fZynYQ"
+    }
+  ],
+  "educations": [
+    {
+      "institution": "Neil Gogte Institute of Technology",
+      "school_linkedin_url": null,
+      "degree": "Bachelor of Engineering - BE",
+      "field_of_study": "Computer Science",
+      "skills": [],
+      "start_date": {
+        "year": 2021,
+        "text": "2021"
+      },
+      "end_date": {
+        "year": 2025,
+        "text": "2025"
+      },
+      "school_logo_url": null
+    },
+    {
+      "institution": "Impulse Junior College",
+      "school_linkedin_url": null,
+      "degree": "Intermediate",
+      "field_of_study": "M.P.C",
+      "skills": [],
+      "start_date": {
+        "year": 2019,
+        "text": "2019"
+      },
+      "end_date": {
+        "year": 2021,
+        "text": "2021"
+      },
+      "school_logo_url": null
+    },
+    {
+      "institution": "Navyabharathi Global School - India",
+      "school_linkedin_url": "https://www.linkedin.com/school/7894343/",
+      "degree": "High School",
+      "field_of_study": "CBSE",
+      "skills": [],
+      "start_date": {
+        "year": 2016,
+        "text": "2016"
+      },
+      "end_date": {
+        "year": 2019,
+        "text": "2019"
+      },
+      "school_logo_url": null
+    }
+  ],
+  "skills": [
+    "Flask",
+    "Random Forest",
+    "Python (Programming Language)",
+    "GitHub",
+    "SQL",
+    "Object-Oriented Programming (OOP)",
+    "HTML",
+    "JavaScript",
+    "Cascading Style Sheets (CSS)",
+    "DSA",
+    "Java"
+  ],
+  "languages": [],
+  "certifications": [
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    }
+  ],
+  "projects": [
+    {
+      "title": "Agritech",
+      "description": "This webapp uses machine learning algorithms to predict the annual rainfall, yield and crop recommendation.\nSkills: Flask, Random Forest, +2 skills\nAgritech",
+      "url": null
+    },
+    {
+      "title": "Virtual Draw",
+      "description": "->This tool helps users to draw and annotate visually in real time without using input tools like stylus or digital board .\n->Instead, it takes input using hand gestures of users through the webcam.\n->OpenCv and Mediapipe are used to capture image in real time and to recognize landmarks on hands to efficiently draw on canvas.\nSkills: Python (Programming Language)\nGitHub - Pratheek3/Gesture-Draw-Using-ML",
+      "url": null
+    }
+  ],
+  "volunteering": [],
+  "recommendations": [],
+  "publications": [],
+  "courses": [],
+  "patents": [],
+  "honors_awards": [],
+  "causes": [],
+  "featured": []
+}
+Web Search Results: --- parallel_ai_research ---
+{
+  "basis": [
+    {
+      "field": "current_role",
+      "reasoning": "The LinkedIn search snippet explicitly lists the experience as Cognizant and, combined with the user-provided designation, indicates the person works as a Programmer Analyst Trainee at Cognizant.",
+      "citations": [
+        {
+          "url": "https://in.linkedin.com/in/pratheek-swargam",
+          "excerpts": [
+            "Experience: Cognizant \u00b7 Education: Neil Gogte Institute of Technology \u00b7 Location: 500008 \u00b7 376 connections on LinkedIn. View Pratheek Swargam's profile on"
+          ],
+          "title": "Pratheek Swargam - Cognizant"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "full_name",
+      "reasoning": "The LinkedIn snippet displays the name \"Pratheek Swargam\", matching the user query.",
+      "citations": [
+        {
+          "url": "https://x.com/heloitspratheek",
+          "excerpts": [],
+          "title": null
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "professional_summary",
+      "reasoning": "Combining the confirmed role at Cognizant with the education institution from LinkedIn yields a concise professional overview.",
+      "citations": [
+        {
+          "url": "https://x.com/heloitspratheek",
+          "excerpts": [],
+          "title": null
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "influence_score",
+      "reasoning": "The only measurable public signal is a music\u2011producer X profile with high streaming claims, which is ambiguous. Conservatively, the professional influence is low.",
+      "citations": [
+        {
+          "url": "https://x.com/heloitspratheek",
+          "excerpts": [
+            "- Music Producer | Lo-fi Remixes",
+            " 17M+ Spotify Streams "
+          ],
+          "title": "Pratheek (@heloitspratheek) / Posts / X"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "data_confidence",
+      "reasoning": "The primary verified source is a LinkedIn snippet; other social accounts are ambiguous or unrelated. Automated extraction failed for LinkedIn, limiting data completeness.",
+      "citations": [
+        {
+          "url": "https://x.com/heloitspratheek",
+          "excerpts": [],
+          "title": null
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "red_flags",
+      "reasoning": "Potential identity confusion arises from a separate music\u2011producer X/TikTok/Instagram presence that shares a similar name but lacks clear connection to the Cognizant professional profile.",
+      "citations": [
+        {
+          "url": "https://www.tiktok.com/@prateekswargam",
+          "excerpts": [],
+          "title": "Prateek Swargam (@prateekswargam)"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "how_to_approach",
+      "reasoning": "A concise, professional message referencing his Cognizant role and shared alma mater is appropriate. Avoid assumptions about the music career unless its ownership is confirmed.",
+      "citations": [
+        {
+          "url": "https://x.com/heloitspratheek",
+          "excerpts": [],
+          "title": null
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "skills",
+      "reasoning": "No explicit skill list is available in the public snippets; typical skills for a Programmer Analyst Trainee are inferred.",
+      "citations": [
+        {
+          "url": "https://x.com/heloitspratheek",
+          "excerpts": [],
+          "title": null
+        }
+      ],
+      "confidence": "low"
+    },
+    {
+      "field": "online_presence",
+      "reasoning": "The answer lists the only verifiable URLs and notes the lack of publicly available personal website, GitHub, or LinkedIn posts.",
+      "citations": [
+        {
+          "url": "https://x.com/heloitspratheek",
+          "excerpts": [],
+          "title": null
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "education",
+      "reasoning": "The LinkedIn snippet mentions Neil Gogte Institute of Technology as the education institution.",
+      "citations": [
+        {
+          "url": "https://x.com/heloitspratheek",
+          "excerpts": [],
+          "title": null
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "personality_signals",
+      "reasoning": "Limited professional posts prevent a solid assessment; the X music profile suggests a creative, promotional communication style if it is the same person.",
+      "citations": [
+        {
+          "url": "https://www.instagram.com/prateekswargam/",
+          "excerpts": [
+            "614 followers \u00b7 1.2K+ following \u00b7 76 posts \u00b7 @prateekswargam: \u201cLiverpool YNWA"
+          ],
+          "title": "Prateek Swargam (@prateekswargam)"
+        }
+      ],
+      "confidence": "low"
+    },
+    {
+      "field": "career_history",
+      "reasoning": "Only the current Cognizant role is confirmed by the LinkedIn snippet; no prior positions are found.",
+      "citations": [
+        {
+          "url": "https://x.com/heloitspratheek",
+          "excerpts": [],
+          "title": null
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "publications_and_talks",
+      "reasoning": "No articles, talks, podcasts, or publications were found linked to the professional profile.",
+      "citations": [
+        {
+          "url": "https://x.com/heloitspratheek",
+          "excerpts": [],
+          "title": null
+        }
+      ],
+      "confidence": "low"
+    },
+    {
+      "field": "achievements",
+      "reasoning": "No verifiable achievements are associated with the Cognizant profile. The X music claim of 17M+ streams is unconfirmed for this individual.",
+      "citations": [
+        {
+          "url": "https://x.com/heloitspratheek",
+          "excerpts": [],
+          "title": null
+        }
+      ],
+      "confidence": "low"
+    }
+  ],
+  "content": {
+    "current_role": "Programmer Analyst Trainee at Cognizant",
+    "full_name": "Pratheek Swargam",
+    "professional_summary": "Entry-level software professional working as a Programmer Analyst Trainee at Cognizant. He holds an engineering degree from Neil Gogte Institute of Technology. Public online presence is limited with no visible project portfolio.",
+    "influence_score": 18.0,
+    "data_confidence": "medium",
+    "red_flags": [
+      "Ambiguous identity due to separate music\u2011producer accounts with similar name."
+    ],
+    "how_to_approach": "Send a brief, professional note that mentions his position as Programmer Analyst Trainee at Cognizant and references Neil Gogte Institute of Technology, asking about his current projects or interests. Do not mention the music producer profile unless you have verified it belongs to him.",
+    "skills": [
+      "Java",
+      "Python",
+      "C/C++",
+      "SQL",
+      "Problem solving",
+      "Teamwork"
+    ],
+    "online_presence": {
+      "personal_website": "",
+      "github_handle": "",
+      "twitter_handle": "https://x.com/heloitspratheek",
+      "linkedin_url": "https://in.linkedin.com/in/pratheek-swargam",
+      "recent_posts_summary": "LinkedIn posts not accessible; X profile shows a music\u2011producer bio with minimal public posts."
+    },
+    "education": [
+      {
+        "institution": "Neil Gogte Institute of Technology",
+        "year": "",
+        "degree": ""
+      }
+    ],
+    "personality_signals": {
+      "communication_style": "Not enough data from the professional LinkedIn profile; music X account indicates a creative, promotional tone.",
+      "key_interests": [
+        "software development",
+        "music production"
+      ],
+      "values": [],
+      "leadership_style": ""
+    },
+    "career_history": [
+      {
+        "duration": "",
+        "title": "Programmer Analyst Trainee",
+        "company": "Cognizant"
+      }
+    ],
+    "publications_and_talks": [],
+    "achievements": []
+  },
+  "type": "json",
+  "beta_fields": null,
+  "output_schema": null
+}
+
+Output ONLY this JSON:
+{
+  "section_id": 9,
+  "section_name": "Achievements & Milestones",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "notable_achievements": [
+      {
+        "achievement": "",
+        "context": "",
+        "quantified_impact": "",
+        "source": "LinkedIn|Web|Both"
+      }
+    ],
+    "companies_built_or_scaled": [
+      {
+        "company": "",
+        "role": "",
+        "scale_indicator": "",
+        "outcome": "Active|Acquired|Shutdown|Unknown"
+      }
+    ],
+    "products_launched": [
+      {
+        "product": "",
+        "context": "",
+        "impact": ""
+      }
+    ],
+    "awards_and_recognition": [
+      {
+        "award": "",
+        "issuing_body": "",
+        "year": ""
+      }
+    ],
+    "career_highlight": "",
+    "achievement_density": "High|Medium|Low",
+    "data_confidence": "high|medium|low",
+    "data_confidence_rationale": ""
+  }
+}
+
+RULES:
+- notable_achievements: max 8. Rank by impact. quantified_impact must contain a number or measurable outcome — if none available in the data, set to null. Do not fabricate metrics.
+- scale_indicator: must be a specific number or range from the data (e.g., "$50M ARR", "200-person team", "1M users"). If unavailable, set to null.
+- products_launched: only include products explicitly mentioned in LinkedIn or web data.
+- awards_and_recognition: only include if explicitly stated in the data. Never infer or guess.
+- career_highlight: exactly 1 sentence — the single most impressive, verifiable thing about their career.
+- achievement_density: High = 5+ quantified achievements. Medium = 2–4. Low = 0–1.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

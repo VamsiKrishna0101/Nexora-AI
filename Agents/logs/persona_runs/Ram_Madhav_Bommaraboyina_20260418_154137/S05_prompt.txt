@@ -1,0 +1,543 @@
+SYSTEM: None
+
+USER: 
+You are a digital intelligence analyst at a Palantir-grade research firm.
+Map the full Online Presence & Activity footprint of the subject across all available platforms.
+Accuracy over completeness — never fabricate platform data.
+
+INPUT DATA:
+LinkedIn Profile: {
+  "url": "https://www.linkedin.com/in/ram-madhav-bommaraboyina-381576341",
+  "username": "ram-madhav-bommaraboyina-381576341",
+  "linkedin_id": "ACoAAFWw7ZEBQ3ThuQDibWe3Z6BoAWqPUp5WwQ4",
+  "first_name": "Ram Madhav",
+  "last_name": "Bommaraboyina",
+  "full_name": "Ram Madhav Bommaraboyina",
+  "headline": "Intern at ICRISAT",
+  "is_influencer": false,
+  "is_premium": false,
+  "is_memorialized": false,
+  "location": "Hyder\u0101b\u0101d, Telangana, India",
+  "location_raw": "Hyderabad, Telangana, India",
+  "country_full": "India",
+  "state": "Telangana",
+  "city": "Hyder\u0101b\u0101d",
+  "profile_picture_url": null,
+  "top_skills": [],
+  "linkedin_followers": 174,
+  "connections_count": 175,
+  "about": "Backend & AI Developer with hands-on industry experience building intelligent, scalable systems... experienced in designing REST APIs and backend architectures with Django, and building AI/ML solutions spanning RAG pipelines, computer vision (YOLOv8), and large language model integration \u2014 bridging the gap between robust backend engineering and practical AI applications",
+  "current_positions": [
+    {
+      "company_name": "ICRISAT",
+      "company_linkedin_url": "https://www.linkedin.com/company/icrisat/",
+      "date_range": null
+    }
+  ],
+  "experiences": [
+    {
+      "title": "Intern",
+      "company": "ICRISAT",
+      "duration": "6 mos",
+      "description": null,
+      "skills": [
+        "Python (Programming Language)",
+        "Django"
+      ],
+      "start_date": {
+        "month": "Nov",
+        "year": 2025,
+        "text": "Nov 2025"
+      },
+      "end_date": {
+        "text": "Present"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQG-8JIPC1E1ig/company-logo_400_400/company-logo_400_400/0/1707305647045/icrisat_logo?e=1778112000&v=beta&t=i1rs_bj3nb2gn7nG11RI7gJaJtgtA6m0f1lRuM7d3v0"
+    }
+  ],
+  "educations": [
+    {
+      "institution": "Neil Gogte Institute of Technology",
+      "school_linkedin_url": "https://www.linkedin.com/company/82110623/",
+      "degree": "Bachelor of Engineering",
+      "field_of_study": null,
+      "skills": [
+        "Extract load transform"
+      ],
+      "start_date": {
+        "year": 2021,
+        "text": "2021"
+      },
+      "end_date": {
+        "year": 2025,
+        "text": "2025"
+      },
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQGleaQAtBGvRg/company-logo_400_400/company-logo_400_400/0/1654673880195?e=1778112000&v=beta&t=LhX-fbwNNtSHrkxc6lxB0_ogLlmkv7pN9ZwF566P-yA"
+    },
+    {
+      "institution": "sri chaitanya junior college",
+      "school_linkedin_url": "https://www.linkedin.com/company/67713817/",
+      "degree": "12th",
+      "field_of_study": null,
+      "skills": [],
+      "start_date": null,
+      "end_date": {
+        "text": ""
+      },
+      "school_logo_url": null
+    }
+  ],
+  "skills": [
+    "Programming Languages",
+    "Technology Trends",
+    "Web Application Development",
+    "Scikit-Learn",
+    "Sendmail",
+    "Large Language Models (LLM)",
+    "Deep Learning",
+    "Recommender Systems",
+    "Speech Technology",
+    "NumPy",
+    "Front-End Development",
+    "Back-End Web Development",
+    "Python (Programming Language)",
+    "Django",
+    "REST APIs",
+    "Spring Boot",
+    "OkHttp",
+    "Tkinter",
+    "MongoDB",
+    "Java",
+    "Generative AI",
+    "Extract load transform",
+    "Gemini"
+  ],
+  "languages": [],
+  "certifications": [],
+  "projects": [
+    {
+      "title": "ANPR Challan-System",
+      "description": "Automated Number Plate Detection and Challan Issuing System is a web application that uses YOLOv8 to identify vehicle number plates and automatically send challans via email.",
+      "url": null
+    },
+    {
+      "title": "CineVerse AI Multi Language Movie Recommender",
+      "description": "Developed a multi-language movie recommendation system that suggests movies in English, Hindi, and Telugu using both content-based and collaborative filtering techniques. The system is enhanced with an AI-powered chatbot and a quiz module that predicts genres based on user interaction and User as option view the trailer at there only.",
+      "url": null
+    },
+    {
+      "title": "Track-IT",
+      "description": "TrackIt is a secure, role-based Ticket Management System built using Django and Django REST Framework (DRF). It enables users to create, manage, and track issue tickets with proper authentication, authorization, filtering, and pagination. Security Feature implemented using JWT.",
+      "url": null
+    }
+  ],
+  "volunteering": [],
+  "recommendations": [],
+  "publications": [],
+  "courses": [],
+  "patents": [],
+  "honors_awards": [],
+  "causes": [],
+  "featured": null
+}
+LinkedIn Posts: [
+  {
+    "type": "post",
+    "is_activity": true,
+    "url": "https://www.linkedin.com/posts/icrisat_icrisat-hosted-a-3-day-review-capacity-strengthening-ugcPost-7408826413245448192-ji2a?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAAWvnk0Bd6NNFDdu5-5QrShZux3soc8C-j8",
+    "text": "ICRISAT hosted a 3-day Review, Capacity Strengthening, Knowledge Transfer, and Planning program on \u201cAI-powered Agro-met Advisories at Scale\u201d from 17\u201319 December 2025, project under Mission Mausam, funded by the Ministry of Earth Sciences (MoES) and supported by ICAR- Indian Council of Agricultural Research, Indian Institute of Tropical Meteorology and India Meteorological Department. \n\nThe program brought together teams from ICRISAT, ICAR\u2013Central Research Institute for Dryland Agriculture, International Livestock Research Institute (ILRI), AICRPAM centres, IITM, and IMD. Discussions focused on key learnings from earlier pilots, progress achieved so far, standardization for agri-data ecosystems, ML-based decision structures, LLM architecture, fine-tuning approaches, AI framework, and the roadmap ahead for scaling AI-enabled agro- advisory services.\n\nDr Shalander Kumar Dr Kishore Kumar, Dr Ram Kiran Dhulipala Dr abburi subbarao, Dr Santanu Kumar Bal Ms Kanika Singh, Dr Sarath Chandran Dr Kailash Dhakore\n\nCGIAR, CGIAR Climate Action, CGIAR Digital Transformation",
+    "num_shares": 8,
+    "num_likes": 253,
+    "num_comments": 8,
+    "comments_count": 4,
+    "reactions_count": 10,
+    "posted_at": "2025-12-22T15:27:50.229Z",
+    "actor_name": "ICRISAT",
+    "actor_profile_url": "https://www.linkedin.com/company/icrisat/posts",
+    "post_type": "image"
+  }
+]
+Twitter Profile: {}
+Twitter Posts: []
+Web Search Results: --- parallel_ai_research ---
+{
+  "basis": [
+    {
+      "field": "current_role",
+      "reasoning": "The GitHub repository README for the WhatsApp AI Assistant explicitly states it was \"Built at ICRISAT\", indicating the individual's current position as an intern at ICRISAT. The user also supplied a LinkedIn URL that aligns with this role.",
+      "citations": [
+        {
+          "url": "https://github.com/rammadhav929/WhatsApp-AI-Assistant",
+          "excerpts": [],
+          "title": "GitHub - rammadhav929/WhatsApp-AI-Assistant: Developed a cloud-hosted backend system to automate WhatsApp message handling and generate intelligent replies in real time using AI. \u00b7 GitHub"
+        },
+        {
+          "url": "https://github.com/rammadhav929",
+          "excerpts": [],
+          "title": "Ram Madhav Bommaraboyina rammadhav929 - GitHub"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "full_name",
+      "reasoning": "The full name appears in the GitHub profile description and is reinforced by the LinkedIn URL supplied in the source list.",
+      "citations": [
+        {
+          "url": "https://github.com/rammadhav929",
+          "excerpts": [],
+          "title": "Ram Madhav Bommaraboyina rammadhav929 - GitHub"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "professional_summary",
+      "reasoning": "The GitHub profile describes the individual's academic background and technical focus, while the README files of three major repositories detail the kinds of projects undertaken, giving a concise picture of professional expertise.",
+      "citations": [
+        {
+          "url": "https://github.com/rammadhav929",
+          "excerpts": [],
+          "title": "Ram Madhav Bommaraboyina rammadhav929 - GitHub"
+        },
+        {
+          "url": "https://github.com/rammadhav929/WhatsApp-AI-Assistant",
+          "excerpts": [
+            "Developed a cloud-hosted backend system to automate WhatsApp message handling and generate intelligent real-time AI responses."
+          ],
+          "title": "GitHub - rammadhav929/WhatsApp-AI-Assistant: Developed a cloud-hosted backend system to automate WhatsApp message handling and generate intelligent replies in real time using AI. \u00b7 GitHub"
+        },
+        {
+          "url": "https://github.com/rammadhav929/RAG-Based-Document-Question-Answering-System",
+          "excerpts": [
+            "Architected a Retrieval Augmented Generation (RAG) pipeline for semantic QA and summarization over PDF document\nE"
+          ],
+          "title": "GitHub - rammadhav929/RAG-Based-Document-Question-Answering-System \u00b7 GitHub"
+        },
+        {
+          "url": "https://github.com/rammadhav929/ANPR-Challan-System",
+          "excerpts": [
+            "Automated Number Plate Detection and Challan Issuing System is a web application that uses YOLOv8 to identify vehicle number plates and automatically send challans via email."
+          ],
+          "title": "GitHub - rammadhav929/ANPR-Challan-System: Automated Number Plate Detection and Challan Issuing System is a web application that uses YOLOv8 to identify vehicle number plates and automatically send challans via email. \u00b7 GitHub"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "influence_score",
+      "reasoning": "The individual maintains an active GitHub presence with multiple repositories and demos but has no visible large\u2011scale follower base, press coverage, or citation record, leading to an estimated moderate influence.",
+      "citations": [
+        {
+          "url": "https://github.com/rammadhav929",
+          "excerpts": [],
+          "title": "Ram Madhav Bommaraboyina rammadhav929 - GitHub"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "skills",
+      "reasoning": "Technical skills are listed in the GitHub profile's \"Tech Stack\" section; soft skills are inferred from the language of the README files describing pragmatic, production\u2011oriented development.",
+      "citations": [
+        {
+          "url": "https://github.com/rammadhav929",
+          "excerpts": [],
+          "title": "Ram Madhav Bommaraboyina rammadhav929 - GitHub"
+        },
+        {
+          "url": "https://github.com/rammadhav929/WhatsApp-AI-Assistant",
+          "excerpts": [
+            "Developed a cloud-hosted backend system to automate WhatsApp message handling and generate intelligent real-time AI responses."
+          ],
+          "title": "GitHub - rammadhav929/WhatsApp-AI-Assistant: Developed a cloud-hosted backend system to automate WhatsApp message handling and generate intelligent replies in real time using AI. \u00b7 GitHub"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "data_confidence",
+      "reasoning": "Primary public data originates from the GitHub account (complete READMEs, contact email, project details) and a LinkedIn URL supplied by the user, though the LinkedIn page could not be fully scraped.",
+      "citations": [
+        {
+          "url": "https://github.com/rammadhav929",
+          "excerpts": [],
+          "title": "Ram Madhav Bommaraboyina rammadhav929 - GitHub"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "red_flags",
+      "reasoning": "No concerning content, plagiarism claims, or criminal records were found in any of the examined sources.",
+      "citations": [],
+      "confidence": "high"
+    },
+    {
+      "field": "how_to_approach",
+      "reasoning": "The README files show a technical, concise communication style and a preference for direct, project\u2011focused interaction. Contact via email or GitHub issues aligns with the demonstrated channels.",
+      "citations": [
+        {
+          "url": "https://github.com/rammadhav929/WhatsApp-AI-Assistant",
+          "excerpts": [
+            "Developed a cloud-hosted backend system to automate WhatsApp message handling and generate intelligent real-time AI responses."
+          ],
+          "title": "GitHub - rammadhav929/WhatsApp-AI-Assistant: Developed a cloud-hosted backend system to automate WhatsApp message handling and generate intelligent replies in real time using AI. \u00b7 GitHub"
+        },
+        {
+          "url": "https://github.com/rammadhav929/ANPR-Challan-System",
+          "excerpts": [
+            "Automated Number Plate Detection and Challan Issuing System is a web application that uses YOLOv8 to identify vehicle number plates and automatically send challans via email."
+          ],
+          "title": "GitHub - rammadhav929/ANPR-Challan-System: Automated Number Plate Detection and Challan Issuing System is a web application that uses YOLOv8 to identify vehicle number plates and automatically send challans via email. \u00b7 GitHub"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "online_presence",
+      "reasoning": "The GitHub profile provides the primary handle and contact details; the LinkedIn URL is known but content is not fully accessible; no personal website or Twitter account matching the profile was identified.",
+      "citations": [
+        {
+          "url": "https://github.com/rammadhav929",
+          "excerpts": [],
+          "title": "Ram Madhav Bommaraboyina rammadhav929 - GitHub"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "education",
+      "reasoning": "The GitHub profile mentions a \"Computer Science graduate (AI & ML)\" but provides no institution or graduation year.",
+      "citations": [
+        {
+          "url": "https://github.com/rammadhav929",
+          "excerpts": [],
+          "title": "Ram Madhav Bommaraboyina rammadhav929 - GitHub"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "personality_signals",
+      "reasoning": "The language in the GitHub profile and repository READMEs emphasizes pragmatic, detail\u2011oriented, production\u2011focused communication, revealing key interests and values. No leadership titles are listed, indicating an early\u2011career contributor role.",
+      "citations": [
+        {
+          "url": "https://github.com/rammadhav929",
+          "excerpts": [],
+          "title": "Ram Madhav Bommaraboyina rammadhav929 - GitHub"
+        },
+        {
+          "url": "https://github.com/rammadhav929/WhatsApp-AI-Assistant",
+          "excerpts": [],
+          "title": "GitHub - rammadhav929/WhatsApp-AI-Assistant: Developed a cloud-hosted backend system to automate WhatsApp message handling and generate intelligent replies in real time using AI. \u00b7 GitHub"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "career_history",
+      "reasoning": "The only explicit employment attribution found is the \"Built at ICRISAT\" note in the WhatsApp AI Assistant repository, indicating an internship at ICRISAT.",
+      "citations": [
+        {
+          "url": "https://github.com/rammadhav929/WhatsApp-AI-Assistant",
+          "excerpts": [],
+          "title": "GitHub - rammadhav929/WhatsApp-AI-Assistant: Developed a cloud-hosted backend system to automate WhatsApp message handling and generate intelligent replies in real time using AI. \u00b7 GitHub"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "publications_and_talks",
+      "reasoning": "Search of public academic indexes, conference pages, and media did not reveal any articles, podcasts, or talks associated with the individual.",
+      "citations": [
+        {
+          "url": "https://github.com/rammadhav929",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://github.com/rammadhav929?tab=repositories",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://github.com/rammadhav929/WhatsApp-AI-Assistant",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://github.com/rammadhav929/RAG-Based-Document-Question-Answering-System",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://github.com/rammadhav929/ANPR-Challan-System",
+          "excerpts": [],
+          "title": null
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "achievements",
+      "reasoning": "Key achievements are documented in the repository READMEs, highlighting performance metrics and live demos of deployed systems.",
+      "citations": [
+        {
+          "url": "https://github.com/rammadhav929/ANPR-Challan-System",
+          "excerpts": [
+            "r-demo \"https://huggingface.co/spaces/rammadhav929/yolov8-anpr-demo\")\n"
+          ],
+          "title": "GitHub - rammadhav929/ANPR-Challan-System: Automated Number Plate Detection and Challan Issuing System is a web application that uses YOLOv8 to identify vehicle number plates and automatically send challans via email. \u00b7 GitHub"
+        },
+        {
+          "url": "https://github.com/rammadhav929/WhatsApp-AI-Assistant",
+          "excerpts": [
+            "Integrated Google Gemini LLM to generate dynamic, context-aware conversational replies."
+          ],
+          "title": "GitHub - rammadhav929/WhatsApp-AI-Assistant: Developed a cloud-hosted backend system to automate WhatsApp message handling and generate intelligent replies in real time using AI. \u00b7 GitHub"
+        },
+        {
+          "url": "https://github.com/rammadhav929/RAG-Based-Document-Question-Answering-System",
+          "excerpts": [
+            "Architected a Retrieval Augmented Generation (RAG) pipeline for semantic QA and summarization over PDF document\nE"
+          ],
+          "title": "GitHub - rammadhav929/RAG-Based-Document-Question-Answering-System \u00b7 GitHub"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "content": {
+    "current_role": "Intern \u2014 ICRISAT",
+    "full_name": "Ram Madhav Bommaraboyina",
+    "professional_summary": "Computer Science graduate (AI & ML focus) and backend engineer who builds AI\u2011integrated production\u2011ready systems (Django/DRF backends, RAG/LLM pipelines, YOLOv8 CV). Hands\u2011on projects include a WhatsApp AI Assistant (webhook\u2011driven), a RAG document QA system, and an ANPR pipeline with a live demo.",
+    "influence_score": 30.0,
+    "skills": [
+      "Python",
+      "Django",
+      "Django REST Framework",
+      "FastAPI",
+      "LLM/RAG pipelines (Meta Llama, Google Gemini, HuggingFace)",
+      "FAISS",
+      "SentenceTransformers",
+      "YOLOv8",
+      "EasyOCR",
+      "Docker",
+      "GitHub Actions",
+      "Render deployment",
+      "REST APIs",
+      "JWT/RBAC",
+      "pragmatic production focus",
+      "clean/modular coding",
+      "system design",
+      "problem\u2011solving",
+      "documentation"
+    ],
+    "data_confidence": "medium",
+    "red_flags": [],
+    "how_to_approach": "Engage in a technical manner, referencing specific repositories (e.g., WhatsApp\u2011AI\u2011Assistant, ANPR\u2011Challan\u2011System, RAG\u2011Based\u2011Document\u2011QA). Propose concrete collaboration points such as model tuning, deployment optimization, or joint open\u2011source contributions. Use the public email (b.rammadhav@gmail.com) or open a GitHub issue/PR; keep outreach brief and respect limited time.",
+    "online_presence": {
+      "personal_website": "",
+      "github_handle": "rammadhav929",
+      "twitter_handle": "",
+      "linkedin_url": "https://www.linkedin.com/in/ram-madhav-bommaraboyina-381576341/",
+      "recent_posts_summary": "GitHub activity between 2024\u20132026 shows multiple repository updates: WhatsApp AI Assistant, RAG Document QA system, ANPR Challan System, and supporting demos. Frequent commits demonstrate ongoing development of AI and backend engineering projects."
+    },
+    "education": [
+      {
+        "institution": "",
+        "year": "",
+        "degree": "Computer Science (AI & ML)"
+      }
+    ],
+    "personality_signals": {
+      "communication_style": "Technical, pragmatic, detail\u2011oriented",
+      "key_interests": [
+        "AI/ML (LLMs, RAG)",
+        "Backend engineering",
+        "Production deployment",
+        "Computer vision"
+      ],
+      "values": [
+        "Building production\u2011ready, secure systems",
+        "Clean code",
+        "Robustness"
+      ],
+      "leadership_style": "Individual contributor with project ownership; no public evidence of formal leadership roles"
+    },
+    "career_history": [
+      {
+        "duration": "",
+        "title": "Intern",
+        "company": "ICRISAT"
+      }
+    ],
+    "publications_and_talks": [],
+    "achievements": [
+      "ANPR project achieved 83.7% mAP@0.5 for plate detection and 83.6% mAP@0.5 for character detection, with a live Hugging Face demo.",
+      "WhatsApp AI Assistant deployed on Render and integrated with Google Gemini LLM for dynamic responses.",
+      "RAG Document QA system built with FAISS vector search and Meta Llama\u20113.1\u20118B\u2011Instruct, providing end\u2011to\u2011end semantic retrieval and generation."
+    ]
+  },
+  "type": "json",
+  "beta_fields": null,
+  "output_schema": null
+}
+
+POSTING FREQUENCY METHODOLOGY:
+  Given a list of post timestamps, calculate average days between posts.
+  Daily = avg < 2 days. Weekly = avg 2–10 days. Monthly = avg 10–40 days.
+  Rarely = avg > 40 days or fewer than 3 posts found. Unknown = no timestamps available.
+
+Output ONLY this JSON:
+{
+  "section_id": 5,
+  "section_name": "Online Presence & Activity",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "linkedin": {
+      "url": "",
+      "followers": 0,
+      "posts_analyzed": 0,
+      "posting_frequency": "Daily|Weekly|Monthly|Rarely|Unknown",
+      "avg_likes_per_post": 0,
+      "avg_comments_per_post": 0,
+      "top_topics": [],
+      "last_post_date": "",
+      "last_post_summary": ""
+    },
+    "twitter": {
+      "handle": "",
+      "url": "",
+      "followers": 0,
+      "posts_analyzed": 0,
+      "posting_frequency": "Daily|Weekly|Monthly|Rarely|Unknown",
+      "top_topics": [],
+      "avg_likes_per_tweet": 0,
+      "avg_retweets_per_tweet": 0,
+      "last_tweet_date": ""
+    },
+    "github": {
+      "url": "",
+      "found": false
+    },
+    "personal_website": "",
+    "other_platforms": [],
+    "overall_digital_footprint": "Strong|Moderate|Minimal|Ghost",
+    "recent_activity_summary": "",
+    "data_confidence": "high|medium|low",
+    "data_confidence_rationale": ""
+  }
+}
+
+RULES:
+- Apply the posting frequency methodology above exactly — do not estimate freely.
+- avg_likes_per_post and avg_comments_per_post: calculate from actual posts provided. Round to nearest integer.
+- top_topics: max 5 per platform. Derived only from posts in the input.
+- recent_activity_summary: 2-3 sentences on what they are actively discussing RIGHT NOW based on the 5 most recent posts.
+- overall_digital_footprint: Strong = active on 2+ platforms with consistent posting. Moderate = active on 1 platform. Minimal = rare posting. Ghost = no public content found.
+- github and personal_website: only populate if found in web_snippets or linkedin_data. Never construct URLs.
+- other_platforms: any other platforms found in web_snippets (YouTube, Substack, etc.).
+- If a platform has no data, set all its fields to null except boolean fields.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

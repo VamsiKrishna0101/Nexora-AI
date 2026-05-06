@@ -1,0 +1,33 @@
+{
+  "section_id": 10,
+  "section_name": "Risk & Red Flags",
+  "person_id": "vladimir-keil",
+  "data": {
+    "job_hopping_signal": {
+      "detected": true,
+      "roles_analyzed": 9,
+      "average_tenure_months": 5.77,
+      "shortest_tenure_months": 3,
+      "assessment": "Subject displays frequent job changes with an average tenure significantly below 18 months across multiple prior roles."
+    },
+    "controversial_statements": [],
+    "failed_ventures": [],
+    "reputation_signals": [
+      {
+        "signal": "Professional, well-regarded startup founder backed by high-profile investors (a16z, YC).",
+        "source": "LinkedIn, TechCrunch, Procurement Summit",
+        "sentiment": "Positive"
+      }
+    ],
+    "legal_or_regulatory_issues": [],
+    "data_gaps": [
+      "No independent personal website or GitHub repository provided.",
+      "Twitter/X social media history not available for analysis.",
+      "Specific academic degree completion years and grades are unverified."
+    ],
+    "overall_risk_rating": "Low",
+    "risk_summary": "The subject maintains a clean professional record with no verifiable legal or ethical red flags. While the career history shows high mobility characteristic of the startup ecosystem, this is consistent with typical venture-backed founding trajectories.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "Data is corroborated by official corporate newsrooms, reputable tech media, and verified professional networking profiles."
+  }
+}

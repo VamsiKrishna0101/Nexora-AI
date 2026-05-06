@@ -1,0 +1,234 @@
+SYSTEM: None
+
+USER: 
+You are a Career Intelligence Analyst at a Palantir-grade research firm.
+Synthesize a precise, evidence-based Professional Background for the subject.
+Every claim must be traceable to the input data.
+
+INPUT DATA:
+LinkedIn Profile: {
+  "url": "https://www.linkedin.com/in/vamsi-krishna01",
+  "username": "vamsi-krishna01",
+  "linkedin_id": "ACoAAD8unisBsIgHnZVFhsrjL-DTdoCwCeesXko",
+  "first_name": "Vamsi",
+  "last_name": "Krishna",
+  "full_name": "Vamsi Krishna",
+  "headline": "Backend Engineer | Built Convoxa | 1.9M requests @ 75ms (k6 load test) | AI Systems (RAG, FastAPI, Node.js) | Open to Germany \ud83c\udde9\ud83c\uddea",
+  "is_influencer": false,
+  "is_premium": false,
+  "is_memorialized": false,
+  "location": "Hyder\u0101b\u0101d, Telangana, India",
+  "location_raw": "Hyderabad, Telangana, India",
+  "country_full": "India",
+  "state": "Telangana",
+  "city": "Hyder\u0101b\u0101d",
+  "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQFtfIhUAWi92w/profile-displayphoto-crop_800_800/B56Z0y74_8GYAI-/0/1774676057326?e=1777507200&v=beta&t=CR2oym1JgzSsl8PQJtT5ORbGhFn55UN81kA8NwAeeag",
+  "top_skills": [],
+  "linkedin_followers": null,
+  "connections_count": 432,
+  "about": "Backend & AI Engineer focused on scalable backend systems and applied AI\n \nAt RefractOne, I design and develop backend systems for AI intelligence platforms, working on LLM pipelines, Retrieval-Augmented Generation (RAG), and parallel data collection workflows using FastAPI and LangGraph. Improved persona generation latency by ~60% and reduced LLM API costs by ~40% in production.\n \nIndependently built and deployed Convoxa, a community platform with real-time messaging (WebSockets / Socket.io), PostgreSQL and Redis backend, and Firebase push notifications on Google Cloud Run. Reached 400+ downloads with active users after launch.\n \nTech stack:\n Node.js, FastAPI, TypeScript, Python, PostgreSQL, Redis, LangGraph, GCP\n \nCore strengths:\n \u2022 Backend system design and API development\n \u2022 Scalable data pipelines and caching strategies\n \u2022 Applied AI systems (RAG, vector retrieval, prompt optimization)\n \u2022 Performance optimization and load testing (k6, ~2000 concurrent users)\n \nProblem-solving:\n Knight (~1875) on LeetCode with 750+ problems solved across core data structures and algorithms.\n \nCurrently working full-time at RefractOne.\n Open to Backend and AI Engineering opportunities in Germany.\n Degree recognized in Germany (Anabin H+) | 30-day notice | German (A1, improving)",
+  "current_positions": [
+    {
+      "company_name": "RefractOne",
+      "company_linkedin_url": "https://www.linkedin.com/company/13245712/",
+      "date_range": null
+    }
+  ],
+  "experiences": [
+    {
+      "title": "Software Engineer",
+      "company": "RefractOne",
+      "duration": "5 mos",
+      "description": "\u2022 Designed and developed backend services for an AI intelligence platform using FastAPI, contributing to scalable persona generation workflows, chatbot interactions, and internal admin tools\n\n\u2022 Optimized system performance by implementing parallel web-scraping pipelines and improving prompt orchestration, reducing persona generation latency by ~60% and LLM API costs by ~40%\n\n\u2022 Designed and implemented a Retrieval-Augmented Generation (RAG) system using vector-based retrieval, enabling efficient querying of intelligence reports and reducing token usage by ~50%\nSkills: FastAPI, Python (Programming Language), +2 skills",
+      "skills": [],
+      "start_date": {
+        "month": "Dec",
+        "year": 2025,
+        "text": "Dec 2025"
+      },
+      "end_date": {
+        "text": "Present"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQEt1cnw-PuXQg/company-logo_400_400/B56ZwdIU9NHwAY-/0/1770015248495/refract_consulting_logo?e=1777507200&v=beta&t=VeGdBX6yYkowjzVPnhchIMnpTFhC7joSJXqXUuO9Mvw"
+    },
+    {
+      "title": "Software Engineer Intern",
+      "company": "RefractOne",
+      "duration": "3 mos",
+      "description": "\u2022 Designed and implemented multiple data collection agents to gather intelligence from external sources (via APIs such as RapidAPI), enabling structured data aggregation for persona generation\n\n\u2022 Built and orchestrated multi-agent workflows using LangGraph to generate end-to-end intelligence persona reports from collected data signals\n\n\u2022 Contributed to frontend development by building React components and integrating backend outputs into user-facing interfaces for report visualization\nSkills: Python (Programming Language), SQL, +2 skills",
+      "skills": [],
+      "start_date": {
+        "month": "Sep",
+        "year": 2025,
+        "text": "Sep 2025"
+      },
+      "end_date": {
+        "month": "Nov",
+        "year": 2025,
+        "text": "Nov 2025"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQEt1cnw-PuXQg/company-logo_400_400/B56ZwdIU9NHwAY-/0/1770015248495/refract_consulting_logo?e=1777507200&v=beta&t=VeGdBX6yYkowjzVPnhchIMnpTFhC7joSJXqXUuO9Mvw"
+    },
+    {
+      "title": "Founder",
+      "company": "Convoxa",
+      "duration": "4 mos",
+      "description": "\u2022 Designed and implemented a scalable backend for a community discussion platform using Node.js, Express, React Native, and PostgreSQL, supporting threaded discussions, voting, and community interactions\n\n\u2022 Designed a real-time messaging and live update system using WebSockets (Socket.io) with client-side persistence via SQLite to handle offline scenarios and improve reliability\n\n\u2022 Designed and optimized backend APIs using Node.js and TypeScript with Redis caching and frontend caching via TanStack Query; conducted k6 load testing to validate performance under ~1000 concurrent users and identify latency bottlenecks\n\n\u2022 Deployed stateless backend services on Google Cloud Run with horizontal scaling and integrated Firebase FCM for push notifications; launched on March 7, 2026, achieving 400+ downloads with active users\nConvoxa - Backend Architecture Case Study\nConvoxa - Live App(Play Store)\nTypeScript, Node.js and +3 skills",
+      "skills": [],
+      "start_date": {
+        "month": "Jan",
+        "year": 2026,
+        "text": "Jan 2026"
+      },
+      "end_date": {
+        "text": "Present"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQGEBiSLFJ_Zag/company-logo_400_400/B56Z0oPNvOJkAY-/0/1774496570745?e=1777507200&v=beta&t=iAPFk9czD4zoO29GGHErM9clJ28M5df82m9v3badBkY"
+    }
+  ],
+  "educations": [
+    {
+      "institution": "Neil Gogte Institute of Technology",
+      "school_linkedin_url": "https://www.linkedin.com/company/82110623/",
+      "degree": "B.Tech in Computer Science and Engineering (Artificial Intelligence and Machine Learning)",
+      "field_of_study": null,
+      "skills": [],
+      "start_date": {
+        "month": "Dec",
+        "year": 2021,
+        "text": "Dec 2021"
+      },
+      "end_date": {
+        "month": "Jul",
+        "year": 2025,
+        "text": "Jul 2025"
+      },
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQGleaQAtBGvRg/company-logo_400_400/company-logo_400_400/0/1654673880195?e=1777507200&v=beta&t=QgdOo2kW6uOeM80CqKXoYujvyTwT4jUa0pB3IU4_320"
+    }
+  ],
+  "skills": [
+    "Systems Design",
+    "Redis",
+    "TypeScript",
+    "Google Cloud Platform (GCP)",
+    "PostgreSQL",
+    "React Native",
+    "LangGraph",
+    "SQL",
+    "JavaScript",
+    "Express.js",
+    "Algorithm Analysis",
+    "React.js",
+    "MERN Stack",
+    "FastAPI",
+    "REST APIs",
+    "Node.js",
+    "MongoDB",
+    "Problem Solving",
+    "React",
+    "Python (Programming Language)"
+  ],
+  "languages": [
+    "English",
+    "German",
+    "Telugu"
+  ],
+  "certifications": [
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    }
+  ],
+  "projects": [
+    {
+      "title": "IntelligiHire \u2014 AI Backend & Multi-Agent System",
+      "description": "\u2022 Engineered a multi-agent intelligence pipeline using LangGraph to orchestrate 15+ specialized agents for automated data extraction and analysis\n\n\u2022 Designed and integrated multiple data agents (LinkedIn, Crunchbase, Google News, Glassdoor, GitHub, financial APIs, and social platforms) to collect and aggregate multi-domain company intelligence\n\n\u2022 Built a data synthesis layer leveraging LLMs (Llama 3.3, Gemini 1.5) to transform raw signals into structured intelligence reports across engineering, business, and culture domains\n\n\u2022 Developed real-time data processing systems to extract high-impact signals (e.g., layoffs, leadership changes, market updates) from multiple APIs and data sources\n\n\u2022 Built a high-performance FastAPI backend with asynchronous workflows and stateful processing, improving system efficiency and reducing response latency\nSkills: Python (Programming Language), LangGraph, +2 skills\nIntelligiHire - Backend Documentation\nGitHub",
+      "url": null
+    },
+    {
+      "title": "Lepus \u2014 Campus Platform",
+      "description": "\u2022 Designed and developed a mobile-first campus platform enabling students to manage attendance, habits, and discussions within a unified system\n\n\u2022 Built a multi-feature backend integrating attendance tracking, habits, and discussions into a single scalable architecture\n\n\u2022 Designed scalable backend services using Node.js and Express.js with Redis caching and real-time communication via WebSockets (Socket.io)\n\n\u2022 Implemented frontend data caching using AsyncStorage and deployed backend services on Google Cloud Run, supporting features like stories, anonymous confessions, and messaging\nSkills: Node.js, JavaScript, +3 skills\nLepus - Notion Link\nLepus - Campus Platform(Play Store)\nLepus \u2014 Backend Architecture & Campus Platform Case Study",
+      "url": null
+    }
+  ],
+  "volunteering": [],
+  "recommendations": [],
+  "publications": [
+    {
+      "title": "Case Study: Architecting a Real-Time Student Ecosystem (Lepus",
+      "publisher": null,
+      "date": null,
+      "url": null,
+      "description": "An engineering breakdown of a high-concurrency campus platform built with Node.js, MongoDB, and Socket.io. Features a modular monolith architecture with specialized services for live bus tracking, encrypted attendance management, and multi-language support (6+ regional languages). Highlights include a read-optimized NoSQL design to handle high-traffic social feeds and a Redis-based eventual consistency model for real-time messaging"
+    },
+    {
+      "title": "Case Study: Scaling a Modular Monolith to 2,000+ Concurrent Users",
+      "publisher": null,
+      "date": null,
+      "url": null,
+      "description": "A comprehensive backend engineering deep-dive into Convoxa, a community platform built with Node.js, Redis, and PostgreSQL. Highlights include implementing a server-authoritative vote consistency system using composite unique constraints and aggregate field synchronization. Detailed k6 stress testing results showing a sustained 318 RPS with 65ms P95 latency across 1.9M+ API requests on Google Cloud Run"
+    }
+  ],
+  "courses": [],
+  "patents": [],
+  "honors_awards": [
+    {
+      "title": "Knight Rank | LeetCode (Top 5% Globally)",
+      "issuer": null,
+      "date": null,
+      "description": "Achieved a contest rating of 1875+ (Knight rank), placing in the top 5% of participants globally. Demonstrated proficiency in complex data structures, algorithms, and high-pressure problem-solving across 750+ solved challenges"
+    }
+  ],
+  "causes": [],
+  "featured": null
+}
+
+Output ONLY this JSON:
+{
+  "section_id": 2,
+  "section_name": "Professional Background",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "current_role_summary": "",
+    "role_summary_bullets": [
+      "Core Identity & Mission: ...",
+      "Domain Mastery: ...",
+      "Quantifiable Impact: ...",
+      "Strategic Scope: ...",
+      "Leadership Philosophy: ...",
+      "Current Momentum: ..."
+    ],
+    "career_timeline": [
+      {
+        "company": "",
+        "title": "",
+        "start_date": "",
+        "end_date": "",
+        "duration_months": 0,
+        "one_line_impact": ""
+      }
+    ],
+    "education_history": [
+      {
+        "institution": "",
+        "degree": "",
+        "field_of_study": "",
+        "graduation_year": ""
+      }
+    ],
+    "total_years_experience": 0,
+    "industry_expertise_areas": [],
+    "data_confidence": "high|medium|low",
+    "data_confidence_rationale": ""
+  }
+}
+
+RULES:
+- role_summary_bullets: exactly 6 items. Each covers a distinct dimension — do not repeat themes.
+- career_timeline: ordered newest-first. duration_months must be calculated, not estimated.
+- total_years_experience: calculate from earliest start_date to today, accounting for overlapping roles.
+- one_line_impact: extract a specific, measurable outcome from the role description. If none available, write a factual scope statement — never fabricate metrics.
+- industry_expertise_areas: max 6 items. Only include industries explicitly evidenced in the data.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

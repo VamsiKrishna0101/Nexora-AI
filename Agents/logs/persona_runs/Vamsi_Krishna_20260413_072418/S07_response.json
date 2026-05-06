@@ -1,0 +1,34 @@
+{
+  "section_id": 7,
+  "section_name": "Network & Influence",
+  "person_id": "ACoAAD8unisBsIgHnZVFhsrjL-DTdoCwCeesXko",
+  "data": {
+    "notable_collaborations": [],
+    "associated_companies": [
+      {
+        "company": "RefractOne",
+        "role": "Software Engineer / Intern",
+        "type": "Employer"
+      },
+      {
+        "company": "Convoxa",
+        "role": "Founder",
+        "type": "Founded"
+      },
+      {
+        "company": "Walmart Labs",
+        "role": "Software Development Engineer",
+        "type": "Employer"
+      }
+    ],
+    "industry_communities": [
+      "LeetCode Engineering Community",
+      "GitHub Developer Community"
+    ],
+    "media_mentions": [],
+    "network_reach": "Tier 4 (Niche)",
+    "network_strength_assessment": "The subject maintains a niche professional network primarily concentrated within technical developer circles and software engineering communities in India. Their influence is characterized by individual-contributor technical proficiency rather than broad institutional or industry-wide connections.",
+    "data_confidence": "medium",
+    "data_confidence_rationale": "While current employment and project history are well-documented, specific collaborative relationships and media mentions are absent in public signals."
+  }
+}

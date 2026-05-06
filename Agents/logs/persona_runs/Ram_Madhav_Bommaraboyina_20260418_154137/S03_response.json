@@ -1,0 +1,117 @@
+{
+  "section_id": 3,
+  "section_name": "Skills & Expertise",
+  "person_id": "ACoAAFWw7ZEBQ3ThuQDibWe3Z6BoAWqPUp5WwQ4",
+  "data": {
+    "top_technical_skills": [
+      {
+        "skill": "Python",
+        "category": "Language",
+        "evidence_level": "High",
+        "evidence_source": "Experience Description"
+      },
+      {
+        "skill": "Django",
+        "category": "Framework",
+        "evidence_level": "High",
+        "evidence_source": "Experience Description"
+      },
+      {
+        "skill": "Django REST Framework (DRF)",
+        "category": "Framework",
+        "evidence_level": "High",
+        "evidence_source": "Experience Description"
+      },
+      {
+        "skill": "YOLOv8",
+        "category": "Tool",
+        "evidence_level": "High",
+        "evidence_source": "About"
+      },
+      {
+        "skill": "RAG (Retrieval-Augmented Generation)",
+        "category": "Methodology",
+        "evidence_level": "High",
+        "evidence_source": "About"
+      },
+      {
+        "skill": "REST APIs",
+        "category": "Methodology",
+        "evidence_level": "High",
+        "evidence_source": "About"
+      },
+      {
+        "skill": "JWT (JSON Web Token)",
+        "category": "Methodology",
+        "evidence_level": "Medium",
+        "evidence_source": "Experience Description"
+      },
+      {
+        "skill": "Java",
+        "category": "Language",
+        "evidence_level": "Medium",
+        "evidence_source": "LinkedIn Skills"
+      },
+      {
+        "skill": "Spring Boot",
+        "category": "Framework",
+        "evidence_level": "Medium",
+        "evidence_source": "LinkedIn Skills"
+      },
+      {
+        "skill": "MongoDB",
+        "category": "Tool",
+        "evidence_level": "Medium",
+        "evidence_source": "LinkedIn Skills"
+      },
+      {
+        "skill": "Scikit-Learn",
+        "category": "Tool",
+        "evidence_level": "Medium",
+        "evidence_source": "LinkedIn Skills"
+      },
+      {
+        "skill": "NumPy",
+        "category": "Tool",
+        "evidence_level": "Medium",
+        "evidence_source": "LinkedIn Skills"
+      }
+    ],
+    "domain_expertise": [
+      {
+        "domain": "AI/ML Development",
+        "depth": "Practitioner",
+        "evidence": "Applied YOLOv8 for computer vision and implemented RAG pipelines and LLM integration."
+      },
+      {
+        "domain": "Backend Web Engineering",
+        "depth": "Practitioner",
+        "evidence": "Experience designing REST APIs and architecture using Django and DRF."
+      },
+      {
+        "domain": "Agro-met AI Advisory",
+        "depth": "Aware",
+        "evidence": "Currently interning at ICRISAT on AI-powered agro-met advisory scaling."
+      }
+    ],
+    "soft_skills_signals": [
+      {
+        "skill": "System Architecture Design",
+        "signal_source": "About",
+        "justification": "Explicitly states experience in 'designing REST APIs and backend architectures'."
+      },
+      {
+        "skill": "Full-Stack Integration",
+        "signal_source": "About",
+        "justification": "Mentions 'bridging the gap between robust backend engineering and practical AI applications'."
+      }
+    ],
+    "skill_gaps_or_blind_spots": [
+      "Lack of demonstrated cloud infrastructure or deployment pipeline (CI/CD) expertise.",
+      "Minimal evidence of professional team-based agile software development methodology."
+    ],
+    "skill_progression_narrative": "Ram Madhav transitioned from a foundational education in Engineering to building specialized web systems, evidenced by his role-based 'Track-IT' project. He has since evolved his expertise to integrate complex AI/ML pipelines, such as RAG and Computer Vision, applying these skills in an industrial research context at ICRISAT.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "Profile is current and provides specific project-based evidence supporting the stated technical skill set and recent industrial experience."
+  }
+}

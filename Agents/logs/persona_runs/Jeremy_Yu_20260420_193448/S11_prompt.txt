@@ -1,0 +1,705 @@
+SYSTEM: None
+
+USER: 
+You are the Senior Intelligence Director at a Palantir-grade research firm.
+You are delivering the final, authoritative verdict on this subject based on a complete intelligence dossier.
+This verdict is read by C-suite executives and investment committees. Precision and honesty are paramount.
+Do not soften findings. Do not inflate scores. Be direct.
+
+INPUT DATA — COMPLETE INTELLIGENCE DOSSIER (Sections 1–10):
+[
+  "{'section_id': 1, 'section_name': 'Identity Overview', 'person_id': 'ACoAAAEbx0kBgENz4hlQjci6ovrhVuK8LMtPRIY', 'data': {'full_name': 'Jeremy Yu', 'current_role': 'Principal Solutions Architecture & AI Product Engineering', 'company': 'Lyzr AI', 'location': 'Los Angeles, California, United States of America', 'profile_photo_url': 'https://media.licdn.com/dms/image/v2/D5603AQHkp4Re-0uqYw/profile-displayphoto-shrink_800_800/B56ZXdPx6uGsAc-/0/1743173656506?e=1778112000&v=beta&t=QAihXGRoF0DJdU6tda1VssYNFZQWWdrrvYO7NMMfRXE', 'linkedin_url': 'https://www.linkedin.com/in/jeremy-yu-68928a6', 'twitter_handle': None, 'linkedin_followers': 2540, 'twitter_followers': 0, 'connections_count': 2470, 'influence_score': 22, 'influence_score_breakdown': {'linkedin_followers_points': 10, 'twitter_followers_points': 0, 'posting_activity_points': 5, 'career_seniority_points': 5, 'web_presence_points': 2}, 'influence_score_rationale': 'Subject has 2540 LinkedIn followers (10 points). Presence on one platform (5 points). Senior IC role (5 points). Minimal web presence outside of LinkedIn (2 points). Total: 22.', 'data_confidence': 'medium', 'data_confidence_rationale': 'Subject has a detailed and active LinkedIn profile, but zero data available for Twitter or other external social media platforms.'}}",
+  "{'section_id': 2, 'section_name': 'Professional Background', 'person_id': 'jeremy-yu-68928a6', 'data': {'current_role_summary': 'Jeremy Yu is a seasoned AI product leader and principal solutions architect currently spearheading enterprise agentic AI strategy and deployment at Lyzr AI.', 'role_summary_bullets': ['Core Identity & Mission: An AI product leader dedicated to transforming complex, ambiguous business problems into production-grade agentic AI systems that drive measurable enterprise impact.', 'Domain Mastery: Deep technical expertise in multi-agent systems, cloud-native architecture (AWS), and modern ML/data ecosystems, combined with a pragmatic, production-focused approach.', 'Quantifiable Impact: Demonstrated history of high-value delivery, including increasing identity graph coverage from 450M to 1.5B users and delivering over $2M in annual cost savings for a telecom client.', 'Strategic Scope: Operates at the intersection of executive advisory, solution design, and go-to-market strategy for Fortune 500 organizations across financial services, retail, and media.', 'Leadership Philosophy: Emphasizes a hands-on, rapid-prototyping culture that bridges the gap between engineering, product, and sales to accelerate AI adoption.', 'Current Momentum: Actively shaping enterprise AI adoption through the development of reference architectures and modular agentic workflows for global clients like NVIDIA and Target.'], 'career_timeline': [{'company': 'Lyzr AI', 'title': 'Principal Solutions Architecture & AI Product Engineering', 'start_date': 'Feb 2025', 'end_date': 'Present', 'duration_months': 3, 'one_line_impact': 'Lead product architecture and enterprise adoption strategy for agentic AI platforms across global Fortune 500 enterprises.'}, {'company': 'STAND 8 Technology Services', 'title': 'Head of Data & AI Product and Partner Strategy', 'start_date': 'Apr 2024', 'end_date': 'Jan 2025', 'duration_months': 10, 'one_line_impact': 'Designed and launched AI-powered products for sales forecasting and Customer 360 analytics on AWS.'}, {'company': 'Teradata', 'title': 'Senior Presales Solution Engineer', 'start_date': 'Nov 2021', 'end_date': 'Nov 2023', 'duration_months': 25, 'one_line_impact': 'Delivered $2M+ in annual cost savings for a large telecom client through secure data architecture implementation.'}, {'company': 'SAP', 'title': 'Senior Presales Engineer', 'start_date': 'Jan 2018', 'end_date': 'Nov 2021', 'duration_months': 46, 'one_line_impact': \"Led technical strategy for SAP's emerging technology portfolio, including AI, RPA, IoT, and blockchain.\"}, {'company': 'Screen Engine, LLC', 'title': 'Audience Intelligence Product Owner', 'start_date': 'Jul 2017', 'end_date': 'Dec 2017', 'duration_months': 6, 'one_line_impact': 'Developed entertainment tracking product measuring consumer media usage and content engagement.'}, {'company': 'Nativo Inc', 'title': 'Director Product Management', 'start_date': 'Nov 2016', 'end_date': 'Jul 2017', 'duration_months': 9, 'one_line_impact': 'Increased native advertising impressions served by over 100% within six months through platform optimization.'}, {'company': 'Viant Inc.', 'title': 'Principal Data Scientist & Product Leader', 'start_date': 'Jul 2015', 'end_date': 'Sep 2016', 'duration_months': 15, 'one_line_impact': 'Expanded identity graph coverage from 450M to 1.5B unique users.'}, {'company': 'Viant Inc.', 'title': 'Director, Consumer Data Products', 'start_date': 'Dec 2013', 'end_date': 'Jul 2015', 'duration_months': 20, 'one_line_impact': 'Deployed ML models for demographic prediction that surpassed Nielsen Catalina benchmarks for accuracy.'}, {'company': 'Worldwide Motion Picture Group', 'title': 'VP, Marketing Sciences & New Product Development', 'start_date': 'May 2013', 'end_date': 'Oct 2013', 'duration_months': 6, 'one_line_impact': 'Introduced modern data engineering practices, improving the speed and reliability of analytics.'}, {'company': 'Match', 'title': 'Director, Business Analytics', 'start_date': 'Aug 2011', 'end_date': 'May 2013', 'duration_months': 22, 'one_line_impact': 'Built and operationalized a company-wide A/B testing platform supporting 24 niche dating websites.'}, {'company': 'Warner Home Video', 'title': 'Director, Market Research', 'start_date': 'Oct 2007', 'end_date': 'Jun 2011', 'duration_months': 45, 'one_line_impact': 'Designed automated dashboards to track near real-time VOD and digital content performance.'}, {'company': 'The Nielsen Company', 'title': 'Vice President, Home Entertainment', 'start_date': 'Oct 2005', 'end_date': 'Oct 2007', 'duration_months': 25, 'one_line_impact': 'Developed forecasting models to help studios optimize theatrical release and DVD distribution strategies.'}, {'company': 'OTX', 'title': 'Director, Theatrical Research', 'start_date': 'Jan 2003', 'end_date': 'Sep 2005', 'duration_months': 33, 'one_line_impact': 'Productized a subscription-based theatrical tracking research tool generating over $2M in recurring revenue.'}, {'company': 'MarketCast LLC', 'title': 'Senior Research Analyst', 'start_date': '2001', 'end_date': '2002', 'duration_months': 12, 'one_line_impact': 'Developed an advanced analytics platform with SAS to automate custom market research data processing.'}], 'education_history': [{'institution': 'University of Massachusetts Amherst', 'degree': 'MS', 'field_of_study': 'Epidemiology', 'graduation_year': '1998'}, {'institution': 'UCLA', 'degree': 'BS', 'field_of_study': 'Biochemistry', 'graduation_year': '1995'}], 'total_years_experience': 24, 'industry_expertise_areas': ['Financial Services', 'Retail', 'Media & Entertainment', 'Technology', 'Telecommunications', 'Insurance'], 'data_confidence': 'high', 'data_confidence_rationale': 'Professional background is derived directly from the provided LinkedIn work history and profile details; timeline gaps are minimal and career path is chronologically consistent.'}}",
+  {
+    "section_id": 3,
+    "section_name": "Skills & Expertise",
+    "person_id": "jeremy-yu-68928a6",
+    "data": {
+      "top_technical_skills": [
+        {
+          "skill": "Agentic AI / Multi-agent Systems",
+          "category": "Domain",
+          "evidence_level": "High",
+          "evidence_source": "Experience Description"
+        },
+        {
+          "skill": "Python",
+          "category": "Language",
+          "evidence_source": "Experience Description",
+          "evidence_level": "High"
+        },
+        {
+          "skill": "Retrieval-Augmented Generation (RAG)",
+          "category": "Methodology",
+          "evidence_source": "Experience Description",
+          "evidence_level": "High"
+        },
+        {
+          "skill": "AWS",
+          "category": "Platform",
+          "evidence_source": "Experience Description",
+          "evidence_level": "High"
+        },
+        {
+          "skill": "Solution Architecture",
+          "category": "Methodology",
+          "evidence_source": "Experience Description",
+          "evidence_level": "High"
+        },
+        {
+          "skill": "Machine Learning",
+          "category": "Domain",
+          "evidence_source": "Experience Description",
+          "evidence_level": "High"
+        },
+        {
+          "skill": "Vector Databases",
+          "category": "Tool",
+          "evidence_source": "Experience Description",
+          "evidence_level": "Medium"
+        },
+        {
+          "skill": "LangChain",
+          "category": "Framework",
+          "evidence_source": "Experience Description",
+          "evidence_level": "Medium"
+        },
+        {
+          "skill": "AI Observability",
+          "category": "Methodology",
+          "evidence_source": "Experience Description",
+          "evidence_level": "Medium"
+        },
+        {
+          "skill": "Knowledge Graphs",
+          "category": "Tool",
+          "evidence_source": "Experience Description",
+          "evidence_level": "Medium"
+        },
+        {
+          "skill": "Node.js",
+          "category": "Language",
+          "evidence_source": "Experience Description",
+          "evidence_level": "Low"
+        },
+        {
+          "skill": "Docker / Kubernetes",
+          "category": "Tool",
+          "evidence_source": "Experience Description",
+          "evidence_level": "Low"
+        }
+      ],
+      "domain_expertise": [
+        {
+          "domain": "Enterprise AI Strategy",
+          "depth": "Expert",
+          "evidence": "Principal Solution Architecture role leading enterprise AI adoption at Lyzr and prior strategy roles at Teradata/SAP."
+        },
+        {
+          "domain": "Financial Services AI",
+          "depth": "Practitioner",
+          "evidence": "Delivered agentic AI solutions for major firms including BMO, Willis Towers Watson, and Accenture."
+        },
+        {
+          "domain": "Media & Entertainment Analytics",
+          "depth": "Expert",
+          "evidence": "Extensive tenure at Warner Home Video, Screen Engine, and OTX in box office/consumer behavior forecasting."
+        },
+        {
+          "domain": "Marketing & AdTech",
+          "depth": "Expert",
+          "evidence": "Product Leadership at Viant and Nativo, focusing on Identity Resolution and DMP systems."
+        },
+        {
+          "domain": "Cloud Data Platforms",
+          "depth": "Practitioner",
+          "evidence": "Architecting analytics platforms on AWS and SAP HANA during Teradata and SAP tenures."
+        }
+      ],
+      "soft_skills_signals": [
+        {
+          "skill": "Executive Advisory",
+          "signal_source": "About",
+          "justification": "Self-described as a 'trusted advisor in client engagements\u2014leading executive workshops.'"
+        },
+        {
+          "skill": "Solution Selling",
+          "signal_source": "Recommendations",
+          "justification": "Endorsed for building a 'massive repository of Agentic AI use cases' that served as a 'primary sales engine'."
+        },
+        {
+          "skill": "Speed of Execution",
+          "signal_source": "Recommendations",
+          "justification": "Cited by a colleague for having a 'functional, high-quality demo ready by the afternoon' for complex use cases."
+        },
+        {
+          "skill": "Stakeholder Management",
+          "signal_source": "Recommendations",
+          "justification": "Praised for ability to 'quickly understand complex customer contexts, connect the right stakeholders, and remove friction'."
+        },
+        {
+          "skill": "Cross-Functional Leadership",
+          "signal_source": "Experience",
+          "justification": "Experience describes leading 'cross-functional collaboration between product, engineering, and sales leadership'."
+        }
+      ],
+      "skill_gaps_or_blind_spots": [],
+      "skill_progression_narrative": "Jeremy evolved from a focus on traditional market research and statistical modeling for the media industry to a cloud-native architecture expert at global tech firms like SAP and Teradata. He has now successfully transitioned into an AI Product Leader, specializing in the development of agentic AI frameworks and autonomous enterprise workflows.",
+      "data_confidence": "high",
+      "data_confidence_rationale": "Profile data includes detailed work history, specific technical stack mentions, and verified professional recommendations."
+    }
+  },
+  {
+    "section_id": 4,
+    "section_name": "Behavioral Intelligence Suite",
+    "person_id": "jeremy-yu-68928a6",
+    "data": {
+      "behavioral_profile": {
+        "archetype": "The Builder",
+        "one_line_description": "Technical product leader focused on practical deployment and enterprise-grade AI architecture.",
+        "trait_tags": [
+          "pragmatic",
+          "technical-focused",
+          "outcome-driven"
+        ]
+      },
+      "trait_scores": {
+        "dominance": 65,
+        "expressiveness": 50,
+        "pace": 75,
+        "pragmatism": 90,
+        "risk_appetite": 55,
+        "social_energy": 60
+      },
+      "working_style": {
+        "decision_making": "Prioritizes empirical performance benchmarks like LongMemEval over market hype.",
+        "collaboration": "Operates at the intersection of sales, engineering, and enterprise strategy.",
+        "conflict_style": "Addresses technical inefficiencies directly, framing them as solvable engineering problems.",
+        "pace": "Fast-paced, focused on consistent shipment of SDKs and production tooling."
+      },
+      "what_drives_them": {
+        "energizers": [
+          "Translating abstract AI theory into production-ready enterprise systems",
+          "Achieving specific performance benchmarks and reliability metrics",
+          "Direct integration into existing developer workflows and git repositories",
+          "Industry-wide recognition via expert profiling and strategic partnerships"
+        ],
+        "drainers": [
+          "Conceptual AI demos lacking real-world application utility",
+          "Inefficient manual procurement or business workflows",
+          "High failure rates in complex, multi-step systems",
+          "Fluff-heavy discourse that ignores security and governance"
+        ]
+      },
+      "engagement_guide": {
+        "how_to_open": [
+          "Focus immediately on technical architecture or specific deployment hurdles.",
+          "Reference current, high-impact enterprise AI challenges in fintech or insurance.",
+          "Acknowledge the shift from 'agentic' hype to production-grade utility."
+        ],
+        "how_to_run_meeting": [
+          "Keep the discussion tethered to measurable business outcomes.",
+          "Focus on technical limitations and how to overcome them systematically.",
+          "Review specific product frameworks like Lyzr's AgentMesh or Architect."
+        ],
+        "how_to_email": [
+          "Keep communication concise and focused on actionable solutions.",
+          "Cite specific use cases for deploying agents in regulated environments.",
+          "Provide clear value propositions aligned with enterprise governance."
+        ],
+        "how_to_follow_up": [
+          "Share relevant research papers or technical benchmarks.",
+          "Connect follow-ups to ongoing project roadmaps or tool deployments.",
+          "Maintain a professional cadence that respects product cycles."
+        ],
+        "how_to_build_trust": [
+          "Demonstrate deep understanding of air-gapped security and data privacy.",
+          "Prioritize the 'Six Sigma' mindset in agent reliability.",
+          "Showcase consistent, high-execution professional track records."
+        ]
+      },
+      "blind_spots": [
+        "Over-reliance on specific proprietary tools as the primary answer to complex business problems.",
+        "Potential undervaluation of non-technical stakeholders in the decision-making process.",
+        "Narrow focus on enterprise-sized clients may overlook agile, mid-market niche requirements."
+      ],
+      "dos_and_donts": {
+        "dos": [
+          "Discuss the integration of AI agents within established developer ecosystems.",
+          "Focus on reliability, accuracy, and governance in enterprise deployments.",
+          "Address the 'full lifecycle' from discovery to post-deployment support.",
+          "Emphasize practical, reproducible AI infrastructure over theoretical concepts."
+        ],
+        "donts": [
+          "Do not pitch AI solutions that lack clear performance data or benchmarks.",
+          "Do not use speculative or 'fluff' language regarding AI capabilities.",
+          "Do not ignore the importance of compliance and RBAC in systems.",
+          "Do not treat AI adoption as a standalone event rather than a process."
+        ]
+      },
+      "data_confidence": "high",
+      "data_confidence_rationale": "Data is derived from a consistent stream of professional LinkedIn activity detailing project launches, strategic partnerships, and firm-level growth announcements."
+    }
+  },
+  {
+    "section_id": 5,
+    "section_name": "Online Presence & Activity",
+    "person_id": "jeremy-yu-68928a6",
+    "data": {
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/jeremy-yu-68928a6",
+        "followers": 2540,
+        "posts_analyzed": 15,
+        "posting_frequency": "Monthly",
+        "avg_likes_per_post": 13,
+        "avg_comments_per_post": 0,
+        "top_topics": [
+          "Agentic AI",
+          "Enterprise AI",
+          "Lyzr AI",
+          "Automation",
+          "NVIDIA GTC"
+        ],
+        "last_post_date": "2026-04-07T14:45:06.536Z",
+        "last_post_summary": "Discusses AI memory solutions, specifically highlighting the Cognis platform's performance on long-term memory evaluation benchmarks and its availability as an open-source SDK."
+      },
+      "twitter": {
+        "handle": null,
+        "url": null,
+        "followers": 0,
+        "posts_analyzed": 0,
+        "posting_frequency": "Unknown",
+        "top_topics": [],
+        "avg_likes_per_tweet": 0,
+        "avg_retweets_per_tweet": 0,
+        "last_tweet_date": null
+      },
+      "github": {
+        "url": "https://github.com/jeremyyuAWS",
+        "found": true
+      },
+      "personal_website": null,
+      "other_platforms": [
+        "Hugging Face",
+        "Medium"
+      ],
+      "overall_digital_footprint": "Moderate",
+      "recent_activity_summary": "Jeremy is consistently focused on the technical and product deployment of agentic AI systems within enterprise environments. His recent activity emphasizes the development of production-ready AI memory, Git-native agent deployment, and the scaling of the Lyzr AI platform.",
+      "data_confidence": "high",
+      "data_confidence_rationale": "High confidence based on detailed LinkedIn activity logs and corroborated external profiles on GitHub and Hugging Face."
+    }
+  },
+  {
+    "raw": {
+      "section_id": 6,
+      "section_name": "Content & Thought Leadership",
+      "person_id": "jeremy-yu-68928a6",
+      "data": {
+        "articles_and_blogs": [
+          {
+            "title": "Lyzr 101: Choose Your AI Ride \u2014 Bus, Taxi, or Rideshare",
+            "url": "https://medium.com/@jeremysyu",
+            "date": null,
+            "source": "Medium",
+            "summary": "An introductory article explaining Lyzr's approach to AI deployment options."
+          }
+        ],
+        "podcast_appearances": [],
+        "conference_talks": [],
+        "interviews": [],
+        "key_topics_covered": [
+          "Enterprise AI agent deployment",
+          "Agentic AI architecture and orchestration",
+          "AI reliability and governance",
+          "Production-ready AI systems",
+          "Retrieval-Augmented Generation (RAG)"
+        ],
+        "content_volume": "Medium",
+        "thought_leadership_tier": "Active Contributor",
+        "thought_leadership_assessment": "Jeremy Yu is an active contributor who consistently publishes technical content and strategic LinkedIn updates to evangelize Lyzr AI's enterprise agent solutions. He is primarily known for his pragmatic expertise in AI agent orchestration, secure deployment methodologies, and developer-focused tooling.",
+        "data_confidence": "high",
+        "data_confidence_rationale": "The assessment is based on a direct review of his LinkedIn activity, Medium author page, and GitHub contributions, providing a clear picture of his content footprint."
+      }
+    }
+  },
+  {
+    "section_id": 7,
+    "section_name": "Network & Influence",
+    "person_id": "ACoAAAEbx0kBgENz4hlQjci6ovrhVuK8LMtPRIY",
+    "data": {
+      "notable_collaborations": [
+        {
+          "name": "NVIDIA",
+          "organization": "NVIDIA",
+          "relationship_type": "Partner",
+          "context": "Enterprise client partnership for agentic AI platform deployment.",
+          "source": "LinkedIn"
+        },
+        {
+          "name": "Accenture",
+          "organization": "Accenture",
+          "relationship_type": "Partner",
+          "context": "Enterprise client partnership for agentic AI platform deployment.",
+          "source": "LinkedIn"
+        },
+        {
+          "name": "Willis Towers Watson",
+          "organization": "Willis Towers Watson",
+          "relationship_type": "Partner",
+          "context": "Enterprise client partnership for agentic AI platform deployment.",
+          "source": "LinkedIn"
+        },
+        {
+          "name": "BMO",
+          "organization": "BMO",
+          "relationship_type": "Partner",
+          "context": "Enterprise client partnership for agentic AI platform deployment.",
+          "source": "LinkedIn"
+        },
+        {
+          "name": "Crown Castle",
+          "organization": "Crown Castle",
+          "relationship_type": "Partner",
+          "context": "Enterprise client partnership for agentic AI platform deployment.",
+          "source": "LinkedIn"
+        },
+        {
+          "name": "Target",
+          "organization": "Target",
+          "relationship_type": "Partner",
+          "context": "Enterprise client partnership for agentic AI platform deployment.",
+          "source": "LinkedIn"
+        }
+      ],
+      "associated_companies": [
+        {
+          "company": "Lyzr AI",
+          "role": "Principal Solutions Architecture & AI Product Engineering",
+          "type": "Employer"
+        },
+        {
+          "company": "STAND 8 Technology Services",
+          "role": "Head of Data & AI Product and Partner Strategy",
+          "type": "Employer"
+        },
+        {
+          "company": "Teradata",
+          "role": "Senior Presales Solution Engineer",
+          "type": "Employer"
+        },
+        {
+          "company": "SAP",
+          "role": "Senior Presales Engineer",
+          "type": "Employer"
+        },
+        {
+          "company": "Screen Engine, LLC",
+          "role": "Audience Intelligence Product Owner",
+          "type": "Employer"
+        },
+        {
+          "company": "Nativo Inc",
+          "role": "Director Product Management",
+          "type": "Employer"
+        },
+        {
+          "company": "Viant Inc.",
+          "role": "Principal Data Scientist / Director, Consumer Data Products",
+          "type": "Employer"
+        },
+        {
+          "company": "Worldwide Motion Picture Group",
+          "role": "VP, Marketing Sciences & New Product Development",
+          "type": "Employer"
+        },
+        {
+          "company": "Match",
+          "role": "Director, Business Analytics",
+          "type": "Employer"
+        },
+        {
+          "company": "Warner Home Video",
+          "role": "Director, Market Research",
+          "type": "Employer"
+        },
+        {
+          "company": "The Nielsen Company",
+          "role": "Vice President, Home Entertainment",
+          "type": "Employer"
+        },
+        {
+          "company": "OTX",
+          "role": "Director, Theatrical Research",
+          "type": "Employer"
+        },
+        {
+          "company": "MarketCast LLC",
+          "role": "Senior Research Analyst",
+          "type": "Employer"
+        }
+      ],
+      "industry_communities": [
+        "AWS Partner Ecosystem",
+        "Atlassian Partner Network",
+        "Enterprise AI Architecture Community"
+      ],
+      "media_mentions": [
+        {
+          "outlet": "Yahoo Finance",
+          "title": "Fintech startups offer banks tools to harness agentic AI",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7342702753929928704?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7342702753929928704%29",
+          "date": "2025"
+        }
+      ],
+      "network_reach": "Tier 2 (Industry)",
+      "network_strength_assessment": "Jeremy Yu maintains a robust network built through extensive consulting and solution architecture roles at major technology enterprises and global brands. His professional connections are characterized by high-trust advisory engagements with Fortune 500 leadership and strategic technology partners.",
+      "data_confidence": "high",
+      "data_confidence_rationale": "Profile information and career history are verifiable through official LinkedIn data and direct professional activity history across multiple major industry entities."
+    }
+  },
+  {
+    "section_id": 8,
+    "section_name": "Tactical Outreach Playbook",
+    "person_id": "jeremy-yu-68928a6",
+    "data": {
+      "outreach_scripts": {
+        "email_draft": {
+          "subject": "Reducing multi-step agent failure rates: Engineering perspective",
+          "body": "Jeremy, I\u2019ve been following your work on Cognis and your recent focus on the Six Sigma agent research. Your point on 'good' accuracy compounding into 36% failure rates in complex workflows hit home.\n\nI\u2019m reaching out because we\u2019re currently evaluating infrastructure for production-grade agent reliability in regulated environments. I\u2019d be interested in your perspective on:\n\n1. How Lyzr handles contradiction resolution specifically in high-frequency multi-hop queries.\n2. The feasibility of your micro-agent decomposition strategy for on-premise, air-gapped deployments.\n\nDo you have 10 minutes to discuss the trade-offs between your current SDK model and existing enterprise governance frameworks?"
+        },
+        "linkedin_inmail": {
+          "body": "Jeremy, saw your latest on Cognis\u201492.4% on LongMemEval is a significant technical benchmark for temporal reasoning. Curious to hear your take on how that architecture handles latency during large-scale enterprise deployments compared to vector-search heavy alternatives. Let\u2019s connect."
+        }
+      },
+      "high_resonance_topics": [
+        "Six Sigma reliability benchmarks for AI agents",
+        "Git-native agent deployment infrastructure",
+        "Contradiction resolution in temporal reasoning models",
+        "Air-gapped security and RBAC for agentic AI",
+        "Decomposed micro-agent system architecture"
+      ],
+      "topics_to_avoid": [
+        "High-level 'agentic' marketing fluff",
+        "Standalone AI demos without performance data",
+        "Speculative discussions on future AI capabilities",
+        "Non-technical business procurement workflows"
+      ],
+      "conversation_starters": [
+        {
+          "opener": "I noticed your shift toward git-native agent infrastructure; how do you see that impacting the CI/CD pipeline for enterprise teams?",
+          "context": "Based on his posts regarding GitAgent and operational workflows."
+        },
+        {
+          "opener": "The 36.7% failure rate you highlighted for 'good' accuracy\u2014are you finding that the decomposed micro-agent model is the definitive fix for that, or are there still edge cases in state maintenance?",
+          "context": "Based on his Six Sigma research paper post."
+        },
+        {
+          "opener": "How does the Cognis architecture handle memory consistency across distributed micro-agents in your current deployments?",
+          "context": "Based on his recent technical deep-dive on Cognis."
+        }
+      ],
+      "optimization": {
+        "best_channel": "LinkedIn",
+        "best_days": [
+          "Monday",
+          "Tuesday"
+        ],
+        "suggested_time_of_day": "14:00 - 15:30 UTC"
+      },
+      "data_confidence": "high"
+    }
+  },
+  "{'section_id': 9, 'section_name': 'Achievements & Milestones', 'person_id': 'jeremy-yu-68928a6', 'data': {'notable_achievements': [{'achievement': 'Expanded identity graph reach to 1.5B users', 'context': 'Principal Data Scientist & Product Leader at Viant Inc.', 'quantified_impact': 'Growth from 450M to 1.5B unique users in 2 years', 'source': 'LinkedIn'}, {'achievement': 'Delivered $2M in annual cost savings for a telecom client', 'context': 'Senior Presales Solution Engineer at Teradata', 'quantified_impact': '$2M', 'source': 'LinkedIn'}, {'achievement': 'Generated $2M annually in recurring revenue from theatrical tracking product', 'context': 'Director of Theatrical Research at OTX', 'quantified_impact': '$2M annually', 'source': 'LinkedIn'}, {'achievement': 'Increased platform impressions by over 100% in 6 months', 'context': 'Director Product Management at Nativo Inc', 'quantified_impact': '100%', 'source': 'LinkedIn'}], 'companies_built_or_scaled': [], 'products_launched': [{'product': 'Identity-based advertising platform', 'context': 'Viant Inc.', 'impact': 'Expanded identity graph to 1.5B users'}, {'product': 'Audience intelligence entertainment tracking product', 'context': 'Screen Engine, LLC', 'impact': 'Measurement of consumer media usage and content engagement'}, {'product': 'Theatrical tracking and forecasting platform', 'context': 'OTX', 'impact': 'Generated $2M annually in recurring revenue'}], 'awards_and_recognition': [{'award': 'Solution Engineering Award for Excellence', 'issuing_body': 'Teradata', 'year': None}], 'career_highlight': 'Jeremy Yu is a seasoned AI product leader and architect who has scaled identity resolution platforms to 1.5 billion users and delivered multi-million dollar cost-saving and revenue-generating solutions across the entertainment and technology sectors.', 'achievement_density': 'High', 'data_confidence': 'high', 'data_confidence_rationale': \"All achievements are directly sourced from the provided professional experience section of the subject's LinkedIn profile.\"}}",
+  {
+    "section_id": 10,
+    "section_name": "Risk & Red Flags",
+    "person_id": "ACoAAAEbx0kBgENz4hlQjci6ovrhVuK8LMtPRIY",
+    "data": {
+      "job_hopping_signal": {
+        "detected": false,
+        "roles_analyzed": 13,
+        "average_tenure_months": 18.3,
+        "shortest_tenure_months": 6,
+        "assessment": "Average tenure of 18.3 months marginally exceeds the 18-month threshold for a job-hopping flag."
+      },
+      "controversial_statements": [],
+      "failed_ventures": [],
+      "reputation_signals": [
+        {
+          "signal": "Highly regarded for technical speed, reliability, and partnership-focused collaboration in cloud and AI ecosystems.",
+          "source": "LinkedIn Recommendations",
+          "sentiment": "Positive"
+        }
+      ],
+      "legal_or_regulatory_issues": [],
+      "data_gaps": [
+        "No Twitter data provided",
+        "Educational history limited to degree names",
+        "No public records of legal or regulatory proceedings available"
+      ],
+      "overall_risk_rating": "Low",
+      "risk_summary": "The subject presents a low-risk profile with a consistent track record in technical leadership roles and positive professional feedback. No evidence of controversial, legal, or reputational red flags was identified in the analyzed data.",
+      "data_confidence": "high",
+      "data_confidence_rationale": "The profile is substantiated by detailed professional experience, public code contributions on GitHub, and verified LinkedIn endorsement data."
+    }
+  },
+  {
+    "section_id": "social_post_intelligence",
+    "section_name": "Social Media Post Intelligence",
+    "person_id": "jeremy-yu-68928a6",
+    "data": {
+      "content_analysis": {
+        "top_topics": [
+          "Agentic AI Infrastructure",
+          "Enterprise Automation",
+          "Reliable/Governed AI",
+          "Software Development Tools"
+        ],
+        "posting_pattern": "Active consistently on weekdays, sharing frequent product updates and industry event participation.",
+        "content_style": "Authoritative, product-focused, and pragmatic, often using technical benchmarks to validate arguments.",
+        "engagement_insight": "Posts announcing major company milestones, funding, or specific product launches drive the highest engagement."
+      },
+      "post_breakdown": [
+        {
+          "platform": "LinkedIn",
+          "type": "Post",
+          "brief_description": "Introduced Cognis, an AI memory solution emphasizing reliability over traditional vector search.",
+          "theme": "Product Innovation",
+          "engagement_style": "Technical/Analytical"
+        },
+        {
+          "platform": "LinkedIn",
+          "type": "Post",
+          "brief_description": "Advocated for GitAgent as a control plane for scalable, versioned agent workflows.",
+          "theme": "Developer Tools",
+          "engagement_style": "Thought Leadership"
+        },
+        {
+          "platform": "LinkedIn",
+          "type": "Post",
+          "brief_description": "Announced the launch of Architect by Lyzr for automated app building.",
+          "theme": "Product Launch",
+          "engagement_style": "Promotional"
+        },
+        {
+          "platform": "LinkedIn",
+          "type": "Post",
+          "brief_description": "Detailed achieving 99.9997% reliability using a decomposed micro-agent architecture.",
+          "theme": "AI Reliability",
+          "engagement_style": "Technical"
+        },
+        {
+          "platform": "LinkedIn",
+          "type": "Repost",
+          "brief_description": "Shared partnership details with Accenture for secure, enterprise-grade agentic AI in finance.",
+          "theme": "Strategic Partnership",
+          "engagement_style": "Corporate"
+        },
+        {
+          "platform": "LinkedIn",
+          "type": "Post",
+          "brief_description": "Celebrated the company's $8M Series A funding and new advisory board addition.",
+          "theme": "Company Milestone",
+          "engagement_style": "Celebratory"
+        },
+        {
+          "platform": "LinkedIn",
+          "type": "Post",
+          "brief_description": "Promoted Lyzr\u2019s presence at NVIDIA GTC to discuss enterprise agentic architectures.",
+          "theme": "Event Promotion",
+          "engagement_style": "Professional"
+        },
+        {
+          "platform": "LinkedIn",
+          "type": "Post",
+          "brief_description": "Highlighted Procurement Agents for automating business lifecycles and reducing TCO.",
+          "theme": "Enterprise Use Case",
+          "engagement_style": "Problem/Solution"
+        },
+        {
+          "platform": "LinkedIn",
+          "type": "Post",
+          "brief_description": "Praised Growthline Partners for a practical, noise-free approach to AI integration.",
+          "theme": "Partner Spotlight",
+          "engagement_style": "Thought Leadership"
+        },
+        {
+          "platform": "LinkedIn",
+          "type": "Post",
+          "brief_description": "Reflected on the importance of responsible, governed AI following IBM TechXchange.",
+          "theme": "Industry Trends",
+          "engagement_style": "Reflective"
+        }
+      ],
+      "summaries": {
+        "posts": [
+          "Product Innovation: Regularly showcases new technical breakthroughs like Cognis and micro-agent architectures.",
+          "Strategic Growth: Maintains focus on enterprise-ready AI, highlighting funding news and major partnerships.",
+          "Advocacy: Promotes a 'git-native' and 'enterprise-governed' paradigm for deploying AI agents.",
+          "Industry Engagement: Actively documents appearances at high-profile industry events like NVIDIA GTC and IBM TechXchange."
+        ],
+        "reposts": [
+          "Partnership Expansion: Highlights collaborations with major firms like Accenture to drive market adoption.",
+          "Funding and Scaling: Shares official news regarding company investment rounds and organizational growth."
+        ]
+      }
+    }
+  }
+]
+
+PROFILE STRENGTH SCORE METHODOLOGY (apply exactly):
+  Start at 0. Add points as follows:
+  - Career depth (Section 2):     Strong timeline with quantified impact=20, moderate=12, minimal=5
+  - Skills breadth (Section 3):   10+ high-evidence skills=15, 5–9=10, <5=5
+  - Online influence (Section 1): influence_score >= 70=15, 40–69=10, <40=5
+  - Content output (Section 6):   Thought Leadership Tier "Authority"=15, "Active"=10, "Emerging"=5, lower=0
+  - Network strength (Section 7): Tier 1–2=15, Tier 3=8, Tier 4=3, Unknown=0
+  - Risk profile (Section 10):    Low risk=20, Medium=12, High=5, Critical=0
+  Cap final score at 100.
+
+Output ONLY this JSON:
+{
+  "section_id": 11,
+  "section_name": "AI Analyst Verdict",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "profile_strength_score": 0,
+    "profile_strength_breakdown": {
+      "career_depth_points": 0,
+      "skills_breadth_points": 0,
+      "online_influence_points": 0,
+      "content_output_points": 0,
+      "network_strength_points": 0,
+      "risk_profile_points": 0
+    },
+    "profile_strength_rationale": "",
+    "key_strengths": [
+      "",
+      "",
+      ""
+    ],
+    "key_concerns": [
+      "",
+      ""
+    ],
+    "one_line_verdict": "",
+    "recommended_use_cases": [],
+    "use_case_rationale": "",
+    "intelligence_gaps": [],
+    "confidence_level": "High|Medium|Low",
+    "confidence_rationale": ""
+  }
+}
+
+RULES:
+- Apply the profile strength score methodology above exactly. Show the breakdown.
+- profile_strength_rationale: 2-3 sentences explaining the score — what drove it up and what capped it.
+- key_strengths: exactly 3 items. Each must be specific, derived from data, and non-generic. "Strong communicator" is not acceptable. "Published in Forbes, keynoted SaaStr 2023" is acceptable.
+- key_concerns: exactly 2 items. Be honest — if the profile is clean, flag data gaps or limited verifiability as concerns.
+- one_line_verdict: the single most important takeaway. Max 20 words. Specific. Actionable. No filler.
+  Good: "High-credibility technical founder with proven AI scale — best approached via LinkedIn referral for partnership or investment."
+  Bad: "Impressive professional with a strong background in technology."
+- recommended_use_cases: array of applicable options from ["Sales Target", "Investment Target", "Strategic Partnership", "Recruitment", "Advisory", "Monitor Only", "Insufficient Data"].
+- intelligence_gaps: critical data that was missing and would change the assessment if available. Max 4.
+- confidence_level: High = all 10 sections had sufficient data. Medium = 6–9 sections. Low = fewer than 6.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

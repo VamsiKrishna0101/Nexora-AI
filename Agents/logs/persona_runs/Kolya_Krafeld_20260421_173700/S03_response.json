@@ -1,0 +1,96 @@
+{
+  "section_id": 3,
+  "section_name": "Skills & Expertise",
+  "person_id": "kolya-krafeld",
+  "data": {
+    "top_technical_skills": [
+      {
+        "skill": "AI Application Development",
+        "category": "Domain",
+        "evidence_level": "High",
+        "evidence_source": "About and Posts"
+      },
+      {
+        "skill": "Full Stack Engineering",
+        "category": "Domain",
+        "evidence_level": "High",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "LLM Integration",
+        "category": "Tool",
+        "evidence_level": "High",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "PostgreSQL",
+        "category": "Tool",
+        "evidence_level": "High",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "Cloud Architecture",
+        "category": "Platform",
+        "evidence_level": "Medium",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "Snowflake",
+        "category": "Tool",
+        "evidence_level": "Medium",
+        "evidence_source": "LinkedIn Skills"
+      },
+      {
+        "skill": "Amazon Redshift",
+        "category": "Tool",
+        "evidence_level": "Medium",
+        "evidence_source": "LinkedIn Skills"
+      },
+      {
+        "skill": "VSCode Remote SSH",
+        "category": "Tool",
+        "evidence_level": "Medium",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "Docker/Containerization",
+        "category": "Tool",
+        "evidence_level": "Medium",
+        "evidence_source": "Posts"
+      }
+    ],
+    "domain_expertise": [
+      {
+        "domain": "Industrial Tech & Supply Chain",
+        "depth": "Practitioner",
+        "evidence": "Focusing on AI application layer for distributors and manufacturers."
+      },
+      {
+        "domain": "Startup Engineering",
+        "depth": "Expert",
+        "evidence": "Founding Engineer at YC W25 startup; experience at Etleap and SAP rotations."
+      }
+    ],
+    "soft_skills_signals": [
+      {
+        "skill": "Customer Empathy",
+        "signal_source": "Posts",
+        "justification": "Stefan Zheng explicitly identifies him as having 'deep customer empathy' and turning feedback into impactful improvements."
+      },
+      {
+        "skill": "Leadership & Mentorship",
+        "signal_source": "Posts",
+        "justification": "Organizing team offsites and acting as a 'driving force' that makes others in the team better."
+      },
+      {
+        "skill": "Communication",
+        "signal_source": "Posts",
+        "justification": "Engages regularly with both technical and non-technical stakeholders, including prospective hires and team members."
+      }
+    ],
+    "skill_gaps_or_blind_spots": [],
+    "skill_progression_narrative": "Krafeld progressed from a structured rotational engineering role at SAP to the fast-paced environment of early-stage startups in San Francisco. His career has shifted from traditional corporate software engineering to a highly specialized focus on building AI application layers for industrial sectors, emphasizing rapid iterative development and modern DevOps practices.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "The profile is supplemented by specific LinkedIn posts detailing day-to-day engineering workflows and peer endorsements, allowing for high-confidence assessment of technical and soft skills."
+  }
+}

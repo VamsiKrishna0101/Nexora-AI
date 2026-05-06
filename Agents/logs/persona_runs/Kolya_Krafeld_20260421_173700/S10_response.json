@@ -1,0 +1,26 @@
+{
+  "section_id": 10,
+  "section_name": "Risk & Red Flags",
+  "person_id": "kolya-krafeld",
+  "data": {
+    "job_hopping_signal": {
+      "detected": false,
+      "roles_analyzed": 2,
+      "average_tenure_months": 30,
+      "shortest_tenure_months": 24,
+      "assessment": "Average tenure of 30 months exceeds the 18-month threshold for job hopping."
+    },
+    "controversial_statements": [],
+    "failed_ventures": [],
+    "reputation_signals": [],
+    "legal_or_regulatory_issues": [],
+    "data_gaps": [
+      "No secondary web presence or public press mentions found.",
+      "Twitter/social media activity not available for review."
+    ],
+    "overall_risk_rating": "Low",
+    "risk_summary": "The subject maintains a low-risk profile consistent with a professional trajectory in software engineering. No evidence of professional misconduct, failed ventures, or regulatory issues was identified in the available data.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "The assessment is based on a clear and consistent LinkedIn employment history with no external indicators of negative reputation or legal issues."
+  }
+}

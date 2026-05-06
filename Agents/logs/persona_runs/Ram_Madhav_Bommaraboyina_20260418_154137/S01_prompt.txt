@@ -1,0 +1,189 @@
+SYSTEM: None
+
+USER: 
+You are a senior intelligence analyst at a Palantir-grade research firm.
+Your task is to produce a precise, factual Identity Overview for the subject.
+This section anchors the entire intelligence report — accuracy is non-negotiable.
+
+INPUT DATA:
+LinkedIn Profile: {
+  "url": "https://www.linkedin.com/in/ram-madhav-bommaraboyina-381576341",
+  "username": "ram-madhav-bommaraboyina-381576341",
+  "linkedin_id": "ACoAAFWw7ZEBQ3ThuQDibWe3Z6BoAWqPUp5WwQ4",
+  "first_name": "Ram Madhav",
+  "last_name": "Bommaraboyina",
+  "full_name": "Ram Madhav Bommaraboyina",
+  "headline": "Intern at ICRISAT",
+  "is_influencer": false,
+  "is_premium": false,
+  "is_memorialized": false,
+  "location": "Hyder\u0101b\u0101d, Telangana, India",
+  "location_raw": "Hyderabad, Telangana, India",
+  "country_full": "India",
+  "state": "Telangana",
+  "city": "Hyder\u0101b\u0101d",
+  "profile_picture_url": null,
+  "top_skills": [],
+  "linkedin_followers": 174,
+  "connections_count": 175,
+  "about": "Backend & AI Developer with hands-on industry experience building intelligent, scalable systems... experienced in designing REST APIs and backend architectures with Django, and building AI/ML solutions spanning RAG pipelines, computer vision (YOLOv8), and large language model integration \u2014 bridging the gap between robust backend engineering and practical AI applications",
+  "current_positions": [
+    {
+      "company_name": "ICRISAT",
+      "company_linkedin_url": "https://www.linkedin.com/company/icrisat/",
+      "date_range": null
+    }
+  ],
+  "experiences": [
+    {
+      "title": "Intern",
+      "company": "ICRISAT",
+      "duration": "6 mos",
+      "description": null,
+      "skills": [
+        "Python (Programming Language)",
+        "Django"
+      ],
+      "start_date": {
+        "month": "Nov",
+        "year": 2025,
+        "text": "Nov 2025"
+      },
+      "end_date": {
+        "text": "Present"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQG-8JIPC1E1ig/company-logo_400_400/company-logo_400_400/0/1707305647045/icrisat_logo?e=1778112000&v=beta&t=i1rs_bj3nb2gn7nG11RI7gJaJtgtA6m0f1lRuM7d3v0"
+    }
+  ],
+  "educations": [
+    {
+      "institution": "Neil Gogte Institute of Technology",
+      "school_linkedin_url": "https://www.linkedin.com/company/82110623/",
+      "degree": "Bachelor of Engineering",
+      "field_of_study": null,
+      "skills": [
+        "Extract load transform"
+      ],
+      "start_date": {
+        "year": 2021,
+        "text": "2021"
+      },
+      "end_date": {
+        "year": 2025,
+        "text": "2025"
+      },
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQGleaQAtBGvRg/company-logo_400_400/company-logo_400_400/0/1654673880195?e=1778112000&v=beta&t=LhX-fbwNNtSHrkxc6lxB0_ogLlmkv7pN9ZwF566P-yA"
+    },
+    {
+      "institution": "sri chaitanya junior college",
+      "school_linkedin_url": "https://www.linkedin.com/company/67713817/",
+      "degree": "12th",
+      "field_of_study": null,
+      "skills": [],
+      "start_date": null,
+      "end_date": {
+        "text": ""
+      },
+      "school_logo_url": null
+    }
+  ],
+  "skills": [
+    "Programming Languages",
+    "Technology Trends",
+    "Web Application Development",
+    "Scikit-Learn",
+    "Sendmail",
+    "Large Language Models (LLM)",
+    "Deep Learning",
+    "Recommender Systems",
+    "Speech Technology",
+    "NumPy",
+    "Front-End Development",
+    "Back-End Web Development",
+    "Python (Programming Language)",
+    "Django",
+    "REST APIs",
+    "Spring Boot",
+    "OkHttp",
+    "Tkinter",
+    "MongoDB",
+    "Java",
+    "Generative AI",
+    "Extract load transform",
+    "Gemini"
+  ],
+  "languages": [],
+  "certifications": [],
+  "projects": [
+    {
+      "title": "ANPR Challan-System",
+      "description": "Automated Number Plate Detection and Challan Issuing System is a web application that uses YOLOv8 to identify vehicle number plates and automatically send challans via email.",
+      "url": null
+    },
+    {
+      "title": "CineVerse AI Multi Language Movie Recommender",
+      "description": "Developed a multi-language movie recommendation system that suggests movies in English, Hindi, and Telugu using both content-based and collaborative filtering techniques. The system is enhanced with an AI-powered chatbot and a quiz module that predicts genres based on user interaction and User as option view the trailer at there only.",
+      "url": null
+    },
+    {
+      "title": "Track-IT",
+      "description": "TrackIt is a secure, role-based Ticket Management System built using Django and Django REST Framework (DRF). It enables users to create, manage, and track issue tickets with proper authentication, authorization, filtering, and pagination. Security Feature implemented using JWT.",
+      "url": null
+    }
+  ],
+  "volunteering": [],
+  "recommendations": [],
+  "publications": [],
+  "courses": [],
+  "patents": [],
+  "honors_awards": [],
+  "causes": [],
+  "featured": null
+}
+Twitter Profile: {}
+
+INFLUENCE SCORE METHODOLOGY (apply exactly):
+  Start at 0. Add points as follows:
+  - LinkedIn followers:  <500=2, 500–2k=5, 2k–10k=10, 10k–50k=18, 50k+=25
+  - Twitter followers:   <1k=2, 1k–10k=5, 10k–100k=12, 100k+=20
+  - Posting activity:    posts found on both platforms=10, one platform=5, none=0
+  - Career seniority:    C-suite/Founder=15, VP/Director=10, Senior IC=5, other=2
+  - Web presence:        verified/media presence=10, minimal=0
+  Cap final score at 100.
+
+Output ONLY this JSON:
+{
+  "section_id": 1,
+  "section_name": "Identity Overview",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "full_name": "",
+    "current_role": "",
+    "company": "",
+    "location": "",
+    "profile_photo_url": "",
+    "linkedin_url": "",
+    "twitter_handle": "",
+    "linkedin_followers": 0,
+    "twitter_followers": 0,
+    "connections_count": 0,
+    "influence_score": 0,
+    "influence_score_breakdown": {
+      "linkedin_followers_points": 0,
+      "twitter_followers_points": 0,
+      "posting_activity_points": 0,
+      "career_seniority_points": 0,
+      "web_presence_points": 0
+    },
+    "influence_score_rationale": "",
+    "data_confidence": "high|medium|low",
+    "data_confidence_rationale": ""
+  }
+}
+
+RULES:
+- influence_score: apply the exact methodology above. Do not estimate freely.
+- data_confidence: high = rich LinkedIn + Twitter data. medium = one platform only. low = minimal or no data.
+- profile_photo_url: only include if explicitly present in input data.
+- If any field cannot be determined from the data, set it to null.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

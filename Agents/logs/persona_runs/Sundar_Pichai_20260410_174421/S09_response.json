@@ -1,0 +1,69 @@
+{
+  "section_id": 9,
+  "section_name": "Achievements & Milestones",
+  "person_id": "ACoAACSNaE8BokiH-nyGlzVeUVY-k3lqwpHizeg",
+  "data": {
+    "notable_achievements": [
+      {
+        "achievement": "Raised $30M Series A funding for Lio",
+        "context": "Led by Andreessen Horowitz to advance AI procurement technology.",
+        "quantified_impact": "$30,000,000",
+        "source": "Web"
+      },
+      {
+        "achievement": "Y Combinator Alumni",
+        "context": "Participated in the YC S23 batch with company Lio.",
+        "quantified_impact": null,
+        "source": "Both"
+      }
+    ],
+    "companies_built_or_scaled": [
+      {
+        "company": "Lio",
+        "role": "CEO & Founder",
+        "scale_indicator": "$30M Series A",
+        "outcome": "Active"
+      },
+      {
+        "company": "ProGlove Masterclass",
+        "role": "Technical Co-Founder",
+        "scale_indicator": null,
+        "outcome": "Unknown"
+      },
+      {
+        "company": "Gabriel AI",
+        "role": "Co-Founder",
+        "scale_indicator": null,
+        "outcome": "Unknown"
+      }
+    ],
+    "products_launched": [
+      {
+        "product": "Multi-Agent System for Procurement",
+        "context": "Enterprise AI workforce",
+        "impact": "Automates end-to-end procurement tasks"
+      },
+      {
+        "product": "OCR application for GEMA",
+        "context": "Technical project for music rights management",
+        "impact": "Improved workflow for musicians"
+      }
+    ],
+    "awards_and_recognition": [
+      {
+        "award": "DPW Growth Stage Award",
+        "issuing_body": "DPW",
+        "year": "2025"
+      },
+      {
+        "award": "Top 100 Rising European Startups",
+        "issuing_body": "VivaTech",
+        "year": null
+      }
+    ],
+    "career_highlight": "Vladimir Keil is the Founder and CEO of Lio, which secured $30M in Series A funding led by Andreessen Horowitz to develop agentic AI for enterprise procurement.",
+    "achievement_density": "Medium",
+    "data_confidence": "high",
+    "data_confidence_rationale": "Key achievements are cross-referenced across LinkedIn and independent technology news outlets (TechCrunch)."
+  }
+}

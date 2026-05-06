@@ -1,0 +1,33 @@
+{
+  "section_id": 10,
+  "section_name": "Risk & Red Flags",
+  "person_id": "pratheek-swargam",
+  "data": {
+    "job_hopping_signal": {
+      "detected": false,
+      "roles_analyzed": 0,
+      "average_tenure_months": 0,
+      "shortest_tenure_months": 0,
+      "assessment": "Subject has held only one professional role to date; job hopping metrics are not applicable."
+    },
+    "controversial_statements": [],
+    "failed_ventures": [],
+    "reputation_signals": [
+      {
+        "signal": "Ambiguous identity regarding secondary online presence",
+        "source": "Social Media (X/TikTok)",
+        "sentiment": "Neutral"
+      }
+    ],
+    "legal_or_regulatory_issues": [],
+    "data_gaps": [
+      "Limited professional footprint beyond entry-level role",
+      "No verifiable third-party references or professional endorsements",
+      "Unconfirmed link between professional LinkedIn profile and creative music production accounts"
+    ],
+    "overall_risk_rating": "Low",
+    "risk_summary": "The subject presents a low-risk profile as an entry-level professional with no evidence of negative public conduct or professional controversy. The only identified signal is the potential for identity confusion with a separate music-focused social media persona, which does not appear to impact professional standing.",
+    "data_confidence": "medium",
+    "data_confidence_rationale": "High confidence in professional role data from LinkedIn, but medium confidence in overall identity resolution due to multiple social media accounts with identical naming conventions."
+  }
+}

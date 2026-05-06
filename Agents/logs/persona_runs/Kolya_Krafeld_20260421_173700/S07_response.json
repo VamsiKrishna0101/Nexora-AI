@@ -1,0 +1,34 @@
+{
+  "section_id": 7,
+  "section_name": "Network & Influence",
+  "person_id": "ACoAAC2ys7MBDjC3E45uSK81wKZSv9JBnfdDKbw",
+  "data": {
+    "notable_collaborations": [],
+    "associated_companies": [
+      {
+        "company": "Mercura (YC W25)",
+        "role": "Founding Engineer",
+        "type": "Founded"
+      },
+      {
+        "company": "Etleap",
+        "role": "Software Engineer",
+        "type": "Employer"
+      },
+      {
+        "company": "SAP",
+        "role": "Corporate Software Engineering Student",
+        "type": "Employer"
+      }
+    ],
+    "industry_communities": [
+      "SVIP Class of 2021",
+      "YC W25"
+    ],
+    "media_mentions": [],
+    "network_reach": "Tier 4 (Niche)",
+    "network_strength_assessment": "The subject maintains a professional network primarily centered around the European tech landscape and academic environments in Sweden and Taiwan. The strength of the network is bolstered by participation in high-tier startup accelerator programs like Y Combinator, indicating strong potential for growth within the AI application sector.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "All information is derived directly from the provided LinkedIn profile and verified career history."
+  }
+}

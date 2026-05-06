@@ -1,0 +1,44 @@
+{
+  "section_id": 6,
+  "section_name": "Content & Thought Leadership",
+  "person_id": "vladimir-keil",
+  "data": {
+    "articles_and_blogs": [
+      {
+        "title": "Lio AI raises $30M Series A to bring agentic AI to enterprise procurement",
+        "url": "https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/",
+        "date": "2026-03-05",
+        "source": "TechCrunch",
+        "summary": "Article covering Lio's $30M Series A funding round led by Andreessen Horowitz."
+      }
+    ],
+    "podcast_appearances": [],
+    "conference_talks": [
+      {
+        "event": "Procurement Summit 2024",
+        "talk_title": "The Future of AI-Driven Procurement",
+        "date": "2024-10-15",
+        "url": "https://procurementsummit.eu/speaker/vladimir-keil-1"
+      },
+      {
+        "event": "Americas Procurement Congress",
+        "talk_title": "Humans vs. AI Agents: Who Runs Procurement in 2026?",
+        "date": "2026-03-26",
+        "url": null
+      }
+    ],
+    "interviews": [],
+    "key_topics_covered": [
+      "Agentic AI in procurement",
+      "Enterprise automation",
+      "Procurement operational transformation",
+      "Scaling AI-driven startups",
+      "Redefining human-AI collaboration in business"
+    ],
+    "content_volume": "High",
+    "thought_leadership_tier": "Active Contributor",
+    "thought_leadership_assessment": "Vladimir Keil is an active contributor who maintains a high-frequency presence on LinkedIn, supplemented by conference keynotes and major media coverage. He is primarily known for his assertive, data-driven advocacy of autonomous AI agents as the definitive replacement for legacy enterprise procurement processes.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "Data is corroborated by official Lio announcements, professional event speaker profiles, and established tech journalism."
+  }
+}

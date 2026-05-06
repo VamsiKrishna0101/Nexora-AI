@@ -1,0 +1,26 @@
+{
+  "section_id": 10,
+  "section_name": "Risk & Red Flags",
+  "person_id": "ACoAAD8unisBsIgHnZVFhsrjL-DTdoCwCeesXko",
+  "data": {
+    "job_hopping_signal": {
+      "detected": false,
+      "roles_analyzed": 1,
+      "average_tenure_months": 3.0,
+      "shortest_tenure_months": 3,
+      "assessment": "Subject has insufficient tenure history (fewer than 3 roles) to trigger job-hopping threshold."
+    },
+    "controversial_statements": [],
+    "failed_ventures": [],
+    "reputation_signals": [],
+    "legal_or_regulatory_issues": [],
+    "data_gaps": [
+      "No verifiable secondary biographical verification for degree completion date.",
+      "Limited employment history pre-2025 in professional public records."
+    ],
+    "overall_risk_rating": "Low",
+    "risk_summary": "The subject presents a low-risk profile with a consistent trajectory in software engineering and AI-focused development. No adverse legal, regulatory, or professional misconduct signals were identified in the available data.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "Subject's professional identity is consistently supported by LinkedIn, GitHub, and verified company announcements."
+  }
+}

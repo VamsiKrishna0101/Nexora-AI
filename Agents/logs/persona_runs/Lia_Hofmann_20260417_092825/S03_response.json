@@ -1,0 +1,83 @@
+{
+  "section_id": 3,
+  "section_name": "Skills & Expertise",
+  "person_id": "ACoAADk3xRAB69zRTh7jdt5UdA6JfWRk9a4nQGs",
+  "data": {
+    "top_technical_skills": [
+      {
+        "skill": "Go-To-Market (GTM) Strategy",
+        "category": "Methodology",
+        "evidence_level": "High",
+        "evidence_source": "Experience Description"
+      },
+      {
+        "skill": "Sales Strategy",
+        "category": "Methodology",
+        "evidence_level": "High",
+        "evidence_source": "Experience Description"
+      },
+      {
+        "skill": "Lead Generation",
+        "category": "Methodology",
+        "evidence_level": "High",
+        "evidence_source": "Experience Description"
+      },
+      {
+        "skill": "Sales Automation Workflows",
+        "category": "Tool",
+        "evidence_level": "Medium",
+        "evidence_source": "Experience Description"
+      },
+      {
+        "skill": "Market Analysis",
+        "category": "Methodology",
+        "evidence_level": "Medium",
+        "evidence_source": "Experience Description"
+      },
+      {
+        "skill": "Marketing Planning",
+        "category": "Methodology",
+        "evidence_level": "Medium",
+        "evidence_source": "Experience Description"
+      }
+    ],
+    "domain_expertise": [
+      {
+        "domain": "SaaS & AI Technology",
+        "depth": "Practitioner",
+        "evidence": "Roles at Lio (AI procurement) and Wemolo (AI license plate recognition)"
+      },
+      {
+        "domain": "Venture Building",
+        "depth": "Practitioner",
+        "evidence": "Founders Associate role at Firstlane Capital supporting early-stage strategy"
+      },
+      {
+        "domain": "Automotive Industry",
+        "depth": "Practitioner",
+        "evidence": "Marketing Strategy Internship at BMW Group"
+      }
+    ],
+    "soft_skills_signals": [
+      {
+        "skill": "Entrepreneurial Initiative",
+        "signal_source": "Experience",
+        "justification": "Held multiple internships and founder-facing roles while pursuing Master's and Bachelor's degrees."
+      },
+      {
+        "skill": "Public Communication",
+        "signal_source": "Posts",
+        "justification": "Active LinkedIn presence documenting career progression and team success, notably the Lio Series A announcement post."
+      },
+      {
+        "skill": "Collaboration",
+        "signal_source": "Posts",
+        "justification": "Explicitly credited team culture and skilled colleagues in her post regarding her time at Wemolo."
+      }
+    ],
+    "skill_gaps_or_blind_spots": [],
+    "skill_progression_narrative": "Lia evolved from generalist business internships at BMW and financial advisory into a specialized Growth and GTM professional. Her trajectory shows a deliberate shift toward early-stage technology and AI startups, balancing academic training in Economics with hands-on venture building and market execution.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "The profile contains precise job titles, dates, and documented professional activity that aligns clearly with the stated expertise in GTM and sales strategy."
+  }
+}

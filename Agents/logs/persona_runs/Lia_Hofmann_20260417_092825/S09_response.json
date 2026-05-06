@@ -1,0 +1,41 @@
+{
+  "section_id": 9,
+  "section_name": "Achievements & Milestones",
+  "person_id": "ACoAADk3xRAB69zRTh7jdt5UdA6JfWRk9a4nQGs",
+  "data": {
+    "notable_achievements": [
+      {
+        "achievement": "Marketing Director at 180 Degrees Consulting Maastricht",
+        "context": "Led the marketing strategy team for the university-based consultancy for nonprofits",
+        "quantified_impact": null,
+        "source": "LinkedIn"
+      },
+      {
+        "achievement": "GTM Strategy Development for Novosafe GmbH",
+        "context": "Built and executed go-to-market strategy including lead generation and automation",
+        "quantified_impact": null,
+        "source": "LinkedIn"
+      }
+    ],
+    "companies_built_or_scaled": [
+      {
+        "company": "Lio",
+        "role": "GTM / Growth Associate",
+        "scale_indicator": null,
+        "outcome": "Active"
+      },
+      {
+        "company": "Novosafe GmbH",
+        "role": "Freelance GTM",
+        "scale_indicator": null,
+        "outcome": "Active"
+      }
+    ],
+    "products_launched": [],
+    "awards_and_recognition": [],
+    "career_highlight": "Lia Hofmann has progressed through multiple GTM and sales strategy roles in the European startup ecosystem, most recently joining Lio to support the development of an AI-powered procurement system.",
+    "achievement_density": "Low",
+    "data_confidence": "high",
+    "data_confidence_rationale": "All data points are directly derived from the subject's verified LinkedIn profile and confirmed via public career activity."
+  }
+}

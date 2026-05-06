@@ -1,0 +1,534 @@
+SYSTEM: None
+
+USER: 
+You are a relationship intelligence analyst at a Palantir-grade research firm.
+Map the Network & Influence graph of the subject based on verifiable signals.
+Do not infer connections not supported by the data.
+
+INPUT DATA:
+LinkedIn Profile: {
+  "url": "https://www.linkedin.com/in/sundarpichai",
+  "username": "sundarpichai",
+  "linkedin_id": "ACoAAE6FVtYBAW4bP82g1IhIHxzu_1J010WU3CQ",
+  "first_name": "Sundar",
+  "last_name": "Pichai",
+  "full_name": "Sundar Pichai",
+  "headline": "CEO at Google",
+  "is_influencer": true,
+  "is_premium": true,
+  "is_memorialized": false,
+  "location": "Mountain View, California, United States",
+  "location_raw": "Mountain View, California, United States",
+  "country_full": "United States",
+  "state": "California",
+  "city": "Mountain View",
+  "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQFrmDuWUxQoMg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715645354620?e=1777507200&v=beta&t=gQCg1D_PqN-po3qxhtsh7HAU-pn8RNTeIkBV2xKjLlo",
+  "top_skills": [],
+  "linkedin_followers": 4065718,
+  "connections_count": 1,
+  "about": "CEO of Google and Alphabet. Focused on organizing the world's information and making it universally accessible and useful, building great products, and developing advanced technologies, including AI, to help people everywhere.",
+  "current_positions": [
+    {
+      "company_name": "Google",
+      "company_linkedin_url": "https://www.linkedin.com/company/google/",
+      "date_range": {
+        "start": null,
+        "end": null
+      }
+    }
+  ],
+  "experiences": [
+    {
+      "title": "CEO",
+      "company": "Google",
+      "duration": null,
+      "description": "",
+      "skills": [],
+      "start_date": {
+        "month": null,
+        "year": 2015,
+        "text": "2015"
+      },
+      "end_date": {
+        "text": "Present"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1777507200&v=beta&t=DlF1YXynkOiH1__0WR9Bv63MpBFvxaKJop0PjS20RDY"
+    },
+    {
+      "title": "Product Management + Leadership",
+      "company": "Google",
+      "duration": null,
+      "description": "",
+      "skills": [],
+      "start_date": {
+        "month": "Apr",
+        "year": 2004,
+        "text": "Apr 2004"
+      },
+      "end_date": {
+        "month": null,
+        "year": 2015,
+        "text": "2015"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1777507200&v=beta&t=DlF1YXynkOiH1__0WR9Bv63MpBFvxaKJop0PjS20RDY"
+    }
+  ],
+  "educations": [
+    {
+      "institution": "The Wharton School",
+      "school_linkedin_url": "https://www.linkedin.com/school/the-wharton-school/",
+      "degree": "MBA",
+      "field_of_study": "",
+      "skills": [],
+      "start_date": null,
+      "end_date": null,
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQFQu7wZniptpA/company-logo_200_200/company-logo_200_200/0/1677690194092/the_wharton_school_logo?e=1777507200&v=beta&t=YHknddMjfr-m4rGKOBquOVohbh8h35Ur0yFgnopvqcs"
+    },
+    {
+      "institution": "Stanford University",
+      "school_linkedin_url": "https://www.linkedin.com/school/stanford-university/",
+      "degree": "MS",
+      "field_of_study": "Materials Science and Engineering",
+      "skills": [],
+      "start_date": null,
+      "end_date": null,
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_200_200/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1777507200&v=beta&t=boyhmQczHVRO9cbx-Mlf1uoX9rQyq6UdpddHG72aVwE"
+    },
+    {
+      "institution": "Indian Institute of Technology, Kharagpur",
+      "school_linkedin_url": "https://www.linkedin.com/school/indian-institute-of-technology-kharagpur/",
+      "degree": "B. Tech",
+      "field_of_study": "",
+      "skills": [],
+      "start_date": null,
+      "end_date": null,
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQE0lxIeTKBTAw/company-logo_200_200/company-logo_200_200/0/1661239083431/indian_institute_of_technology_kharagpur_logo?e=1777507200&v=beta&t=-WTwkCuzHcxPMjR3ixy8sy5M6t1eWtzlPTUDz4a8_kA"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "certifications": [],
+  "projects": [],
+  "volunteering": [],
+  "recommendations": [],
+  "publications": [],
+  "courses": [],
+  "patents": [],
+  "honors_awards": [],
+  "causes": [],
+  "featured": null
+}
+Web Search Results: --- parallel_ai_research ---
+{
+  "basis": [
+    {
+      "field": "full_name",
+      "reasoning": "The full name 'Pichai Sundararajan' and his common name 'Sundar Pichai' are directly stated in the Wikipedia citation.",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sundar_Pichai",
+          "excerpts": [],
+          "title": "Sundar Pichai"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "current_role",
+      "reasoning": "The current role as CEO of Google and Alphabet is explicitly stated in both the Wikipedia and LinkedIn citations.",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sundar_Pichai",
+          "excerpts": [],
+          "title": "Sundar Pichai"
+        },
+        {
+          "url": "https://www.linkedin.com/in/sundarpichai",
+          "excerpts": [
+            "CEO of Google and Alphabet. Focused on organizing the world's information and making it universally accessible and useful, building great products"
+          ],
+          "title": "Sundar Pichai - CEO at Google"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "skills",
+      "reasoning": "The provided information highlights his leadership in product management and innovation for key Google products like Chrome, ChromeOS, Android, and Google Drive. His current focus on AI and building great products also indicates strategic and technical leadership skills.",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sundar_Pichai",
+          "excerpts": [],
+          "title": "Sundar Pichai"
+        },
+        {
+          "url": "https://www.linkedin.com/in/sundarpichai",
+          "excerpts": [
+            "CEO of Google and Alphabet. Focused on organizing the world's information and making it universally accessible and useful, building great products"
+          ],
+          "title": "Sundar Pichai - CEO at Google"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "professional_summary",
+      "reasoning": "The professional summary is synthesized from his current role description on LinkedIn and his Wikipedia entry, highlighting his leadership at Google and Alphabet and his focus on making information accessible and useful through product development and AI.",
+      "citations": [
+        {
+          "url": "https://www.linkedin.com/in/sundarpichai",
+          "excerpts": [
+            "CEO of Google and Alphabet. Focused on organizing the world's information and making it universally accessible and useful, building great products"
+          ],
+          "title": "Sundar Pichai - CEO at Google"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sundar_Pichai",
+          "excerpts": [],
+          "title": "Sundar Pichai"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "influence_score",
+      "reasoning": "Sundar Pichai is the CEO of Google and Alphabet, two of the world's most influential technology companies. His public statements, LinkedIn activity, and X/Twitter presence consistently cover major product launches, AI developments, and corporate milestones, indicating a very high level of influence within the tech industry and globally. His compensation also reflects his significant standing.",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sundar_Pichai",
+          "excerpts": [],
+          "title": "Sundar Pichai"
+        },
+        {
+          "url": "https://www.linkedin.com/in/sundarpichai",
+          "excerpts": [
+            "CEO of Google and Alphabet. Focused on organizing the world's information and making it universally accessible and useful, building great products"
+          ],
+          "title": "Sundar Pichai - CEO at Google"
+        },
+        {
+          "url": "https://x.com/sundarpichai",
+          "excerpts": [],
+          "title": "Sundar Pichai (@sundarpichai) / Posts / X"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "data_confidence",
+      "reasoning": "A significant amount of public data was found across multiple authoritative sources including Wikipedia, LinkedIn, X/Twitter, and Google's official blog, providing a comprehensive overview of his career, current roles, and public activities.",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sundar_Pichai",
+          "excerpts": [],
+          "title": "Sundar Pichai"
+        },
+        {
+          "url": "https://www.linkedin.com/in/sundarpichai",
+          "excerpts": [],
+          "title": "Sundar Pichai - CEO at Google"
+        },
+        {
+          "url": "https://x.com/sundarpichai",
+          "excerpts": [],
+          "title": "Sundar Pichai (@sundarpichai) / Posts / X"
+        },
+        {
+          "url": "https://fortune.com/article/what-is-google-ceo-sundar-pichai-timeline-ai-data-centers-in-space/",
+          "excerpts": [],
+          "title": "Google CEO Sundar Pichai: Data centers in space will be ..."
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "how_to_approach",
+      "reasoning": "Based on his public persona, Sundar Pichai appears to be a forward-thinking leader, particularly passionate about AI and its impact. Communication should be professional, concise, and focus on innovation, global impact, and strategic vision, especially concerning technology and AI. Referencing his public statements and initiatives, such as the India AI hub or Project Suncatcher, could be effective.",
+      "citations": [
+        {
+          "url": "https://www.linkedin.com/in/sundarpichai",
+          "excerpts": [
+            "CEO of Google and Alphabet. Focused on organizing the world's information and making it universally accessible and useful, building great products"
+          ],
+          "title": "Sundar Pichai - CEO at Google"
+        },
+        {
+          "url": "https://x.com/sundarpichai",
+          "excerpts": [],
+          "title": "Sundar Pichai (@sundarpichai) / Posts / X"
+        },
+        {
+          "url": "https://fortune.com/article/what-is-google-ceo-sundar-pichai-timeline-ai-data-centers-in-space/",
+          "excerpts": [],
+          "title": "Google CEO Sundar Pichai: Data centers in space will be ..."
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "red_flags",
+      "reasoning": "The Wikipedia entry mentions that Pichai was questioned by the United States House Judiciary Committee in December 2018 regarding possible political bias on Google's platforms. This represents a past scrutiny event.",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sundar_Pichai",
+          "excerpts": [],
+          "title": "Sundar Pichai"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "online_presence",
+      "reasoning": "Information about his LinkedIn and X/Twitter accounts, including recent activity summaries, is directly provided in the input. There is no information about a personal website or GitHub handle in the provided sources.",
+      "citations": [
+        {
+          "url": "https://www.linkedin.com/in/sundarpichai",
+          "excerpts": [],
+          "title": "Sundar Pichai - CEO at Google"
+        },
+        {
+          "url": "https://x.com/sundarpichai",
+          "excerpts": [],
+          "title": "Sundar Pichai (@sundarpichai) / Posts / X"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "education",
+      "reasoning": "The LinkedIn profile mentions he is a Stanford alum, and the Wikipedia entry states he will deliver Stanford's 135th Commencement address. However, specific degree and year are not provided in the given excerpts.",
+      "citations": [
+        {
+          "url": "https://www.linkedin.com/in/sundarpichai",
+          "excerpts": [],
+          "title": "Sundar Pichai - CEO at Google"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "personality_signals",
+      "reasoning": "Based on his public statements and the content of his social media, Sundar Pichai demonstrates a communication style focused on innovation, technology (especially AI), and global impact. His key interests clearly revolve around AI, product development, and making information accessible. His leadership style appears to be forward-looking and strategic, emphasizing investment in new technologies and global initiatives. Values can be inferred as innovation, accessibility, and global progress.",
+      "citations": [
+        {
+          "url": "https://www.linkedin.com/in/sundarpichai",
+          "excerpts": [
+            "CEO of Google and Alphabet. Focused on organizing the world's information and making it universally accessible and useful, building great products"
+          ],
+          "title": "Sundar Pichai - CEO at Google"
+        },
+        {
+          "url": "https://x.com/sundarpichai",
+          "excerpts": [],
+          "title": "Sundar Pichai (@sundarpichai) / Posts / X"
+        },
+        {
+          "url": "https://fortune.com/article/what-is-google-ceo-sundar-pichai-timeline-ai-data-centers-in-space/",
+          "excerpts": [],
+          "title": "Google CEO Sundar Pichai: Data centers in space will be ..."
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "career_history",
+      "reasoning": "The Wikipedia entry details his career progression at Google, including his start date, leadership roles in Chrome, ChromeOS, Google Drive, and Android, and his appointment as CEO of Google and then Alphabet.",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sundar_Pichai",
+          "excerpts": [],
+          "title": "Sundar Pichai"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "publications_and_talks",
+      "reasoning": "The provided sources mention his remarks at the AI Impact Summit and an article referencing his statements about Project Suncatcher. His LinkedIn and X accounts also highlight various announcements and reflections.",
+      "citations": [
+        {
+          "url": "https://fortune.com/article/what-is-google-ceo-sundar-pichai-timeline-ai-data-centers-in-space/",
+          "excerpts": [],
+          "title": "Google CEO Sundar Pichai: Data centers in space will be ..."
+        },
+        {
+          "url": "https://www.linkedin.com/in/sundarpichai",
+          "excerpts": [],
+          "title": "Sundar Pichai - CEO at Google"
+        },
+        {
+          "url": "https://x.com/sundarpichai",
+          "excerpts": [],
+          "title": "Sundar Pichai (@sundarpichai) / Posts / X"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "achievements",
+      "reasoning": "His key achievements include leading product management for Google Chrome, ChromeOS, and Google Drive, overseeing Android, and ultimately becoming CEO of Google and then Alphabet. His compensation also indicates significant professional success.",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sundar_Pichai",
+          "excerpts": [],
+          "title": "Sundar Pichai"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "content": {
+    "full_name": "Pichai Sundararajan (commonly known as Sundar Pichai)",
+    "current_role": "CEO of Google and Alphabet",
+    "skills": [
+      "Product Management",
+      "Innovation",
+      "Strategic Leadership",
+      "AI Development",
+      "Product Development"
+    ],
+    "professional_summary": "Sundar Pichai is the CEO of Google and Alphabet, leading efforts to organize the world's information and make it universally accessible and useful. He is deeply focused on building innovative products, particularly in the realm of Artificial Intelligence, and has a history of driving product management and innovation for key Google platforms like Chrome, ChromeOS, Android, and Google Drive.",
+    "influence_score": 95.0,
+    "data_confidence": "high",
+    "how_to_approach": "To best communicate with Sundar Pichai, focus on topics related to technological innovation, particularly Artificial Intelligence, and its potential for global impact and accessibility. Given his public statements and active presence on platforms like LinkedIn and X, a professional and forward-looking approach, referencing his known interests in product development and strategic initiatives, would likely be effective.",
+    "red_flags": [
+      "Questioned by the United States House Judiciary Committee in December 2018 on issues such as possible political bias on Google's platforms."
+    ],
+    "online_presence": {
+      "personal_website": "N/A",
+      "github_handle": "N/A",
+      "twitter_handle": "sundarpichai",
+      "linkedin_url": "https://www.linkedin.com/in/sundarpichai",
+      "recent_posts_summary": "LinkedIn activity highlights include announcements about Gemini capabilities across Google Docs, Sheets, Slides and Drive; India AI Impact Summit; Q4/FY\u201925 results; product integrations of Gemini in Chrome; retail/NRF 2026 participation and Universal Commerce Protocol. X account posts cover company product launches, AI developments (Gemini 3), reflections on events (AI Impact Summit, Stanford), condolences, and corporate milestones, including posts about Gemini 3 launch, AI in Search, Q4/FY\u201925 results, India AI Impact Summit, and tributes."
+    },
+    "education": [
+      {
+        "institution": "Stanford University",
+        "year": "N/A",
+        "degree": "N/A"
+      }
+    ],
+    "personality_signals": {
+      "communication_style": "Professional, forward-looking, focused on technology and global impact, particularly AI.",
+      "key_interests": [
+        "Artificial Intelligence",
+        "Product Development",
+        "Global Accessibility of Information",
+        "Technological Innovation"
+      ],
+      "values": [
+        "Innovation",
+        "Accessibility",
+        "Global Progress"
+      ],
+      "leadership_style": "Strategic, visionary, focused on long-term technological advancements and global initiatives."
+    },
+    "career_history": [
+      {
+        "duration": "2019-Present",
+        "title": "CEO",
+        "company": "Alphabet"
+      },
+      {
+        "duration": "2015-Present",
+        "title": "CEO",
+        "company": "Google"
+      },
+      {
+        "duration": "2013-2015",
+        "title": "Head of Android, Chrome and Apps",
+        "company": "Google"
+      },
+      {
+        "duration": "2004-2013",
+        "title": "Head of Product Management and Innovation (Google Chrome, ChromeOS, Google Drive)",
+        "company": "Google"
+      },
+      {
+        "duration": "2011-2013",
+        "title": "Board of Directors",
+        "company": "Jive Software"
+      }
+    ],
+    "publications_and_talks": [
+      {
+        "title": "Remarks at the opening ceremony of the AI Impact Summit",
+        "date": "2026-04",
+        "type": "Talk/Speech",
+        "url": "https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/"
+      },
+      {
+        "title": "Discussion on data centers in space and Project Suncatcher",
+        "date": "2026-04-03",
+        "type": "Interview/Statement",
+        "url": "https://fortune.com/article/what-is-google-ceo-sundar-pichai-timeline-ai-data-centers-in-space/"
+      },
+      {
+        "title": "Announcements about Gemini capabilities across Google Docs, Sheets, Slides and Drive; India AI Impact Summit; Q4/FY\u201925 results; product integrations of Gemini in Chrome; retail/NRF 2026 participation and Universal Commerce Protocol",
+        "date": "Recent",
+        "type": "Social Media Posts",
+        "url": "https://www.linkedin.com/in/sundarpichai"
+      },
+      {
+        "title": "Company product launches, AI developments (Gemini 3), reflections on events (AI Impact Summit, Stanford), condolences, and corporate milestones",
+        "date": "Recent",
+        "type": "Social Media Posts",
+        "url": "https://x.com/sundarpichai"
+      }
+    ],
+    "achievements": [
+      "Led product management and innovation for Google Chrome, ChromeOS, and Google Drive.",
+      "Oversaw Android products.",
+      "Appointed CEO of Google in 2015.",
+      "Appointed CEO of Alphabet in December 2019.",
+      "Compensation topped $200 million in 2022."
+    ]
+  },
+  "type": "json",
+  "beta_fields": null,
+  "output_schema": null
+}
+
+Output ONLY this JSON:
+{
+  "section_id": 7,
+  "section_name": "Network & Influence",
+  "person_id": "UNKNOWN_ID",
+  "generated_at": "__TIMESTAMP__",
+  "data": {
+    "notable_collaborations": [
+      {
+        "name": "",
+        "organization": "",
+        "relationship_type": "Colleague|Co-founder|Investor|Advisor|Mentor|Partner|Public Mention",
+        "context": "",
+        "source": ""
+      }
+    ],
+    "associated_companies": [
+      {
+        "company": "",
+        "role": "",
+        "type": "Employer|Founded|Advisory|Investment|Board"
+      }
+    ],
+    "industry_communities": [],
+    "media_mentions": [
+      {"outlet": "", "title": "", "url": "", "date": ""}
+    ],
+    "network_reach": "Tier 1 (Global)|Tier 2 (Industry)|Tier 3 (Regional)|Tier 4 (Niche)|Unknown",
+    "network_strength_assessment": "",
+    "data_confidence": "high|medium|low",
+    "data_confidence_rationale": ""
+  }
+}
+
+RULES:
+- notable_collaborations: only include if an explicit connection is mentioned in the data. Max 8.
+- associated_companies: include all companies from career history + any advisory/board roles found. No cap.
+- industry_communities: groups, associations, or communities they are publicly affiliated with. Max 5.
+- media_mentions: only include URLs explicitly found in web_snippets. Never construct URLs. Max 10.
+- network_reach: Tier 1 = global media coverage + Fortune 500 connections. Tier 2 = industry-wide recognition. Tier 3 = regional or local relevance. Tier 4 = niche community. Unknown = insufficient data.
+- network_strength_assessment: exactly 2 sentences. First on the breadth of their network. Second on the depth or quality.
+- Replace __TIMESTAMP__ with current ISO 8601 datetime.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

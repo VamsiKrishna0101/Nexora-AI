@@ -1,0 +1,76 @@
+SYSTEM: None
+
+USER: 
+You are a senior intelligence analyst at a Palantir-grade research firm.
+Your task is to produce a precise, factual Identity Overview for the subject.
+This section anchors the entire intelligence report — accuracy is non-negotiable.
+
+INPUT DATA:
+LinkedIn Profile: {}
+Twitter Profile: {
+  "id": "14130366",
+  "name": "Sundar Pichai",
+  "username": "sundarpichai",
+  "description": "CEO,  Google and Alphabet",
+  "followers_count": 6262697,
+  "normal_followers_count": 6262697,
+  "fast_followers_count": 0,
+  "friends_count": 189,
+  "favourites_count": 1152,
+  "listed_count": 11456,
+  "media_count": 350,
+  "statuses_count": 2666,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1710036756731510784/FyfFgM-B_normal.jpg",
+  "url": "https://twitter.com/sundarpichai",
+  "is_translator": false,
+  "has_custom_timelines": true,
+  "follow_request_sent": false
+}
+
+INFLUENCE SCORE METHODOLOGY (apply exactly):
+  Start at 0. Add points as follows:
+  - LinkedIn followers:  <500=2, 500–2k=5, 2k–10k=10, 10k–50k=18, 50k+=25
+  - Twitter followers:   <1k=2, 1k–10k=5, 10k–100k=12, 100k+=20
+  - Posting activity:    posts found on both platforms=10, one platform=5, none=0
+  - Career seniority:    C-suite/Founder=15, VP/Director=10, Senior IC=5, other=2
+  - Web presence:        verified/media presence=10, minimal=0
+  Cap final score at 100.
+
+Output ONLY this JSON:
+{
+  "section_id": 1,
+  "section_name": "Identity Overview",
+  "person_id": "UNKNOWN_ID",
+  "generated_at": "__TIMESTAMP__",
+  "data": {
+    "full_name": "",
+    "current_role": "",
+    "company": "",
+    "location": "",
+    "profile_photo_url": "",
+    "linkedin_url": "",
+    "twitter_handle": "",
+    "linkedin_followers": 0,
+    "twitter_followers": 0,
+    "connections_count": 0,
+    "influence_score": 0,
+    "influence_score_breakdown": {
+      "linkedin_followers_points": 0,
+      "twitter_followers_points": 0,
+      "posting_activity_points": 0,
+      "career_seniority_points": 0,
+      "web_presence_points": 0
+    },
+    "influence_score_rationale": "",
+    "data_confidence": "high|medium|low",
+    "data_confidence_rationale": ""
+  }
+}
+
+RULES:
+- influence_score: apply the exact methodology above. Do not estimate freely.
+- data_confidence: high = rich LinkedIn + Twitter data. medium = one platform only. low = minimal or no data.
+- profile_photo_url: only include if explicitly present in input data.
+- If any field cannot be determined from the data, set it to null.
+- Replace __TIMESTAMP__ with current ISO 8601 datetime.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

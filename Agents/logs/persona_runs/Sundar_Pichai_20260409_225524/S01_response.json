@@ -1,0 +1,29 @@
+{
+  "section_id": 1,
+  "section_name": "Identity Overview",
+  "person_id": "14130366",
+  "generated_at": "2025-05-14T10:00:00Z",
+  "data": {
+    "full_name": "Sundar Pichai",
+    "current_role": "CEO",
+    "company": "Google and Alphabet",
+    "location": null,
+    "profile_photo_url": "https://pbs.twimg.com/profile_images/1710036756731510784/FyfFgM-B_normal.jpg",
+    "linkedin_url": null,
+    "twitter_handle": "sundarpichai",
+    "linkedin_followers": null,
+    "twitter_followers": 6262697,
+    "connections_count": 189,
+    "influence_score": 52,
+    "influence_score_breakdown": {
+      "linkedin_followers_points": 0,
+      "twitter_followers_points": 20,
+      "posting_activity_points": 5,
+      "career_seniority_points": 15,
+      "web_presence_points": 12
+    },
+    "influence_score_rationale": "Score calculated based on 6.2M Twitter followers (20 pts), active Twitter account (5 pts), C-suite seniority (15 pts), and broad global media presence (12 pts). LinkedIn data was unavailable.",
+    "data_confidence": "medium",
+    "data_confidence_rationale": "High-confidence identity verification via Twitter; however, LinkedIn data is missing, limiting the full profile synthesis."
+  }
+}

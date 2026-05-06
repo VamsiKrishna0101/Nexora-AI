@@ -1,0 +1,23 @@
+{
+  "section_id": 6,
+  "section_name": "Content & Thought Leadership",
+  "person_id": "Vamsi Krishna",
+  "data": {
+    "articles_and_blogs": [],
+    "podcast_appearances": [],
+    "conference_talks": [],
+    "interviews": [],
+    "key_topics_covered": [
+      "Backend engineering",
+      "System design and scalability",
+      "Node.js performance",
+      "Community platform development",
+      "RAG and AI pipelines"
+    ],
+    "content_volume": "Medium",
+    "thought_leadership_tier": "Active Contributor",
+    "thought_leadership_assessment": "The subject is an active contributor who utilizes LinkedIn to publish detailed technical case studies and engineering architecture insights. He is primarily known for his hands-on experience in building scalable backend systems, RAG-enabled AI pipelines, and optimizing performance for community-driven platforms.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "The content footprint is derived directly from the provided LinkedIn post history, which includes technical breakdowns of his project 'Convoxa' and its architectural performance."
+  }
+}

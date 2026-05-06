@@ -1,0 +1,51 @@
+{
+  "section_id": "social_post_intelligence",
+  "section_name": "Social Media Post Intelligence",
+  "person_id": "vamsi-krishna01",
+  "data": {
+    "content_analysis": {
+      "top_topics": [
+        "Backend Engineering",
+        "System Architecture",
+        "Product Development",
+        "Job Seeking",
+        "Scalability Testing"
+      ],
+      "posting_pattern": "Active contributor focused on documenting the engineering lifecycle of his platform, Convoxa.",
+      "content_style": "Technical, architectural-focused, and data-driven with a clear lean toward 'build-in-public' transparency.",
+      "engagement_insight": "Detailed technical breakdowns and architectural problem-solving posts generate the most consistent engagement."
+    },
+    "post_breakdown": [
+      {
+        "platform": "LinkedIn",
+        "type": "Post",
+        "brief_description": "Discusses how poll-based engagement reduces friction compared to traditional commenting.",
+        "theme": "UX Design",
+        "engagement_style": "Educational"
+      },
+      {
+        "platform": "LinkedIn",
+        "type": "Post",
+        "brief_description": "Reports post-launch metrics and announces job search for backend engineering roles.",
+        "theme": "Career Growth",
+        "engagement_style": "Professional"
+      },
+      {
+        "platform": "LinkedIn",
+        "type": "Post",
+        "brief_description": "Deep dive into solving database and feed latency issues for Convoxa.",
+        "theme": "Systems Engineering",
+        "engagement_style": "Technical"
+      }
+    ],
+    "summaries": {
+      "posts": [
+        "Product Evolution: Shares the transition from comment-heavy to poll-based engagement features.",
+        "Career Positioning: Actively leverages project metrics to secure junior backend roles in Europe.",
+        "Technical Deep Dive: Explains hybrid data models and parallel feed architectures to improve system performance.",
+        "Performance Benchmarking: Documents stress testing a Node.js backend to handle 1.9M requests on free-tier infrastructure."
+      ],
+      "reposts": []
+    }
+  }
+}

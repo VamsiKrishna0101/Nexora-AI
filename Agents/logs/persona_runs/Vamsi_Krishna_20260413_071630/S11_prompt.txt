@@ -1,0 +1,516 @@
+SYSTEM: None
+
+USER: 
+You are the Senior Intelligence Director at a Palantir-grade research firm.
+You are delivering the final, authoritative verdict on this subject based on a complete intelligence dossier.
+This verdict is read by C-suite executives and investment committees. Precision and honesty are paramount.
+Do not soften findings. Do not inflate scores. Be direct.
+
+INPUT DATA — COMPLETE INTELLIGENCE DOSSIER (Sections 1–10):
+[
+  "{'section_id': 1, 'section_name': 'Identity Overview', 'person_id': 'ACoAAD8unisBsIgHnZVFhsrjL-DTdoCwCeesXko', 'data': {'full_name': 'Vamsi Krishna', 'current_role': 'Software Engineer', 'company': 'RefractOne', 'location': 'Hyderabad, Telangana, India', 'profile_photo_url': 'https://media.licdn.com/dms/image/v2/D5603AQFtfIhUAWi92w/profile-displayphoto-crop_800_800/B56Z0y74_8GYAI-/0/1774676057326?e=1777507200&v=beta&t=CR2oym1JgzSsl8PQJtT5ORbGhFn55UN81kA8NwAeeag', 'linkedin_url': 'https://www.linkedin.com/in/vamsi-krishna01', 'twitter_handle': None, 'linkedin_followers': 0, 'twitter_followers': 0, 'connections_count': 432, 'influence_score': 7, 'influence_score_breakdown': {'linkedin_followers_points': 2, 'twitter_followers_points': 0, 'posting_activity_points': 0, 'career_seniority_points': 5, 'web_presence_points': 0}, 'influence_score_rationale': 'Subject has <500 LinkedIn followers (+2) and holds a Senior IC/Engineer role (+5). Posting activity is not confirmed via external posts detected in input. Total score: 7.', 'data_confidence': 'medium', 'data_confidence_rationale': 'Data is sourced from a comprehensive LinkedIn profile, but Twitter data is unavailable.'}}",
+  "{'section_id': 2, 'section_name': 'Professional Background', 'person_id': 'vamsi-krishna01', 'data': {'current_role_summary': 'Backend and AI Engineer specialized in high-performance system design and LLM-driven intelligence pipelines.', 'role_summary_bullets': ['Core Identity & Mission: Dedicated to engineering scalable, high-concurrency backend systems and optimizing AI workflows for production environments.', 'Domain Mastery: Expert in FastAPI, Node.js, and Python, with a strong focus on RAG, LangGraph, and vector-based retrieval architectures.', 'Quantifiable Impact: Achieved a ~60% reduction in persona generation latency and a 40% decrease in LLM API costs through optimized prompt orchestration.', 'Strategic Scope: Proven capacity to architect and deploy stateless, horizontally scalable services on Google Cloud Run capable of managing high-traffic real-time applications.', 'Leadership Philosophy: Founder-minded engineer who emphasizes rigorous load testing (k6), performance optimization, and evidence-based architectural case studies.', 'Current Momentum: Actively working at RefractOne while maintaining external projects; currently pursuing opportunities in the German technology market.'], 'career_timeline': [{'company': 'RefractOne', 'title': 'Software Engineer', 'start_date': 'Dec 2025', 'end_date': 'Present', 'duration_months': 3, 'one_line_impact': 'Reduced persona generation latency by ~60% and LLM API costs by ~40% through parallel pipelines and prompt optimization.'}, {'company': 'Convoxa', 'title': 'Founder', 'start_date': 'Jan 2026', 'end_date': 'Present', 'duration_months': 2, 'one_line_impact': 'Reached 400+ downloads with a system capable of 318 RPS at 65ms P95 latency.'}, {'company': 'RefractOne', 'title': 'Software Engineer Intern', 'start_date': 'Sep 2025', 'end_date': 'Nov 2025', 'duration_months': 3, 'one_line_impact': 'Orchestrated multi-agent workflows using LangGraph for end-to-end intelligence report generation.'}], 'education_history': [{'institution': 'Neil Gogte Institute of Technology', 'degree': 'B.Tech', 'field_of_study': 'Computer Science and Engineering (Artificial Intelligence and Machine Learning)', 'graduation_year': '2025'}], 'total_years_experience': 1, 'industry_expertise_areas': ['Artificial Intelligence', 'Software Development', 'Cloud Computing', 'System Architecture', 'EdTech', 'Community Platforms'], 'data_confidence': 'high', 'data_confidence_rationale': 'Data is synthesized directly from a detailed LinkedIn profile including clear start/end dates for professional experience and specific performance metrics for technical projects.'}}",
+  {
+    "section_id": 3,
+    "section_name": "Skills & Expertise",
+    "person_id": "ACoAAD8unisBsIgHnZVFhsrjL-DTdoCwCeesXko",
+    "data": {
+      "top_technical_skills": [
+        {
+          "skill": "Backend Engineering",
+          "category": "Domain",
+          "evidence_level": "High",
+          "evidence_source": "Experience Description"
+        },
+        {
+          "skill": "Node.js",
+          "category": "Framework",
+          "evidence_level": "High",
+          "evidence_source": "Posts"
+        },
+        {
+          "skill": "Python",
+          "category": "Language",
+          "evidence_level": "High",
+          "evidence_source": "Experience Description"
+        },
+        {
+          "skill": "PostgreSQL",
+          "category": "Tool",
+          "evidence_level": "High",
+          "evidence_source": "Posts"
+        },
+        {
+          "skill": "FastAPI",
+          "category": "Framework",
+          "evidence_level": "High",
+          "evidence_source": "Experience Description"
+        },
+        {
+          "skill": "LangGraph",
+          "category": "Tool",
+          "evidence_level": "High",
+          "evidence_source": "Experience Description"
+        },
+        {
+          "skill": "Redis",
+          "category": "Tool",
+          "evidence_level": "Medium",
+          "evidence_source": "About"
+        },
+        {
+          "skill": "System Design",
+          "category": "Methodology",
+          "evidence_level": "Medium",
+          "evidence_source": "Posts"
+        },
+        {
+          "skill": "Load Testing (k6)",
+          "category": "Methodology",
+          "evidence_level": "Medium",
+          "evidence_source": "Posts"
+        },
+        {
+          "skill": "TypeScript",
+          "category": "Language",
+          "evidence_level": "Medium",
+          "evidence_source": "About"
+        },
+        {
+          "skill": "Google Cloud Platform",
+          "category": "Platform",
+          "evidence_level": "Medium",
+          "evidence_source": "Posts"
+        },
+        {
+          "skill": "Algorithms",
+          "category": "Methodology",
+          "evidence_level": "Medium",
+          "evidence_source": "About"
+        }
+      ],
+      "domain_expertise": [
+        {
+          "domain": "AI/LLM Engineering",
+          "depth": "Practitioner",
+          "evidence": "Implemented RAG systems, multi-agent workflows with LangGraph, and optimized LLM token/API usage."
+        },
+        {
+          "domain": "High-Concurrency Systems",
+          "depth": "Practitioner",
+          "evidence": "Handled 1.9M requests with k6 load testing and optimized hybrid data models for nested comment threads."
+        },
+        {
+          "domain": "Full-Stack Development",
+          "depth": "Practitioner",
+          "evidence": "Built and deployed end-to-end community platform (Convoxa) using React Native, PostgreSQL, and Node.js."
+        }
+      ],
+      "soft_skills_signals": [
+        {
+          "skill": "Data-Driven Decision Making",
+          "signal_source": "Posts",
+          "justification": "Explicitly states: 'Building based on real user behavior \u2014 not assumptions' regarding poll implementation."
+        },
+        {
+          "skill": "Result-Oriented",
+          "signal_source": "About",
+          "justification": "Cites specific quantitative impact: 'Improved persona generation latency by ~60% and reduced LLM API costs by ~40%'."
+        },
+        {
+          "skill": "Problem Solving",
+          "signal_source": "Experience",
+          "justification": "Detailed the 'Hybrid Data Model (Materialized Path + Adjacency List)' solution to overcome recursive query performance bottlenecks."
+        }
+      ],
+      "skill_gaps_or_blind_spots": [
+        "No evidence of formal DevOps orchestration (e.g., Kubernetes/Terraform) beyond managed Cloud Run services.",
+        "Limited public evidence of CI/CD pipeline management or infrastructure-as-code expertise."
+      ],
+      "skill_progression_narrative": "Vamsi began by establishing strong algorithmic foundations, evidenced by his Knight rank on LeetCode. He transitioned into practical backend and full-stack development, culminating in the independent architecture of Convoxa, before specializing in applied AI and multi-agent RAG systems at RefractOne.",
+      "data_confidence": "high",
+      "data_confidence_rationale": "Data is supported by a LinkedIn profile containing specific architectural case studies, quantified performance metrics, and verified project outcomes."
+    }
+  },
+  {
+    "section_id": 4,
+    "section_name": "Behavioral Intelligence Suite",
+    "person_id": "vamsi-krishna-2026-04-07",
+    "data": {
+      "behavioral_profile": {
+        "archetype": "The Builder",
+        "one_line_description": "Data-driven engineer focused on optimizing system architecture and maximizing user interaction through iterative testing.",
+        "trait_tags": [
+          "System-oriented",
+          "Empirical",
+          "Product-focused"
+        ]
+      },
+      "trait_scores": {
+        "dominance": 65,
+        "expressiveness": 55,
+        "pace": 75,
+        "pragmatism": 85,
+        "risk_appetite": 40,
+        "social_energy": 45
+      },
+      "working_style": {
+        "decision_making": "Prioritizes empirical evidence and stress-test results over theoretical assumptions.",
+        "collaboration": "Direct and transparent, sharing technical wins and architectural trade-offs.",
+        "conflict_style": "Addresses bottlenecks through methodical problem solving rather than interpersonal friction.",
+        "pace": "Rapid execution cycles, evidenced by monthly launch cadence and k6 testing."
+      },
+      "what_drives_them": {
+        "energizers": [
+          "Infrastructure optimization",
+          "High-concurrency stress testing",
+          "Direct user behavioral feedback",
+          "Quantifiable performance improvements"
+        ],
+        "drainers": [
+          "Assumption-based development",
+          "Inefficient architectural designs",
+          "Development friction",
+          "Lack of measurable user participation"
+        ]
+      },
+      "engagement_guide": {
+        "how_to_open": [
+          "Lead with technical architectural challenges.",
+          "Reference specific performance metrics like latency or throughput.",
+          "Acknowledge the effort invested in personal side projects."
+        ],
+        "how_to_run_meeting": [
+          "Keep discussions focused on system scalability and design.",
+          "Use data visualization or stress test results as primary evidence.",
+          "Define clear, measurable goals for technical projects."
+        ],
+        "how_to_email": [
+          "Keep correspondence concise and technical.",
+          "Highlight specific opportunities for backend or AI growth.",
+          "Use bullet points for clear data presentation."
+        ],
+        "how_to_follow_up": [
+          "Focus on the status of technical implementation milestones.",
+          "Ask for specific evidence of system stability or progress.",
+          "Reference previous technical discussions."
+        ],
+        "how_to_build_trust": [
+          "Provide clear evidence of technical expertise.",
+          "Show consistency in deliverable performance metrics.",
+          "Demonstrate high competence in Node.js and RAG pipelines."
+        ]
+      },
+      "blind_spots": [
+        "Over-reliance on quantitative data at the potential expense of qualitative user sentiment.",
+        "Tendency to prioritize engineering polish over community growth strategies.",
+        "Focus on technical metrics like '1.9M requests' may overshadow wider product-market fit."
+      ],
+      "dos_and_donts": {
+        "dos": [
+          "Present concrete technical challenges and trade-offs.",
+          "Discuss scalability, latency, and load-testing methodologies.",
+          "Provide clear paths for technical growth in Germany or Netherlands.",
+          "Value evidence-based design choices."
+        ],
+        "donts": [
+          "Avoid making assumptions without supporting test data.",
+          "Do not ignore the technical complexity of backend architecture.",
+          "Avoid vague or high-level strategic concepts without implementation plans.",
+          "Do not discount the importance of infrastructure efficiency."
+        ]
+      },
+      "data_confidence": "high",
+      "data_confidence_rationale": "High volume of self-reported architectural data and specific project performance metrics provides a clear window into professional priorities and decision-making frameworks."
+    }
+  },
+  {
+    "section_id": 5,
+    "section_name": "Online Presence & Activity",
+    "person_id": "vamsi-krishna01",
+    "data": {
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/vamsi-krishna01",
+        "followers": 0,
+        "posts_analyzed": 3,
+        "posting_frequency": "Weekly",
+        "avg_likes_per_post": 6,
+        "avg_comments_per_post": 1,
+        "top_topics": [
+          "Backend Engineering",
+          "System Design",
+          "Node.js",
+          "AI Agents",
+          "Scalability"
+        ],
+        "last_post_date": "2026-04-07T07:30:05.873Z",
+        "last_post_summary": "Vamsi shared an insight regarding user behavior on his community platform Convoxa, noting that users prefer voting over commenting, leading him to implement poll features."
+      },
+      "twitter": {
+        "handle": null,
+        "url": null,
+        "followers": 0,
+        "posts_analyzed": 0,
+        "posting_frequency": "Unknown",
+        "top_topics": [],
+        "avg_likes_per_tweet": 0,
+        "avg_retweets_per_tweet": 0,
+        "last_tweet_date": null
+      },
+      "github": {
+        "url": "https://github.com/rvamsikrishna",
+        "found": true
+      },
+      "personal_website": null,
+      "other_platforms": [],
+      "overall_digital_footprint": "Moderate",
+      "recent_activity_summary": "Vamsi is actively focused on technical evangelism for his project Convoxa, sharing detailed architecture breakdowns and load testing results. He is currently leveraging his experience in backend engineering and AI to seek new opportunities in Germany and the Netherlands.",
+      "data_confidence": "high",
+      "data_confidence_rationale": "High confidence based on direct LinkedIn profile data, recent platform activity, and cross-referenced GitHub repository handles."
+    }
+  },
+  {
+    "raw": {
+      "section_id": 6,
+      "section_name": "Content & Thought Leadership",
+      "person_id": "vamsi-krishna01",
+      "data": {
+        "articles_and_blogs": [],
+        "podcast_appearances": [],
+        "conference_talks": [],
+        "interviews": [],
+        "key_topics_covered": [
+          "Backend System Design",
+          "API Latency Optimization",
+          "Scalable Infrastructure",
+          "AI/RAG Pipeline Development",
+          "Community Platform Engineering"
+        ],
+        "content_volume": "Low",
+        "thought_leadership_tier": "Minimal Presence",
+        "thought_leadership_assessment": "The subject maintains a minimal external content presence, limited to technical case studies and feature updates shared directly on his LinkedIn profile. He is primarily known for documenting backend architecture trade-offs and performance-tuning for his product, Convoxa.",
+        "data_confidence": "high",
+        "data_confidence_rationale": "The assessment is derived from the absence of external articles, speaking engagements, or media interviews in the provided LinkedIn activity and web search results."
+      }
+    }
+  },
+  {
+    "section_id": 7,
+    "section_name": "Network & Influence",
+    "person_id": "ACoAAD8unisBsIgHnZVFhsrjL-DTdoCwCeesXko",
+    "data": {
+      "notable_collaborations": [],
+      "associated_companies": [
+        {
+          "company": "RefractOne",
+          "role": "Software Engineer / Intern",
+          "type": "Employer"
+        },
+        {
+          "company": "Convoxa",
+          "role": "Founder",
+          "type": "Founded"
+        }
+      ],
+      "industry_communities": [
+        "LeetCode (Knight Rank)",
+        "Open Source Community (Flutter/Dart)"
+      ],
+      "media_mentions": [],
+      "network_reach": "Tier 4 (Niche)",
+      "network_strength_assessment": "The subject maintains a niche network primarily composed of technical peers within the software engineering and AI development sectors in India. The quality of these connections is reinforced by active participation in open-source development and technical competitive programming communities.",
+      "data_confidence": "high",
+      "data_confidence_rationale": "Data is corroborated by verifiable LinkedIn professional history, GitHub repository activity, and company-specific welcome posts."
+    }
+  },
+  {
+    "section_id": 8,
+    "section_name": "Tactical Outreach Playbook",
+    "person_id": "vamsi-krishna-2026-04-07",
+    "data": {
+      "outreach_scripts": {
+        "email_draft": {
+          "subject": "Technical Architecture: Scaling Convoxa / Node.js performance",
+          "body": "Hi Vamsi,\n\nI reviewed your Convoxa architecture case study\u2014specifically the Hybrid Data Model (Materialized Path + Adjacency List) used to solve your recursive query bottlenecks.\n\nYour focus on optimizing read-heavy community platforms and the k6 results (75ms latency at 500 VUs) demonstrates a high level of engineering rigor. We are currently tackling similar backend challenges involving high-concurrency RAG pipelines.\n\nAre you open to a brief technical exchange regarding system design trade-offs in our stack? I'd like to share how we handle feed parallelism at scale.\n\nBest,\n[Your Name]"
+        },
+        "linkedin_inmail": {
+          "body": "Hi Vamsi, your breakdown of the Hybrid Data Model in Convoxa was excellent. Moving from recursive N-depth queries to a single indexed read is a classic win. We\u2019re currently solving similar scaling bottlenecks in Node.js/PostgreSQL. Would you be open to a quick technical sync?"
+        }
+      },
+      "high_resonance_topics": [
+        "Hybrid Data Models for recursive tree traversal",
+        "Parallel architecture for real-time feed systems",
+        "Load testing methodology (k6/GCP infrastructure efficiency)",
+        "Performance optimization in Node.js/PostgreSQL stacks"
+      ],
+      "topics_to_avoid": [
+        "Assumption-based development strategies",
+        "Vague high-level product roadmaps without implementation data",
+        "Marketing-heavy content lacking technical depth"
+      ],
+      "conversation_starters": [
+        {
+          "opener": "I saw your k6 test results for Convoxa\u2014how did you manage to maintain 75ms latency while scaling to 500 concurrent users on the free tier?",
+          "context": "Direct technical inquiry into their specific performance metrics."
+        },
+        {
+          "opener": "Your choice of Materialized Path over Adjacency Lists is interesting. Have you noticed any significant write-latency trade-offs as your comment volume grows?",
+          "context": "Engaging their pragmatic, trade-off-focused decision-making style."
+        },
+        {
+          "opener": "I noticed you're shifting toward poll-based engagement for Convoxa\u2014how are you measuring the impact on backend load compared to standard comment-thread interactions?",
+          "context": "Validating their transition from quantitative testing to user-behavioral product design."
+        }
+      ],
+      "optimization": {
+        "best_channel": "LinkedIn",
+        "best_days": [
+          "Tuesday",
+          "Wednesday"
+        ],
+        "suggested_time_of_day": "07:30 AM CET"
+      },
+      "data_confidence": "high"
+    }
+  },
+  "{'section_id': 9, 'section_name': 'Achievements & Milestones', 'person_id': 'ACoAAD8unisBsIgHnZVFhsrjL-DTdoCwCeesXko', 'data': {'notable_achievements': [{'achievement': 'Performance optimization of persona generation', 'context': 'Backend services at RefractOne', 'quantified_impact': '60% reduction in latency and 40% reduction in LLM API costs', 'source': 'LinkedIn'}, {'achievement': 'Backend system load testing', 'context': 'Convoxa platform deployment', 'quantified_impact': '1.9M requests handled at 75ms latency', 'source': 'LinkedIn'}, {'achievement': 'RAG system implementation', 'context': 'RefractOne intelligence platform', 'quantified_impact': '50% reduction in token usage', 'source': 'LinkedIn'}, {'achievement': 'Product launch and user acquisition', 'context': 'Convoxa platform', 'quantified_impact': '400+ downloads', 'source': 'LinkedIn'}], 'companies_built_or_scaled': [{'company': 'Convoxa', 'role': 'Founder', 'scale_indicator': '400+ downloads', 'outcome': 'Active'}], 'products_launched': [{'product': 'Convoxa', 'context': 'Community platform', 'impact': '400+ downloads'}, {'product': 'Lepus', 'context': 'Campus platform', 'impact': 'Mobile-first platform for attendance and habit management'}], 'awards_and_recognition': [{'award': 'Knight Rank (Top 5% Globally)', 'issuing_body': 'LeetCode', 'year': None}], 'career_highlight': 'Vamsi Krishna is a backend engineer who engineered a high-concurrency architecture for Convoxa, achieving a sustained 318 requests per second with a 65ms P95 latency across 1.9 million API requests.', 'achievement_density': 'High', 'data_confidence': 'high', 'data_confidence_rationale': \"Achievements are explicitly quantified in the subject's LinkedIn profile, supported by technical case studies and load test metrics.\"}}",
+  {
+    "section_id": 10,
+    "section_name": "Risk & Red Flags",
+    "person_id": "ACoAAD8unisBsIgHnZVFhsrjL-DTdoCwCeesXko",
+    "data": {
+      "job_hopping_signal": {
+        "detected": false,
+        "roles_analyzed": 1,
+        "average_tenure_months": 3.0,
+        "shortest_tenure_months": 3,
+        "assessment": "Subject has limited professional history, consisting of only one completed internship role, which does not meet the criteria for a job-hopping pattern."
+      },
+      "controversial_statements": [],
+      "failed_ventures": [],
+      "reputation_signals": [
+        {
+          "signal": "Active contributor to open-source software and recognized LeetCode Knight rank.",
+          "source": "LinkedIn/GitHub",
+          "sentiment": "Positive"
+        }
+      ],
+      "legal_or_regulatory_issues": [],
+      "data_gaps": [
+        "No Twitter activity history provided.",
+        "Limited longitudinal career data due to early-career status."
+      ],
+      "overall_risk_rating": "Low",
+      "risk_summary": "The subject presents a low-risk profile with a consistent trajectory in software engineering and technical contribution. There are no identified red flags, controversial statements, or negative reputational markers in the provided data.",
+      "data_confidence": "high",
+      "data_confidence_rationale": "The profile data is internally consistent across LinkedIn and corroborated by external web search results regarding his current employment and technical skills."
+    }
+  },
+  {
+    "section_id": "social_post_intelligence",
+    "section_name": "Social Media Post Intelligence",
+    "person_id": "vamsi-krishna01",
+    "data": {
+      "content_analysis": {
+        "top_topics": [
+          "Backend Engineering",
+          "System Architecture",
+          "Scalability Testing",
+          "Product Development",
+          "Career Relocation"
+        ],
+        "posting_pattern": "Highly targeted, technical activity centered around periodic product milestone updates.",
+        "content_style": "Analytical, engineering-focused, and transparent, utilizing structural data points to convey technical depth.",
+        "engagement_insight": "Engagement is driven by sharing specific performance metrics and actionable insights from real-world software builds."
+      },
+      "post_breakdown": [
+        {
+          "platform": "LinkedIn",
+          "type": "Post",
+          "brief_description": "Insight into product design changes driven by observed user voting behavior.",
+          "theme": "UX Design",
+          "engagement_style": "Evidence-based"
+        },
+        {
+          "platform": "LinkedIn",
+          "type": "Post",
+          "brief_description": "Updates on Convoxa launch metrics and search for backend roles in Europe.",
+          "theme": "Career and Growth",
+          "engagement_style": "Achievement-oriented"
+        },
+        {
+          "platform": "LinkedIn",
+          "type": "Post",
+          "brief_description": "Technical case study on scaling a Node.js backend with k6 load testing.",
+          "theme": "Engineering",
+          "engagement_style": "Analytical"
+        }
+      ],
+      "summaries": {
+        "posts": [
+          "Product Insight: Pivoted feature development to prioritize voting over commenting to increase engagement.",
+          "Launch Milestone: Shared post-launch metrics and active search for engineering roles in Germany/Netherlands.",
+          "Technical Architecture: Detailed the hybrid data model and parallel feed architecture used to scale Convoxa."
+        ],
+        "reposts": []
+      }
+    }
+  }
+]
+
+PROFILE STRENGTH SCORE METHODOLOGY (apply exactly):
+  Start at 0. Add points as follows:
+  - Career depth (Section 2):     Strong timeline with quantified impact=20, moderate=12, minimal=5
+  - Skills breadth (Section 3):   10+ high-evidence skills=15, 5–9=10, <5=5
+  - Online influence (Section 1): influence_score >= 70=15, 40–69=10, <40=5
+  - Content output (Section 6):   Thought Leadership Tier "Authority"=15, "Active"=10, "Emerging"=5, lower=0
+  - Network strength (Section 7): Tier 1–2=15, Tier 3=8, Tier 4=3, Unknown=0
+  - Risk profile (Section 10):    Low risk=20, Medium=12, High=5, Critical=0
+  Cap final score at 100.
+
+Output ONLY this JSON:
+{
+  "section_id": 11,
+  "section_name": "AI Analyst Verdict",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "profile_strength_score": 0,
+    "profile_strength_breakdown": {
+      "career_depth_points": 0,
+      "skills_breadth_points": 0,
+      "online_influence_points": 0,
+      "content_output_points": 0,
+      "network_strength_points": 0,
+      "risk_profile_points": 0
+    },
+    "profile_strength_rationale": "",
+    "key_strengths": [
+      "",
+      "",
+      ""
+    ],
+    "key_concerns": [
+      "",
+      ""
+    ],
+    "one_line_verdict": "",
+    "recommended_use_cases": [],
+    "use_case_rationale": "",
+    "intelligence_gaps": [],
+    "confidence_level": "High|Medium|Low",
+    "confidence_rationale": ""
+  }
+}
+
+RULES:
+- Apply the profile strength score methodology above exactly. Show the breakdown.
+- profile_strength_rationale: 2-3 sentences explaining the score — what drove it up and what capped it.
+- key_strengths: exactly 3 items. Each must be specific, derived from data, and non-generic. "Strong communicator" is not acceptable. "Published in Forbes, keynoted SaaStr 2023" is acceptable.
+- key_concerns: exactly 2 items. Be honest — if the profile is clean, flag data gaps or limited verifiability as concerns.
+- one_line_verdict: the single most important takeaway. Max 20 words. Specific. Actionable. No filler.
+  Good: "High-credibility technical founder with proven AI scale — best approached via LinkedIn referral for partnership or investment."
+  Bad: "Impressive professional with a strong background in technology."
+- recommended_use_cases: array of applicable options from ["Sales Target", "Investment Target", "Strategic Partnership", "Recruitment", "Advisory", "Monitor Only", "Insufficient Data"].
+- intelligence_gaps: critical data that was missing and would change the assessment if available. Max 4.
+- confidence_level: High = all 10 sections had sufficient data. Medium = 6–9 sections. Low = fewer than 6.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

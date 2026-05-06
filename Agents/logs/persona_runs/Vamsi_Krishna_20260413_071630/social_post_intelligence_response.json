@@ -1,0 +1,50 @@
+{
+  "section_id": "social_post_intelligence",
+  "section_name": "Social Media Post Intelligence",
+  "person_id": "vamsi-krishna01",
+  "data": {
+    "content_analysis": {
+      "top_topics": [
+        "Backend Engineering",
+        "System Architecture",
+        "Scalability Testing",
+        "Product Development",
+        "Career Relocation"
+      ],
+      "posting_pattern": "Highly targeted, technical activity centered around periodic product milestone updates.",
+      "content_style": "Analytical, engineering-focused, and transparent, utilizing structural data points to convey technical depth.",
+      "engagement_insight": "Engagement is driven by sharing specific performance metrics and actionable insights from real-world software builds."
+    },
+    "post_breakdown": [
+      {
+        "platform": "LinkedIn",
+        "type": "Post",
+        "brief_description": "Insight into product design changes driven by observed user voting behavior.",
+        "theme": "UX Design",
+        "engagement_style": "Evidence-based"
+      },
+      {
+        "platform": "LinkedIn",
+        "type": "Post",
+        "brief_description": "Updates on Convoxa launch metrics and search for backend roles in Europe.",
+        "theme": "Career and Growth",
+        "engagement_style": "Achievement-oriented"
+      },
+      {
+        "platform": "LinkedIn",
+        "type": "Post",
+        "brief_description": "Technical case study on scaling a Node.js backend with k6 load testing.",
+        "theme": "Engineering",
+        "engagement_style": "Analytical"
+      }
+    ],
+    "summaries": {
+      "posts": [
+        "Product Insight: Pivoted feature development to prioritize voting over commenting to increase engagement.",
+        "Launch Milestone: Shared post-launch metrics and active search for engineering roles in Germany/Netherlands.",
+        "Technical Architecture: Detailed the hybrid data model and parallel feed architecture used to scale Convoxa."
+      ],
+      "reposts": []
+    }
+  }
+}

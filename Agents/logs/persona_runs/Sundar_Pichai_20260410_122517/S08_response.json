@@ -1,0 +1,52 @@
+{
+  "section_id": 8,
+  "section_name": "How to Engage",
+  "person_id": "sundarpichai",
+  "generated_at": "2026-04-10T12:00:00Z",
+  "data": {
+    "best_approach_style": "Adopt a data-driven, mission-oriented tone that prioritizes partnership and collective success. Frame inquiries around scale, infrastructure, and societal impact, ensuring all proposals are backed by clear quantitative metrics rather than vague promises of value.",
+    "topics_that_resonate": [
+      "AI infrastructure investment and data center sustainability",
+      "Scaling frontier AI capabilities (Gemini models) for enterprise utility",
+      "Building collaborative open-source or interoperable ecosystems like UCP",
+      "Real-world application of AI (Quantum, Waymo safety, Healthcare)"
+    ],
+    "topics_to_avoid": [
+      "Speculative or controversial personal topics",
+      "Hyper-competitive or combative framing regarding competitors",
+      "Purely marketing-driven content lacking technical depth or substance"
+    ],
+    "best_channel": "LinkedIn",
+    "best_channel_rationale": "Pichai utilizes LinkedIn as his primary platform for broadcasting strategic partnerships, major corporate milestones, and infrastructure updates, making it the most appropriate venue for professional high-level outreach.",
+    "suggested_conversation_starters": [
+      {
+        "opener": "I was struck by your recent commentary on the Universal Commerce Protocol; given our experience in interoperable supply chain tech, have you considered the implications for the UCP roadmap in fragmented regional markets?",
+        "based_on": "LinkedIn post regarding #NRF2026 and Universal Commerce Protocol launch."
+      },
+      {
+        "opener": "The recent data on the Waymo safety metrics is compelling. How are your teams currently weighing the trade-off between edge-device latency and centralized model reasoning as you expand into new geographic hubs?",
+        "based_on": "Twitter post regarding Waymo safety data and 13x fewer serious injury crashes."
+      },
+      {
+        "opener": "With the expansion of Gemini 3 into Google Antigravity, we are observing significant improvements in developer velocity. Are you seeing specific patterns in how these agentic tools are redefining the 'vibe coding' paradigm for legacy enterprise architecture?",
+        "based_on": "Twitter post regarding AI Studio updates and Antigravity coding agent."
+      }
+    ],
+    "outreach_timing": {
+      "best_days": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "activity_pattern": "Highly active mid-week for product rollouts and strategic announcements; usually publishes or engages during standard Pacific Time business hours.",
+      "timing_confidence": "High"
+    },
+    "engagement_red_flags": [
+      "Ignoring the importance of ecosystem partnership (the 'we only succeed together' ethos)",
+      "Lacking specific performance metrics or evidence of scale in the pitch",
+      "Focusing on individual credit rather than team or organizational contribution"
+    ],
+    "data_confidence": "high",
+    "data_confidence_rationale": "High volume of professional posts across two platforms demonstrates a very consistent, predictable communication pattern focused on corporate milestones and strategic vision."
+  }
+}

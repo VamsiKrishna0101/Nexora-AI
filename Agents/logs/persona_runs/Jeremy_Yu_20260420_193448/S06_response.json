@@ -1,0 +1,31 @@
+{
+  "section_id": 6,
+  "section_name": "Content & Thought Leadership",
+  "person_id": "jeremy-yu-68928a6",
+  "data": {
+    "articles_and_blogs": [
+      {
+        "title": "Lyzr 101: Choose Your AI Ride \u2014 Bus, Taxi, or Rideshare",
+        "url": "https://medium.com/@jeremysyu",
+        "date": null,
+        "source": "Medium",
+        "summary": "An introductory article explaining Lyzr's approach to AI deployment options."
+      }
+    ],
+    "podcast_appearances": [],
+    "conference_talks": [],
+    "interviews": [],
+    "key_topics_covered": [
+      "Enterprise AI agent deployment",
+      "Agentic AI architecture and orchestration",
+      "AI reliability and governance",
+      "Production-ready AI systems",
+      "Retrieval-Augmented Generation (RAG)"
+    ],
+    "content_volume": "Medium",
+    "thought_leadership_tier": "Active Contributor",
+    "thought_leadership_assessment": "Jeremy Yu is an active contributor who consistently publishes technical content and strategic LinkedIn updates to evangelize Lyzr AI's enterprise agent solutions. He is primarily known for his pragmatic expertise in AI agent orchestration, secure deployment methodologies, and developer-focused tooling.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "The assessment is based on a direct review of his LinkedIn activity, Medium author page, and GitHub contributions, providing a clear picture of his content footprint."
+  }
+}

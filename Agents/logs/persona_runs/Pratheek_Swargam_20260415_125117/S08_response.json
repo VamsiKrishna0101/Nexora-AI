@@ -1,0 +1,51 @@
+{
+  "section_id": 8,
+  "section_name": "Tactical Outreach Playbook",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "outreach_scripts": {
+      "email_draft": {
+        "subject": "Professional background inquiry: [Name]",
+        "body": "Hi [Name], I am conducting a review of professionals in your sector and noticed limited public information regarding your current initiatives. To ensure my records are accurate, I have three questions: 1. What is your current professional focus? 2. Are you open to a brief informational exchange? 3. Could you provide a current summary of your work? I look forward to connecting directly."
+      },
+      "linkedin_inmail": {
+        "body": "Hi [Name], I am looking to connect with professionals in your field to discuss industry trends. Your profile appeared in my search, but I noticed a lack of public background. I would appreciate the opportunity to learn more about your current focus and professional goals. Best, [Name]."
+      }
+    },
+    "high_resonance_topics": [
+      "Professional background verification",
+      "Industry standard benchmarking",
+      "Neutral, inquiry-based discovery",
+      "Clarification of career trajectory"
+    ],
+    "topics_to_avoid": [
+      "Assumptions about personal interests",
+      "Speculative professional expertise",
+      "Casual or informal vernacular",
+      "Inferred behavioral traits"
+    ],
+    "conversation_starters": [
+      {
+        "opener": "I'm reaching out to establish a direct connection as my internal data on your profile is currently incomplete.",
+        "context": "Used to initiate contact while acknowledging the lack of data."
+      },
+      {
+        "opener": "I am currently updating my industry network map and would like to capture your current professional scope accurately.",
+        "context": "Positions the request as a professional data-gathering exercise."
+      },
+      {
+        "opener": "Could you provide a brief overview of your current priorities? I want to ensure I understand your professional context correctly.",
+        "context": "Used during initial dialogue to build trust through objective inquiry."
+      }
+    ],
+    "optimization": {
+      "best_channel": "Email",
+      "best_days": [
+        "Tuesday",
+        "Wednesday"
+      ],
+      "suggested_time_of_day": "09:00 AM - 10:30 AM"
+    },
+    "data_confidence": "low"
+  }
+}

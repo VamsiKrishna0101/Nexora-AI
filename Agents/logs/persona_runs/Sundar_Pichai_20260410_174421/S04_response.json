@@ -1,0 +1,93 @@
+{
+  "section_id": 4,
+  "section_name": "Behavioral Intelligence Suite",
+  "person_id": "vladimir-keil",
+  "data": {
+    "behavioral_profile": {
+      "archetype": "The Pioneer",
+      "one_line_description": "Aggressive founder driving a radical shift from human-led to autonomous agent-based procurement operations.",
+      "trait_tags": [
+        "Disruptive",
+        "Visionary",
+        "Tactically-aggressive"
+      ]
+    },
+    "trait_scores": {
+      "dominance": 85,
+      "expressiveness": 75,
+      "pace": 90,
+      "pragmatism": 80,
+      "risk_appetite": 70,
+      "social_energy": 65
+    },
+    "working_style": {
+      "decision_making": "Decisive and data-backed, favoring rapid execution over consensus-building.",
+      "collaboration": "Direct and meritocratic, prioritizing talent density and high-energy contributors.",
+      "conflict_style": "Openly confronts legacy industry models and 'theater' in software.",
+      "pace": "Hyper-fast scaling, maintaining high intensity for himself and his team."
+    },
+    "what_drives_them": {
+      "energizers": [
+        "Winning market share through superior technical execution",
+        "Challenging established status quo and industry norms",
+        "High-velocity organizational growth",
+        "Concrete, measurable outcomes like automation and savings"
+      ],
+      "drainers": [
+        "Inefficient processes and administrative manual labor",
+        "Conversations centered on features rather than execution",
+        "Social pressure to compromise vision for consensus",
+        "Legacy enterprise procurement mindsets"
+      ]
+    },
+    "engagement_guide": {
+      "how_to_open": [
+        "Acknowledge the shift to agentic execution over copilots.",
+        "Reference recent funding news or industry positioning.",
+        "Demonstrate immediate alignment with the 'autonomous workforce' vision."
+      ],
+      "how_to_run_meeting": [
+        "Keep the focus on high-impact strategic execution.",
+        "Avoid fluff; come prepared with specific operational bottlenecks.",
+        "Validate the premise that AI should replace, not assist."
+      ],
+      "how_to_email": [
+        "Be concise, punchy, and outcome-oriented.",
+        "Eliminate jargon that suggests incremental improvements.",
+        "Link directly to high-level ROI or performance metrics."
+      ],
+      "how_to_follow_up": [
+        "Provide tangible updates on progress or momentum.",
+        "Avoid repetitive 'checking-in' without new value-add data.",
+        "Propose clear, definitive next steps for partnership."
+      ],
+      "how_to_build_trust": [
+        "Demonstrate commitment to the radical vision of agentic AI.",
+        "Show evidence of high-velocity team performance.",
+        "Validate his stance against 'copilot theater' in the industry."
+      ]
+    },
+    "blind_spots": [
+      "Potential risk of burnout due to unsustainable organizational pace.",
+      "Can appear confrontational or exclusionary to those in legacy roles.",
+      "Over-reliance on 'disruption' framing potentially alienating enterprise incumbents.",
+      "May underestimate the friction of long-term change management in large firms."
+    ],
+    "dos_and_donts": {
+      "dos": [
+        "Focus on agent-driven autonomy and execution.",
+        "Validate his perspective on procurement transformation.",
+        "Present data-backed results and efficiency metrics.",
+        "Maintain high intensity and professional velocity."
+      ],
+      "donts": [
+        "Propose incremental features or 'copilot' tools.",
+        "Advocate for traditional headcount or BPO-heavy models.",
+        "Use vague or 'consultancy' style therapy language.",
+        "Waste time on soft-consensus building exercises."
+      ]
+    },
+    "data_confidence": "high",
+    "data_confidence_rationale": "High volume of consistent, professional-grade communication across 20 recent LinkedIn posts demonstrating a cohesive worldview and operating style."
+  }
+}

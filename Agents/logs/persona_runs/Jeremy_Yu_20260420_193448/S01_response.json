@@ -1,0 +1,28 @@
+{
+  "section_id": 1,
+  "section_name": "Identity Overview",
+  "person_id": "ACoAAAEbx0kBgENz4hlQjci6ovrhVuK8LMtPRIY",
+  "data": {
+    "full_name": "Jeremy Yu",
+    "current_role": "Principal Solutions Architecture & AI Product Engineering",
+    "company": "Lyzr AI",
+    "location": "Los Angeles, California, United States of America",
+    "profile_photo_url": "https://media.licdn.com/dms/image/v2/D5603AQHkp4Re-0uqYw/profile-displayphoto-shrink_800_800/B56ZXdPx6uGsAc-/0/1743173656506?e=1778112000&v=beta&t=QAihXGRoF0DJdU6tda1VssYNFZQWWdrrvYO7NMMfRXE",
+    "linkedin_url": "https://www.linkedin.com/in/jeremy-yu-68928a6",
+    "twitter_handle": null,
+    "linkedin_followers": 2540,
+    "twitter_followers": 0,
+    "connections_count": 2470,
+    "influence_score": 22,
+    "influence_score_breakdown": {
+      "linkedin_followers_points": 10,
+      "twitter_followers_points": 0,
+      "posting_activity_points": 5,
+      "career_seniority_points": 5,
+      "web_presence_points": 2
+    },
+    "influence_score_rationale": "Subject has 2540 LinkedIn followers (10 points). Presence on one platform (5 points). Senior IC role (5 points). Minimal web presence outside of LinkedIn (2 points). Total: 22.",
+    "data_confidence": "medium",
+    "data_confidence_rationale": "Subject has a detailed and active LinkedIn profile, but zero data available for Twitter or other external social media platforms."
+  }
+}

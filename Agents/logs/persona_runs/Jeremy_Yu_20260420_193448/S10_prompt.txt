@@ -1,0 +1,1083 @@
+SYSTEM: None
+
+USER: 
+You are a risk assessment analyst at a Palantir-grade research firm.
+Identify verifiable Risk & Red Flags for the subject.
+This section has legal and reputational implications — only flag what is directly evidenced in the data.
+Do not speculate. Do not flag opinions as controversies.
+
+INPUT DATA:
+LinkedIn Profile: {
+  "url": "https://www.linkedin.com/in/jeremy-yu-68928a6",
+  "username": "jeremy-yu-68928a6",
+  "linkedin_id": "ACoAAAEbx0kBgENz4hlQjci6ovrhVuK8LMtPRIY",
+  "first_name": "Jeremy",
+  "last_name": "Yu",
+  "full_name": "Jeremy Yu",
+  "headline": "AI Product Leader & Solutions Architecture | Agentic AI \u2022 Enterprise Platforms \u2022 Multi-Agent Systems | Building AI for Real Business Workflows",
+  "is_influencer": false,
+  "is_premium": false,
+  "is_memorialized": false,
+  "location": "Los Angeles, California, United States of America",
+  "location_raw": "Los Angeles Metropolitan Area",
+  "country_full": "United States of America",
+  "state": "California",
+  "city": "Los Angeles",
+  "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQHkp4Re-0uqYw/profile-displayphoto-shrink_800_800/B56ZXdPx6uGsAc-/0/1743173656506?e=1778112000&v=beta&t=QAihXGRoF0DJdU6tda1VssYNFZQWWdrrvYO7NMMfRXE",
+  "top_skills": [],
+  "linkedin_followers": 2540,
+  "connections_count": 2470,
+  "about": "I build and lead AI and data solutions that move from concept to production and deliver measurable business impact.\n\nAs an AI Product Leader and Principal Solutions Architect at Lyzr, I operate at the intersection of product, architecture, and go-to-market\u2014partnering with enterprise clients to define AI strategy, shape high-impact use cases, and deliver production-grade solutions. I lead the translation of business problems into scalable AI products, driving everything from solution design and agent architecture to roadmap alignment and deployment across data, machine learning, and agentic systems.\n\nI specialize in translating ambiguous business problems into scalable systems\u2014designing cloud-native data platforms, multi-agent AI workflows, and ML-powered applications that integrate with real enterprise environments. My work spans the full lifecycle: client discovery, solution design, proposal development, and hands-on delivery.\n\nBeyond architecture, I serve as a trusted advisor in client engagements\u2014leading executive workshops, supporting strategic pre-sales efforts, and guiding organizations in adopting AI in a way that is practical, governed, and aligned to measurable business outcomes. I also partner closely with engineering teams to translate use cases into production-ready solutions, ensuring concepts are effectively implemented and deliver real-world impact.\n\nMy background combines data science, product leadership, and enterprise consulting, with deep experience in predictive analytics, cloud platforms (AWS), and modern data/ML ecosystems. I\u2019ve spent much of my career in data-intensive industries where scale, accuracy, and trust are critical\u2014shaping how I approach AI today: pragmatic, production-ready, and outcome-focused.\n\nI\u2019m particularly interested in roles where I can help scale AI and data capabilities\u2014building not just solutions, but repeatable practices that drive long-term client impact.",
+  "current_positions": [
+    {
+      "company_name": "Lyzr AI",
+      "company_linkedin_url": "https://www.linkedin.com/company/lyzr-platform/",
+      "date_range": null
+    }
+  ],
+  "experiences": [
+    {
+      "title": "Principal Solutions Architecture & AI Product Engineering",
+      "company": "Lyzr AI",
+      "duration": "1 yr 3 mos",
+      "description": "- Lead product architecture and enterprise adoption strategy for Lyzr\u2019s agentic AI platform, partnering with global enterprises across Financial Services, Retail, Telecommunications, Insurance, and Technology, including NVIDIA, Accenture, Willis Towers Watson, BMO, Crown Castle, and Target.\n\n- Define AI product use cases and reference architectures that shape platform capabilities and guide enterprise deployments across financial services, consulting, and retail industries.\n\n- Drive cross-functional collaboration between product, engineering, and sales leadership to translate enterprise requirements into scalable AI platform features and product roadmap priorities.\n\n- Architect modular multi-agent AI systems enabling enterprise workflows in finance, compliance, operations, and customer engagement using Lyzr\u2019s agent platform.\n\n- Develop product prototypes and solution blueprints used by executive stakeholders and enterprise architects to evaluate and adopt agentic AI systems.\n\n- Partner closely with Engineering and Product teams to deliver high-quality, scalable solutions that align with business goals and user needs\n\n- Author technical product requirements, architecture patterns, and reference implementations that inform internal development and accelerate customer implementations.\n\n- Advise C-level and senior leadership at enterprise organizations on AI platform strategy, deployment models, and operationalizing generative AI in production environments.",
+      "skills": [
+        "Artificial Intelligence (AI)",
+        "Customer Experience",
+        "Multi-agent Systems",
+        "Autonomous Agent Systems",
+        "AI for Risk Management",
+        "Cloud-Native Architecture",
+        "Multi-Agent Collaboration",
+        "AI Strategy",
+        "Python for AI",
+        "Tool-Augmented LLMs",
+        "Retrieval-Augmented Generation (RAG)",
+        "AI Security",
+        "AI Process Automation",
+        "AI Observability",
+        "Function Calling / Tool Use",
+        "AI System Design",
+        "Knowledge Graphs",
+        "Solution Selling",
+        "LangChain",
+        "AI Risk Management",
+        "Fluid Intelligence Architectures",
+        "AI Workflow Automation",
+        "Vector Databases",
+        "Node.js"
+      ],
+      "start_date": {
+        "month": "Feb",
+        "year": 2025,
+        "text": "Feb 2025"
+      },
+      "end_date": {
+        "text": "Present"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQF9ZEadWf04qA/company-logo_400_400/B56Z06lHpUKsAY-/0/1774804302851/lyzr_platform_logo?e=1778112000&v=beta&t=4WhMcVOOhZQQTNFK0zfVA5Zl9TYBXgjInSkSUjoIHTY"
+    },
+    {
+      "title": "Head of Data & AI Product and Partner Strategy",
+      "company": "STAND 8 Technology Services",
+      "duration": "10 mos",
+      "description": "Led the creation of STAND 8\u2019s Data & AI product strategy, defining enterprise AI solution offerings and platform capabilities for Fortune 500 clients across media, financial services, and technology sectors.\n- Designed and launched AI-powered products on AWS, including solutions for sales forecasting, marketing intelligence, and Customer 360 analytics delivered through the AWS Marketplace.\n\n- Built strategic partnerships with AWS and Atlassian, collaborating with partner leadership to develop joint go-to-market initiatives, solution frameworks, and cloud service offerings that expanded STAND 8\u2019s AI and data platform portfolio.\n\n- Drove productization of consulting capabilities by developing repeatable AI solution frameworks, reference architectures, and deployment models that enabled scalable enterprise adoption.\n\n- Worked with enterprise clients and executive stakeholders to identify high-value AI opportunities, translating business challenges into product concepts, solution architectures, and platform roadmaps.\n\n- Led cross-functional collaboration across product, engineering, sales, and partner teams to design and deliver AI-enabled solutions integrating CRM platforms, marketing technology stacks, and modern cloud data architectures.\n\n- Developed reusable architecture patterns and product blueprints supporting identity resolution, marketing attribution, and data platform modernization initiatives on AWS.\n\n- Supported enterprise AI go-to-market efforts, working with sales and partner teams to position AI-driven solutions, develop client proposals, and demonstrate real-world applications of advanced analytics and machine learning.",
+      "skills": [
+        "Partner Go-To-Market",
+        "Customer Experience",
+        "Product Architecture",
+        "Cloud Partnerships",
+        "Product Strategy",
+        "Technology Alliances",
+        "Enterprise AI Strategy",
+        "AI Product Development",
+        "Strategic Partnerships",
+        "Ecosystem Development",
+        "Technical Product Management"
+      ],
+      "start_date": {
+        "month": "Apr",
+        "year": 2024,
+        "text": "Apr 2024"
+      },
+      "end_date": {
+        "month": "Jan",
+        "year": 2025,
+        "text": "Jan 2025"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQGR0qzMdM3lBQ/company-logo_400_400/B56ZxJeLPtJMAY-/0/1770759173486/stand8_logo?e=1778112000&v=beta&t=G4SOLlzqUs8VIFOW8RTTC-7J0LKWFuTe2m4ulcGffOQ"
+    },
+    {
+      "title": "Senior Presales Solution Engineer",
+      "company": "Teradata",
+      "duration": "2 yrs 1 mo",
+      "description": "- Led enterprise solution architecture for Teradata\u2019s cloud data and AI platform, partnering with Fortune 500 organizations including Disney, Warner Bros., and NBCUniversal to design modern analytics and data platform architectures.\n\n- Designed scalable cloud-native data and AI solutions using Python, AWS services, containers, and open-source frameworks to support advanced analytics, machine learning, and real-time data processing workflows.\n\n- Worked closely with product management and engineering leadership to translate enterprise customer requirements into reference architectures, platform capabilities, and deployment patterns for Teradata\u2019s analytics ecosystem.\n\n- Developed and delivered proof-of-concept platforms and product prototypes demonstrating AI-driven forecasting, automated data pipelines, and modern governance frameworks.\n\n- Implemented secure data architectures that strengthened encryption, governance, and access controls while enabling real-time analytics on behavioral and transactional datasets, delivering $2M+ in annual cost savings for a large telecom client.\n\n- Served as a trusted technical advisor to enterprise customers, guiding architecture decisions around cloud data platforms, analytics modernization, and machine learning adoption.\n\n- Acted as a customer advocate within the product organization, participating in advisory boards and providing structured feedback that influenced product roadmap priorities and platform enhancements.\n\n- Built repeatable solution frameworks, technical demos, and presales playbooks used by solution engineering teams to accelerate enterprise adoption of Teradata\u2019s cloud data platform.\n\n- Recognized with the Teradata Solution Engineering Award for Excellence for leadership in enterprise architecture and customer impact.",
+      "skills": [
+        "Amazon Web Services (AWS)",
+        "Predictive Analytics",
+        "Customer Experience",
+        "Containers (Docker / Kubernetes)",
+        "AI / Advanced Analytics",
+        "Technical Presales",
+        "AWS",
+        "Machine Learning",
+        "Solution Architecture",
+        "Python",
+        "Cloud Data Platforms",
+        "Data Architecture"
+      ],
+      "start_date": {
+        "month": "Nov",
+        "year": 2021,
+        "text": "Nov 2021"
+      },
+      "end_date": {
+        "month": "Nov",
+        "year": 2023,
+        "text": "Nov 2023"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQGgQByLIN_rtA/company-logo_400_400/company-logo_400_400/0/1697134375805/teradata_logo?e=1778112000&v=beta&t=JQODdVOaOm7y7YJP7ztlVjVi_A0bK174ZJNxmNGuPbQ"
+    },
+    {
+      "title": "Senior Presales Engineer",
+      "company": "SAP",
+      "duration": "3 yrs 11 mos",
+      "description": "- Led enterprise solution architecture and technical strategy for SAP\u2019s emerging technology portfolio, including AI/ML, intelligent automation (RPA), IoT, and blockchain, supporting organizations in evaluating next-generation capabilities as part of digital transformation initiatives.\n\n- Advised enterprise executives and technical stakeholders on modernizing business processes through SAP platforms integrated with cloud infrastructure, analytics systems, and enterprise applications.\n\n- Designed and delivered reference architectures, prototypes, and technical demonstrations showcasing how SAP technologies could enable AI-driven automation, real-time data integration, and intelligent enterprise workflows.\n\n- Collaborated closely with product management, engineering, and global field teams to translate enterprise customer requirements into repeatable architecture patterns and platform capabilities.\n\n- Developed reusable solution frameworks, technical assets, and go-to-market playbooks used by global sales teams and partners to accelerate adoption of SAP\u2019s advanced technology portfolio.\n\n- Facilitated executive briefings and architecture workshops aligning business strategy with emerging technologies, helping organizations evaluate operating models enabled by AI, automation, and intelligent enterprise platforms.",
+      "skills": [
+        "Customer Experience",
+        "ERP Software",
+        "SAP Solution Architecture",
+        "Intelligent Automation",
+        "IoT Platforms",
+        "Robotic Process Automation (RPA)"
+      ],
+      "start_date": {
+        "month": "Jan",
+        "year": 2018,
+        "text": "Jan 2018"
+      },
+      "end_date": {
+        "month": "Nov",
+        "year": 2021,
+        "text": "Nov 2021"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQGmwwo0aq4jVA/company-logo_400_400/company-logo_400_400/0/1723034255614/sap_logo?e=1778112000&v=beta&t=sOlJlaLVqo6NdB5RliPl3ccOqSxtGCcDYdllGUuJeHA"
+    },
+    {
+      "title": "Audience Intelligence Product Owner",
+      "company": "Screen Engine, LLC",
+      "duration": "6 mos",
+      "description": "- Developed an entertainment tracking product designed to measure consumer media usage, audience attitudes, and content engagement across film and television properties.\n\n- Designed analytics frameworks and data pipelines integrating survey data, behavioral signals, and third-party datasets into unified research datasets.\n\n- Built predictive models and audience segmentation approaches used to analyze viewer preferences, content demand, and marketing effectiveness.\n\n- Partnered with research and strategy leaders to translate analytics insights into actionable recommendations for film marketing, distribution, and audience targeting.\n\n- Established data quality and governance standards to ensure reliable and repeatable analytics across studio research engagements.",
+      "skills": [
+        "Customer Experience",
+        "Audience Analytics",
+        "Marketing Automation",
+        "Statistical Analysis",
+        "Predictive Modeling",
+        "Media & Entertainment Analytics",
+        "Python"
+      ],
+      "start_date": {
+        "month": "Jul",
+        "year": 2017,
+        "text": "Jul 2017"
+      },
+      "end_date": {
+        "month": "Dec",
+        "year": 2017,
+        "text": "Dec 2017"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQFi9ixHk_NeIw/company-logo_400_400/company-logo_400_400/0/1630649681509/screen_engine_llc_logo?e=1778112000&v=beta&t=lOx4Gg0xDNg52nFo9QssC3rVOwG2eDGp5Pc9q77A_EM"
+    },
+    {
+      "title": "Director Product Management",
+      "company": "Nativo Inc",
+      "duration": "9 mos",
+      "description": "- Owned product strategy and roadmap for Nativo\u2019s native advertising and campaign management platform, aligning product development with market opportunities in digital media and brand advertising.\n\n- Defined product vision, positioning, and target market segments through competitive analysis, customer research, and industry trends, shaping the evolution of the platform for enterprise advertisers and agencies.\n\n- Led cross-functional product development with engineering, data science, sales, and marketing teams, prioritizing platform features and enhancements based on customer demand, revenue impact, and strategic differentiation.\n\n- Delivered major platform enhancements and product launches for a campaign management solution used by Fortune 500 advertisers across automotive, retail, fashion, and travel industries.\n\n- Drove rapid platform adoption and growth, increasing impressions served by over 100% within six months through product improvements, performance optimization, and stronger advertiser tooling.\n\n- Directed go-to-market strategy for new capabilities, including product messaging, pricing models, sales enablement, and customer rollout plans.",
+      "skills": [],
+      "start_date": {
+        "month": "Nov",
+        "year": 2016,
+        "text": "Nov 2016"
+      },
+      "end_date": {
+        "month": "Jul",
+        "year": 2017,
+        "text": "Jul 2017"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQH9J7hs1NOF3g/company-logo_400_400/B4EZy0nbzNJAAY-/0/1772556762740/nativo_inc_logo?e=1778112000&v=beta&t=0pgQUAvBR-doA71GBYx-_oQUykBt7QRWApb09vv52gc"
+    },
+    {
+      "title": "Principal Data Scientist & Product Leader",
+      "company": "Viant Inc.",
+      "duration": "1 yr 3 mos",
+      "description": "- Defined and executed the data science roadmap for the company\u2019s identity management platform, aligning machine learning capabilities with product strategy and the evolving standards of the ad-tech ecosystem (identity resolution, audience activation, attribution).\n\n- Architected and launched a waterfall-based lead enrichment and identity attribution system that sequentially integrated multiple third-party data providers and probabilistic matching models to maximize identity coverage while optimizing data acquisition costs.\n\n- Led development of machine learning and statistical models to improve identity resolution, audience segmentation, targeting accuracy, and personalization across the platform\u2019s advertising and analytics products.\n\n- Partnered closely with product management, engineering, and marketing teams to operationalize data science capabilities as product features within the identity graph platform, enabling advertisers to activate enriched audience data across channels.\n\n- Designed scalable data pipelines and enrichment workflows to continuously ingest, normalize, and resolve user identifiers across devices and platforms, strengthening the accuracy and reach of the company\u2019s identity graph.\n\n- Drove rapid expansion of the platform\u2019s identity coverage, growing the graph from 450M unique users to more than 1.5B users in two years, significantly increasing addressable audience reach and advertiser value.",
+      "skills": [],
+      "start_date": {
+        "month": "Jul",
+        "year": 2015,
+        "text": "Jul 2015"
+      },
+      "end_date": {
+        "month": "Sep",
+        "year": 2016,
+        "text": "Sep 2016"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQE6V_ADAkX3-A/company-logo_400_400/company-logo_400_400/0/1714571723079/viant_technology_logo?e=1778112000&v=beta&t=arYO3PDabBkmMBTYHUFko2dRsvFh7AxiWRpO98MPnKI"
+    },
+    {
+      "title": "Director, Consumer Data Products",
+      "company": "Viant Inc.",
+      "duration": "1 yr 8 mos",
+      "description": "- Led product strategy and development of an enterprise Data Management Platform (DMP) and identity-based advertising platform, enabling advertisers to activate and analyze audience data across digital channels.\n\n- Architected a scalable consumer identity graph that unified web, device, and behavioral signals to support audience targeting, attribution, and personalization use cases.\n\n- Developed and deployed machine learning models to predict demographic attributes (age, gender) from web-based behavioral data, surpassing Nielsen Catalina benchmarks for targeting accuracy.\n\n- Managed the product roadmap and delivery of identity resolution, audience segmentation, and targeting capabilities built on Google Cloud Platform, integrating large-scale data ingestion, model training, and audience activation pipelines.\n\n- Partnered with engineering, data science, and commercial teams to translate advertiser requirements into scalable product features and audience intelligence capabilities.",
+      "skills": [
+        "Customer Experience"
+      ],
+      "start_date": {
+        "month": "Dec",
+        "year": 2013,
+        "text": "Dec 2013"
+      },
+      "end_date": {
+        "month": "Jul",
+        "year": 2015,
+        "text": "Jul 2015"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQE6V_ADAkX3-A/company-logo_400_400/company-logo_400_400/0/1714571723079/viant_technology_logo?e=1778112000&v=beta&t=arYO3PDabBkmMBTYHUFko2dRsvFh7AxiWRpO98MPnKI"
+    },
+    {
+      "title": "VP, Marketing Sciences & New Product Development",
+      "company": "Worldwide Motion Picture Group",
+      "duration": "6 mos",
+      "description": "- Led strategy and development of data and analytics platforms supporting the company\u2019s film market research and audience intelligence services for major Hollywood studios.\n\n- Designed and launched a screening and audience management platform to streamline reservations, participant management, and operational workflows for film screenings and focus groups.\n\n- Built a scalable analytics and reporting platform enabling business analysts and research teams to generate insights across large-scale consumer studies and film performance data.\n\n- Developed a normative competitive intelligence database that benchmarked audience reactions and market performance across films, enabling studios to evaluate positioning and marketing strategies.\n\n- Introduced modern data engineering practices using Python, SQL Server, and automation tools, improving the speed and reliability of analytics used in studio decision-making.",
+      "skills": [],
+      "start_date": {
+        "month": "May",
+        "year": 2013,
+        "text": "May 2013"
+      },
+      "end_date": {
+        "month": "Oct",
+        "year": 2013,
+        "text": "Oct 2013"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQFYydkGRPYzqg/company-logo_400_400/company-logo_400_400/0/1631313869542?e=1778112000&v=beta&t=SbTxzGKtfQenLSRSc5h-aubcuAfTFNQUsK9G7a7dCmM"
+    },
+    {
+      "title": "Director, Business Analytics",
+      "company": "Match",
+      "duration": "1 yr 10 mos",
+      "description": "- Built and operationalized a company-wide experimentation platform supporting A/B testing across 24 niche dating websites, enabling data-driven product development and feature optimization.\n\n- Designed a scalable A/B testing framework that standardized experiment design, statistical evaluation, and reporting, allowing product teams to rapidly test new features, UI changes, and pricing or promotional strategies.\n\n- Developed internal analytics tools and data pipelines using SAS and Hadoop to support experiment tracking, cohort analysis, and user behavior modeling across millions of users.\n\n- Partnered with product, engineering, and marketing teams to embed experimentation into the product development lifecycle, ensuring new features were validated through measurable user engagement and conversion metrics.\n\n- Established governance and best practices for experimentation including test design standards, statistical significance thresholds, and experiment documentation, improving the reliability of product insights.\n\n- Enabled faster product iteration and growth by providing real-time insights into feature performance, user engagement, and revenue impact across the company\u2019s portfolio of consumer platforms.",
+      "skills": [],
+      "start_date": {
+        "month": "Aug",
+        "year": 2011,
+        "text": "Aug 2011"
+      },
+      "end_date": {
+        "month": "May",
+        "year": 2013,
+        "text": "May 2013"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQFv2n_dsTnjSg/company-logo_400_400/company-logo_400_400/0/1630670798221/match_com_logo?e=1778112000&v=beta&t=_8lYUtHXKGjEtCoivmlyKF6rwLbZjS0XscDSfzOUT8s"
+    },
+    {
+      "title": "Director, Market Research",
+      "company": "Warner Home Video",
+      "duration": "3 yrs 9 mos",
+      "description": "- Led consumer analytics and research initiatives supporting the growth of digital film and TV distribution, including Video-on-Demand (VOD) and emerging OTT platforms.\n\n- Designed and implemented automated reporting systems and dashboards to track digital performance metrics across VOD platforms, enabling leadership to monitor content performance, consumer engagement, and revenue trends in near real-time.\n\n- Analyzed consumer usage patterns across iTunes, Xbox, PlayStation, and other digital entertainment platforms, identifying key drivers of digital adoption and content consumption.\n\n- Developed scalable analytics workflows that consolidated platform usage data, consumer research insights, and sales performance metrics into unified reporting for studio leadership.\n\n- Partnered with marketing, distribution, and strategy teams to translate consumer data into actionable insights for content positioning, pricing strategies, and release planning.",
+      "skills": [
+        "Customer Experience"
+      ],
+      "start_date": {
+        "month": "Oct",
+        "year": 2007,
+        "text": "Oct 2007"
+      },
+      "end_date": {
+        "month": "Jun",
+        "year": 2011,
+        "text": "Jun 2011"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQHtc7o2M_DhUQ/company-logo_400_400/company-logo_400_400/0/1631306764066?e=1778112000&v=beta&t=ALeqI6dlO8dY03EC86BrAnlv3AVlxcH4YY2ihd1ZxLc"
+    },
+    {
+      "title": "Vice President, Home Entertainment",
+      "company": "The Nielsen Company",
+      "duration": "2 yrs 1 mo",
+      "description": "- Led Nielsen\u2019s consulting practice focused on consumer analytics and demand forecasting for the film and television industry, advising major studios on theatrical releases, DVD distribution, and emerging digital channels.\n\n- Directed development of analytics products and forecasting models that helped studios predict demand, optimize release strategies, and evaluate market performance across home entertainment channels.\n\n- Managed a multidisciplinary team of analysts and researchers responsible for building data-driven tools, market intelligence reports, and predictive models used by major film and television studios.\n\n- Partnered with studio executives and distribution leaders to translate market data and consumer insights into strategic recommendations for content positioning, pricing, and distribution strategy.\n\n- Oversaw the creation of scalable analytics frameworks and client-facing products that expanded Nielsen\u2019s market research capabilities for the entertainment industry.",
+      "skills": [],
+      "start_date": {
+        "month": "Oct",
+        "year": 2005,
+        "text": "Oct 2005"
+      },
+      "end_date": {
+        "month": "Oct",
+        "year": 2007,
+        "text": "Oct 2007"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQFKa_ObftR_8w/company-logo_400_400/company-logo_400_400/0/1634555714141/nielsen_logo?e=1778112000&v=beta&t=N0hwKH0sIjZuitZEHeOPi98Bw7hZwxRuHI8uG78toMQ"
+    },
+    {
+      "title": "Director, Theatrical Research",
+      "company": "OTX",
+      "duration": "2 yrs 9 mos",
+      "description": "- Led development of an automated theatrical tracking and forecasting platform used by major film studios to monitor audience sentiment, awareness, and box office performance leading up to film releases.\n\n- Designed and built automation tools that streamlined market research data ingestion, processing, and reporting, significantly reducing manual analysis and accelerating insight delivery to studio clients.\n\n- Developed predictive models and forecasting methodologies to estimate theatrical box office and DVD performance based on audience research data and historical benchmarks.\n\n- Created advanced data processing macros and analytics workflows that transformed large volumes of survey and audience research data into standardized reporting products.\n\n- Productized the tracking system into a subscription-based research product, generating over $2M annually in recurring revenue from major studio clients.\n\n- Partnered with studio marketing and distribution teams to translate audience insights into release strategy, marketing spend optimization, and content positioning decisions.",
+      "skills": [],
+      "start_date": {
+        "month": "Jan",
+        "year": 2003,
+        "text": "Jan 2003"
+      },
+      "end_date": {
+        "month": "Sep",
+        "year": 2005,
+        "text": "Sep 2005"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQGKP9vT-LbJ4Q/company-logo_400_400/company-logo_400_400/0/1631309131079?e=1778112000&v=beta&t=AryKUAsF2e5HI8V0NbIvG5B0o54AtsA_DZXIxpKd82U"
+    },
+    {
+      "title": "Senior Research Analyst",
+      "company": "MarketCast LLC",
+      "duration": "1 yr",
+      "description": "- Developed an advanced analytics platform with SAS, automating the processing of custom market research data.\n- Developed tools to automate the processing of market research data",
+      "skills": [],
+      "start_date": {
+        "year": 2001,
+        "text": "2001"
+      },
+      "end_date": {
+        "year": 2002,
+        "text": "2002"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQEpjJ8bbIMnTQ/company-logo_400_400/company-logo_400_400/0/1688258361625/marketcast_logo?e=1778112000&v=beta&t=TTjhkZ_QYChUWLx1j7MdtChvo2TllfT6y7c1ygthuY8"
+    }
+  ],
+  "educations": [
+    {
+      "institution": "UCLA",
+      "school_linkedin_url": "https://www.linkedin.com/company/2477/",
+      "degree": "BS",
+      "field_of_study": "Biochemistry",
+      "skills": [],
+      "start_date": {
+        "year": 1991,
+        "text": "1991"
+      },
+      "end_date": {
+        "year": 1995,
+        "text": "1995"
+      },
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQEDHp-TpD9AYQ/company-logo_400_400/company-logo_400_400/0/1688403831517/ucla_logo?e=1778112000&v=beta&t=9nzsGilxPtIeEbnISQuUcOKx0tC2AwdbIhGA7ZxDO_8"
+    },
+    {
+      "institution": "University of Massachusetts Amherst",
+      "school_linkedin_url": "https://www.linkedin.com/company/4508/",
+      "degree": "MS",
+      "field_of_study": "Epidemiology",
+      "skills": [],
+      "start_date": {
+        "year": 1996,
+        "text": "1996"
+      },
+      "end_date": {
+        "year": 1998,
+        "text": "1998"
+      },
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQFCzmsrZannXw/company-logo_400_400/company-logo_400_400/0/1680271203107/umassamherst_logo?e=1778112000&v=beta&t=9ei9CgQJBQQ_WAV40KbY6K3jMsGKpkGhwId5kgVs7cI"
+    }
+  ],
+  "skills": [
+    "LangChain",
+    "Vector Databases",
+    "AI Security",
+    "AI for Risk Management",
+    "AI Policy, Governance, and Regulation",
+    "AI Strategy",
+    "Retrieval-Augmented Generation (RAG)",
+    "AWS",
+    "Node.js",
+    "Amazon Web Services (AWS)",
+    "SAS",
+    "SPSS",
+    "Python",
+    "SQL",
+    "Customer Experience",
+    "Audience Analytics",
+    "Statistical Analysis",
+    "Media & Entertainment Analytics",
+    "SAP Solution Architecture",
+    "ERP Software",
+    "Intelligent Automation",
+    "Robotic Process Automation (RPA)",
+    "IoT Platforms",
+    "Data Architecture",
+    "Machine Learning",
+    "AI / Advanced Analytics",
+    "Containers (Docker / Kubernetes)",
+    "Cloud Data Platforms",
+    "Enterprise AI Strategy",
+    "AI Product Development",
+    "Product Strategy",
+    "Product Architecture",
+    "Technical Product Management",
+    "Knowledge Graphs",
+    "Application Programming Interfaces (API)",
+    "Multi-agent Systems",
+    "Artificial Intelligence (AI)",
+    "Solution Selling",
+    "Marketing Automation",
+    "Technical Presales",
+    "Solution Architecture",
+    "Data Science",
+    "Analytics",
+    "Strategy",
+    "Analysis"
+  ],
+  "languages": [],
+  "certifications": [
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    },
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    },
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    },
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    },
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    },
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    },
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    },
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    },
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    },
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    },
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    }
+  ],
+  "projects": [],
+  "volunteering": [],
+  "recommendations": [
+    {
+      "recommender_name": null,
+      "text": "I have had the opportunity to work with Jeremy Yu across multiple strategic cloud opportunities, and he stands out as one of the most reliable and partnership-focused professionals I have collaborated with.\n\nJeremy has a rare ability to quickly understand complex customer contexts, connect the right stakeholders, and remove friction from the process, whether it\u2019s navigating co-sell motions, aligning field teams, or unblocking internal processes on the cloud provider side.\n\nWhat I have appreciated most is his responsiveness and follow-through: when we aligned on next steps, Jeremy not only ensured the right intros and approvals happened, but also proactively checked in until the outcomes were achieved.\n\nBeyond the operational excellence, Jeremy is simply great to collaborate with, calm under pressure, transparent, and genuinely invested in driving a win\u2013win for the customer and partners involved. I would highly recommend Jeremy to any team looking for a strategic, dependable, and partnership-driven leader in the cloud ecosystem."
+    },
+    {
+      "recommender_name": null,
+      "text": "Jeremy is a powerhouse Solution Architect who operates at an incredible pace. I\u2019d bring him a complex customer use case in the morning, and he\u2019d often have a functional, high-quality demo ready by the afternoon. He built a massive repository of Agentic AI use cases at Lyzr that became my primary sales engine, giving customers a clear vision of the product's power. His ability to move hyper-fast without compromising quality is a rare asset to any sales and technical team."
+    }
+  ],
+  "publications": [
+    {
+      "title": "Create Synthetic Datasets Easily with Python Faker and Google Colab",
+      "publisher": null,
+      "date": null,
+      "url": null,
+      "description": "Tutorial on how to use Python Faker library and Google Colab to generate test datasets for prototyping, demos, and testing."
+    },
+    {
+      "title": "Automated Descriptive Statistics Report with SAP HANA Cloud and Python",
+      "publisher": null,
+      "date": null,
+      "url": null,
+      "description": "Utilizing SAP HANA Cloud visualizers to create automated descriptive statistics reports"
+    },
+    {
+      "title": "Generate custom datasets using Python Faker",
+      "publisher": null,
+      "date": null,
+      "url": null,
+      "description": "Utilizing Python to generate synthetic datasets for custom demos"
+    },
+    {
+      "title": "Easy Descriptive Statistics with Python and SAP HANA Cloud",
+      "publisher": null,
+      "date": null,
+      "url": null,
+      "description": "Using the Python HANA Cloud wrapper to generate descriptive statistics for datasets"
+    },
+    {
+      "title": "Create Synthetic Datasets Easily with Python Faker and Google Colab",
+      "publisher": null,
+      "date": null,
+      "url": null,
+      "description": null
+    },
+    {
+      "title": "The Five Series Study: Mortality of Military Participants in U.S. Nuclear Weapons Tests",
+      "publisher": null,
+      "date": null,
+      "url": null,
+      "description": "I was not an author but assisted in the data analysis during a summer internship for my Masters program"
+    }
+  ],
+  "courses": [],
+  "patents": [],
+  "honors_awards": [],
+  "causes": [],
+  "featured": {
+    "images": [
+      "https://media.licdn.com/dms/image/v2/D4E05AQGH5C4t6aaVIw/videocover-high/B4EZfLMH8DHsCM-/0/1751460658713?e=1777302000&v=beta&t=aeyPL0QbgGBV22aesExH7f_F-1RPb-vN5kFFa2cBwXk"
+    ],
+    "link": "https://www.linkedin.com/feed/update/urn:li:activity:7346351549155024899?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7346351549155024899%29",
+    "slides": [
+      {
+        "title": null,
+        "subtitle": null,
+        "description": null,
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7346351549155024899?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7346351549155024899%29",
+        "image": {
+          "url": "https://media.licdn.com/dms/image/v2/D4E05AQGH5C4t6aaVIw/videocover-high/B4EZfLMH8DHsCM-/0/1751460658713?e=1777302000&v=beta&t=aeyPL0QbgGBV22aesExH7f_F-1RPb-vN5kFFa2cBwXk"
+        }
+      },
+      {
+        "title": "Live Vibe Coding Workshop \u00b7 Luma",
+        "subtitle": "lu.ma",
+        "description": null,
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7343240066208583680?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7343240066208583680%29",
+        "image": {
+          "url": "https://media.licdn.com/dms/image/sync/v2/D4D27AQHVsHGltnwwnA/articleshare-shrink_1280_800/B4DZhcV_VKHsAc-/0/1776112756187?e=1777302000&v=beta&t=cYpBEJNcQmwWFTNaruqltFev6QGUla0LxP8QyM4QHXs"
+        }
+      },
+      {
+        "title": "Fintech startups offer banks tools to harness agentic AI",
+        "subtitle": "finance.yahoo.com",
+        "description": null,
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7342702753929928704?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7342702753929928704%29",
+        "image": {
+          "url": "https://media.licdn.com/dms/image/sync/v2/D4E27AQF4pxqxCPM2PQ/articleshare-shrink_1280_800/B4EZeO25bTHcAQ-/0/1750448445438?e=1777302000&v=beta&t=WIahKV06Inaqsp8jhsXwaSCfHfGu8hSTw4-jEe2keZ4"
+        }
+      },
+      {
+        "title": "TalentAI App Overview",
+        "subtitle": "share.cleanshot.com",
+        "description": null,
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7319772649239261184?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7319772649239261184%29",
+        "image": {
+          "url": "https://media.licdn.com/dms/image/sync/v2/D5627AQFfgiKi0sE_Mw/articleshare-shrink_1280_800/B56ZZUOPXXGcAQ-/0/1745169743824?e=1777302000&v=beta&t=SjMvvoZBhZz3FQOu8bxTGhpXzPf09I5tU-SvNJpFLvo"
+        }
+      },
+      {
+        "title": null,
+        "subtitle": null,
+        "description": null,
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7319530855796813825?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7319530855796813825%29",
+        "image": {
+          "url": "https://media.licdn.com/dms/image/v2/D5622AQEEOSnvA7oUvA/feedshare-shrink_1280/B56ZZQyhf6GUAk-/0/1745112144786?e=1778112000&v=beta&t=tTdvwaGtZ9lwBkkjBO7tuRM49uiXjGkiZw78ouq0tWI"
+        }
+      }
+    ]
+  }
+}
+Web Search Results: --- parallel_ai_research ---
+{
+  "basis": [
+    {
+      "field": "current_role",
+      "reasoning": "The GitHub profile of Jeremy Yu explicitly lists the title \"Partner Solutions Architect & AI Product Engineering\" and is linked to Lyzr AI, confirming his current position at that company.",
+      "citations": [
+        {
+          "url": "https://github.com/jeremyyuAWS",
+          "excerpts": [
+            " jeremyyuAWS has 127 repositories available. "
+          ],
+          "title": "jeremyyuAWS (Jeremy Yu) \u00b7 GitHub"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "full_name",
+      "reasoning": "The LinkedIn profile URL contains the name \"Jeremy Yu\" and the public snippet displays the same name, providing a direct source for the full name.",
+      "citations": [
+        {
+          "url": "https://www.linkedin.com/in/jeremy-yu-68928a6",
+          "excerpts": [],
+          "title": "Jeremy Yu - Lyzr AI | LinkedIn"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "professional_summary",
+      "reasoning": "The Lyzr AI website describes the company's focus on enterprise AI agents and production\u2011ready deployments. Combined with Jeremy\u2019s GitHub title and activity, it is reasonable to summarize his role and expertise.",
+      "citations": [
+        {
+          "url": "https://www.lyzr.ai/",
+          "excerpts": [],
+          "title": "Lyzr AI"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "influence_score",
+      "reasoning": "GitHub repository metrics (stars, forks) and the LinkedIn follower count indicate a moderate level of public presence. A score of 45 reflects this mid\u2011tier visibility.",
+      "citations": [
+        {
+          "url": "https://github.com/LyzrCore/lyzr",
+          "excerpts": [],
+          "title": "LyzrCore/lyzr: Lyzr SDKs help you to build all your favorite ..."
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "data_confidence",
+      "reasoning": "Multiple independent public sources (LinkedIn, GitHub, Medium, company site) corroborate the core professional details, though some profile sections (education, full career timeline) remain inaccessible without authentication.",
+      "citations": [],
+      "confidence": "medium"
+    },
+    {
+      "field": "red_flags",
+      "reasoning": "A review of the publicly available profiles did not reveal any legal, ethical, or security concerns. The only observations are normal developer activity and incomplete profile fields.",
+      "citations": [
+        {
+          "url": "https://github.com/jeremyyuAWS",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://huggingface.co/jeremyyuLyzr",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://www.lyzr.ai/",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://github.com/LyzrCore/lyzr",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://www.linkedin.com/in/jeremy-yu-68928a6",
+          "excerpts": [],
+          "title": null
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "how_to_approach",
+      "reasoning": "Jeremy\u2019s role emphasizes partner solutions and product engineering, indicating a preference for concise, outcome\u2011driven communication with technical depth. His public writing style is pragmatic and focused on implementation details.",
+      "citations": [
+        {
+          "url": "https://github.com/jeremyyuAWS",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://huggingface.co/jeremyyuLyzr",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://www.lyzr.ai/",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://github.com/LyzrCore/lyzr",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://www.linkedin.com/in/jeremy-yu-68928a6",
+          "excerpts": [],
+          "title": null
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "skills",
+      "reasoning": "GitHub activity, Lyzr SDK documentation, and Medium articles demonstrate expertise in specific technologies and soft\u2011skill areas such as solution design and technical writing.",
+      "citations": [
+        {
+          "url": "https://huggingface.co/jeremyyuLyzr",
+          "excerpts": [
+            "www.lyzr.ai"
+          ],
+          "title": "jeremyyuLyzr (Jeremy Yu) - Hugging Face"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "online_presence",
+      "reasoning": "Public URLs from LinkedIn, GitHub, Hugging Face, and Medium provide the core online identifiers. No personal website or Twitter handle was found.",
+      "citations": [
+        {
+          "url": "https://github.com/jeremyyuAWS",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://huggingface.co/jeremyyuLyzr",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://www.lyzr.ai/",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://github.com/LyzrCore/lyzr",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://www.linkedin.com/in/jeremy-yu-68928a6",
+          "excerpts": [],
+          "title": null
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "education",
+      "reasoning": "Search results did not expose any verifiable education information; LinkedIn profile sections are behind authentication.",
+      "citations": [
+        {
+          "url": "https://github.com/jeremyyuAWS",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://huggingface.co/jeremyyuLyzr",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://www.lyzr.ai/",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://github.com/LyzrCore/lyzr",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://www.linkedin.com/in/jeremy-yu-68928a6",
+          "excerpts": [],
+          "title": null
+        }
+      ],
+      "confidence": "low"
+    },
+    {
+      "field": "personality_signals",
+      "reasoning": "GitHub READMEs, Medium articles, and the Lyzr product narrative indicate a pragmatic, technical communication style, with interests centered on enterprise AI deployment and a value set emphasizing security and privacy.",
+      "citations": [
+        {
+          "url": "https://github.com/jeremyyuAWS",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://huggingface.co/jeremyyuLyzr",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://www.lyzr.ai/",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://github.com/LyzrCore/lyzr",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://www.linkedin.com/in/jeremy-yu-68928a6",
+          "excerpts": [],
+          "title": null
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "career_history",
+      "reasoning": "The GitHub profile and LinkedIn snippet confirm the current role at Lyzr AI. Prior positions are not visible without full LinkedIn access.",
+      "citations": [
+        {
+          "url": "https://github.com/jeremyyuAWS",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://huggingface.co/jeremyyuLyzr",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://www.lyzr.ai/",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://github.com/LyzrCore/lyzr",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://www.linkedin.com/in/jeremy-yu-68928a6",
+          "excerpts": [],
+          "title": null
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "publications_and_talks",
+      "reasoning": "The Medium author page lists at least one article authored by Jeremy. No other distinct publications or recorded talks were identified in the searched sources.",
+      "citations": [
+        {
+          "url": "https://github.com/jeremyyuAWS",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://huggingface.co/jeremyyuLyzr",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://www.lyzr.ai/",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://github.com/LyzrCore/lyzr",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://www.linkedin.com/in/jeremy-yu-68928a6",
+          "excerpts": [],
+          "title": null
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "achievements",
+      "reasoning": "Public contributions to the Lyzr open\u2011source ecosystem, authored Medium content, and involvement during Lyzr\u2019s Series A fundraising are noted in the gathered sources.",
+      "citations": [
+        {
+          "url": "https://github.com/jeremyyuAWS",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://huggingface.co/jeremyyuLyzr",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://www.lyzr.ai/",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://github.com/LyzrCore/lyzr",
+          "excerpts": [],
+          "title": null
+        },
+        {
+          "url": "https://www.linkedin.com/in/jeremy-yu-68928a6",
+          "excerpts": [],
+          "title": null
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "content": {
+    "current_role": "Principal / Partner Solutions Architect & AI Product Engineering, Lyzr AI",
+    "full_name": "Jeremy Yu",
+    "professional_summary": "Jeremy Yu is a solutions\u2011focused AI architect and product engineer at Lyzr AI who designs and ships enterprise AI agent solutions. He contributes to open\u2011source projects, writes technical Medium articles, and engages with the developer community on GitHub and Hugging Face.",
+    "influence_score": 45.0,
+    "data_confidence": "medium",
+    "red_flags": [
+      "No overt red\u2011flag signals found in public material."
+    ],
+    "how_to_approach": "Be concise, technical and outcome\u2011focused. Highlight practical architecture diagrams, reproducible demos, ROI, and security/governance considerations. Use concrete integration examples (AWS, RAG, knowledge graphs) and be prepared to discuss productionisation.",
+    "skills": [
+      "LLM/agent architectures",
+      "Retrieval\u2011Augmented Generation (RAG)",
+      "Lyzr SDKs and Python development",
+      "Enterprise integrations (AWS, knowledge graphs)",
+      "Orchestration and productionisation of AI agents",
+      "Solution design and partner communication",
+      "Technical writing and developer enablement",
+      "Collaboration in open\u2011source projects"
+    ],
+    "online_presence": {
+      "personal_website": "",
+      "github_handle": "jeremyyuAWS",
+      "twitter_handle": "",
+      "linkedin_url": "https://www.linkedin.com/in/jeremy-yu-68928a6",
+      "recent_posts_summary": "Medium article \"Lyzr 101: Choose Your AI Ride \u2014 Bus, Taxi, or Rideshare\"; active GitHub repositories and forks related to Lyzr; Hugging Face profile indicating AI interests."
+    },
+    "education": [],
+    "personality_signals": {
+      "communication_style": "Technical, pragmatic and developer\u2011focused",
+      "key_interests": [
+        "Enterprise AI agents",
+        "Productionisation of generative AI",
+        "Retrieval\u2011augmented generation",
+        "Knowledge graphs",
+        "Agent orchestration",
+        "Developer SDKs"
+      ],
+      "values": [
+        "Secure and private enterprise deployments",
+        "Ownership of IP and data",
+        "Reliability and governance of AI systems"
+      ],
+      "leadership_style": "Hands\u2011on technical leadership; collaborative and outcome\u2011oriented"
+    },
+    "career_history": [
+      {
+        "duration": "",
+        "title": "Principal / Partner Solutions Architect & AI Product Engineering",
+        "company": "Lyzr AI"
+      }
+    ],
+    "publications_and_talks": [
+      {
+        "title": "Lyzr 101: Choose Your AI Ride \u2014 Bus, Taxi, or Rideshare",
+        "date": "",
+        "type": "Medium article",
+        "url": "https://medium.com/@jeremysyu"
+      }
+    ],
+    "achievements": [
+      "Active contributor to the Lyzr open\u2011source ecosystem (forks and examples).",
+      "Published technical Medium articles on AI agent deployment.",
+      "Associated with Lyzr AI during its Series A fundraising and enterprise AI product rollout."
+    ]
+  },
+  "type": "json",
+  "beta_fields": null,
+  "output_schema": null
+}
+Twitter Posts (last 30): []
+
+JOB HOPPING METHODOLOGY:
+  Calculate average tenure across all roles (excluding current role if still active).
+  Flag as job hopping if: average tenure < 18 months AND 3 or more roles exist.
+  Provide exact average in months.
+
+Output ONLY this JSON:
+{
+  "section_id": 10,
+  "section_name": "Risk & Red Flags",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "job_hopping_signal": {
+      "detected": false,
+      "roles_analyzed": 0,
+      "average_tenure_months": 0,
+      "shortest_tenure_months": 0,
+      "assessment": ""
+    },
+    "controversial_statements": [
+      {
+        "summary": "",
+        "platform": "",
+        "approximate_date": "",
+        "risk_level": "Low|Medium|High",
+        "risk_rationale": ""
+      }
+    ],
+    "failed_ventures": [
+      {
+        "company": "",
+        "role": "",
+        "context": "",
+        "outcome": ""
+      }
+    ],
+    "reputation_signals": [
+      {
+        "signal": "",
+        "source": "",
+        "sentiment": "Positive|Negative|Neutral"
+      }
+    ],
+    "legal_or_regulatory_issues": [],
+    "data_gaps": [],
+    "overall_risk_rating": "Low|Medium|High|Critical",
+    "risk_summary": "",
+    "data_confidence": "high|medium|low",
+    "data_confidence_rationale": ""
+  }
+}
+
+RULES:
+- Apply the job hopping methodology above exactly.
+- controversial_statements: only flag statements that are objectively divisive, offensive, or professionally damaging. Expressing a strong opinion is NOT a red flag. Max 5.
+- risk_level High: statements involving discrimination, illegal activity, or direct professional harm. Medium: polarizing professional stances. Low: minor provocative takes.
+- failed_ventures: only include if explicitly mentioned in the data as failed/shut down. Do not infer failure from short tenure.
+- legal_or_regulatory_issues: only include if found in web data. If none, return [].
+- data_gaps: list critical data categories that were unavailable (e.g., "No web presence found", "Twitter data not provided"). This helps the reader calibrate confidence.
+- overall_risk_rating: Low = no flags. Medium = minor signals. High = multiple moderate signals. Critical = verified serious issues.
+- risk_summary: exactly 2 sentences. First states the overall risk profile. Second states the most significant flag or confirms clean profile.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

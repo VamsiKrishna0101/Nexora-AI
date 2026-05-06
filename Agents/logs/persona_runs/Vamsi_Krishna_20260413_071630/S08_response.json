@@ -1,0 +1,50 @@
+{
+  "section_id": 8,
+  "section_name": "Tactical Outreach Playbook",
+  "person_id": "vamsi-krishna-2026-04-07",
+  "data": {
+    "outreach_scripts": {
+      "email_draft": {
+        "subject": "Technical Architecture: Scaling Convoxa / Node.js performance",
+        "body": "Hi Vamsi,\n\nI reviewed your Convoxa architecture case study\u2014specifically the Hybrid Data Model (Materialized Path + Adjacency List) used to solve your recursive query bottlenecks.\n\nYour focus on optimizing read-heavy community platforms and the k6 results (75ms latency at 500 VUs) demonstrates a high level of engineering rigor. We are currently tackling similar backend challenges involving high-concurrency RAG pipelines.\n\nAre you open to a brief technical exchange regarding system design trade-offs in our stack? I'd like to share how we handle feed parallelism at scale.\n\nBest,\n[Your Name]"
+      },
+      "linkedin_inmail": {
+        "body": "Hi Vamsi, your breakdown of the Hybrid Data Model in Convoxa was excellent. Moving from recursive N-depth queries to a single indexed read is a classic win. We\u2019re currently solving similar scaling bottlenecks in Node.js/PostgreSQL. Would you be open to a quick technical sync?"
+      }
+    },
+    "high_resonance_topics": [
+      "Hybrid Data Models for recursive tree traversal",
+      "Parallel architecture for real-time feed systems",
+      "Load testing methodology (k6/GCP infrastructure efficiency)",
+      "Performance optimization in Node.js/PostgreSQL stacks"
+    ],
+    "topics_to_avoid": [
+      "Assumption-based development strategies",
+      "Vague high-level product roadmaps without implementation data",
+      "Marketing-heavy content lacking technical depth"
+    ],
+    "conversation_starters": [
+      {
+        "opener": "I saw your k6 test results for Convoxa\u2014how did you manage to maintain 75ms latency while scaling to 500 concurrent users on the free tier?",
+        "context": "Direct technical inquiry into their specific performance metrics."
+      },
+      {
+        "opener": "Your choice of Materialized Path over Adjacency Lists is interesting. Have you noticed any significant write-latency trade-offs as your comment volume grows?",
+        "context": "Engaging their pragmatic, trade-off-focused decision-making style."
+      },
+      {
+        "opener": "I noticed you're shifting toward poll-based engagement for Convoxa\u2014how are you measuring the impact on backend load compared to standard comment-thread interactions?",
+        "context": "Validating their transition from quantitative testing to user-behavioral product design."
+      }
+    ],
+    "optimization": {
+      "best_channel": "LinkedIn",
+      "best_days": [
+        "Tuesday",
+        "Wednesday"
+      ],
+      "suggested_time_of_day": "07:30 AM CET"
+    },
+    "data_confidence": "high"
+  }
+}

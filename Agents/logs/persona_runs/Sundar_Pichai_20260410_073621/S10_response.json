@@ -1,0 +1,43 @@
+{
+  "section_id": 10,
+  "section_name": "Risk & Red Flags",
+  "person_id": "ACoAAE6FVtYBAW4bP82g1IhIHxzu_1J010WU3CQ",
+  "generated_at": "2026-04-10T14:30:00Z",
+  "data": {
+    "job_hopping_signal": {
+      "detected": false,
+      "roles_analyzed": 2,
+      "average_tenure_months": 132.0,
+      "shortest_tenure_months": 132,
+      "assessment": "Subject has maintained long-term employment at Google since 2004, demonstrating high career stability."
+    },
+    "controversial_statements": [
+      {
+        "summary": "Questioned by U.S. House Judiciary Committee regarding potential political bias on Google platforms.",
+        "platform": "U.S. Congressional Hearing",
+        "approximate_date": "2018-12",
+        "risk_level": "Medium",
+        "risk_rationale": "High-profile government scrutiny regarding corporate platform neutrality and potential political influence."
+      }
+    ],
+    "failed_ventures": [],
+    "reputation_signals": [
+      {
+        "signal": "Leadership of major global technology corporation and public figure in AI policy.",
+        "source": "LinkedIn, Wikipedia, Corporate Media",
+        "sentiment": "Neutral"
+      }
+    ],
+    "legal_or_regulatory_issues": [
+      "2018 U.S. House Judiciary Committee inquiry into alleged political bias in Google products."
+    ],
+    "data_gaps": [
+      "No comprehensive details on personal financial holdings beyond high-level compensation reports.",
+      "No public record of non-corporate philanthropic board activity or private business ventures."
+    ],
+    "overall_risk_rating": "Low",
+    "risk_summary": "The subject maintains a low-risk profile consistent with a long-tenured executive at a major public technology firm. The primary risk indicator is historical exposure to congressional scrutiny regarding platform bias, which is common for leaders of large technology entities.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "Data is corroborated by consistent reporting from LinkedIn, Wikipedia, and verified social media accounts, supplemented by major media coverage of corporate and government-facing activities."
+  }
+}

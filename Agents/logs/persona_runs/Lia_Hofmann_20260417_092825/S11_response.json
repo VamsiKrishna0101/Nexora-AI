@@ -1,0 +1,39 @@
+{
+  "section_id": 11,
+  "section_name": "AI Analyst Verdict",
+  "person_id": "ACoAADk3xRAB69zRTh7jdt5UdA6JfWRk9a4nQGs",
+  "data": {
+    "profile_strength_score": 45,
+    "profile_strength_breakdown": {
+      "career_depth_points": 12,
+      "skills_breadth_points": 10,
+      "online_influence_points": 5,
+      "content_output_points": 0,
+      "network_strength_points": 3,
+      "risk_profile_points": 15
+    },
+    "profile_strength_rationale": "The score reflects a high-potential early-career professional with a consistent trajectory in high-growth AI and procurement startups. The assessment is capped by her limited long-term tenure and the absence of original thought leadership or industry-recognized authority status.",
+    "key_strengths": [
+      "Direct GTM experience scaling multi-agent AI procurement systems within a YC23-backed startup",
+      "Documented competency in technical sales automation and lead generation workflows for retail-facing safety providers",
+      "Academic foundation in Economics from international top-tier institutions, bridging management and venture building"
+    ],
+    "key_concerns": [
+      "Lack of sustained operational track record due to reliance on short-term internships and student-role transitions",
+      "Absence of external validation through publications, speaking engagements, or recognized technical contributions"
+    ],
+    "one_line_verdict": "Rising GTM talent in AI procurement; best suited for early-stage recruitment or as a high-growth sector intelligence contact.",
+    "recommended_use_cases": [
+      "Recruitment",
+      "Monitor Only"
+    ],
+    "use_case_rationale": "Lia demonstrates excellent alignment with high-velocity, early-stage SaaS teams. She is a prime recruitment prospect for roles requiring aggressive GTM execution, but currently lacks the depth for high-level investment or advisory partnerships.",
+    "intelligence_gaps": [
+      "No quantifiable performance metrics for past GTM initiatives",
+      "Absence of external social media presence (Twitter/X) or technical repository (GitHub)",
+      "Limited public record of independent professional decision-making outside of internship settings"
+    ],
+    "confidence_level": "High",
+    "confidence_rationale": "The dossier provided comprehensive, verified chronological data across all 10 sections, allowing for an accurate behavioral and professional assessment."
+  }
+}

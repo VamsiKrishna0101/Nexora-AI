@@ -1,0 +1,28 @@
+{
+  "section_id": 1,
+  "section_name": "Identity Overview",
+  "person_id": "ACoAAFWw7ZEBQ3ThuQDibWe3Z6BoAWqPUp5WwQ4",
+  "data": {
+    "full_name": "Ram Madhav Bommaraboyina",
+    "current_role": "Intern",
+    "company": "ICRISAT",
+    "location": "Hyderabad, Telangana, India",
+    "profile_photo_url": null,
+    "linkedin_url": "https://www.linkedin.com/in/ram-madhav-bommaraboyina-381576341",
+    "twitter_handle": null,
+    "linkedin_followers": 174,
+    "twitter_followers": 0,
+    "connections_count": 175,
+    "influence_score": 9,
+    "influence_score_breakdown": {
+      "linkedin_followers_points": 2,
+      "twitter_followers_points": 0,
+      "posting_activity_points": 5,
+      "career_seniority_points": 2,
+      "web_presence_points": 0
+    },
+    "influence_score_rationale": "Subject has 174 LinkedIn followers (2 points), maintains a presence on one platform (5 points), and holds an entry-level position as an intern (2 points). Twitter data and broader web presence were not detected.",
+    "data_confidence": "medium",
+    "data_confidence_rationale": "Data is sourced exclusively from LinkedIn; Twitter and public media presence are absent."
+  }
+}

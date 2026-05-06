@@ -1,0 +1,39 @@
+{
+  "section_id": 10,
+  "section_name": "Risk & Red Flags",
+  "person_id": "sundar-pichai",
+  "generated_at": "2026-04-09T10:00:00Z",
+  "data": {
+    "job_hopping_signal": {
+      "detected": false,
+      "roles_analyzed": 4,
+      "average_tenure_months": 51,
+      "shortest_tenure_months": 24,
+      "assessment": "Subject shows stable career progression with long-term tenure at Google and Alphabet, significantly exceeding the 18-month threshold for job hopping."
+    },
+    "controversial_statements": [],
+    "failed_ventures": [],
+    "reputation_signals": [
+      {
+        "signal": "Ongoing antitrust investigations and legal scrutiny regarding monopolistic search practices.",
+        "source": "NPR, Axios, CNBC",
+        "sentiment": "Negative"
+      },
+      {
+        "signal": "Criticism related to internal corporate management, including activist firings.",
+        "source": "WSJ",
+        "sentiment": "Negative"
+      }
+    ],
+    "legal_or_regulatory_issues": [
+      "Department of Justice antitrust remedies trial concerning Google's search engine dominance."
+    ],
+    "data_gaps": [
+      "No evidence of failed ventures or bankruptcy filings found in provided data."
+    ],
+    "overall_risk_rating": "Medium",
+    "risk_summary": "The overall risk profile is medium, driven primarily by external regulatory and operational pressures rather than personal conduct. The most significant risks are the ongoing federal antitrust lawsuits and their potential impact on Alphabet's business model.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "The persona is built from authoritative, high-quality sources including major news outlets and official corporate documentation, with consistent reporting across all fields."
+  }
+}

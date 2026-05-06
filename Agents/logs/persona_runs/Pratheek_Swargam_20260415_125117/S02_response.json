@@ -1,0 +1,56 @@
+{
+  "section_id": 2,
+  "section_name": "Professional Background",
+  "person_id": "pratheek-swargam",
+  "data": {
+    "current_role_summary": "Early-career technical professional currently serving as a Programmer Analyst Trainee at Cognizant.",
+    "role_summary_bullets": [
+      "Core Identity & Mission: Entry-level software engineering professional focused on professional development and enterprise technology delivery.",
+      "Domain Mastery: Technical competency in full-stack web development (HTML, CSS, JavaScript) and backend logic (Python, Java, Flask, SQL).",
+      "Quantifiable Impact: Applied machine learning techniques including Random Forest for predictive agricultural analytics and computer vision via OpenCV/Mediapipe.",
+      "Strategic Scope: Development of interactive, gesture-based software tools for real-time annotation and visual manipulation.",
+      "Leadership Philosophy: Primarily focused on individual contributor excellence and collaborative project development via GitHub.",
+      "Current Momentum: Transitioned from academic background in computer science to a corporate trainee program at a major global IT services firm."
+    ],
+    "career_timeline": [
+      {
+        "company": "Cognizant",
+        "title": "Programmer Analyst Trainee",
+        "start_date": "2025-11",
+        "end_date": "Present",
+        "duration_months": 6,
+        "one_line_impact": "Participating in structured professional development and IT services delivery as a trainee."
+      }
+    ],
+    "education_history": [
+      {
+        "institution": "Neil Gogte Institute of Technology",
+        "degree": "Bachelor of Engineering - BE",
+        "field_of_study": "Computer Science",
+        "graduation_year": "2025"
+      },
+      {
+        "institution": "Impulse Junior College",
+        "degree": "Intermediate",
+        "field_of_study": "M.P.C",
+        "graduation_year": "2021"
+      },
+      {
+        "institution": "Navyabharathi Global School - India",
+        "degree": "High School",
+        "field_of_study": "CBSE",
+        "graduation_year": "2019"
+      }
+    ],
+    "total_years_experience": 1,
+    "industry_expertise_areas": [
+      "Information Technology",
+      "Software Development",
+      "Machine Learning",
+      "Web Development",
+      "Computer Vision"
+    ],
+    "data_confidence": "high",
+    "data_confidence_rationale": "The data is derived directly from the provided LinkedIn profile, which contains clear start dates and specific project details for the subject's academic and professional timeline."
+  }
+}

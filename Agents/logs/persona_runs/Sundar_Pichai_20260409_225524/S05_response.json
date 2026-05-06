@@ -1,0 +1,54 @@
+{
+  "section_id": 5,
+  "section_name": "Online Presence & Activity",
+  "person_id": "sundarpichai",
+  "generated_at": "2026-04-10T10:00:00Z",
+  "data": {
+    "linkedin": {
+      "url": "https://www.linkedin.com/in/sundarpichai",
+      "followers": 0,
+      "posts_analyzed": 15,
+      "posting_frequency": "Monthly",
+      "avg_likes_per_post": 25805,
+      "avg_comments_per_post": 870,
+      "top_topics": [
+        "Gemini AI",
+        "Google Cloud",
+        "Search Innovation",
+        "Retail Technology",
+        "Corporate Strategy"
+      ],
+      "last_post_date": "2026-04-02",
+      "last_post_summary": "Pichai announced his upcoming commencement address at Stanford University, emphasizing his return to his alma mater to speak to the Class of 2026."
+    },
+    "twitter": {
+      "handle": "sundarpichai",
+      "url": "https://twitter.com/sundarpichai",
+      "followers": 6262697,
+      "posts_analyzed": 18,
+      "posting_frequency": "Daily",
+      "top_topics": [
+        "Gemma models",
+        "Chrome browser",
+        "Gemini Live",
+        "Waymo safety",
+        "AI Coding"
+      ],
+      "avg_likes_per_tweet": 5797,
+      "avg_retweets_per_tweet": 296,
+      "last_tweet_date": "2026-04-08"
+    },
+    "github": {
+      "url": null,
+      "found": false
+    },
+    "personal_website": null,
+    "other_platforms": [
+      "YouTube"
+    ],
+    "overall_digital_footprint": "Strong",
+    "recent_activity_summary": "Pichai is heavily focused on the rapid expansion and adoption of Google's AI portfolio, including the launch of Gemma 4 and updates to Gemini Live and Chrome features. He is simultaneously engaging in public thought leadership through podcast appearances and academic speaking engagements.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "Data derived from verified, high-volume social media output (Twitter/X and LinkedIn) providing a clear, chronological view of the subject's activity through April 2026."
+  }
+}

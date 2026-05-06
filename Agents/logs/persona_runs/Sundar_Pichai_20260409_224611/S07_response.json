@@ -1,0 +1,54 @@
+{
+  "section_id": 7,
+  "section_name": "Network & Influence",
+  "person_id": "sundar_pichai",
+  "generated_at": "2025-05-22T14:30:00Z",
+  "data": {
+    "notable_collaborations": [],
+    "associated_companies": [
+      {
+        "company": "Applied Materials",
+        "role": "Engineer",
+        "type": "Employer"
+      },
+      {
+        "company": "McKinsey & Company",
+        "role": "Management Consultant",
+        "type": "Employer"
+      },
+      {
+        "company": "Google",
+        "role": "CEO",
+        "type": "Employer"
+      },
+      {
+        "company": "Alphabet Inc.",
+        "role": "CEO and Board Director",
+        "type": "Employer"
+      }
+    ],
+    "industry_communities": [
+      "Global Technology Leadership",
+      "Artificial Intelligence Research & Policy",
+      "Corporate Governance"
+    ],
+    "media_mentions": [
+      {
+        "outlet": "CNBC",
+        "title": "Google CEO Pichai says 'AI shift' opens opportunities ...",
+        "url": "https://www.cnbc.com/2026/04/07/google-ceo-pichai-says-ai-shift-opens-opportunities-invest-startups.html",
+        "date": "2026-04-07"
+      },
+      {
+        "outlet": "Fast Company",
+        "title": "Sundar Pichai's plan to make Google Gemini the only AI ...",
+        "url": "https://www.fastcompany.com/91502632/google-most-innovative-companies-2026",
+        "date": ""
+      }
+    ],
+    "network_reach": "Tier 1 (Global)",
+    "network_strength_assessment": "Pichai maintains an extensive global network spanning high-level corporate governance, international government relations, and top-tier technology research communities. His influence is deeply cemented by his leadership of Alphabet, allowing him to shape industry-wide standards and public discourse on AI integration.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "The network and influence data is corroborated by official corporate filings, public board records, and primary-source media coverage from authoritative outlets."
+  }
+}

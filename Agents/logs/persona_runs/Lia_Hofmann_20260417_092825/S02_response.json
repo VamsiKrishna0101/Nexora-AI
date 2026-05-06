@@ -1,0 +1,105 @@
+{
+  "section_id": 2,
+  "section_name": "Professional Background",
+  "person_id": "ACoAADk3xRAB69zRTh7jdt5UdA6JfWRk9a4nQGs",
+  "data": {
+    "current_role_summary": "Go-To-Market specialist focused on the deployment of multi-agent AI systems for the procurement sector.",
+    "role_summary_bullets": [
+      "Core Identity & Mission: Dedicated to building and scaling early-stage AI-driven business models within the technology and venture ecosystem.",
+      "Domain Mastery: Deep expertise in go-to-market (GTM) strategy, sales automation, and lead generation across B2B and automotive industries.",
+      "Quantifiable Impact: Designed and executed automation-driven GTM workflows for retail-facing safety and alarm solution providers.",
+      "Strategic Scope: Proven experience supporting sales strategy for international markets including Austria, Germany, and Switzerland.",
+      "Leadership Philosophy: Blends academic rigor in management and economics with practical, entrepreneur-led venture building experience.",
+      "Current Momentum: Currently driving GTM operations for YC23-backed AI startup Lio in the procurement technology space."
+    ],
+    "career_timeline": [
+      {
+        "company": "Lio (formerly askLio)",
+        "title": "GTM",
+        "start_date": "Apr 2026",
+        "end_date": "Present",
+        "duration_months": 1,
+        "one_line_impact": "Driving GTM efforts for a multi-agent AI system for procurement."
+      },
+      {
+        "company": "Novosafe GmbH",
+        "title": "Freelance | GTM",
+        "start_date": "Sep 2025",
+        "end_date": "Jan 2026",
+        "duration_months": 5,
+        "one_line_impact": "Built and executed GTM strategy including lead generation and automation workflows for retail chains."
+      },
+      {
+        "company": "Firstlane Capital",
+        "title": "Founders Associate | Venture Building",
+        "start_date": "Jun 2025",
+        "end_date": "Aug 2025",
+        "duration_months": 3,
+        "one_line_impact": "Supported the development of Finperks\u2019 early-stage strategy alongside a team of serial founders."
+      },
+      {
+        "company": "Wemolo",
+        "title": "Working Student | Sales Strategy",
+        "start_date": "Aug 2024",
+        "end_date": "Dec 2024",
+        "duration_months": 5,
+        "one_line_impact": "Managed sales strategy, reporting, and lead qualification for the Austrian and Swiss markets."
+      },
+      {
+        "company": "Wemolo",
+        "title": "Intern | Sales Strategy",
+        "start_date": "May 2024",
+        "end_date": "Jul 2024",
+        "duration_months": 3,
+        "one_line_impact": "Contributed to sales strategy development within a digital parking and AI-recognition firm."
+      },
+      {
+        "company": "BMW Group",
+        "title": "Intern | Marketing Strategy",
+        "start_date": "Sep 2023",
+        "end_date": "Mar 2024",
+        "duration_months": 7,
+        "one_line_impact": "Supported marketing strategy, planning, and customer insights analysis for the German market."
+      },
+      {
+        "company": "K\u00f6nigswege GmbH",
+        "title": "Intern | Financial Consulting",
+        "start_date": "Oct 2021",
+        "end_date": "Oct 2021",
+        "duration_months": 1,
+        "one_line_impact": "Supported financial advisory firm with tailored investment and insurance consulting."
+      }
+    ],
+    "education_history": [
+      {
+        "institution": "Nova School of Business and Economics",
+        "degree": "Master of Science - MS",
+        "field_of_study": "Management",
+        "graduation_year": "2026"
+      },
+      {
+        "institution": "National Taiwan University",
+        "degree": "Economics",
+        "field_of_study": "Economics",
+        "graduation_year": "2023"
+      },
+      {
+        "institution": "Maastricht University School of Business and Economics",
+        "degree": "Bachelor of Science - BS",
+        "field_of_study": "Economics and Business Economics",
+        "graduation_year": "2023"
+      }
+    ],
+    "total_years_experience": 5,
+    "industry_expertise_areas": [
+      "Artificial Intelligence",
+      "Procurement Technology",
+      "Automotive",
+      "Sales Strategy",
+      "Venture Building",
+      "Financial Services"
+    ],
+    "data_confidence": "high",
+    "data_confidence_rationale": "The profile contains precise, chronological professional and educational details with specific company names and roles."
+  }
+}

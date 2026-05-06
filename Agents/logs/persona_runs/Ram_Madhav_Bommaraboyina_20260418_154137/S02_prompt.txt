@@ -1,0 +1,190 @@
+SYSTEM: None
+
+USER: 
+You are a Career Intelligence Analyst at a Palantir-grade research firm.
+Synthesize a precise, evidence-based Professional Background for the subject.
+Every claim must be traceable to the input data.
+
+INPUT DATA:
+LinkedIn Profile: {
+  "url": "https://www.linkedin.com/in/ram-madhav-bommaraboyina-381576341",
+  "username": "ram-madhav-bommaraboyina-381576341",
+  "linkedin_id": "ACoAAFWw7ZEBQ3ThuQDibWe3Z6BoAWqPUp5WwQ4",
+  "first_name": "Ram Madhav",
+  "last_name": "Bommaraboyina",
+  "full_name": "Ram Madhav Bommaraboyina",
+  "headline": "Intern at ICRISAT",
+  "is_influencer": false,
+  "is_premium": false,
+  "is_memorialized": false,
+  "location": "Hyder\u0101b\u0101d, Telangana, India",
+  "location_raw": "Hyderabad, Telangana, India",
+  "country_full": "India",
+  "state": "Telangana",
+  "city": "Hyder\u0101b\u0101d",
+  "profile_picture_url": null,
+  "top_skills": [],
+  "linkedin_followers": 174,
+  "connections_count": 175,
+  "about": "Backend & AI Developer with hands-on industry experience building intelligent, scalable systems... experienced in designing REST APIs and backend architectures with Django, and building AI/ML solutions spanning RAG pipelines, computer vision (YOLOv8), and large language model integration \u2014 bridging the gap between robust backend engineering and practical AI applications",
+  "current_positions": [
+    {
+      "company_name": "ICRISAT",
+      "company_linkedin_url": "https://www.linkedin.com/company/icrisat/",
+      "date_range": null
+    }
+  ],
+  "experiences": [
+    {
+      "title": "Intern",
+      "company": "ICRISAT",
+      "duration": "6 mos",
+      "description": null,
+      "skills": [
+        "Python (Programming Language)",
+        "Django"
+      ],
+      "start_date": {
+        "month": "Nov",
+        "year": 2025,
+        "text": "Nov 2025"
+      },
+      "end_date": {
+        "text": "Present"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQG-8JIPC1E1ig/company-logo_400_400/company-logo_400_400/0/1707305647045/icrisat_logo?e=1778112000&v=beta&t=i1rs_bj3nb2gn7nG11RI7gJaJtgtA6m0f1lRuM7d3v0"
+    }
+  ],
+  "educations": [
+    {
+      "institution": "Neil Gogte Institute of Technology",
+      "school_linkedin_url": "https://www.linkedin.com/company/82110623/",
+      "degree": "Bachelor of Engineering",
+      "field_of_study": null,
+      "skills": [
+        "Extract load transform"
+      ],
+      "start_date": {
+        "year": 2021,
+        "text": "2021"
+      },
+      "end_date": {
+        "year": 2025,
+        "text": "2025"
+      },
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQGleaQAtBGvRg/company-logo_400_400/company-logo_400_400/0/1654673880195?e=1778112000&v=beta&t=LhX-fbwNNtSHrkxc6lxB0_ogLlmkv7pN9ZwF566P-yA"
+    },
+    {
+      "institution": "sri chaitanya junior college",
+      "school_linkedin_url": "https://www.linkedin.com/company/67713817/",
+      "degree": "12th",
+      "field_of_study": null,
+      "skills": [],
+      "start_date": null,
+      "end_date": {
+        "text": ""
+      },
+      "school_logo_url": null
+    }
+  ],
+  "skills": [
+    "Programming Languages",
+    "Technology Trends",
+    "Web Application Development",
+    "Scikit-Learn",
+    "Sendmail",
+    "Large Language Models (LLM)",
+    "Deep Learning",
+    "Recommender Systems",
+    "Speech Technology",
+    "NumPy",
+    "Front-End Development",
+    "Back-End Web Development",
+    "Python (Programming Language)",
+    "Django",
+    "REST APIs",
+    "Spring Boot",
+    "OkHttp",
+    "Tkinter",
+    "MongoDB",
+    "Java",
+    "Generative AI",
+    "Extract load transform",
+    "Gemini"
+  ],
+  "languages": [],
+  "certifications": [],
+  "projects": [
+    {
+      "title": "ANPR Challan-System",
+      "description": "Automated Number Plate Detection and Challan Issuing System is a web application that uses YOLOv8 to identify vehicle number plates and automatically send challans via email.",
+      "url": null
+    },
+    {
+      "title": "CineVerse AI Multi Language Movie Recommender",
+      "description": "Developed a multi-language movie recommendation system that suggests movies in English, Hindi, and Telugu using both content-based and collaborative filtering techniques. The system is enhanced with an AI-powered chatbot and a quiz module that predicts genres based on user interaction and User as option view the trailer at there only.",
+      "url": null
+    },
+    {
+      "title": "Track-IT",
+      "description": "TrackIt is a secure, role-based Ticket Management System built using Django and Django REST Framework (DRF). It enables users to create, manage, and track issue tickets with proper authentication, authorization, filtering, and pagination. Security Feature implemented using JWT.",
+      "url": null
+    }
+  ],
+  "volunteering": [],
+  "recommendations": [],
+  "publications": [],
+  "courses": [],
+  "patents": [],
+  "honors_awards": [],
+  "causes": [],
+  "featured": null
+}
+
+Output ONLY this JSON:
+{
+  "section_id": 2,
+  "section_name": "Professional Background",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "current_role_summary": "",
+    "role_summary_bullets": [
+      "Core Identity & Mission: ...",
+      "Domain Mastery: ...",
+      "Quantifiable Impact: ...",
+      "Strategic Scope: ...",
+      "Leadership Philosophy: ...",
+      "Current Momentum: ..."
+    ],
+    "career_timeline": [
+      {
+        "company": "",
+        "title": "",
+        "start_date": "",
+        "end_date": "",
+        "duration_months": 0,
+        "one_line_impact": ""
+      }
+    ],
+    "education_history": [
+      {
+        "institution": "",
+        "degree": "",
+        "field_of_study": "",
+        "graduation_year": ""
+      }
+    ],
+    "total_years_experience": 0,
+    "industry_expertise_areas": [],
+    "data_confidence": "high|medium|low",
+    "data_confidence_rationale": ""
+  }
+}
+
+RULES:
+- role_summary_bullets: exactly 6 items. Each covers a distinct dimension — do not repeat themes.
+- career_timeline: ordered newest-first. duration_months must be calculated, not estimated.
+- total_years_experience: calculate from earliest start_date to today, accounting for overlapping roles.
+- one_line_impact: extract a specific, measurable outcome from the role description. If none available, write a factual scope statement — never fabricate metrics.
+- industry_expertise_areas: max 6 items. Only include industries explicitly evidenced in the data.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

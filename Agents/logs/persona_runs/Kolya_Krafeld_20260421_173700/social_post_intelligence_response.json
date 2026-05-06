@@ -1,0 +1,91 @@
+{
+  "section_id": "social_post_intelligence",
+  "section_name": "Social Media Post Intelligence",
+  "person_id": "Kolya Krafeld",
+  "data": {
+    "content_analysis": {
+      "top_topics": [
+        "AI Application Layer",
+        "Founding Engineering",
+        "Developer Productivity",
+        "Startup Culture",
+        "Technical Innovation"
+      ],
+      "posting_pattern": "Intermittent posting frequency, primarily focusing on professional updates and engineering-specific insights during business hours.",
+      "content_style": "Authentic, transparent, and technically detailed with a bias towards demonstrating engineering rigor and startup growth.",
+      "engagement_insight": "Posts combining specific technical solutions with personal professional anecdotes generate the highest audience interaction."
+    },
+    "post_breakdown": [
+      {
+        "platform": "LinkedIn",
+        "type": "Post",
+        "brief_description": "Reflecting on team offsites and the evolution of AI-assisted coding.",
+        "theme": "Startup Culture",
+        "engagement_style": "Casual/Personal"
+      },
+      {
+        "platform": "LinkedIn",
+        "type": "Repost",
+        "brief_description": "Customer testimonial regarding the value of Mercura's AI for industrial processes.",
+        "theme": "Customer Success",
+        "engagement_style": "Third-party validation"
+      },
+      {
+        "platform": "LinkedIn",
+        "type": "Post",
+        "brief_description": "Technical deep-dive on using cloud servers to enable multi-branch development.",
+        "theme": "Developer Productivity",
+        "engagement_style": "Technical/Educational"
+      },
+      {
+        "platform": "LinkedIn",
+        "type": "Repost",
+        "brief_description": "Founder narrative detailing the origin and growth of Mercura.",
+        "theme": "Founder Journey",
+        "engagement_style": "Storytelling"
+      },
+      {
+        "platform": "LinkedIn",
+        "type": "Post",
+        "brief_description": "Hiring announcement emphasizing Munich-based engineering spirit and AI application development.",
+        "theme": "Recruitment",
+        "engagement_style": "Call-to-action"
+      },
+      {
+        "platform": "LinkedIn",
+        "type": "Repost",
+        "brief_description": "Official company funding announcement celebrating Mercura's seed round.",
+        "theme": "Corporate Milestone",
+        "engagement_style": "Celebratory"
+      },
+      {
+        "platform": "LinkedIn",
+        "type": "Repost",
+        "brief_description": "Peer recognition highlighting professional performance and technical contributions.",
+        "theme": "Team Recognition",
+        "engagement_style": "Professional endorsement"
+      },
+      {
+        "platform": "LinkedIn",
+        "type": "Post",
+        "brief_description": "Short announcement regarding joining Mercura as a Founding Engineer.",
+        "theme": "Career Milestone",
+        "engagement_style": "Informative"
+      }
+    ],
+    "summaries": {
+      "posts": [
+        "Technical Workflow Optimization: Detailed use of remote SSH and containers for improved parallel feature development.",
+        "Organizational Culture: Highlighted the transition from San Francisco to Munich while maintaining high-paced startup energy.",
+        "Talent Acquisition: Leveraged technical brand to attract engineers interested in the AI application layer.",
+        "Personal Growth: Chronicled professional transitions and the value of team-building in remote or nature settings."
+      ],
+      "reposts": [
+        "Customer Success: Amplified real-world adoption stories demonstrating the effectiveness of AI in construction and industrial sales.",
+        "Founder Narrative: Shared origin stories of the business to highlight the complexity of the domain and the resilience of the team.",
+        "Corporate Milestones: Circulated news regarding funding rounds and institutional recognition of the company's growth.",
+        "Peer Endorsements: Shared public recognition from co-founders regarding personal technical performance and team contributions."
+      ]
+    }
+  }
+}

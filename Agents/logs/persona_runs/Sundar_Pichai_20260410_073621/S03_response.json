@@ -1,0 +1,95 @@
+{
+  "section_id": 3,
+  "section_name": "Skills & Expertise",
+  "person_id": "ACoAAE6FVtYBAW4bP82g1IhIHxzu_1J010WU3CQ",
+  "generated_at": "2025-05-15T10:00:00Z",
+  "data": {
+    "top_technical_skills": [
+      {
+        "skill": "Generative AI Product Strategy",
+        "category": "Domain",
+        "evidence_level": "High",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "Cloud Computing Infrastructure",
+        "category": "Platform",
+        "evidence_level": "High",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "Large Language Model Scaling",
+        "category": "Domain",
+        "evidence_level": "High",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "Quantum Computing",
+        "category": "Domain",
+        "evidence_level": "Medium",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "Product Management",
+        "category": "Methodology",
+        "evidence_level": "Medium",
+        "evidence_source": "Experience Description"
+      },
+      {
+        "skill": "Search Engine Optimization & Architecture",
+        "category": "Domain",
+        "evidence_level": "Medium",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "Tensor Processing Units (TPUs)",
+        "category": "Tool",
+        "evidence_level": "Medium",
+        "evidence_source": "Posts"
+      }
+    ],
+    "domain_expertise": [
+      {
+        "domain": "Artificial Intelligence & Machine Learning",
+        "depth": "Expert",
+        "evidence": "Strategic oversight of Gemini 3 development, TPU hardware integration, and AI-driven product scaling."
+      },
+      {
+        "domain": "Enterprise Software & Cloud",
+        "depth": "Expert",
+        "evidence": "Management of Google Cloud revenue growth, enterprise backlogs, and global data center infrastructure expansion."
+      },
+      {
+        "domain": "Materials Science",
+        "depth": "Practitioner",
+        "evidence": "Academic background with an MS in Materials Science and Engineering from Stanford University."
+      },
+      {
+        "domain": "Strategic Business Leadership",
+        "depth": "Expert",
+        "evidence": "Overseeing $400B+ annual revenue and managing global cross-functional product organizations as CEO."
+      }
+    ],
+    "soft_skills_signals": [
+      {
+        "skill": "Strategic Communication",
+        "signal_source": "Posts",
+        "justification": "Articulates complex technical shifts (e.g., Gemini 3, Quantum Echoes) for diverse stakeholder audiences."
+      },
+      {
+        "skill": "Visionary Leadership",
+        "signal_source": "About",
+        "justification": "Explicit focus on 'organizing the world's information' and long-term 'moonshot' projects."
+      },
+      {
+        "skill": "Relationship Management",
+        "signal_source": "Posts",
+        "justification": "Active negotiation and collaboration with industry leaders like Walmart, Shopify, and global government entities."
+      }
+    ],
+    "skill_gaps_or_blind_spots": [],
+    "skill_progression_narrative": "Sundar Pichai evolved from a technical academic background in materials science to a product-focused leader managing core technologies like Chrome, before scaling into a global CEO role. His progression highlights a shift from deep-dive engineering to orchestrating complex, ecosystem-wide AI and cloud transformations at a massive scale.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "Evidence is drawn directly from official employment history and verifiable public leadership communications via professional social media posts."
+  }
+}

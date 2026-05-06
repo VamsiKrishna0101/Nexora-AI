@@ -1,0 +1,127 @@
+SYSTEM: None
+
+USER: 
+You are the Senior Intelligence Director at a Palantir-grade research firm.
+You are delivering the final, authoritative verdict on this subject based on a complete intelligence dossier.
+This verdict is read by C-suite executives and investment committees. Precision and honesty are paramount.
+Do not soften findings. Do not inflate scores. Be direct.
+
+INPUT DATA — COMPLETE INTELLIGENCE DOSSIER (Sections 1–10):
+[
+  "{'section_id': 1, 'section_name': 'Identity Overview', 'person_id': '14130366', 'generated_at': '2025-05-14T14:30:00Z', 'data': {'full_name': 'Sundar Pichai', 'current_role': 'CEO', 'company': 'Google and Alphabet', 'location': None, 'profile_photo_url': 'https://pbs.twimg.com/profile_images/1710036756731510784/FyfFgM-B_normal.jpg', 'linkedin_url': None, 'twitter_handle': 'sundarpichai', 'linkedin_followers': None, 'twitter_followers': 6262570, 'connections_count': 189, 'influence_score': 52, 'influence_score_breakdown': {'linkedin_followers_points': 0, 'twitter_followers_points': 20, 'posting_activity_points': 5, 'career_seniority_points': 15, 'web_presence_points': 10}, 'influence_score_rationale': 'Score calculated based on Twitter presence (20 pts), LinkedIn data absence (0 pts), posting on one platform (5 pts), C-suite seniority (15 pts), and verified web presence status (10 pts).', 'data_confidence': 'medium', 'data_confidence_rationale': 'High-quality data provided for Twitter profile, but LinkedIn data is entirely missing, preventing a comprehensive cross-platform assessment.'}}",
+  "{'section_id': 2, 'section_name': 'Professional Background', 'person_id': 'UNKNOWN_ID', 'generated_at': '2025-05-14T14:30:00Z', 'data': {'current_role_summary': \"The subject's LinkedIn profile is currently empty or unavailable, resulting in a null data set.\", 'role_summary_bullets': ['Core Identity & Mission: Data unavailable to determine professional identity.', 'Domain Mastery: No domain expertise evidenced in provided data.', 'Quantifiable Impact: Insufficient data to identify professional achievements.', 'Strategic Scope: Scope of professional operations unknown.', 'Leadership Philosophy: No leadership track record evidenced.', 'Current Momentum: Professional status cannot be determined.'], 'career_timeline': [], 'education_history': [], 'total_years_experience': 0, 'industry_expertise_areas': [], 'data_confidence': 'low', 'data_confidence_rationale': 'The input LinkedIn profile data is empty, resulting in a complete absence of evidence for any career-related claims.'}}",
+  {
+    "section_id": 7,
+    "section_name": "Network & Influence",
+    "person_id": "sundar_pichai",
+    "generated_at": "2025-05-22T14:30:00Z",
+    "data": {
+      "notable_collaborations": [],
+      "associated_companies": [
+        {
+          "company": "Applied Materials",
+          "role": "Engineer",
+          "type": "Employer"
+        },
+        {
+          "company": "McKinsey & Company",
+          "role": "Management Consultant",
+          "type": "Employer"
+        },
+        {
+          "company": "Google",
+          "role": "CEO",
+          "type": "Employer"
+        },
+        {
+          "company": "Alphabet Inc.",
+          "role": "CEO and Board Director",
+          "type": "Employer"
+        }
+      ],
+      "industry_communities": [
+        "Global Technology Leadership",
+        "Artificial Intelligence Research & Policy",
+        "Corporate Governance"
+      ],
+      "media_mentions": [
+        {
+          "outlet": "CNBC",
+          "title": "Google CEO Pichai says 'AI shift' opens opportunities ...",
+          "url": "https://www.cnbc.com/2026/04/07/google-ceo-pichai-says-ai-shift-opens-opportunities-invest-startups.html",
+          "date": "2026-04-07"
+        },
+        {
+          "outlet": "Fast Company",
+          "title": "Sundar Pichai's plan to make Google Gemini the only AI ...",
+          "url": "https://www.fastcompany.com/91502632/google-most-innovative-companies-2026",
+          "date": ""
+        }
+      ],
+      "network_reach": "Tier 1 (Global)",
+      "network_strength_assessment": "Pichai maintains an extensive global network spanning high-level corporate governance, international government relations, and top-tier technology research communities. His influence is deeply cemented by his leadership of Alphabet, allowing him to shape industry-wide standards and public discourse on AI integration.",
+      "data_confidence": "high",
+      "data_confidence_rationale": "The network and influence data is corroborated by official corporate filings, public board records, and primary-source media coverage from authoritative outlets."
+    }
+  },
+  "{'section_id': 9, 'section_name': 'Achievements & Milestones', 'person_id': 'SUNDAR_PICHAI', 'generated_at': '2025-05-14T12:00:00Z', 'data': {'notable_achievements': [{'achievement': 'CEO of Alphabet Inc.', 'context': 'Lead executive of parent company of Google', 'quantified_impact': None, 'source': 'Web'}, {'achievement': 'Revenue Growth Management', 'context': 'Quarterly earnings milestones at Alphabet', 'quantified_impact': '$400B', 'source': 'Web'}, {'achievement': 'Product leadership of core Google platforms', 'context': 'Directed product management for Chrome, ChromeOS, Drive, and Android', 'quantified_impact': '1,000,000,000+ users', 'source': 'Web'}, {'achievement': 'AI-first corporate pivot', 'context': 'Strategic redirection of Google towards AI and Gemini series', 'quantified_impact': None, 'source': 'Web'}], 'companies_built_or_scaled': [{'company': 'Alphabet Inc.', 'role': 'CEO', 'scale_indicator': '$400B revenue', 'outcome': 'Active'}, {'company': 'Google', 'role': 'CEO', 'scale_indicator': '1,000,000,000+ users', 'outcome': 'Active'}], 'products_launched': [{'product': 'Google Chrome', 'context': 'Product management lead', 'impact': 'Global web browser market leadership'}, {'product': 'Android', 'context': 'Product management lead', 'impact': 'Global mobile operating system leadership'}, {'product': 'Gemini AI', 'context': 'CEO leadership', 'impact': 'Primary AI strategy for Google'}], 'awards_and_recognition': [{'award': 'Padma Bhushan', 'issuing_body': 'Government of India', 'year': '2022'}], 'career_highlight': 'Sundar Pichai transitioned from lead product manager of core technologies including Chrome and Android to become the CEO of Google in 2015 and eventually the CEO of Alphabet Inc. in 2019.', 'achievement_density': 'High', 'data_confidence': 'high', 'data_confidence_rationale': \"Key achievements and roles are corroborated by multiple authoritative sources including Wikipedia, Google's corporate blog, and public financial reporting.\"}}"
+]
+
+PROFILE STRENGTH SCORE METHODOLOGY (apply exactly):
+  Start at 0. Add points as follows:
+  - Career depth (Section 2):     Strong timeline with quantified impact=20, moderate=12, minimal=5
+  - Skills breadth (Section 3):   10+ high-evidence skills=15, 5–9=10, <5=5
+  - Online influence (Section 1): influence_score >= 70=15, 40–69=10, <40=5
+  - Content output (Section 6):   Thought Leadership Tier "Authority"=15, "Active"=10, "Emerging"=5, lower=0
+  - Network strength (Section 7): Tier 1–2=15, Tier 3=8, Tier 4=3, Unknown=0
+  - Risk profile (Section 10):    Low risk=20, Medium=12, High=5, Critical=0
+  Cap final score at 100.
+
+Output ONLY this JSON:
+{
+  "section_id": 11,
+  "section_name": "AI Analyst Verdict",
+  "person_id": "UNKNOWN_ID",
+  "generated_at": "__TIMESTAMP__",
+  "data": {
+    "profile_strength_score": 0,
+    "profile_strength_breakdown": {
+      "career_depth_points": 0,
+      "skills_breadth_points": 0,
+      "online_influence_points": 0,
+      "content_output_points": 0,
+      "network_strength_points": 0,
+      "risk_profile_points": 0
+    },
+    "profile_strength_rationale": "",
+    "key_strengths": [
+      "",
+      "",
+      ""
+    ],
+    "key_concerns": [
+      "",
+      ""
+    ],
+    "one_line_verdict": "",
+    "recommended_use_cases": [],
+    "use_case_rationale": "",
+    "intelligence_gaps": [],
+    "confidence_level": "High|Medium|Low",
+    "confidence_rationale": ""
+  }
+}
+
+RULES:
+- Apply the profile strength score methodology above exactly. Show the breakdown.
+- profile_strength_rationale: 2-3 sentences explaining the score — what drove it up and what capped it.
+- key_strengths: exactly 3 items. Each must be specific, derived from data, and non-generic. "Strong communicator" is not acceptable. "Published in Forbes, keynoted SaaStr 2023" is acceptable.
+- key_concerns: exactly 2 items. Be honest — if the profile is clean, flag data gaps or limited verifiability as concerns.
+- one_line_verdict: the single most important takeaway. Max 20 words. Specific. Actionable. No filler.
+  Good: "High-credibility technical founder with proven AI scale — best approached via LinkedIn referral for partnership or investment."
+  Bad: "Impressive professional with a strong background in technology."
+- recommended_use_cases: array of applicable options from ["Sales Target", "Investment Target", "Strategic Partnership", "Recruitment", "Advisory", "Monitor Only", "Insufficient Data"].
+- intelligence_gaps: critical data that was missing and would change the assessment if available. Max 4.
+- confidence_level: High = all 10 sections had sufficient data. Medium = 6–9 sections. Low = fewer than 6.
+- Replace __TIMESTAMP__ with current ISO 8601 datetime.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

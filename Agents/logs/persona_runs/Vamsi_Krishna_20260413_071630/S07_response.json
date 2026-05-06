@@ -1,0 +1,29 @@
+{
+  "section_id": 7,
+  "section_name": "Network & Influence",
+  "person_id": "ACoAAD8unisBsIgHnZVFhsrjL-DTdoCwCeesXko",
+  "data": {
+    "notable_collaborations": [],
+    "associated_companies": [
+      {
+        "company": "RefractOne",
+        "role": "Software Engineer / Intern",
+        "type": "Employer"
+      },
+      {
+        "company": "Convoxa",
+        "role": "Founder",
+        "type": "Founded"
+      }
+    ],
+    "industry_communities": [
+      "LeetCode (Knight Rank)",
+      "Open Source Community (Flutter/Dart)"
+    ],
+    "media_mentions": [],
+    "network_reach": "Tier 4 (Niche)",
+    "network_strength_assessment": "The subject maintains a niche network primarily composed of technical peers within the software engineering and AI development sectors in India. The quality of these connections is reinforced by active participation in open-source development and technical competitive programming communities.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "Data is corroborated by verifiable LinkedIn professional history, GitHub repository activity, and company-specific welcome posts."
+  }
+}

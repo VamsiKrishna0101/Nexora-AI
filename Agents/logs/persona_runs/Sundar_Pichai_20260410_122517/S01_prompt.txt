@@ -1,0 +1,187 @@
+SYSTEM: None
+
+USER: 
+You are a senior intelligence analyst at a Palantir-grade research firm.
+Your task is to produce a precise, factual Identity Overview for the subject.
+This section anchors the entire intelligence report — accuracy is non-negotiable.
+
+INPUT DATA:
+LinkedIn Profile: {
+  "url": "https://www.linkedin.com/in/sundarpichai",
+  "username": "sundarpichai",
+  "linkedin_id": "ACoAAE6FVtYBAW4bP82g1IhIHxzu_1J010WU3CQ",
+  "first_name": "Sundar",
+  "last_name": "Pichai",
+  "full_name": "Sundar Pichai",
+  "headline": "CEO at Google",
+  "is_influencer": true,
+  "is_premium": true,
+  "is_memorialized": false,
+  "location": "Mountain View, California, United States",
+  "location_raw": "Mountain View, California, United States",
+  "country_full": "United States",
+  "state": "California",
+  "city": "Mountain View",
+  "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQFrmDuWUxQoMg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715645354620?e=1777507200&v=beta&t=gQCg1D_PqN-po3qxhtsh7HAU-pn8RNTeIkBV2xKjLlo",
+  "top_skills": [],
+  "linkedin_followers": 4067364,
+  "connections_count": 1,
+  "about": "CEO of Google and Alphabet. Focused on organizing the world's information and making it universally accessible and useful, building great products, and developing advanced technologies, including AI, to help people everywhere.",
+  "current_positions": [
+    {
+      "company_name": "Google",
+      "company_linkedin_url": "https://www.linkedin.com/company/google/",
+      "date_range": {
+        "start": null,
+        "end": null
+      }
+    }
+  ],
+  "experiences": [
+    {
+      "title": "CEO",
+      "company": "Google",
+      "duration": null,
+      "description": "",
+      "skills": [],
+      "start_date": {
+        "month": null,
+        "year": 2015,
+        "text": "2015"
+      },
+      "end_date": {
+        "text": "Present"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1777507200&v=beta&t=DlF1YXynkOiH1__0WR9Bv63MpBFvxaKJop0PjS20RDY"
+    },
+    {
+      "title": "Product Management + Leadership",
+      "company": "Google",
+      "duration": null,
+      "description": "",
+      "skills": [],
+      "start_date": {
+        "month": "Apr",
+        "year": 2004,
+        "text": "Apr 2004"
+      },
+      "end_date": {
+        "month": null,
+        "year": 2015,
+        "text": "2015"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1777507200&v=beta&t=DlF1YXynkOiH1__0WR9Bv63MpBFvxaKJop0PjS20RDY"
+    }
+  ],
+  "educations": [
+    {
+      "institution": "The Wharton School",
+      "school_linkedin_url": "https://www.linkedin.com/school/the-wharton-school/",
+      "degree": "MBA",
+      "field_of_study": "",
+      "skills": [],
+      "start_date": null,
+      "end_date": null,
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQFQu7wZniptpA/company-logo_200_200/company-logo_200_200/0/1677690194092/the_wharton_school_logo?e=1777507200&v=beta&t=YHknddMjfr-m4rGKOBquOVohbh8h35Ur0yFgnopvqcs"
+    },
+    {
+      "institution": "Stanford University",
+      "school_linkedin_url": "https://www.linkedin.com/school/stanford-university/",
+      "degree": "MS",
+      "field_of_study": "Materials Science and Engineering",
+      "skills": [],
+      "start_date": null,
+      "end_date": null,
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_200_200/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1777507200&v=beta&t=boyhmQczHVRO9cbx-Mlf1uoX9rQyq6UdpddHG72aVwE"
+    },
+    {
+      "institution": "Indian Institute of Technology, Kharagpur",
+      "school_linkedin_url": "https://www.linkedin.com/school/indian-institute-of-technology-kharagpur/",
+      "degree": "B. Tech",
+      "field_of_study": "",
+      "skills": [],
+      "start_date": null,
+      "end_date": null,
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQE0lxIeTKBTAw/company-logo_200_200/company-logo_200_200/0/1661239083431/indian_institute_of_technology_kharagpur_logo?e=1777507200&v=beta&t=-WTwkCuzHcxPMjR3ixy8sy5M6t1eWtzlPTUDz4a8_kA"
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "certifications": [],
+  "projects": [],
+  "volunteering": [],
+  "recommendations": [],
+  "publications": [],
+  "courses": [],
+  "patents": [],
+  "honors_awards": [],
+  "causes": [],
+  "featured": null
+}
+Twitter Profile: {
+  "id": "14130366",
+  "name": "Sundar Pichai",
+  "username": "sundarpichai",
+  "description": "CEO,  Google and Alphabet",
+  "followers_count": 6269114,
+  "normal_followers_count": 6269114,
+  "fast_followers_count": 0,
+  "friends_count": 189,
+  "favourites_count": 1152,
+  "listed_count": 11454,
+  "media_count": 350,
+  "statuses_count": 2666,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1710036756731510784/FyfFgM-B_normal.jpg",
+  "url": "https://twitter.com/sundarpichai",
+  "is_translator": false,
+  "has_custom_timelines": true,
+  "follow_request_sent": false
+}
+
+INFLUENCE SCORE METHODOLOGY (apply exactly):
+  Start at 0. Add points as follows:
+  - LinkedIn followers:  <500=2, 500–2k=5, 2k–10k=10, 10k–50k=18, 50k+=25
+  - Twitter followers:   <1k=2, 1k–10k=5, 10k–100k=12, 100k+=20
+  - Posting activity:    posts found on both platforms=10, one platform=5, none=0
+  - Career seniority:    C-suite/Founder=15, VP/Director=10, Senior IC=5, other=2
+  - Web presence:        verified/media presence=10, minimal=0
+  Cap final score at 100.
+
+Output ONLY this JSON:
+{
+  "section_id": 1,
+  "section_name": "Identity Overview",
+  "person_id": "UNKNOWN_ID",
+  "generated_at": "__TIMESTAMP__",
+  "data": {
+    "full_name": "",
+    "current_role": "",
+    "company": "",
+    "location": "",
+    "profile_photo_url": "",
+    "linkedin_url": "",
+    "twitter_handle": "",
+    "linkedin_followers": 0,
+    "twitter_followers": 0,
+    "connections_count": 0,
+    "influence_score": 0,
+    "influence_score_breakdown": {
+      "linkedin_followers_points": 0,
+      "twitter_followers_points": 0,
+      "posting_activity_points": 0,
+      "career_seniority_points": 0,
+      "web_presence_points": 0
+    },
+    "influence_score_rationale": "",
+    "data_confidence": "high|medium|low",
+    "data_confidence_rationale": ""
+  }
+}
+
+RULES:
+- influence_score: apply the exact methodology above. Do not estimate freely.
+- data_confidence: high = rich LinkedIn + Twitter data. medium = one platform only. low = minimal or no data.
+- profile_photo_url: only include if explicitly present in input data.
+- If any field cannot be determined from the data, set it to null.
+- Replace __TIMESTAMP__ with current ISO 8601 datetime.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

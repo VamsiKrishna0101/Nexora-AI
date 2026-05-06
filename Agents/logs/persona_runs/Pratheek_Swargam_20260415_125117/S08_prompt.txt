@@ -1,0 +1,135 @@
+SYSTEM: None
+
+USER: 
+You are a high-performance sales development and recruiting lead.
+Using the Behavioral Intelligence from Section 4, generate a specific outreach playbook.
+Focus on high-conversion scripts and tactical execution.
+
+INPUT DATA:
+Section 4 - Behavioral Intelligence Suite: {
+  "section_id": 4,
+  "section_name": "Behavioral Intelligence Suite",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "behavioral_profile": {
+      "archetype": "The Analyst",
+      "one_line_description": "Insufficient behavioral data available to establish a professional profile or working methodology.",
+      "trait_tags": [
+        "Data deficient",
+        "Inactive footprint",
+        "Undetermined"
+      ]
+    },
+    "trait_scores": {
+      "dominance": 0,
+      "expressiveness": 0,
+      "pace": 0,
+      "pragmatism": 0,
+      "risk_appetite": 0,
+      "social_energy": 0
+    },
+    "working_style": {
+      "decision_making": "Data absent; decision-making process cannot be determined.",
+      "collaboration": "Collaboration style indeterminate due to lack of visible interaction.",
+      "conflict_style": "Conflict resolution approach cannot be evaluated from provided data.",
+      "pace": "Operational pace is currently unobservable."
+    },
+    "what_drives_them": {
+      "energizers": [],
+      "drainers": []
+    },
+    "engagement_guide": {
+      "how_to_open": [
+        "No opening strategy available due to lack of digital footprint."
+      ],
+      "how_to_run_meeting": [
+        "Agenda should focus on fundamental discovery questions."
+      ],
+      "how_to_email": [
+        "Keep correspondence neutral and inquiry-based."
+      ],
+      "how_to_follow_up": [
+        "Direct outreach is required to establish current status."
+      ],
+      "how_to_build_trust": [
+        "Trust building must be done through direct professional dialogue."
+      ]
+    },
+    "blind_spots": [
+      "Zero digital professional presence.",
+      "Absence of verifiable thought leadership.",
+      "Lack of demonstrated public collaborative history."
+    ],
+    "dos_and_donts": {
+      "dos": [
+        "Verify identity through primary sources.",
+        "Initiate direct contact for assessment.",
+        "Maintain objective inquiry.",
+        "Request professional background documentation."
+      ],
+      "donts": [
+        "Assume professional expertise based on non-existent content.",
+        "Infer behavioral traits from empty data sets.",
+        "Rely on external anecdotal assumptions.",
+        "Predict communication preferences."
+      ]
+    },
+    "data_confidence": "low",
+    "data_confidence_rationale": "The subject has provided no observable professional signals across LinkedIn or Twitter platforms."
+  }
+}
+LinkedIn Posts (last 10): [
+  {
+    "type": "post",
+    "is_activity": null,
+    "url": null,
+    "text": "",
+    "num_shares": 0,
+    "num_likes": 0,
+    "num_comments": 0,
+    "comments_count": 0,
+    "reactions_count": 0,
+    "posted_at": null,
+    "actor_name": null,
+    "actor_profile_url": null,
+    "post_type": null
+  }
+]
+Twitter Posts (last 10): []
+
+Output ONLY this JSON:
+{
+  "section_id": 8,
+  "section_name": "Tactical Outreach Playbook",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "outreach_scripts": {
+      "email_draft": {
+        "subject": "",
+        "body": ""
+      },
+      "linkedin_inmail": {
+        "body": ""
+      }
+    },
+    "high_resonance_topics": [],
+    "topics_to_avoid": [],
+    "conversation_starters": [
+      {"opener": "", "context": ""}
+    ],
+    "optimization": {
+      "best_channel": "LinkedIn|Email|Twitter|Secretariat",
+      "best_days": [],
+      "suggested_time_of_day": ""
+    },
+    "data_confidence": "high|medium|low"
+  }
+}
+
+RULES:
+- email_draft: must follow the subject's communication style (e.g., numbered points, no fluff if they are an Analyst).
+- linkedin_inmail: max 300 characters. Highly personalized based on a recent post or achievement.
+- high_resonance_topics: 3-5 specific topics they will definitively respond to.
+- conversation_starters: 3 unique, data-backed lines to start a verbal or text conversation.
+- optimization: infer best_days and time from post timestamps. If no timestamps, use industry defaults for their role.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

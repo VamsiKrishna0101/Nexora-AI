@@ -1,0 +1,54 @@
+{
+  "section_id": 5,
+  "section_name": "Online Presence & Activity",
+  "person_id": "sundarpichai",
+  "generated_at": "2026-04-10T12:00:00Z",
+  "data": {
+    "linkedin": {
+      "url": "https://www.linkedin.com/in/sundarpichai",
+      "followers": 4067364,
+      "posts_analyzed": 15,
+      "posting_frequency": "Weekly",
+      "avg_likes_per_post": 25555,
+      "avg_comments_per_post": 870,
+      "top_topics": [
+        "Gemini AI",
+        "Google Cloud",
+        "AI Infrastructure",
+        "Product Innovation",
+        "Alphabet Earnings"
+      ],
+      "last_post_date": "2026-04-02",
+      "last_post_summary": "Pichai shared his excitement about returning to Stanford University to deliver the 135th Commencement address."
+    },
+    "twitter": {
+      "handle": "sundarpichai",
+      "url": "https://twitter.com/sundarpichai",
+      "followers": 6269114,
+      "posts_analyzed": 18,
+      "posting_frequency": "Daily",
+      "top_topics": [
+        "Gemini AI",
+        "Gemma Models",
+        "Google Chrome",
+        "AI Innovation",
+        "Corporate Updates"
+      ],
+      "avg_likes_per_tweet": 6127,
+      "avg_retweets_per_tweet": 352,
+      "last_tweet_date": "2026-04-08"
+    },
+    "github": {
+      "url": null,
+      "found": false
+    },
+    "personal_website": null,
+    "other_platforms": [
+      "YouTube"
+    ],
+    "overall_digital_footprint": "Strong",
+    "recent_activity_summary": "Pichai is actively promoting the launch of Gemma 4 models and new notebook capabilities within the Gemini app. He is also engaging in technical discussions regarding browser updates, AI research, and high-level strategy for Google's cloud and hardware initiatives.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "Data is sourced from provided LinkedIn and Twitter profiles, which contain detailed timestamps and engagement metrics, allowing for high-confidence calculation of activity and frequency."
+  }
+}

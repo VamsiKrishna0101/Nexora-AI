@@ -1,0 +1,132 @@
+{
+  "section_id": 3,
+  "section_name": "Skills & Expertise",
+  "person_id": "ACoAAD8unisBsIgHnZVFhsrjL-DTdoCwCeesXko",
+  "data": {
+    "top_technical_skills": [
+      {
+        "skill": "Node.js",
+        "category": "Framework",
+        "evidence_level": "High",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "PostgreSQL",
+        "category": "Tool",
+        "evidence_level": "High",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "FastAPI",
+        "category": "Framework",
+        "evidence_level": "High",
+        "evidence_source": "Experience Description"
+      },
+      {
+        "skill": "LangGraph",
+        "category": "Framework",
+        "evidence_level": "High",
+        "evidence_source": "Experience Description"
+      },
+      {
+        "skill": "Redis",
+        "category": "Tool",
+        "evidence_level": "High",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "Python",
+        "category": "Language",
+        "evidence_level": "High",
+        "evidence_source": "Experience Description"
+      },
+      {
+        "skill": "TypeScript",
+        "category": "Language",
+        "evidence_level": "High",
+        "evidence_source": "About"
+      },
+      {
+        "skill": "System Design",
+        "category": "Methodology",
+        "evidence_level": "High",
+        "evidence_source": "About"
+      },
+      {
+        "skill": "k6 Load Testing",
+        "category": "Tool",
+        "evidence_level": "High",
+        "evidence_source": "Posts"
+      },
+      {
+        "skill": "Google Cloud Platform",
+        "category": "Platform",
+        "evidence_level": "High",
+        "evidence_source": "Experience Description"
+      },
+      {
+        "skill": "RAG (Retrieval-Augmented Generation)",
+        "category": "Domain",
+        "evidence_level": "High",
+        "evidence_source": "Experience Description"
+      },
+      {
+        "skill": "WebSocket/Socket.io",
+        "category": "Tool",
+        "evidence_level": "Medium",
+        "evidence_source": "About"
+      }
+    ],
+    "domain_expertise": [
+      {
+        "domain": "Scalable Backend Systems",
+        "depth": "Expert",
+        "evidence": "Engineered Convoxa to handle 1.9M requests with 75ms latency using horizontal scaling and Redis caching."
+      },
+      {
+        "domain": "Applied AI / LLM Orchestration",
+        "depth": "Practitioner",
+        "evidence": "Built multi-agent pipelines using LangGraph and RAG to reduce LLM API costs by 40%."
+      },
+      {
+        "domain": "Data Pipeline Engineering",
+        "depth": "Practitioner",
+        "evidence": "Designed parallel web-scraping pipelines and multi-agent workflows for intelligence gathering."
+      },
+      {
+        "domain": "Full-Stack Development",
+        "depth": "Practitioner",
+        "evidence": "Built and deployed mobile applications using React Native and backend services using Node.js/PostgreSQL."
+      }
+    ],
+    "soft_skills_signals": [
+      {
+        "skill": "Data-Driven Decision Making",
+        "signal_source": "Posts",
+        "justification": "Explicitly states in a LinkedIn post: 'Building based on real user behavior \u2014 not assumptions' regarding Convoxa feature pivots."
+      },
+      {
+        "skill": "Performance-Oriented Mindset",
+        "signal_source": "Posts",
+        "justification": "Performed extensive k6 load testing to identify bottlenecks, noting, 'Honestly, I expected it to break much earlier.'"
+      },
+      {
+        "skill": "Technical Problem-Solving",
+        "signal_source": "About",
+        "justification": "Knight-ranked (Top 5%) on LeetCode with 750+ problems solved, demonstrating persistent mastery of complex algorithms."
+      },
+      {
+        "skill": "Proactive Optimization",
+        "signal_source": "Experience",
+        "justification": "Reduced persona generation latency by 60% and token usage by 50% through architectural improvements at RefractOne."
+      }
+    ],
+    "skill_gaps_or_blind_spots": [
+      "No evidence of formal DevOps/Kubernetes orchestration beyond Cloud Run usage.",
+      "Limited public evidence of cloud-native security best practices implementation."
+    ],
+    "skill_progression_narrative": "Vamsi began by mastering core data structures and building full-stack applications with React Native and Node.js. He progressed into backend systems engineering, specifically focusing on performance optimization, load testing, and scaling monolithic architectures. Most recently, he has integrated these skills into AI-driven backend development, emphasizing RAG pipelines and multi-agent orchestration.",
+    "data_confidence": "high",
+    "data_confidence_rationale": "The subject provided detailed case studies, architectural breakdowns, specific performance metrics (latency/RPS), and verified LinkedIn project links."
+  }
+}

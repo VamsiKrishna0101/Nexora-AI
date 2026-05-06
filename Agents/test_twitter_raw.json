@@ -1,0 +1,131 @@
+{
+  "result": {
+    "data": {
+      "user": {
+        "result": {
+          "__typename": "User",
+          "affiliates_highlighted_label": {
+            "label": {
+              "badge": {
+                "url": "https://pbs.twimg.com/profile_images/2039086316558958592/zVX8V1Dx_bigger.jpg"
+              },
+              "description": "Google",
+              "url": {
+                "url": "https://twitter.com/Google",
+                "urlType": "DeepLink"
+              },
+              "userLabelDisplayType": "Badge",
+              "userLabelType": "BusinessLabel"
+            }
+          },
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1710036756731510784/FyfFgM-B_normal.jpg"
+          },
+          "business_account": {},
+          "core": {
+            "created_at": "Wed Mar 12 05:51:53 +0000 2008",
+            "name": "Sundar Pichai",
+            "screen_name": "sundarpichai"
+          },
+          "creator_subscriptions_count": 0,
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "has_hidden_subscriptions_on_profile": false,
+          "highlights_info": {
+            "can_highlight_tweets": true,
+            "highlighted_tweets": "3"
+          },
+          "id": "VXNlcjoxNDEzMDM2Ng==",
+          "is_blue_verified": true,
+          "is_profile_translatable": false,
+          "legacy": {
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "CEO,  Google and Alphabet",
+            "entities": {
+              "description": {
+                "urls": []
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 1152,
+            "follow_request_sent": false,
+            "followers_count": 6262136,
+            "friends_count": 189,
+            "has_custom_timelines": true,
+            "is_translator": false,
+            "listed_count": 11456,
+            "media_count": 350,
+            "normal_followers_count": 6262136,
+            "notifications": false,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_interstitial_type": "",
+            "statuses_count": 2666,
+            "translator_type": "none",
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "legacy_extended_profile": {},
+          "location": {
+            "location": ""
+          },
+          "media_permissions": {
+            "can_media_tag": true
+          },
+          "parody_commentary_fan_label": "None",
+          "premium_gifting_eligible": false,
+          "privacy": {
+            "protected": false
+          },
+          "profile_image_shape": "Circle",
+          "relationship_perspectives": {
+            "blocked_by": false,
+            "blocking": false,
+            "followed_by": false,
+            "following": false,
+            "muting": false
+          },
+          "rest_id": "14130366",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "tipjar_settings": {},
+          "user_seed_tweet_count": 0,
+          "verification": {
+            "verified": false
+          },
+          "verification_info": {
+            "is_identity_verified": false,
+            "reason": {
+              "description": {
+                "entities": [
+                  {
+                    "from_index": 54,
+                    "ref": {
+                      "url": "https://twitter.com/Google",
+                      "url_type": "ExternalUrl"
+                    },
+                    "to_index": 61
+                  },
+                  {
+                    "from_index": 68,
+                    "ref": {
+                      "url": "https://help.twitter.com/en/rules-and-policies/profile-labels",
+                      "url_type": "ExternalUrl"
+                    },
+                    "to_index": 78
+                  }
+                ],
+                "text": "This account is verified because it's an affiliate of @Google on X. Learn more"
+              },
+              "verified_since_msec": "1439245383872"
+            }
+          }
+        }
+      }
+    }
+  }
+}

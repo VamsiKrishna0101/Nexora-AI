@@ -1,0 +1,308 @@
+SYSTEM: None
+
+USER: 
+You are a senior behavioral intelligence analyst at a Palantir-grade research firm.
+Your analysis is based ONLY on observable professional signals — not speculation.
+Every insight must be traceable to a specific post, pattern, or behavior in the data.
+Be cold, factual, and tactical. No therapy language. No speculation.
+
+INPUT DATA:
+LinkedIn Posts (last 20): [
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/vladimir-keil_ran-three-sessions-at-the-americas-procurement-activity-7442941278343811072-bdDY?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAF5VN3gBbVyjc7XT64yKVqO9jRIPC7ZW7Yc",
+    "text": "Ran three sessions at the \u201cAmericas Procurement Congress\u201d fair by Procurement Leaders | A World 50 Group Community this week. \n\nTwo roundtables and a workshop, same title: Humans vs. AI Agents: Who Runs Procurement in 2026?\n\nThe tension this question raises isn't about technology. Everyone knows AI agents are real. Instead, the tension is about identity. Procurement leaders who've spent 20 years building expertise in a process-driven function and are now watching that process disappear. That's not a technology problem. That's a leadership problem.\n\nWhat I made clear: the teams that will define procurement in the next five years aren't the ones who held on longest. They're the ones who moved first: from operators to strategists, from process owners to agent supervisors. \n\nThe conversations after the sessions confirmed what we see in our deployments every day. The appetite is there. The hesitation is almost never technical. It's organizational. And that's actually the easier problem to solve. That means: if you have the right partner.\n\nIf we didn't get a chance to connect in person, let's fix that. DM me or the Lio (formerly askLio) team to keep up the momentum.",
+    "num_shares": 5,
+    "num_likes": 141,
+    "num_comments": 4,
+    "comments_count": 4,
+    "reactions_count": 10,
+    "posted_at": "2026-03-26T14:31:23.919Z",
+    "actor_name": "Vladimir Keil",
+    "actor_profile_url": "https://www.linkedin.com/in/vladimir-keil?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACSNaE8BokiH-nyGlzVeUVY-k3lqwpHizeg",
+    "post_type": "image"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/vladimir-keil_humans-vs-ai-agents-who-runs-procurement-activity-7441862128891801600-Pmhr?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAF5VN3gBbVyjc7XT64yKVqO9jRIPC7ZW7Yc",
+    "text": "\"Humans vs. AI Agents: Who Runs Procurement in 2026?\"\n\nOne title. Two roundtables. One workshop. Hosted by me at the \u201cAmericas Procurement Congress\u201d fair by Procurement Leaders | A World 50 Group Community starting today.\nSpoiler: it's not a competition. The CPOs still debating whether AI will replace their team are already behind.\n\nThe right question is what your team\u00a0becomes\u00a0when agents handle sourcing, vendor selection, PO generation, and negotiation - simultaneously, around the clock, across all spend categories.\n\nThat's not a pitch. It's what's already live at Fortune 500 and Global 2000 companies today. 85% reduction in manual work. 100% customer retention. Billions in enterprise spend managed by Lio (formerly askLio)'s agent swarms. The old model (more headcount, more BPO, more process layers) was built for a different era. That era is closing faster than most procurement orgs are moving.\n\nCome visit our booth no. 34 to discuss with our experts how the future of procurement looks like for your business. Can\u2019t wait? See here:\u00a0https://lio.ai/demo",
+    "num_shares": 4,
+    "num_likes": 80,
+    "num_comments": 0,
+    "comments_count": 0,
+    "reactions_count": 10,
+    "posted_at": "2026-03-23T15:03:14.640Z",
+    "actor_name": "Vladimir Keil",
+    "actor_profile_url": "https://www.linkedin.com/in/vladimir-keil?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACSNaE8BokiH-nyGlzVeUVY-k3lqwpHizeg",
+    "post_type": "image"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/vladimir-keil_sunday-post-protect-your-original-thinking-activity-7441660244314808321-xFxs?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAF5VN3gBbVyjc7XT64yKVqO9jRIPC7ZW7Yc",
+    "text": "Sunday Post: Protect your original thinking from social pressure\n\n\nIf you want to be original, prepare to be misunderstood.\n\nKeeping original thinking is hard. But it\u2019s even harder to protect.\n\nI considered myself quite good at it, but still found myself almost giving it away in a single sentence.\n\nI was standing in our Munich hallway \u2014 the one that, few months ago, held a single office and a 10-person team. Now it can barely contain the ten new people joining every week.\n\nAn employee complained that the pace felt uncertain and uncomfortable. Without missing a beat, I said:\n\u201cDon\u2019t worry, that\u2019s why I\u2019m hiring.\u201d\n\nMy mouth moved before my mind caught up \u2014 and I knew it was wrong. Not wrong as in cruel, but wrong as in untrue. A borrowed answer. The kind you give when the room is pulling you toward the path of least resistance.\n\nThis wasn\u2019t the reason I am hiring. In contrast:\n\nI am hiring to build the best procurement agents in the world \u2014 to implement faster, to expand the product, and to reach more customers before anyone else does. To win. Not to slow down the pace. Our pace is a signal. $30M means 30x the pace. \n\nWhat this taught me: noise doesn\u2019t just come from outside. It comes from the people in your building. From well-meaning advisors. From the pressure to be reasonable, to be liked, to have a good answer ready.\n\nFor founders, every decision to be liked over being true to your vision erodes that original edge.\n\nCall it what you want \u2014 a personality trait, discipline, or a muscle. But what it requires is that you constantly ask yourself: is this what I actually believe, or is this the answer the room wants?\n\nSometimes these two feel identical in the moment \u2014 and that\u2019s what makes it hard.\n\nIf you\u2019re building something new \u2014 whether as a founder, investor, or on the front lines of a startup \u2014 protecting your original thinking is your only reliable edge.",
+    "num_shares": 0,
+    "num_likes": 102,
+    "num_comments": 6,
+    "comments_count": 6,
+    "reactions_count": 10,
+    "posted_at": "2026-03-23T01:41:01.606Z",
+    "actor_name": "Vladimir Keil",
+    "actor_profile_url": "https://www.linkedin.com/in/vladimir-keil?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACSNaE8BokiH-nyGlzVeUVY-k3lqwpHizeg",
+    "post_type": "text"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/vladimir-keil_the-procurement-software-industry-is-selling-activity-7440754928832245762-KdkI?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAF5VN3gBbVyjc7XT64yKVqO9jRIPC7ZW7Yc",
+    "text": "The procurement software industry is selling theater, not transformation.\n\nEveryone's launching \"AI agents\" now. Everyone's got a copilot. But here's the honest truth: most vendors are slapping AI features on top of legacy software and calling it innovation. A tool that helps a buyer write an email 5% faster? That's not an agent. That's a spell-checker with marketing budget.\n\nThere's a massive difference between a feature that assists and a system that acts. A copilot helps you do your job. An agent replaces the work entirely. And the market is drowning in copilot theater.\n\nLio (formerly askLio) doesn't assist procurement teams. It executes. Our agents don't help buyers write RFQs, but they autonomously manage sourcing, negotiation, PO generation, order confirmation, invoice matching. They deploy on your existing ERP without rip-and-replace. They cover the entire end-to-end P2P process.\n\nThe numbers tell the story:\n95% adoption rate\n85% reduction in manual work\n10% incremental savings\n93% reduction in BPO costs\n100% customer retention\n\nEnterprises spend $180B+ annually on procurement talent and ~$10B on procurement software. The problem isn't lack of tools. It's that the tools don't actually do the work. They just add another layer of busy work on top of it.\n\nWe're managing billions in enterprise spend across Fortune 500 and Global 2000 companies. Our agents are working right now, executing sourcing decisions, negotiating contracts, generating POs. Not assisting. Acting.\n\nThe shift from \"helpful dashboard\" to \"working agent\" isn't incremental. It's a new operating model.\n\nIf you're still evaluating procurement software based on UI polish and feature lists, you're missing the point. Ask your vendor this: does your system execute the work, or does it help people execute the work?\n\nIf the answer is the latter, you're looking at copilot theater.\n\n\ud83d\udc49  DM me if you want to see what actual agentic execution looks like in procurement.",
+    "num_shares": 2,
+    "num_likes": 147,
+    "num_comments": 7,
+    "comments_count": 6,
+    "reactions_count": 10,
+    "posted_at": "2026-03-20T13:43:37.575Z",
+    "actor_name": "Vladimir Keil",
+    "actor_profile_url": "https://www.linkedin.com/in/vladimir-keil?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACSNaE8BokiH-nyGlzVeUVY-k3lqwpHizeg",
+    "post_type": "image"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/vladimir-keil_thats-a-wrap-at-shared-services-outsourcing-activity-7440390209034203136-ARqE?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAF5VN3gBbVyjc7XT64yKVqO9jRIPC7ZW7Yc",
+    "text": "That\u2019s a wrap at Shared Services & Outsourcing Week Americas in Orlando.\n\nThis fair just celebrated its 30th anniversary. To be honest, I am not sure how many will come after that. Why? Because the shared services model is under massive pressure. \n\nThe roadmap of the past three decades looked more or less like this: If a process is repetitive, move it to a shared service center. If it still doesn\u2019t scale, add more people.\n\nThat model propably made sense in a world where humans had to execute the work. But with Agentic AI, that\u2019s becoming a thing of the past.\n\nMy take on the future of shared service centers: they won\u2019t disappear. But their role will change. A lot. They won\u2019t manage thousands of operators. They\u2019ll have a strong workforce consisting of thousands of AI agents. There will be smaller teams, yet higher leverage.\n\nAnd trust me, that shift won\u2019t take another 30 years to happen. It has already begun. \n\nIf we didn\u2019t get a chance to chat at SSOW, let\u2019s change that now. DM me to discuss how Lio saves you 93% of your BPO costs.",
+    "num_shares": 3,
+    "num_likes": 123,
+    "num_comments": 7,
+    "comments_count": 6,
+    "reactions_count": 10,
+    "posted_at": "2026-03-19T13:34:21.599Z",
+    "actor_name": "Vladimir Keil",
+    "actor_profile_url": "https://www.linkedin.com/in/vladimir-keil?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACSNaE8BokiH-nyGlzVeUVY-k3lqwpHizeg",
+    "post_type": "image"
+  },
+  {
+    "type": "repost",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/vladimir-keil_dpwawards-dpwamsterdam-activity-7440034805792247808-yitU?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAF5VN3gBbVyjc7XT64yKVqO9jRIPC7ZW7Yc",
+    "text": "Winning the Growth Stage Award at #DPWAwards during #DPWAmsterdam 2025 was just the beginning for Lio (formerly askLio). \ud83c\udfc6 Recognized by our expert jury for their high-growth potential, they\u2019re tackling one of procurement\u2019s most persistent challenges: data quality.\n\nTheir AI-powered platform reads and understands contracts, POs, and other procurement documents like a human, turning messy or incomplete data into actionable insights.\n\nWith $30M in funding secured from Andreessen Horowitz, Lio (formerly askLio) is scaling their vision, connecting with enterprise leaders, and driving real impact in the industry. \ud83d\ude80\n\nExcited to see where this talented team goes next! Vladimir Keil Lukas Heinzmann Till Wagner",
+    "num_shares": 9,
+    "num_likes": 101,
+    "num_comments": 0,
+    "comments_count": 0,
+    "reactions_count": 10,
+    "posted_at": "2026-03-18T14:02:06.863Z",
+    "actor_name": "Vladimir Keil",
+    "actor_profile_url": "https://www.linkedin.com/in/vladimir-keil?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACSNaE8BokiH-nyGlzVeUVY-k3lqwpHizeg",
+    "post_type": "text"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/vladimir-keil_we-were-named-one-of-the-top-100-rising-european-activity-7439666612447686658-4n_c?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAF5VN3gBbVyjc7XT64yKVqO9jRIPC7ZW7Yc",
+    "text": "We were named one of the Top 100 Rising European Startups by VivaTech!\n\nOne of Lio (formerly askLio)s key missions is to put Munich, Germany and even Europe back on the map again, as true AI leader. That\u2019s what unites us with the 99 other companies selected. \n\nSpecial thanks to Accel, Eurazeo, HV Capital, Northzone and Partech for this initiative.\n\nMy personal take: we need more ambitious AI companies out there. Focussed not on supporting work, but getting work done. And we\u2019re building one. \n\nWanna build it with us? Apply now: https://lio.ai/about-us",
+    "num_shares": 6,
+    "num_likes": 220,
+    "num_comments": 5,
+    "comments_count": 5,
+    "reactions_count": 10,
+    "posted_at": "2026-03-17T13:39:02.729Z",
+    "actor_name": "Vladimir Keil",
+    "actor_profile_url": "https://www.linkedin.com/in/vladimir-keil?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACSNaE8BokiH-nyGlzVeUVY-k3lqwpHizeg",
+    "post_type": "image"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/vladimir-keil_we-are-proud-to-work-with-scheidt-bachmann-activity-7439305780035481600-oFql?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAF5VN3gBbVyjc7XT64yKVqO9jRIPC7ZW7Yc",
+    "text": "We are proud to work with Scheidt & Bachmann, one of the leading providers of innovative system solutions for mobile living. With their unique portfolio, they ensure that millions of people and goods stay in motion worldwide.\n\nIf you thought \u201cOnly startups are innovative\u201d, you got it wrong.\n\nOur customer Scheidt & Bachmann has been around for more than 150 years. It\u2019s one of the market leaders in its industry. And on March 3, 2026, it made a decision about the future of procurement.\n\nWhat we built together:\nBuyers now work with an AI agent. No more routine tasks, just focus on what really matters. Requesters no longer create purchase requisitions directly in SAP. They simply describe what they need. The AI handles the mapping, points out items already in stock, guides them through special processes, with only a minimal number of fields. A true relief in day-to-day work.\n\nThat\u2019s guided buying the way it should feel.\n\n150 years of market expertise. Plus Lio. That\u2019s not a contradiction. That\u2019s the whole point. Being established and being innovative are not mutually exclusive. It just takes the courage to get started.\n\nCongratulations on the go-live to Kristina Huff, Bernard B., Livia Lembeck, Jens Piplak, Lazaros Tampakis, Leon Schmidt and Arne Schmidt \ud83c\udf89\n\nAt Lio (formerly askLio), we empower the world\u2019s leading businesses with AI agents that fundamentally transform procurement. We simplify buying, automate operations, scale savings, supercharge buyers, and finally give procurement teams their time and purpose back. \n\nWhen will you reclaim yours?",
+    "num_shares": 5,
+    "num_likes": 111,
+    "num_comments": 5,
+    "comments_count": 4,
+    "reactions_count": 10,
+    "posted_at": "2026-03-16T13:45:13.578Z",
+    "actor_name": "Vladimir Keil",
+    "actor_profile_url": "https://www.linkedin.com/in/vladimir-keil?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACSNaE8BokiH-nyGlzVeUVY-k3lqwpHizeg",
+    "post_type": "image"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/vladimir-keil_next-week-ill-be-atshared-services-outsourcing-activity-7438942333011820544-OrMt?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAF5VN3gBbVyjc7XT64yKVqO9jRIPC7ZW7Yc",
+    "text": "Next week I\u2019ll be at\u00a0Shared Services & Outsourcing Week Americas! \n\nShared services and outsourcing are the go-to answer for scaling operational work in large enterprises. For real? \n\nIf a process is repetitive and time-consuming: move it to a shared service center. Just outsource it. Add more processes. Or add more people. Seriously? Am I the only one surprised that this is not working? \n\nThe economics of operational work are changing fast. With\u00a0Agentic AI, workflows that were traditionally handled by large operational teams can now be executed by software, including: \n\n\u25aa\ufe0f Sourcing processes \n\u25aa\ufe0f Supplier research \n\u25aa\ufe0f Negotiations \n\u25aa\ufe0f Contract workflows \n\nLet me emphasize this again: we\u2019re not talking about these processes being assisted by AI. We\u2019re talking about them being actually executed by AI.\n\n\u00a0If you are ready to bring procurement back to speed and finally deliver real ROI, let\u2019s connect. The future of enterprise operations will look very different from the past.",
+    "num_shares": 3,
+    "num_likes": 114,
+    "num_comments": 2,
+    "comments_count": 2,
+    "reactions_count": 10,
+    "posted_at": "2026-03-15T13:41:01.055Z",
+    "actor_name": "Vladimir Keil",
+    "actor_profile_url": "https://www.linkedin.com/in/vladimir-keil?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACSNaE8BokiH-nyGlzVeUVY-k3lqwpHizeg",
+    "post_type": "image"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/vladimir-keil_celebrating-our-series-a-announcement-at-activity-7438215292272517121-nNWY?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAF5VN3gBbVyjc7XT64yKVqO9jRIPC7ZW7Yc",
+    "text": "Celebrating our Series A announcement at 35,000 feet\u00a0\u2708\ufe0f \n\nHaving just closed one of the biggest funding rounds in history with no other than Andreessen Horowitz is one thing. Having our clients reaching out to congratulate us is amazing. But what happened here, on a plane, with our team on it heading to the US is beyond words. \n\nIt was one of those slightly surreal founder moments. You spend years building something, and most of the time it feels like progress is happening very quietly. Then suddenly, the breakthrough is there. And you realize the hard work you (and your f-ing amazing team) put in there finally starts to show. \n\nGreat to finally see Lio (formerly askLio) getting the recognition it deserves. \n\nHuge thanks to the flight crew for making an already exciting moment even more memorable. It\u2019s a privilege to work with the tier 1 global players in the aviation industry. And if you\u2019re joining the ride just now: the best part of the journey is still ahead.\n\n\ud83d\udc47\u00a0A few impressions from that moment.",
+    "num_shares": 6,
+    "num_likes": 486,
+    "num_comments": 48,
+    "comments_count": 10,
+    "reactions_count": 10,
+    "posted_at": "2026-03-13T13:32:01.035Z",
+    "actor_name": "Vladimir Keil",
+    "actor_profile_url": "https://www.linkedin.com/in/vladimir-keil?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACSNaE8BokiH-nyGlzVeUVY-k3lqwpHizeg",
+    "post_type": "linkedinVideo"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/vladimir-keil_just-wrapped-up-a-few-intense-days-at-procurecon-activity-7437853156077670401-jqMH?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEMNT3kBvRxkH8vCMF5hwYAFTmsZETl5V0E",
+    "text": "Just wrapped up a few intense days at ProcureCon West, hosted by ProcureCon US in Las Vegas.\n\nOne thing became very clear: the industry knows change is coming. But are enterprises ready for it? Apparently not. Almost every CPO I spoke with described the same tension.\n\nOn one side: growing complexity in supplier networks and compliance requirements. On the other: teams spending huge amounts of time on operational work, driving them close to burnout. \n\nGood news is: none of these procurement leaders believe this is the best way to work. They just got digitalization wrong. Your company is not future-ready just because you use shared Excels and shift sourcing and negotiating to an online environment.\n\nThe even better news I shared with them: help is on the way. Agentic AI like the one we\u2019re building at Lio (formerly askLio) has software moving away from merely supporting procurement work to actually executing procurement workflows. And suddenly, your entire operating model changes. Procurement teams don\u2019t just become more efficient, but strategically more powerful. \n\nHuge thanks to everyone who stopped by to challenge ideas, share their perspective, and debate where the industry is heading.\n\nIf we didn\u2019t get a chance to connect in Las Vegas, or if you want to go deeper into how this works in practice, our team at Lio would love to continue the conversation. Let\u2019s explore together how Agentic AI can transform procurement in your organization. \n\nQuestioning old assumptions shouldn\u2019t stop when the conference ends.\n\ud83d\udde3\ufe0f Continue it here: https://lio.ai/demo",
+    "num_shares": 6,
+    "num_likes": 157,
+    "num_comments": 3,
+    "comments_count": 2,
+    "reactions_count": 10,
+    "posted_at": "2026-03-12T13:33:01.038Z",
+    "actor_name": "Vladimir Keil",
+    "actor_profile_url": "https://www.linkedin.com/in/vladimir-keil?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACSNaE8BokiH-nyGlzVeUVY-k3lqwpHizeg",
+    "post_type": "image"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/vladimir-keil_yesterday-we-gave-a-behind-the-scenes-look-activity-7437128261500817409-PlDa?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEMNT3kBvRxkH8vCMF5hwYAFTmsZETl5V0E",
+    "text": "Yesterday we gave a behind-the-scenes look at Lio for students from two initiatives that are close to my heart: START Munich and TUM.ai. \n\nClose because I came through one of them myself, and have been part of programs like Manage and More by UnternehmerTUM. And because a good chunk of our team came through one of these communities too. \n\nThat's not a coincidence. Programs like these attract people who don't just want to study how industries work. They want to change how they work. That's the kind of energy you need when you're building something like Lio (formerly askLio). The talent density and entrepreneurial drive is high! \n\nWe showed the group what we're actually working on: how we're using Agentic AI to rethink procurement from the ground up. Not the polished version. The real thing. The hard problems, the messy parts, and why it's worth spending your career on them. \n\nThe conversations afterward were some of the best we've had in a while. Smart questions, real curiosity, zero bullshit. \n\nSounds just like you? Then check out our open positions here:\u00a0https://lio.ai/about-us\u00a0or reach out directly to our talent team at Lio. Both Gabriel Koch and Anika Holinski are excited to meet you.",
+    "num_shares": 6,
+    "num_likes": 278,
+    "num_comments": 10,
+    "comments_count": 10,
+    "reactions_count": 10,
+    "posted_at": "2026-03-10T13:32:32.703Z",
+    "actor_name": "Vladimir Keil",
+    "actor_profile_url": "https://www.linkedin.com/in/vladimir-keil?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACSNaE8BokiH-nyGlzVeUVY-k3lqwpHizeg",
+    "post_type": "image"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/vladimir-keil_from-today-youll-find-me-in-las-vegas-at-activity-7436766064132120576-BhZ_?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEMNT3kBvRxkH8vCMF5hwYAFTmsZETl5V0E",
+    "text": "From today you\u2019ll find me in Las Vegas at ProcureCon West \ud83d\ude80 \n\nProcureCon US brings together CPOs and procurement leaders to discuss how the industry is evolving. But I am not here to simply discuss. I\u2019m here to speak a very uncomfortable truth: \n\nProcurement doesn\u2019t have a talent problem. It has a\u00a0technology problem. \n\nMost procurement teams I meet are incredibly capable. But they\u2019re still spending huge amounts of time on work that shouldn\u2019t exist anymore. They\u2019re not doing this because they want to, but because the systems they\u2019re given leave them no choice. Or worse: because their organization is still clinging to the \u201cold ways\u201d. \n\nFor the last 20 years, the answer to scaling procurement has been: add another tool, add another process, add more headcount. That model doesn\u2019t scale. Agentic AI does. Lio (formerly askLio) does. Instead of software that\u00a0organizes work, we\u2019re now building systems that\u00a0execute work. \n\nThis is the conversation I wanna have with procurement leaders this week. With those understanding the significance of this industry shift. \n\n\ud83d\udc49 If you\u2019re at ProcureCon West as well, let\u2019s talk. Las Vegas is a good place to question old assumptions. Especially the ones running trillion-dollar enterprise functions.",
+    "num_shares": 5,
+    "num_likes": 126,
+    "num_comments": 12,
+    "comments_count": 6,
+    "reactions_count": 10,
+    "posted_at": "2026-03-09T13:33:18.121Z",
+    "actor_name": "Vladimir Keil",
+    "actor_profile_url": "https://www.linkedin.com/in/vladimir-keil?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACSNaE8BokiH-nyGlzVeUVY-k3lqwpHizeg",
+    "post_type": "image"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/vladimir-keil_the-announcement-of-our-30m-series-a-was-activity-7436048514960326656-iAZ1?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEMNT3kBvRxkH8vCMF5hwYAFTmsZETl5V0E",
+    "text": "The announcement of our $30M Series A was met with an overwhelming response. And from the bottom of my heart, I wanna say: Thank you. To our investors, partners, team members, and everyone who has supported us along the way. The messages, calls, and comments meant a lot. We\u2019re grateful for the trust and the encouragement.\n\nEvery year, large corporations spend trillions of dollars buying things: raw materials, professional services, IT infrastructure, office supplies, anything.\u00a0 The volume that flows through enterprise procurement departments is staggering. \n\nAt a Fortune 500 company, a single procurement organization might manage tens of thousands of suppliers, hundreds of thousands of transactions, and billions of dollars in annual spend. And yet, despite or because of the huge scale of these efforts, buying something inside these companies can take\u00a0weeks. \n\nWe\u2019re building Lio to free procurement teams from dragging processes. Every previous generation of procurement technology was built on the same assumption: that humans will do the work, and technology will help them do it faster. We reject that assumption. Not because we want to eliminate procurement professionals, but because those professionals are wasting their talent on work that machines can now do better.\n\nLio is a virtual procurement workforce. Our AI agents don\u2019t sit alongside the existing stack as another tool to learn; they operate on top of it \u2013 on top of ERPs, systems of record, email, contracts \u2013 and execute the work that human buyers, shared service centers, and BPOs do today. \n\nWe\u2019re building on-top of cutting-edge advances in agentic AI: systems that don\u2019t just answer questions or generate text, but execute multi-step tasks across multiple systems, autonomously, with human-level judgment. An AI agent can read a document, extract relevant information, compare it against rules, make a decision, and take an action. \n\nWe believe firmly that the procurement organization of the future will scale not through headcount or clunky SaaS, but through perfectly integrated AI agents that execute complex work end-to-end.\n\nProcurement professionals won\u2019t spend their time chasing approvals and comparing spreadsheets. They\u2019ll manage AI workforces that handle all the machine-ready tasks, and focus instead on the strategic decisions that require human judgment.\n\nThat is the future that we are building at Lio. And we\u2019re excited to announce our $30 million Series A led by Andreessen Horowitz, with participation from SV Angel, Harry Stebbings, and Y Combinator.\n\nWe believe that agentic AI is the most important transformation in the history of procurement.\u00a0A business is only as valuable as the raw materials, the inputs it consumes. Lio is building the AI infrastructure for 100% of enterprise spend.\n\nThank you for building it with us.\n\nRead the full manifesto on the vision of Lio here: https://lnkd.in/djvYgnXF \nMissed the announcement? See below.",
+    "num_shares": 10,
+    "num_likes": 399,
+    "num_comments": 20,
+    "comments_count": 10,
+    "reactions_count": 10,
+    "posted_at": "2026-03-07T14:02:01.067Z",
+    "actor_name": "Vladimir Keil",
+    "actor_profile_url": "https://www.linkedin.com/in/vladimir-keil?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACSNaE8BokiH-nyGlzVeUVY-k3lqwpHizeg",
+    "post_type": "linkedinVideo"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/vladimir-keil_announcing-lios-30m-series-a-led-by-andreessen-activity-7435309493321777152-AlR-?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEMNT3kBvRxkH8vCMF5hwYAFTmsZETl5V0E",
+    "text": "Announcing Lio's $30M Series A, led by Andreessen Horowitz!\n\nProcurement still operates like an administrative back-office function: rigid software, manual workflows and endless headcount. Enterprises spend over $180 billion annually on procurement talent and roughly $10 billion on procurement software, yet the problem persists. More software hasn't solved it. More hiring won't either.\n\nIntroducing Lio (formerly askLio) the world's first multi-agent system for procurement.\u00a0Our virtual workforce is already deployed at some of the world's largest enterprises, taking over the manual work that buries buyers, shared service centers, and BPOs today. But Lio doesn't just do the same job - it does work that was never humanly possible: renegotiating every contract, sourcing across every category, and preparing as well as analyzing every negotiation, all at once.\n\nLio's AI agents operate on top of existing procurement software and ERPs - no rip-and-replace - autonomously executing workflows end to end.\nThe results speak for themselves:\n\n-\u00a0\u00a0\u00a095% adoption rate\n-\u00a0\u00a0\u00a085% reduction in manual work\n-\u00a0\u00a0\u00a010% incremental savings\n-\u00a0\u00a0\u00a0100% customer retention\n\nLio isn't a dashboard or a copilot. It's the execution layer for enterprise procurement. As one Head of Procurement put it: \n\"Lio is a cheaper, more scalable, and faster-to-onboard alternative to outsourcing.\"\n\nLio\u2019s agents are already managing billions of dollars in enterprise spend across dozens of Global 2000 and Fortune 500 companies \u2013 from manufacturers to reinsurers to huge industrial conglomerates.\n\nThis raise accelerates our US expansion and the growth of our agent ecosystem as we build the infrastructure powering AI-driven procurement.\n\nA huge thank you to our incredible team, customers, and advisors. Proud to have outstanding investors on board: the round was led by a16z - special thanks to Seema Amble - with participation from SV Angel, Harry Stebbings, Y Combinator, and a group of leading procurement executives and successful founders.\n\nAdditional thanks to Brian Roberts, Alastair (Alex) Rampell, James da Costa, Eric Zhou and Tom Blomfield.\n\nWhether as an enterprise partner or a new team member \u2014 join our mission now!",
+    "num_shares": 175,
+    "num_likes": 1730,
+    "num_comments": 493,
+    "comments_count": 10,
+    "reactions_count": 10,
+    "posted_at": "2026-03-05T13:05:24.578Z",
+    "actor_name": "Vladimir Keil",
+    "actor_profile_url": "https://www.linkedin.com/in/vladimir-keil?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACSNaE8BokiH-nyGlzVeUVY-k3lqwpHizeg",
+    "post_type": "linkedinVideo"
+  }
+]
+Twitter Posts (last 30): []
+LinkedIn About Section: CEO @ Lio | We're building the Future of Procurement with our AI Agents
+
+Output ONLY this JSON:
+{
+  "section_id": 4,
+  "section_name": "Behavioral Intelligence Suite",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "behavioral_profile": {
+      "archetype": "",
+      "one_line_description": "",
+      "trait_tags": []
+    },
+    "trait_scores": {
+      "dominance": 0,
+      "expressiveness": 0,
+      "pace": 0,
+      "pragmatism": 0,
+      "risk_appetite": 0,
+      "social_energy": 0
+    },
+    "working_style": {
+      "decision_making": "",
+      "collaboration": "",
+      "conflict_style": "",
+      "pace": ""
+    },
+    "what_drives_them": {
+      "energizers": [],
+      "drainers": []
+    },
+    "engagement_guide": {
+      "how_to_open": [],
+      "how_to_run_meeting": [],
+      "how_to_email": [],
+      "how_to_follow_up": [],
+      "how_to_build_trust": []
+    },
+    "blind_spots": [],
+    "dos_and_donts": {
+      "dos": [],
+      "donts": []
+    },
+    "data_confidence": "high|medium|low",
+    "data_confidence_rationale": ""
+  }
+}
+
+RULES:
+- behavioral_profile archetype MUST be one of:
+  "The Operator", "The Visionary", "The Skeptic", "The Builder",
+  "The Connector", "The Analyst", "The Challenger", "The Diplomat",
+  "The Pioneer", "The Executor"
+- one_line_description: exactly 1 sentence. 15 words max.
+- trait_tags: exactly 3 tags. Single words or two-word phrases only.
+- trait_scores: integers 0-100.
+  0-30 = low or opposite trait present
+  31-60 = moderate mixed signals
+  61-80 = clearly present
+  81-100 = dominant defining trait
+  Never assign 100 — no person is absolute.
+- working_style: 4 single-line signals. Max 12 words each.
+- what_drives_them: max 4 energizers and 4 drainers. Specific to this person.
+- engagement_guide: exactly 3-5 specific bullet points per sub-section.
+  Must reference actual patterns from their posts — not generic advice.
+- blind_spots: exactly 3-4 real weaknesses from professional footprint only.
+- dos_and_donts: exactly 4 specific items each. No generic advice.
+- If twitter_posts is empty — exclude Twitter from analysis
+- Never invent signals not present in the data
+- Replace __TIMESTAMP__ with current ISO 8601 datetime.
+- Output ONLY the JSON. No markdown. No explanation. No preamble.

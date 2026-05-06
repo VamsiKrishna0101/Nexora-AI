@@ -1,0 +1,412 @@
+SYSTEM: None
+
+USER: 
+You are a relationship intelligence analyst at a Palantir-grade research firm.
+Map the Network & Influence graph of the subject based on verifiable signals.
+Do not infer connections not supported by the data.
+
+INPUT DATA:
+LinkedIn Profile: {}
+Web Search Results: --- parallel_ai_research ---
+{
+  "basis": [
+    {
+      "field": "current_role",
+      "reasoning": "The answer states that Sundar Pichai is CEO of Google and CEO of Alphabet Inc. This is directly supported by Wikipedia which confirms his appointment as CEO of Google in 2015 and CEO of Alphabet in December 2019.",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sundar_Pichai",
+          "excerpts": [],
+          "title": "Sundar Pichai"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "full_name",
+      "reasoning": "The provided answer gives the full name as Pichai Sundararajan, commonly known as Sundar Pichai. Wikipedia lists his birth name and the commonly used name.",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sundar_Pichai",
+          "excerpts": [
+            "Pichai Sundararajan (born June 10, 1972), better known as Sundar Pichai"
+          ],
+          "title": "Sundar Pichai"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "professional_summary",
+      "reasoning": "The summary combines product\u2011focused leadership information from Wikipedia with recent AI\u2011first strategy statements from the Google blog. Both sources explicitly describe his product background and AI leadership.",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sundar_Pichai",
+          "excerpts": [],
+          "title": "Sundar Pichai"
+        },
+        {
+          "url": "https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/",
+          "excerpts": [],
+          "title": "Sundar Pichai at the AI Impact Summit 2026"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "influence_score",
+      "reasoning": "Influence is derived from follower counts on LinkedIn (~4\u202fM) and X (~6.2\u202fM) as shown in the profile excerpts, and from his role as CEO of a global tech giant, which is widely reported.",
+      "citations": [
+        {
+          "url": "https://www.linkedin.com/in/sundarpichai",
+          "excerpts": [],
+          "title": "Sundar Pichai - CEO at Google"
+        },
+        {
+          "url": "https://x.com/sundarpichai",
+          "excerpts": [],
+          "title": "Sundar Pichai (@sundarpichai) / Posts / X"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "data_confidence",
+      "reasoning": "Multiple authoritative sources were found: LinkedIn, X, Wikipedia, Google corporate blog, CNBC, and Fast Company. These provide overlapping confirmation of role, background, and recent activity.",
+      "citations": [
+        {
+          "url": "https://www.linkedin.com/in/sundarpichai",
+          "excerpts": [],
+          "title": "Sundar Pichai - CEO at Google"
+        },
+        {
+          "url": "https://x.com/sundarpichai",
+          "excerpts": [],
+          "title": "Sundar Pichai (@sundarpichai) / Posts / X"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sundar_Pichai",
+          "excerpts": [],
+          "title": "Sundar Pichai"
+        },
+        {
+          "url": "https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/",
+          "excerpts": [],
+          "title": "Sundar Pichai at the AI Impact Summit 2026"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/04/07/google-ceo-pichai-says-ai-shift-opens-opportunities-invest-startups.html",
+          "excerpts": [],
+          "title": "Google CEO Pichai says 'AI shift' opens opportunities ..."
+        },
+        {
+          "url": "https://www.fastcompany.com/91502632/google-most-innovative-companies-2026",
+          "excerpts": [],
+          "title": "Sundar Pichai's plan to make Google Gemini the only AI ..."
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "red_flags",
+      "reasoning": "Potential risks are identified from publicly reported controversies: compensation criticism, congressional hearings, and internal labor disputes noted in the answer. The only directly cited evidence is the compensation criticism from Wikipedia.",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sundar_Pichai",
+          "excerpts": [],
+          "title": "Sundar Pichai"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "how_to_approach",
+      "reasoning": "Guidance is derived from Sundar Pichai\u2019s communication style described in the Google blog (focus on responsibility, data\u2011driven impact) and his concise, product\u2011focused LinkedIn posts.",
+      "citations": [
+        {
+          "url": "https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/",
+          "excerpts": [],
+          "title": "Sundar Pichai at the AI Impact Summit 2026"
+        },
+        {
+          "url": "https://www.linkedin.com/in/sundarpichai",
+          "excerpts": [],
+          "title": "Sundar Pichai - CEO at Google"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "skills",
+      "reasoning": "Skills are extracted from Wikipedia (product management, leadership of Chrome, Android, AI) and the narrative which lists technical and soft competencies.",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sundar_Pichai",
+          "excerpts": [],
+          "title": "Sundar Pichai"
+        },
+        {
+          "url": "https://www.linkedin.com/in/sundarpichai",
+          "excerpts": [],
+          "title": "Sundar Pichai - CEO at Google"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "online_presence",
+      "reasoning": "Social handles and activity summaries are taken verbatim from the LinkedIn and X profile excerpts supplied in the answer.",
+      "citations": [
+        {
+          "url": "https://www.linkedin.com/in/sundarpichai",
+          "excerpts": [],
+          "title": "Sundar Pichai - CEO at Google"
+        },
+        {
+          "url": "https://x.com/sundarpichai",
+          "excerpts": [],
+          "title": "Sundar Pichai (@sundarpichai) / Posts / X"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "education",
+      "reasoning": "Educational background is taken from Wikipedia which lists the three institutions and degrees.",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sundar_Pichai",
+          "excerpts": [],
+          "title": "Sundar Pichai"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "personality_signals",
+      "reasoning": "Communication style, interests, values, and leadership style are inferred from the Google blog excerpt (responsibility, AI for societal good) and Wikipedia (public statements, board role).",
+      "citations": [
+        {
+          "url": "https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/",
+          "excerpts": [],
+          "title": "Sundar Pichai at the AI Impact Summit 2026"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sundar_Pichai",
+          "excerpts": [],
+          "title": "Sundar Pichai"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "career_history",
+      "reasoning": "Chronological roles are compiled from Wikipedia (early career, Google entry, promotions) and the narrative. Wikipedia provides concrete dates for key appointments.",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sundar_Pichai",
+          "excerpts": [],
+          "title": "Sundar Pichai"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "field": "publications_and_talks",
+      "reasoning": "The answer lists a blog post by Sundar Pichai at the AI Impact Summit 2026 and mentions frequent keynotes. The blog post is directly cited.",
+      "citations": [
+        {
+          "url": "https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/",
+          "excerpts": [
+            "\"No technology has me dreaming bigger than AI,"
+          ],
+          "title": "Sundar Pichai at the AI Impact Summit 2026"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "achievements",
+      "reasoning": "Achievements are taken from the answer\u2019s bullet list and corroborated where possible by Wikipedia (Padma Bhushan is not directly cited but is a well\u2011known public honor). The AI\u2011first transformation and product leadership are supported by Wikipedia and the Google blog.",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sundar_Pichai",
+          "excerpts": [],
+          "title": "Sundar Pichai"
+        },
+        {
+          "url": "https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/",
+          "excerpts": [],
+          "title": "Sundar Pichai at the AI Impact Summit 2026"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "content": {
+    "current_role": "CEO, Google and CEO of Alphabet Inc.",
+    "full_name": "Pichai Sundararajan (commonly Sundar Pichai)",
+    "professional_summary": "Product\u2011focused technology executive and engineer who rose through Google\u2019s product ranks (Chrome, ChromeOS, Drive, Android) to lead Google and Alphabet through a multi\u2011year AI\u2011first transformation. Known for large\u2011scale product launches, public stewardship of Google\u2019s AI strategy, and a measured communication style.",
+    "influence_score": 98.0,
+    "data_confidence": "high",
+    "red_flags": [
+      "Compensation criticism in 2022\u201123 amid layoffs.",
+      "Congressional hearing in 2018 regarding antitrust concerns.",
+      "Internal labor/political controversies (e.g., employee firings) mentioned in the narrative but not directly cited."
+    ],
+    "how_to_approach": "Be concise, product\u2011 and impact\u2011oriented, and highlight how ideas scale or mitigate risk at enterprise or global scale. Emphasize responsibility, safety, and regulatory compliance when discussing AI. Use evidence\u2011based metrics, keep the message brief, and route outreach through formal executive channels (email or briefings) with clear mutual benefits.",
+    "skills": [
+      "Product management",
+      "Product strategy (Chrome, Android, Drive, AI)",
+      "AI strategy & deployment (Gemini)",
+      "Large\u2011scale platform launches",
+      "Corporate strategy & governance",
+      "Stakeholder management",
+      "Clear public communication",
+      "Consensus\u2011building",
+      "Responsibility & inclusivity messaging"
+    ],
+    "online_presence": {
+      "personal_website": "",
+      "github_handle": "",
+      "twitter_handle": "sundarpichai",
+      "linkedin_url": "https://www.linkedin.com/in/sundarpichai",
+      "recent_posts_summary": "Frequent posts highlighting Gemini launches, AI integrations across Google Docs/Sheets/Slides/Drive, quarterly earnings milestones (> $400B revenue), India AI hub investment, and appearances at industry events. Tone is upbeat about AI opportunity while emphasizing responsibility and partnership."
+    },
+    "education": [
+      {
+        "institution": "IIT Kharagpur",
+        "year": "",
+        "degree": "B.Tech in Metallurgical Engineering"
+      },
+      {
+        "institution": "Stanford University",
+        "year": "",
+        "degree": "MS in Materials Science and Engineering"
+      },
+      {
+        "institution": "The Wharton School, University of Pennsylvania",
+        "year": "",
+        "degree": "MBA (Siebel Scholar; Palmer Scholar)"
+      }
+    ],
+    "personality_signals": {
+      "communication_style": "Concise, product\u2011focused, measured, and uses storytelling with personal anecdotes to link technology to societal impact.",
+      "key_interests": [
+        "Artificial Intelligence and its societal impact",
+        "Global infrastructure and connectivity",
+        "Education and skill\u2011building",
+        "Developer and enterprise ecosystems",
+        "India\u2011related investments"
+      ],
+      "values": [
+        "Responsible AI deployment",
+        "Collaboration with governments",
+        "Scaling technology for broad utility",
+        "Inclusivity and bridging the digital divide"
+      ],
+      "leadership_style": "Product\u2011focused, strategic, consensus\u2011building, risk\u2011aware, and long\u2011term technology investment oriented."
+    },
+    "career_history": [
+      {
+        "duration": "Pre\u20112004",
+        "title": "Engineer at Applied Materials; Management Consultant at McKinsey & Company",
+        "company": "Various"
+      },
+      {
+        "duration": "2004\u20112015",
+        "title": "Product Management Leader (Chrome, ChromeOS, Drive, later Android, Gmail, Maps)",
+        "company": "Google"
+      },
+      {
+        "duration": "Aug\u202f10\u202f2015\u202f\u2013\u202fOct\u202f2015",
+        "title": "CEO (effective Oct\u202f2015)",
+        "company": "Google"
+      },
+      {
+        "duration": "2017\u202f\u2013\u202fpresent",
+        "title": "Board Director",
+        "company": "Alphabet"
+      },
+      {
+        "duration": "Dec\u202f2019\u202f\u2013\u202fpresent",
+        "title": "CEO",
+        "company": "Alphabet Inc."
+      }
+    ],
+    "publications_and_talks": [
+      {
+        "title": "\"No technology has me dreaming bigger than AI\"",
+        "date": "2026",
+        "type": "Blog post / CEO message",
+        "url": "https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/"
+      },
+      {
+        "title": "Keynote at NRF 2026",
+        "date": "2026",
+        "type": "Conference keynote",
+        "url": ""
+      },
+      {
+        "title": "Stanford Commencement Address (135th)",
+        "date": "2026-06-14",
+        "type": "Commencement speech",
+        "url": ""
+      }
+    ],
+    "achievements": [
+      "Led product teams behind Chrome, ChromeOS, Google Drive, Android, and other billions\u2011user products.",
+      "Directed Google\u2019s AI\u2011first corporate pivot, launching the Gemini series and AI Mode in Search.",
+      "Received the Padma Bhushan (India) in 2022.",
+      "Appointed CEO of Google (2015) and CEO of Alphabet (2019).",
+      "Served on the Alphabet Board of Directors since 2017."
+    ]
+  },
+  "type": "json",
+  "beta_fields": null,
+  "output_schema": null
+}
+
+Output ONLY this JSON:
+{
+  "section_id": 7,
+  "section_name": "Network & Influence",
+  "person_id": "UNKNOWN_ID",
+  "generated_at": "__TIMESTAMP__",
+  "data": {
+    "notable_collaborations": [
+      {
+        "name": "",
+        "organization": "",
+        "relationship_type": "Colleague|Co-founder|Investor|Advisor|Mentor|Partner|Public Mention",
+        "context": "",
+        "source": ""
+      }
+    ],
+    "associated_companies": [
+      {
+        "company": "",
+        "role": "",
+        "type": "Employer|Founded|Advisory|Investment|Board"
+      }
+    ],
+    "industry_communities": [],
+    "media_mentions": [
+      {"outlet": "", "title": "", "url": "", "date": ""}
+    ],
+    "network_reach": "Tier 1 (Global)|Tier 2 (Industry)|Tier 3 (Regional)|Tier 4 (Niche)|Unknown",
+    "network_strength_assessment": "",
+    "data_confidence": "high|medium|low",
+    "data_confidence_rationale": ""
+  }
+}
+
+RULES:
+- notable_collaborations: only include if an explicit connection is mentioned in the data. Max 8.
+- associated_companies: include all companies from career history + any advisory/board roles found. No cap.
+- industry_communities: groups, associations, or communities they are publicly affiliated with. Max 5.
+- media_mentions: only include URLs explicitly found in web_snippets. Never construct URLs. Max 10.
+- network_reach: Tier 1 = global media coverage + Fortune 500 connections. Tier 2 = industry-wide recognition. Tier 3 = regional or local relevance. Tier 4 = niche community. Unknown = insufficient data.
+- network_strength_assessment: exactly 2 sentences. First on the breadth of their network. Second on the depth or quality.
+- Replace __TIMESTAMP__ with current ISO 8601 datetime.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

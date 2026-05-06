@@ -1,0 +1,29 @@
+{
+  "section_id": 1,
+  "section_name": "Identity Overview",
+  "person_id": "ACoAAE6FVtYBAW4bP82g1IhIHxzu_1J010WU3CQ",
+  "generated_at": "2025-05-15T10:00:00Z",
+  "data": {
+    "full_name": "Sundar Pichai",
+    "current_role": "CEO",
+    "company": "Google",
+    "location": "Mountain View, California, United States",
+    "profile_photo_url": "https://media.licdn.com/dms/image/v2/D4E03AQFrmDuWUxQoMg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715645354620?e=1777507200&v=beta&t=gQCg1D_PqN-po3qxhtsh7HAU-pn8RNTeIkBV2xKjLlo",
+    "linkedin_url": "https://www.linkedin.com/in/sundarpichai",
+    "twitter_handle": "@sundarpichai",
+    "linkedin_followers": 4067364,
+    "twitter_followers": 6269114,
+    "connections_count": 1,
+    "influence_score": 80,
+    "influence_score_breakdown": {
+      "linkedin_followers_points": 25,
+      "twitter_followers_points": 20,
+      "posting_activity_points": 10,
+      "career_seniority_points": 15,
+      "web_presence_points": 10
+    },
+    "influence_score_rationale": "Score calculated based on 4M+ LinkedIn followers (25), 6M+ Twitter followers (20), active presence on both platforms (10), C-suite executive status (15), and significant verified global media presence (10).",
+    "data_confidence": "high",
+    "data_confidence_rationale": "High-confidence assessment derived from comprehensive cross-platform data including verified LinkedIn and Twitter profiles."
+  }
+}

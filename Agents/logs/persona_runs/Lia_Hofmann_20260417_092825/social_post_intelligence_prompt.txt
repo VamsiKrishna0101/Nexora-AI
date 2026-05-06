@@ -1,0 +1,110 @@
+SYSTEM: None
+
+USER: 
+You are a content intelligence and engagement analyst at a Palantir-grade firm.
+Analyze the raw social media feed of the target executive to extract strict, verifiable insights regarding their specific post behaviors, topics, and styles.
+
+INPUT DATA:
+LinkedIn Posts: [
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/lia-hofmann-2945a2229_lia-goes-lio-super-excited-to-share-that-activity-7445787895661027328-Hm53?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAE0CwxgB2Fqd2nEM3abAWZZQRi7JFjoGOMM",
+    "text": "Lia goes Lio \ud83d\ude80\n\nSuper excited to share that I\u2019ve joined Lio (formerly askLio)  as a Growth Associate in the GTM team!\n\nLio is building the first multi-agent AI system to autonomously run enterprise procurement end-to-end, and just raised a $30M Series A led by Andreessen Horowitz (a16z). \n\nLooking forward to building, learning, and helping bring this to market together with the team. LFG.",
+    "num_shares": 0,
+    "num_likes": 239,
+    "num_comments": 21,
+    "comments_count": 10,
+    "reactions_count": 10,
+    "posted_at": "2026-04-03T11:02:50.375Z",
+    "actor_name": "Lia Hofmann",
+    "actor_profile_url": "https://www.linkedin.com/in/lia-hofmann-2945a2229?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADk3xRAB69zRTh7jdt5UdA6JfWRk9a4nQGs",
+    "post_type": "image"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/lia-hofmann-2945a2229_the-past-three-months-in-the-commercial-team-activity-7223622183070146560-zOG7?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAE0CwxgB2Fqd2nEM3abAWZZQRi7JFjoGOMM",
+    "text": "The past three months in the Commercial Team at Wemolo have been an interesting and valuable ride! \ud83c\udfa2\n\nTogether with my team I was able to actively develop innovative sales strategies, mainly focused on Austria and Switzerland, and to further support the company on extensive commercial topics.\u00a0\nWorking with such a skilled team and being part of the unique team culture has been both rewarding and fun. \n\nAs I\u2018ll proceed with my studies at Nova School of Business and Economics from September onwards, Vincent Buchholz\u00a0 and Tobias Lehner are looking for the next addition to the team, starting immediately! \ud83d\ude80",
+    "num_shares": 2,
+    "num_likes": 45,
+    "num_comments": 1,
+    "comments_count": 1,
+    "reactions_count": 10,
+    "posted_at": "2024-07-29T09:35:36.854Z",
+    "actor_name": "Lia Hofmann",
+    "actor_profile_url": "https://www.linkedin.com/in/lia-hofmann-2945a2229?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADk3xRAB69zRTh7jdt5UdA6JfWRk9a4nQGs",
+    "post_type": null
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/lia-hofmann-2945a2229_dear-network-i-am-happy-to-share-that-i-activity-7105589272866426880-Di1t?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAE0CwxgB2Fqd2nEM3abAWZZQRi7JFjoGOMM",
+    "text": "Dear Network,\n\nI am happy to share that I have joined the BMW Group as a Marketing Strategy Intern in Munich! \n\nAfter successfully obtaining my Bachelor of Science in Economics and Business Economics at Maastricht University School of Business and Economics with an exchange semester at National Taiwan University, I am eager to embark on this new opportunity.",
+    "num_shares": 0,
+    "num_likes": 130,
+    "num_comments": 10,
+    "comments_count": 10,
+    "reactions_count": 10,
+    "posted_at": "2023-09-07T16:34:58.116Z",
+    "actor_name": "Lia Hofmann",
+    "actor_profile_url": "https://www.linkedin.com/in/lia-hofmann-2945a2229?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADk3xRAB69zRTh7jdt5UdA6JfWRk9a4nQGs",
+    "post_type": null
+  },
+  {
+    "type": "repost",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/lia-hofmann-2945a2229_dear-network-we-need-your-help-we-are-activity-6918275243102863360-vol9?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAE0CwxgB2Fqd2nEM3abAWZZQRi7JFjoGOMM",
+    "text": "Dear network, we need your help!\n\nWe are currently working on a project with myBuddy. It is an NGO that aims to facilitate cultural exchange and integration in Germany. As a part of this, myBuddy offers an Advent Calendar with typical sweets from different countries around the world, while giving some information on the respective country. So, it is a good way to make the typical Advent Calendar more interesting!\n\nWe are currently looking for potential buyers (companies) in Germany. If you know anyone, or have a contact to a potentially interested company, please send us a message!\n\nWe appreciate your help!\n\nAlso, feel free to check out their website: https://lnkd.in/dZ5VVjaa",
+    "num_shares": 0,
+    "num_likes": 5,
+    "num_comments": 0,
+    "comments_count": 0,
+    "reactions_count": 5,
+    "posted_at": "2022-04-08T19:15:53.294Z",
+    "actor_name": "Lia Hofmann",
+    "actor_profile_url": "https://www.linkedin.com/in/lia-hofmann-2945a2229?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADk3xRAB69zRTh7jdt5UdA6JfWRk9a4nQGs",
+    "post_type": "text"
+  }
+]
+Twitter Posts: []
+
+Output ONLY this JSON:
+{
+  "section_id": "social_post_intelligence",
+  "section_name": "Social Media Post Intelligence",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "content_analysis": {
+      "top_topics": [],
+      "posting_pattern": "",
+      "content_style": "",
+      "engagement_insight": ""
+    },
+    "post_breakdown": [
+      {
+        "platform": "LinkedIn|X",
+        "type": "Post|Repost",
+        "brief_description": "",
+        "theme": "",
+        "engagement_style": ""
+      }
+    ],
+    "summaries": {
+      "posts": [],
+      "reposts": []
+    }
+  }
+}
+
+RULES:
+- content_analysis.top_topics: 3-5 high-level tags summarizing their content subject matter.
+- content_analysis.posting_pattern: Exactly 1 concise sentence about frequency or timing (e.g., "Active primarily on weekdays sharing industry news.")
+- content_analysis.content_style: Exactly 1 concise sentence about the tone (e.g., "Professional, analytical, uses data points.")
+- content_analysis.engagement_insight: Exactly 1 concise sentence about what drives the most likes/comments (e.g., "Highest engagement on personal stories or milestone announcements.")
+- post_breakdown: Include up to 10 of the most significant posts/reposts.
+- post_breakdown.brief_description: MUST BE EXTREMELY BRIEF (Max 10-15 words). Summarize the post's core message.
+- post_breakdown.type: Classify strictly as "Post" (original authored content) or "Repost" (reshared/retweeted content).
+- summaries.posts: 3-5 bullet points strings summarizing original posts (e.g., "Project Launch: Unveiled new cloud stack.").
+- summaries.reposts: 3-5 bullet points strings summarizing exactly what they reshare (e.g., "Customer Stories: Repeatedly reposts enterprise deployment successes.").
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

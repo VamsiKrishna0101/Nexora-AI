@@ -1,0 +1,199 @@
+SYSTEM: None
+
+USER: 
+You are a high-performance sales development and recruiting lead.
+Using the Behavioral Intelligence from Section 4, generate a specific outreach playbook.
+Focus on high-conversion scripts and tactical execution.
+
+INPUT DATA:
+Section 4 - Behavioral Intelligence Suite: {
+  "section_id": 4,
+  "section_name": "Behavioral Intelligence Suite",
+  "person_id": "Lia Hofmann",
+  "data": {
+    "behavioral_profile": {
+      "archetype": "The Builder",
+      "one_line_description": "Career-focused professional transitioning between fast-paced growth environments and academic advancement.",
+      "trait_tags": [
+        "Growth Oriented",
+        "Goal Driven",
+        "Team Collaborative"
+      ]
+    },
+    "trait_scores": {
+      "dominance": 65,
+      "expressiveness": 75,
+      "pace": 85,
+      "pragmatism": 70,
+      "risk_appetite": 75,
+      "social_energy": 70
+    },
+    "working_style": {
+      "decision_making": "Prefers environments with clear objectives and growth trajectories.",
+      "collaboration": "Active contributor within established team structures and commercial settings.",
+      "conflict_style": "Direct communication focused on shared team objectives and outputs.",
+      "pace": "Maintains high velocity by jumping between high-growth startups and academic programs."
+    },
+    "what_drives_them": {
+      "energizers": [
+        "Rapid professional growth",
+        "High-stakes startup environments",
+        "GTM strategy building",
+        "Networking within elite circles"
+      ],
+      "drainers": [
+        "Stagnant project scope",
+        "Limited upward mobility",
+        "Lack of clear team structure"
+      ]
+    },
+    "engagement_guide": {
+      "how_to_open": [
+        "Acknowledge recent career moves or growth milestones.",
+        "Reference specific GTM or AI-driven industry context.",
+        "Maintain a high-energy and professional tone."
+      ],
+      "how_to_run_meeting": [
+        "Focus on tangible outcomes and strategic GTM goals.",
+        "Allow space for collaborative input on sales strategies.",
+        "Keep the agenda fast-paced and results-oriented."
+      ],
+      "how_to_email": [
+        "Keep content concise and actionable.",
+        "Highlight the value proposition of the interaction.",
+        "Reference past institutional affiliations like BMW or a16z-backed firms."
+      ],
+      "how_to_follow_up": [
+        "Timing is key; respect transition phases between studies and work.",
+        "Connect follow-ups to ongoing professional learning opportunities.",
+        "Provide clear next steps to maintain momentum."
+      ],
+      "how_to_build_trust": [
+        "Demonstrate commitment to long-term commercial goals.",
+        "Show consistency in professional branding.",
+        "Align with innovative and high-growth organizational visions."
+      ]
+    },
+    "blind_spots": [
+      "Likely to favor high-profile environments over operational longevity.",
+      "Frequent transitions may impact long-term organizational knowledge retention.",
+      "Potential bias toward growth-stage volatility over stability."
+    ],
+    "dos_and_donts": {
+      "dos": [
+        "Highlight organizational growth trajectory.",
+        "Discuss innovation in sales and GTM strategy.",
+        "Emphasize the importance of team culture.",
+        "Leverage her background in economics."
+      ],
+      "donts": [
+        "Avoid slow, administrative bureaucratic processes.",
+        "Do not offer roles lacking clear commercial ownership.",
+        "Avoid vague or non-impactful project descriptions.",
+        "Do not ignore the academic component of her career timeline."
+      ]
+    },
+    "data_confidence": "high",
+    "data_confidence_rationale": "High confidence based on chronological career progression posts and consistent professional tone across multiple employment transitions."
+  }
+}
+LinkedIn Posts (last 10): [
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/lia-hofmann-2945a2229_lia-goes-lio-super-excited-to-share-that-activity-7445787895661027328-Hm53?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAE0CwxgB2Fqd2nEM3abAWZZQRi7JFjoGOMM",
+    "text": "Lia goes Lio \ud83d\ude80\n\nSuper excited to share that I\u2019ve joined Lio (formerly askLio)  as a Growth Associate in the GTM team!\n\nLio is building the first multi-agent AI system to autonomously run enterprise procurement end-to-end, and just raised a $30M Series A led by Andreessen Horowitz (a16z). \n\nLooking forward to building, learning, and helping bring this to market together with the team. LFG.",
+    "num_shares": 0,
+    "num_likes": 239,
+    "num_comments": 21,
+    "comments_count": 10,
+    "reactions_count": 10,
+    "posted_at": "2026-04-03T11:02:50.375Z",
+    "actor_name": "Lia Hofmann",
+    "actor_profile_url": "https://www.linkedin.com/in/lia-hofmann-2945a2229?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADk3xRAB69zRTh7jdt5UdA6JfWRk9a4nQGs",
+    "post_type": "image"
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/lia-hofmann-2945a2229_the-past-three-months-in-the-commercial-team-activity-7223622183070146560-zOG7?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAE0CwxgB2Fqd2nEM3abAWZZQRi7JFjoGOMM",
+    "text": "The past three months in the Commercial Team at Wemolo have been an interesting and valuable ride! \ud83c\udfa2\n\nTogether with my team I was able to actively develop innovative sales strategies, mainly focused on Austria and Switzerland, and to further support the company on extensive commercial topics.\u00a0\nWorking with such a skilled team and being part of the unique team culture has been both rewarding and fun. \n\nAs I\u2018ll proceed with my studies at Nova School of Business and Economics from September onwards, Vincent Buchholz\u00a0 and Tobias Lehner are looking for the next addition to the team, starting immediately! \ud83d\ude80",
+    "num_shares": 2,
+    "num_likes": 45,
+    "num_comments": 1,
+    "comments_count": 1,
+    "reactions_count": 10,
+    "posted_at": "2024-07-29T09:35:36.854Z",
+    "actor_name": "Lia Hofmann",
+    "actor_profile_url": "https://www.linkedin.com/in/lia-hofmann-2945a2229?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADk3xRAB69zRTh7jdt5UdA6JfWRk9a4nQGs",
+    "post_type": null
+  },
+  {
+    "type": "post",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/lia-hofmann-2945a2229_dear-network-i-am-happy-to-share-that-i-activity-7105589272866426880-Di1t?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAE0CwxgB2Fqd2nEM3abAWZZQRi7JFjoGOMM",
+    "text": "Dear Network,\n\nI am happy to share that I have joined the BMW Group as a Marketing Strategy Intern in Munich! \n\nAfter successfully obtaining my Bachelor of Science in Economics and Business Economics at Maastricht University School of Business and Economics with an exchange semester at National Taiwan University, I am eager to embark on this new opportunity.",
+    "num_shares": 0,
+    "num_likes": 130,
+    "num_comments": 10,
+    "comments_count": 10,
+    "reactions_count": 10,
+    "posted_at": "2023-09-07T16:34:58.116Z",
+    "actor_name": "Lia Hofmann",
+    "actor_profile_url": "https://www.linkedin.com/in/lia-hofmann-2945a2229?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADk3xRAB69zRTh7jdt5UdA6JfWRk9a4nQGs",
+    "post_type": null
+  },
+  {
+    "type": "repost",
+    "is_activity": false,
+    "url": "https://www.linkedin.com/posts/lia-hofmann-2945a2229_dear-network-we-need-your-help-we-are-activity-6918275243102863360-vol9?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAE0CwxgB2Fqd2nEM3abAWZZQRi7JFjoGOMM",
+    "text": "Dear network, we need your help!\n\nWe are currently working on a project with myBuddy. It is an NGO that aims to facilitate cultural exchange and integration in Germany. As a part of this, myBuddy offers an Advent Calendar with typical sweets from different countries around the world, while giving some information on the respective country. So, it is a good way to make the typical Advent Calendar more interesting!\n\nWe are currently looking for potential buyers (companies) in Germany. If you know anyone, or have a contact to a potentially interested company, please send us a message!\n\nWe appreciate your help!\n\nAlso, feel free to check out their website: https://lnkd.in/dZ5VVjaa",
+    "num_shares": 0,
+    "num_likes": 5,
+    "num_comments": 0,
+    "comments_count": 0,
+    "reactions_count": 5,
+    "posted_at": "2022-04-08T19:15:53.294Z",
+    "actor_name": "Lia Hofmann",
+    "actor_profile_url": "https://www.linkedin.com/in/lia-hofmann-2945a2229?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADk3xRAB69zRTh7jdt5UdA6JfWRk9a4nQGs",
+    "post_type": "text"
+  }
+]
+Twitter Posts (last 10): []
+
+Output ONLY this JSON:
+{
+  "section_id": 8,
+  "section_name": "Tactical Outreach Playbook",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "outreach_scripts": {
+      "email_draft": {
+        "subject": "",
+        "body": ""
+      },
+      "linkedin_inmail": {
+        "body": ""
+      }
+    },
+    "high_resonance_topics": [],
+    "topics_to_avoid": [],
+    "conversation_starters": [
+      {"opener": "", "context": ""}
+    ],
+    "optimization": {
+      "best_channel": "LinkedIn|Email|Twitter|Secretariat",
+      "best_days": [],
+      "suggested_time_of_day": ""
+    },
+    "data_confidence": "high|medium|low"
+  }
+}
+
+RULES:
+- email_draft: must follow the subject's communication style (e.g., numbered points, no fluff if they are an Analyst).
+- linkedin_inmail: max 300 characters. Highly personalized based on a recent post or achievement.
+- high_resonance_topics: 3-5 specific topics they will definitively respond to.
+- conversation_starters: 3 unique, data-backed lines to start a verbal or text conversation.
+- optimization: infer best_days and time from post timestamps. If no timestamps, use industry defaults for their role.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.

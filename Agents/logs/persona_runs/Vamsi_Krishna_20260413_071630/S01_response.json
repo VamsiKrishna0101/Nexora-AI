@@ -1,0 +1,28 @@
+{
+  "section_id": 1,
+  "section_name": "Identity Overview",
+  "person_id": "ACoAAD8unisBsIgHnZVFhsrjL-DTdoCwCeesXko",
+  "data": {
+    "full_name": "Vamsi Krishna",
+    "current_role": "Software Engineer",
+    "company": "RefractOne",
+    "location": "Hyderabad, Telangana, India",
+    "profile_photo_url": "https://media.licdn.com/dms/image/v2/D5603AQFtfIhUAWi92w/profile-displayphoto-crop_800_800/B56Z0y74_8GYAI-/0/1774676057326?e=1777507200&v=beta&t=CR2oym1JgzSsl8PQJtT5ORbGhFn55UN81kA8NwAeeag",
+    "linkedin_url": "https://www.linkedin.com/in/vamsi-krishna01",
+    "twitter_handle": null,
+    "linkedin_followers": 0,
+    "twitter_followers": 0,
+    "connections_count": 432,
+    "influence_score": 7,
+    "influence_score_breakdown": {
+      "linkedin_followers_points": 2,
+      "twitter_followers_points": 0,
+      "posting_activity_points": 0,
+      "career_seniority_points": 5,
+      "web_presence_points": 0
+    },
+    "influence_score_rationale": "Subject has <500 LinkedIn followers (+2) and holds a Senior IC/Engineer role (+5). Posting activity is not confirmed via external posts detected in input. Total score: 7.",
+    "data_confidence": "medium",
+    "data_confidence_rationale": "Data is sourced from a comprehensive LinkedIn profile, but Twitter data is unavailable."
+  }
+}

@@ -1,0 +1,474 @@
+SYSTEM: None
+
+USER: 
+You are a Career Intelligence Analyst at a Palantir-grade research firm.
+Synthesize a precise, evidence-based Professional Background for the subject.
+Every claim must be traceable to the input data.
+
+INPUT DATA:
+LinkedIn Profile: {
+  "url": "https://www.linkedin.com/in/vladimir-keil",
+  "username": "vladimir-keil",
+  "linkedin_id": "ACoAACSNaE8BokiH-nyGlzVeUVY-k3lqwpHizeg",
+  "first_name": "Vladimir",
+  "last_name": "Keil",
+  "full_name": "Vladimir Keil",
+  "headline": "CEO & Founder at Lio (YC S23) - we\u2019re hiring",
+  "is_influencer": false,
+  "is_premium": true,
+  "is_memorialized": false,
+  "location": "Munich, Bavaria, Germany",
+  "location_raw": "Munich, Bavaria, Germany",
+  "country_full": "Germany",
+  "state": "Bavaria",
+  "city": "Munich",
+  "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4D03AQErDEQtzt0D1Q/profile-displayphoto-crop_800_800/B4DZ0peJgnIoAI-/0/1774517264497?e=1777507200&v=beta&t=7p-1ecNRUBVhRdAmIqelUuj2BlT-DhuwraoH3R83IRc",
+  "top_skills": [],
+  "linkedin_followers": 7893,
+  "connections_count": 5252,
+  "about": "CEO @ Lio | We're building the Future of Procurement with our AI Agents",
+  "current_positions": [
+    {
+      "company_name": "Lio (prev. askLio)",
+      "company_linkedin_url": "https://www.linkedin.com/company/93327386/",
+      "date_range": {
+        "start": {
+          "month": 3,
+          "year": 2023,
+          "day": null
+        },
+        "end": null
+      }
+    }
+  ],
+  "experiences": [
+    {
+      "title": "Founder & CEO",
+      "company": "Lio (prev. askLio)",
+      "duration": "3 yrs 2 mos",
+      "description": "Building the world's first Multi-Agent System for procurement. Your AI workforce managing procurement end-to-end. \n\naskLio builds the world's first Al procurement workforce for enterprise companies worldwide. Every purchase request is managed by specialized agents working in parallel-researching vendors, negotiating terms, managing approvals, and tracking deliveries simultaneously. What once consumed your team's hours is now exectued by a coordinated network of Al Agents.\n\naskLio is backed by YCombinator and the best investors in the world. ",
+      "skills": [],
+      "start_date": {
+        "month": "Mar",
+        "year": 2023,
+        "text": "Mar 2023"
+      },
+      "end_date": {
+        "text": "Present"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQHcwtXXLPDPFw/company-logo_400_400/B4DZy516IgIgAY-/0/1772644443012/lio_ai_logo?e=1777507200&v=beta&t=mvyaljYPUJyIXuMEYnvKwmc44x0LGToFJbyC8o6SHoc"
+    },
+    {
+      "title": "Technical Co-Founder",
+      "company": "ProGlove Masterclass",
+      "duration": "11 mos",
+      "description": "Empowered everyone to build their own Tech Startup by providing practical & cinematic lessons from experienced founders. Owned Product and Technology.",
+      "skills": [],
+      "start_date": {
+        "month": "May",
+        "year": 2022,
+        "text": "May 2022"
+      },
+      "end_date": {
+        "month": "Mar",
+        "year": 2023,
+        "text": "Mar 2023"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQF5FGepFah1Pg/company-logo_400_400/company-logo_400_400/0/1652175231530?e=1777507200&v=beta&t=qZr08akh-tz5ByQwY4CitBCrWO6WlhaYulqr4LLmls0"
+    },
+    {
+      "title": "Co-Founder",
+      "company": "Gabriel AI",
+      "duration": "11 mos",
+      "description": "With Gabriel we protected society from social engineering attacks using NLP technologies and Machine Learning.",
+      "skills": [],
+      "start_date": {
+        "month": "Jul",
+        "year": 2021,
+        "text": "Jul 2021"
+      },
+      "end_date": {
+        "month": "May",
+        "year": 2022,
+        "text": "May 2022"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQGTzLhPoYChaA/company-logo_400_400/company-logo_400_400/0/1689986827277/gabriel_ai_logo?e=1777507200&v=beta&t=r1BgTNXC18i2I2TQZI8P0cHVLt_WzNZo6TN5bv_RPvk"
+    },
+    {
+      "title": "Innovation Consultant",
+      "company": "Fraunhofer Venture",
+      "duration": "5 mos",
+      "description": null,
+      "skills": [],
+      "start_date": {
+        "month": "May",
+        "year": 2021,
+        "text": "May 2021"
+      },
+      "end_date": {
+        "month": "Sep",
+        "year": 2021,
+        "text": "Sep 2021"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQHLgYhWJSMNSA/company-logo_400_400/company-logo_400_400/0/1721980665330/fraunhoferventure_logo?e=1777507200&v=beta&t=Aa358N3X1DUFnFExAeMY9-fyPMeDlRfX0HQHf_NIhtw"
+    },
+    {
+      "title": "Technology Consultant",
+      "company": "GEMA",
+      "duration": "6 mos",
+      "description": "Developed a OCR application to make life of musicians easier (frontend, back-end, 3rd party integrations)",
+      "skills": [],
+      "start_date": {
+        "month": "Apr",
+        "year": 2021,
+        "text": "Apr 2021"
+      },
+      "end_date": {
+        "month": "Sep",
+        "year": 2021,
+        "text": "Sep 2021"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQHZZgDLdqmG-w/company-logo_400_400/company-logo_400_400/0/1630614041115/gema_logo?e=1777507200&v=beta&t=nnOaA7VYQAyQ859sNXoncarC_gq7m1hShVQjarawrnE"
+    },
+    {
+      "title": "Business Design Coach",
+      "company": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+      "duration": "3 mos",
+      "description": "Coached consultants and supported tech startups in the topic of business design.",
+      "skills": [],
+      "start_date": {
+        "month": "Apr",
+        "year": 2021,
+        "text": "Apr 2021"
+      },
+      "end_date": {
+        "month": "Jun",
+        "year": 2021,
+        "text": "Jun 2021"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQH_R0ADkfGotA/company-logo_400_400/company-logo_400_400/0/1630573546772/lmumuenchen_logo?e=1777507200&v=beta&t=z6IrmjD54oWmQ3eTQHNtHTNPXO1exNGE3SS3LgVW4aA"
+    },
+    {
+      "title": "Product Manager",
+      "company": "CHECK24 Vergleichsportal GmbH",
+      "duration": "6 mos",
+      "description": "#1 eCommerce comparison platform in Germany.",
+      "skills": [],
+      "start_date": {
+        "month": "Oct",
+        "year": 2020,
+        "text": "Oct 2020"
+      },
+      "end_date": {
+        "month": "Mar",
+        "year": 2021,
+        "text": "Mar 2021"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQGDPMqW8IYqfw/company-logo_400_400/B4DZZnMxdWGwAg-/0/1745488124080/check24_vergleichsportal_gmbh_logo?e=1777507200&v=beta&t=DGMy2JkcsdDU0XA-W4ML07rRbYVztvA5IzNJtl9M2j8"
+    },
+    {
+      "title": "Venture Architect",
+      "company": "Mercedes-Benz AG",
+      "duration": "4 mos",
+      "description": null,
+      "skills": [],
+      "start_date": {
+        "month": "May",
+        "year": 2019,
+        "text": "May 2019"
+      },
+      "end_date": {
+        "month": "Aug",
+        "year": 2019,
+        "text": "Aug 2019"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQHl_9JezRZLIQ/company-logo_400_400/B4EZidBMwAGUAY-/0/1754980994787/mercedes_benz_ag_logo?e=1777507200&v=beta&t=9PNPF1EDux4F75y_Ju0Egh79FDSVpOESTK4A9XQuBhU"
+    },
+    {
+      "title": "Product Manager",
+      "company": "Lab1886",
+      "duration": "6 mos",
+      "description": null,
+      "skills": [],
+      "start_date": {
+        "month": "Mar",
+        "year": 2019,
+        "text": "Mar 2019"
+      },
+      "end_date": {
+        "month": "Aug",
+        "year": 2019,
+        "text": "Aug 2019"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQF1QaUgJUn9Pg/company-logo_400_400/company-logo_400_400/0/1630554860090/1886ventures_logo?e=1777507200&v=beta&t=EEmhKVflvUjr6hQNgaBQtmGKbHE6G1RibWmZ8RZnoSI"
+    },
+    {
+      "title": "Project Manager",
+      "company": "Siemens",
+      "duration": "1 yr 4 mos",
+      "description": null,
+      "skills": [],
+      "start_date": {
+        "month": "May",
+        "year": 2017,
+        "text": "May 2017"
+      },
+      "end_date": {
+        "month": "Aug",
+        "year": 2018,
+        "text": "Aug 2018"
+      },
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQFK_4wGnzwPTQ/company-logo_400_400/company-logo_400_400/0/1719931174735/siemens_logo?e=1777507200&v=beta&t=73BpGcWsMKbBCuxUUO1MlDT51kSbLviPQC3NlufeJQk"
+    }
+  ],
+  "educations": [
+    {
+      "institution": "Y Combinator",
+      "school_linkedin_url": "https://www.linkedin.com/company/167872/",
+      "degree": null,
+      "field_of_study": null,
+      "skills": [],
+      "start_date": null,
+      "end_date": {
+        "month": "Jun",
+        "year": 2023,
+        "text": "Jun 2023"
+      },
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1777507200&v=beta&t=0OsTY6AQ8N7VjMHFONTjgKVhVd4NpwQnhCGsPgw0_rs"
+    },
+    {
+      "institution": "TUM Entrepreneurship Research Institute",
+      "school_linkedin_url": "https://www.linkedin.com/company/13998339/",
+      "degree": "Venture Creation Track",
+      "field_of_study": null,
+      "skills": [],
+      "start_date": null,
+      "end_date": {
+        "text": ""
+      },
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQFvX4hdYRR2QQ/company-logo_400_400/B4DZo0vv0XJEAY-/0/1761821523607/tum_entrepreneurship_research_institute_logo?e=1777507200&v=beta&t=ikNshq70b0siZTHmIRkn6mpRdQEBc2Xmkb5i33w3ddI"
+    },
+    {
+      "institution": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+      "school_linkedin_url": "https://www.linkedin.com/company/596185/",
+      "degree": "Master of Science - MS",
+      "field_of_study": "Management and Digital Technologies",
+      "skills": [],
+      "start_date": null,
+      "end_date": {
+        "text": ""
+      },
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQH_R0ADkfGotA/company-logo_400_400/company-logo_400_400/0/1630573546772/lmumuenchen_logo?e=1777507200&v=beta&t=z6IrmjD54oWmQ3eTQHNtHTNPXO1exNGE3SS3LgVW4aA"
+    },
+    {
+      "institution": "Manage and More by UnternehmerTUM",
+      "school_linkedin_url": "https://www.linkedin.com/company/22291036/",
+      "degree": "Manage and More by UnternehmerTUM",
+      "field_of_study": null,
+      "skills": [],
+      "start_date": null,
+      "end_date": {
+        "text": ""
+      },
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQFvdiB0Zs8Yww/company-logo_400_400/company-logo_400_400/0/1688987933232/managemore_by_unternehmertum_logo?e=1777507200&v=beta&t=3czwoFS2Ye5t280F7RTVnTtEAWRTeiPdam0_ayKkR4g"
+    },
+    {
+      "institution": "National University of Malaysia (UKM)",
+      "school_linkedin_url": "https://www.linkedin.com/company/13323274/",
+      "degree": "Bachelor of Science - BS",
+      "field_of_study": "Industrial Engineering",
+      "skills": [],
+      "start_date": null,
+      "end_date": {
+        "text": ""
+      },
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQEudB7VQTcQKg/company-logo_400_400/company-logo_400_400/0/1631311683419?e=1777507200&v=beta&t=rELkKQ1sqwCKk7YfqTunlD1YgoOZY9twlCG7i0MOl_o"
+    },
+    {
+      "institution": "University of Duisburg-Essen",
+      "school_linkedin_url": "https://www.linkedin.com/company/22277/",
+      "degree": "Bachelor of Science - BS",
+      "field_of_study": "Wirtschaftsingenieurwesen",
+      "skills": [],
+      "start_date": null,
+      "end_date": {
+        "text": ""
+      },
+      "school_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQEKIKeZWQU06w/company-logo_400_400/company-logo_400_400/0/1630487817436/university_of_duisburg_essen_logo?e=1777507200&v=beta&t=2QnhCOtOTLHY2n-ds1uZLL-CyBiBvfScYNJyMFgvMQ0"
+    }
+  ],
+  "skills": [
+    "Russisch",
+    "Englisch",
+    "Deutsch",
+    "MS Office",
+    "Produktmanagement",
+    "Projektmanagement",
+    "Anforderungsmanagement",
+    "Digital Marketing and business modells",
+    "Digital Marketing",
+    "Business Development",
+    "Web Development",
+    "Product Design"
+  ],
+  "languages": [],
+  "certifications": [
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    },
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    },
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    },
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    },
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    },
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    },
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    },
+    {
+      "name": null,
+      "issuing_org": null,
+      "issued_date": null,
+      "credential_url": null
+    }
+  ],
+  "projects": [],
+  "volunteering": [
+    {
+      "role": "Scholarship Holder",
+      "organization": null,
+      "cause": null,
+      "description": null,
+      "start_date": {
+        "month": "Sep",
+        "year": 2018,
+        "text": "Sep 2018"
+      },
+      "end_date": {
+        "month": "Apr",
+        "year": 2019,
+        "text": "Apr 2019 \u00b7 8 mos"
+      }
+    },
+    {
+      "role": "Member",
+      "organization": null,
+      "cause": null,
+      "description": "START Munich is a student initiative of the Technical University of Munich, which has been networking the biggest prospective start-up talents from Munich since 2003. START networks a new generation of entrepreneurs and offers active access to the start-up world. Since its foundation in 2003, over 250 members have been active in the association and have founded successful start-ups such as Freeletics, Bits & Pretzels, Unu, or Lio ;)",
+      "start_date": {
+        "month": "Dec",
+        "year": 2020,
+        "text": "Dec 2020"
+      },
+      "end_date": {
+        "text": "Present \u00b7 5 yrs 5 mos"
+      }
+    }
+  ],
+  "recommendations": [
+    {
+      "recommender_name": null,
+      "text": "I have worked with Vladimir during his internship at Lab 1886 in Daimler. Vladimir supported in various topics like product management, strategy development, market research and others. I was particularly impressed by his readiness and motivation to assume responsibility even for some very challenging tasks.  And I was always sure that the results he delivered would be of the highest standard. Vladimir did not only bring several great ideas to the team but also good spirit and lots of laughs. Vladimir is a motivated young professional with a lot of passion for digitalization and innovation. He will definitely be an asset to any team. I wish him all the best in his future career."
+    }
+  ],
+  "publications": [],
+  "courses": [],
+  "patents": [],
+  "honors_awards": [],
+  "causes": [],
+  "featured": {
+    "images": [
+      "https://media.licdn.com/dms/image/v2/D4D05AQH2SLqZIZ1c0A/videocover-high/B4DZy9QOVgKYBc-/0/1772701679093?e=1776438000&v=beta&t=4KRzEkXSMhmNWoR83VaNG-c8soGrwyXs46_iUW2qcig"
+    ],
+    "link": "https://www.linkedin.com/feed/update/urn:li:activity:7435309493321777152?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7435309493321777152%29",
+    "slides": [
+      {
+        "title": null,
+        "subtitle": null,
+        "description": null,
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7435309493321777152?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7435309493321777152%29",
+        "image": {
+          "url": "https://media.licdn.com/dms/image/v2/D4D05AQH2SLqZIZ1c0A/videocover-high/B4DZy9QOVgKYBc-/0/1772701679093?e=1776438000&v=beta&t=4KRzEkXSMhmNWoR83VaNG-c8soGrwyXs46_iUW2qcig"
+        }
+      }
+    ]
+  }
+}
+
+Output ONLY this JSON:
+{
+  "section_id": 2,
+  "section_name": "Professional Background",
+  "person_id": "UNKNOWN_ID",
+  "data": {
+    "current_role_summary": "",
+    "role_summary_bullets": [
+      "Core Identity & Mission: ...",
+      "Domain Mastery: ...",
+      "Quantifiable Impact: ...",
+      "Strategic Scope: ...",
+      "Leadership Philosophy: ...",
+      "Current Momentum: ..."
+    ],
+    "career_timeline": [
+      {
+        "company": "",
+        "title": "",
+        "start_date": "",
+        "end_date": "",
+        "duration_months": 0,
+        "one_line_impact": ""
+      }
+    ],
+    "education_history": [
+      {
+        "institution": "",
+        "degree": "",
+        "field_of_study": "",
+        "graduation_year": ""
+      }
+    ],
+    "total_years_experience": 0,
+    "industry_expertise_areas": [],
+    "data_confidence": "high|medium|low",
+    "data_confidence_rationale": ""
+  }
+}
+
+RULES:
+- role_summary_bullets: exactly 6 items. Each covers a distinct dimension — do not repeat themes.
+- career_timeline: ordered newest-first. duration_months must be calculated, not estimated.
+- total_years_experience: calculate from earliest start_date to today, accounting for overlapping roles.
+- one_line_impact: extract a specific, measurable outcome from the role description. If none available, write a factual scope statement — never fabricate metrics.
+- industry_expertise_areas: max 6 items. Only include industries explicitly evidenced in the data.
+- Output ONLY the JSON object. No markdown. No explanation. No preamble.
